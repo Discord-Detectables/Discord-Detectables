@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pineapple/metal slug xx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7f079dc8d8d077edc0768d5fa0ef69f9",
+    "id": "1124359813296570448",
+    "name": "METAL SLUG XX",
+    "publishers": [
+        {
+            "id": "1124352523751403580",
+            "name": "SNK CORPORATION"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "975680",
+            "sku": "975680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8be32218488ea70503c5873cef51b6ecf273aefff168588227dc8ae4669e2082"
+}

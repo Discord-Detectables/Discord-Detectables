@@ -1,0 +1,72 @@
+{
+    "aliases": [
+        "Total War: SHOGUN 2",
+        "Total War: Shogun 2"
+    ],
+    "description": "Total War: Shogun 2 is the sequel to Shogun: Total War, the first game in the Total War series.\nShogun 2 is an epic strategy game, combining real-time 3D battles with turn based city and economic management.",
+    "developers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "total war shogun 2/modmanager.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "redist/vcredist_x86-sp1.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "shogun2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "benchmarks/benchmark_output.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "371433594f97fb3885861bf0d1c3cc21",
+    "id": "425749196403114024",
+    "name": "Total War: SHOGUN 2",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        },
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        },
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        },
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        },
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "34330",
+            "sku": "34330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e5e2418ef4edaf330c72d66bc9048eaef5024abf3f7fbdd550ee2493be211355"
+}

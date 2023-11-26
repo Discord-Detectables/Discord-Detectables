@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "The Guild II: Renaissance"
+    ],
+    "description": "The Guild 2 is a strategy game that takes places at the start of the Renaissance.",
+    "developers": [
+        {
+            "id": "521816804323098635",
+            "name": "4HEAD Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "guildii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "07cf737ee7b19cac33b4176287028e97",
+    "id": "425470196439056391",
+    "name": "The Guild 2 Renaissance",
+    "publishers": [
+        {
+            "id": "521816751621668885",
+            "name": "DreamCatcher Interactive Inc."
+        }
+    ],
+    "splash": "aec02435a8b03e65dc5618ee623e2cd4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "39680",
+            "sku": "39680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "44213e128df8aa9350db367eb9c12e3500c47168b9612590f95ef385b51b58ca"
+}

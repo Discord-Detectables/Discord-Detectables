@@ -1,0 +1,31 @@
+{
+    "description": "An online multiplayer artillery game that pits players against each other in team or free-for-all matches with a huge variety of weapons.",
+    "developers": [
+        {
+            "id": "521816702753701900",
+            "name": "kChamp Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shellshocklive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dba76e615a24e2ac9c4309efda06be95",
+    "id": "359508342571401216",
+    "name": "ShellShock Live",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "326460",
+            "sku": "326460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7c76be13595be0cb7afdcddf1e7f6aa69625888db79acde9946606cdf6641cc"
+}

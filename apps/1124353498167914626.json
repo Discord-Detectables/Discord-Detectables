@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grid (2019)/grid_dx12.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "efd4ad1904b81a24d98892f78bebc2ae",
+    "id": "1124353498167914626",
+    "name": "GRID (2019)",
+    "publishers": [
+        {
+            "id": "521816499464306688",
+            "name": "Codemasters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "703860",
+            "sku": "703860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2b35fbf32acde6af3ab49f9abc60b39e035b2f14a24cfab43507e8c9e250a8ff"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fallout tactics/bos_hr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "68e941bf7da4293cd42a10d39505a33b",
+    "id": "1124359712884928613",
+    "name": "Fallout Tactics",
+    "publishers": [
+        {
+            "id": "524351548051161091",
+            "name": "14° East"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "38420",
+            "sku": "38420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9d22d3c691f8661c975a635dcdf1787138a5be773b8a03a58b20bc77e3d52b35"
+}

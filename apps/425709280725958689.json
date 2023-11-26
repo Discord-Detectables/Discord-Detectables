@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "TrackMania United"
+    ],
+    "description": "TrackMania United compiles much of the content and concepts found in the previous TrackMania games while maintaining the same crazy driving and huge online feel.",
+    "developers": [
+        {
+            "id": "521816570029146113",
+            "name": "Nadeo"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tmforever.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7591ce414a82e3453cc189137082a90a",
+    "id": "425709280725958689",
+    "name": "Trackmania United Forever",
+    "publishers": [
+        {
+            "id": "521816537192202247",
+            "name": "Focus Home Interactive"
+        }
+    ],
+    "splash": "e2e22fa881737d575fdf65aef2d9f560",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "7200",
+            "sku": "7200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4aac12888ae46f51c2fef9ba5af62e5cd18f040c96d87039ce22c5100a0de41e"
+}

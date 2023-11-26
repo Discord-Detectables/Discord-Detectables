@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mysterium/mysterium.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "76ae36040365689108d41009c8bd6fd8",
+    "id": "1124353453494386718",
+    "name": "Mysterium",
+    "publishers": [
+        {
+            "id": "521816794068025358",
+            "name": "Asmodee Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "556180",
+            "sku": "556180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "349920248b5e1d337f26024c7f66c71d98ca6c1ad72666bd20f5d97d1d174b48"
+}

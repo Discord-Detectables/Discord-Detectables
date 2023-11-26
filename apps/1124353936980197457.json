@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "surgeon simulator 2/surgeon simulator 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "33c8cec0c671e3756a8d3fcf6d7f291c",
+    "id": "1124353936980197457",
+    "name": "Surgeon Simulator 2",
+    "publishers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "774791",
+            "sku": "774791"
+        }
+    ],
+    "type": 1,
+    "verify_key": "58dfd506364131383e164f75c3aaa498347c1eba67efe3defcc197f2172e8baf"
+}

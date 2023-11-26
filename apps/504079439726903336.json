@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Thomas was Alone"
+    ],
+    "description": "An indie minimalist puzzle platformer.",
+    "developers": [
+        {
+            "id": "521816692079329283",
+            "name": "Curve Digital"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thomaswasalone.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df7aced4f9afa2239148e6ed2de095f7",
+    "id": "504079439726903336",
+    "name": "Thomas Was Alone",
+    "publishers": [
+        {
+            "id": "521816692079329283",
+            "name": "Curve Digital"
+        }
+    ],
+    "splash": "a2c59608c351f70446ff0d438733f205",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "220780",
+            "sku": "220780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0ce9194d51c21cf6451d48d88cbd4e958d725f33dbce997409896d7b40fd8403"
+}

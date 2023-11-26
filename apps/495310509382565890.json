@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "20XX"
+    ],
+    "cover_image": "21459c465c69ea00f47c9510c684126e",
+    "description": "If you like roguelikes or Mega Man, 20XX is for you!\n",
+    "developers": [
+        {
+            "id": "521816712778350617",
+            "name": "Batterystaple Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "20xx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "200409490800115712",
+    "hook": true,
+    "icon": "22a9e0b7c5c84a1cc04adb400979a7bd",
+    "id": "495310509382565890",
+    "name": "20XX",
+    "primary_sku_id": "496732534898425866",
+    "publishers": [
+        {
+            "id": "521816712778350615",
+            "name": "Fire Hose Games"
+        }
+    ],
+    "slug": "20xx",
+    "splash": "68f9ee115731446b31062f98f9ad760b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "322110",
+            "sku": "322110"
+        },
+        {
+            "distributor": "discord",
+            "id": "496732534898425866",
+            "sku": "496732534898425866"
+        }
+    ],
+    "type": 1,
+    "verify_key": "128aec1ed52b8f8b869cfd8518740fb9a19cd8d6be24e83e9e43a98cd6082cc6"
+}

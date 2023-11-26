@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "just a humble swordsmith/just a humble swordsmith.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "515da16378b68124982e0a498d376492",
+    "id": "1124357083534475294",
+    "name": "Just A Humble Swordsmith",
+    "publishers": [
+        {
+            "id": "1124357084054564894",
+            "name": "Just Some Humble Game Smiths"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1997080",
+            "sku": "1997080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b11c7992dee58bfa8587b3d9a0f280cc34cb8cffc1d693f637243d783d0f5b9d"
+}

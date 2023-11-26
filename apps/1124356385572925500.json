@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "simulacra pipe dreams/pipedreams.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3d496d55dad51272ccaa84d03b9063f3",
+    "id": "1124356385572925500",
+    "name": "SIMULACRA: Pipe Dreams",
+    "publishers": [
+        {
+            "id": "1124353814569431181",
+            "name": "Kaigan Games OÜ"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "878320",
+            "sku": "878320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1356ddcc95dec1bd39d8460758770f565b7f94304434d30550973e3017f44a33"
+}

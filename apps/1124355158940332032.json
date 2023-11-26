@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hyperfight/hyperfight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c5d6ade51979a04dd28d0ad76ac408b",
+    "id": "1124355158940332032",
+    "name": "HYPERFIGHT",
+    "publishers": [
+        {
+            "id": "1124355159389130762",
+            "name": "studio joh"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1005870",
+            "sku": "1005870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b1c4ef861ffcf4ab34d426ed581ea3994a482d6be769cdaee4e612f1764e2d84"
+}

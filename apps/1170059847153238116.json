@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/jectedrivals-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b48047cf64dc771f68e7f96e6edfea69",
+    "id": "1170059847153238116",
+    "name": "Jected - Rivals",
+    "publishers": [
+        {
+            "id": "674442633602400265",
+            "name": "Pow Wow Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1366850",
+            "sku": "1366850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3eb740ba9cc075ae7e5326e568f9184ed6d04663eccdbddcd0519831eae1510c"
+}

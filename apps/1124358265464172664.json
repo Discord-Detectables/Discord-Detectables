@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tangle tower/tangle tower.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa17cce9fbcdaa2445a3efab0202b2db",
+    "id": "1124358265464172664",
+    "name": "Tangle Tower",
+    "publishers": [
+        {
+            "id": "524352186071777284",
+            "name": "SFB Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "359510",
+            "sku": "359510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "75cfee7119860e43f4d2edc36248edbf9e3bc42de50a5254ae69edc30837a038"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Just Dance 2017 is to be available for all modern major consoles as well as a few legacy platforms.",
+    "developers": [
+        {
+            "id": "521816562068488195",
+            "name": "Ubisoft Paris Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jd2017.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d666c1b1e5b9b31b883e8539f9399a12",
+    "id": "425438596883939328",
+    "name": "Just Dance 2017",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "c98e26d47727e01e9218a5193cbc6b2d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "446560",
+            "sku": "446560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8aff0b78f1ba4e6dc0589a01f3c79e77351d6ad028ca2b3cfab0871d2ddaf18"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rpg maker vx ace lite/rpgvxacelite.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5547ed58861a4f7322d7c8e0a615ff9",
+    "id": "1124355118532411403",
+    "name": "RPG Maker VX Ace Lite",
+    "publishers": [
+        {
+            "id": "1124355118985392278",
+            "name": "KADOKAWA"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224280",
+            "sku": "224280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5395c460160f066d84fd1f95721a1fa4ec5ea614f9abc55600000b212d731b6f"
+}

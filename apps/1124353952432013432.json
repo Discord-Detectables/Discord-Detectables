@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/iwtb-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd7c7ee2c5312d444eae98e7ffa704d6",
+    "id": "1124353952432013432",
+    "name": "Phantom Doctrine",
+    "publishers": [
+        {
+            "id": "521816530866929706",
+            "name": "CreativeForge Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "559100",
+            "sku": "559100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2b4ee38c15f936c0efb7cc9a111f4c4dd49aa0545907fec02dc788a716373a9"
+}

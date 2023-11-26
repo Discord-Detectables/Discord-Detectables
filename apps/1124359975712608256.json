@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the house in fata morgana/fata.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e67cf4e479eb1e0a2953af98c27caff9",
+    "id": "1124359975712608256",
+    "name": "The House in Fata Morgana",
+    "publishers": [
+        {
+            "id": "524352667812888609",
+            "name": "Novectacle"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "303310",
+            "sku": "303310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ba2e72c8aea42508ca97f69899340f2a1309302f4b06733e880aa691d90d8733"
+}

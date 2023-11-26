@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "c3/c3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "89877833ee515f69f98aabb526c6709e",
+    "id": "1124360613716570132",
+    "name": "Caesar 3",
+    "publishers": [
+        {
+            "id": "524351494976176128",
+            "name": "Impressions Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "517790",
+            "sku": "517790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a0512f6564e79bd3d153d7d62602e91420ec027a0d07efcfd0220541347cdb04"
+}

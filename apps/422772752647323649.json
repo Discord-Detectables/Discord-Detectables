@@ -1,0 +1,58 @@
+{
+    "aliases": [
+        "Warframe Launcher"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "6b0e4d8c05e14f630548eccc956324d9",
+    "description": "Rich Presence for Warframe",
+    "developers": [
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warframe.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "warframe.x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "552966801558863896",
+    "hook": true,
+    "icon": "0d194a16e1a146c8034bf3b7e91ba625",
+    "id": "422772752647323649",
+    "name": "Warframe",
+    "overlay": true,
+    "primary_sku_id": "494959992483348480",
+    "publishers": [
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        }
+    ],
+    "slug": "warframe",
+    "splash": "e5185fe1f9ac1bd77cfdf3b2a5b97448",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "494959992483348480",
+            "sku": "494959992483348480"
+        },
+        {
+            "distributor": "steam",
+            "id": "230410",
+            "sku": "230410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1faf7ecefe6f6ff9b2deb95d13cb65546169d1a91df3e1145229aa80721e5884"
+}

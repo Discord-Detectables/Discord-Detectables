@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spiritfarer demo/spiritfarer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4e4e575511351e75f00f36988f0c659a",
+    "id": "1124353752455987331",
+    "name": "Spiritfarer Demo",
+    "publishers": [
+        {
+            "id": "1124353752976076892",
+            "name": "Thunder Lotus Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1202910",
+            "sku": "1202910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3aeaf9addbdfdb7472b55d05b52a7bf42c1f34d314c2466da5da6f28c1b275f6"
+}

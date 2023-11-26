@@ -1,0 +1,38 @@
+{
+    "description": "World War 2 Online: Battleground Europe is a Massively Multiplayer Online Game (MMOG) that features first person perspective for all units.  Weapons behave realistically and are based on their real life capabilities.   Battles take place on land, in the air and on the sea.",
+    "developers": [
+        {
+            "id": "521816756440924161",
+            "name": "Cornered Rat Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wwiionline/ww2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2e0e32655a450ed85afb9d492decc210",
+    "id": "363431447119527956",
+    "name": "World War II Online",
+    "publishers": [
+        {
+            "id": "521816756440924160",
+            "name": "Matrix Games"
+        }
+    ],
+    "splash": "bc428e6ac2efaab4c05f25f2be523973",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "251950",
+            "sku": "251950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "08e5a6d735939f6055dd8e65fa37ef7f21b13db00d583120dd353db5d1ca9fcd"
+}

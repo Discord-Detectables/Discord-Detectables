@@ -1,0 +1,59 @@
+{
+    "aliases": [
+        "Battlefield: Bad Company™ 2"
+    ],
+    "description": "Battlefield: Bad Company 2 is the second installment in this spin-off Battlefield series. It has a more serious campaign and a vastly expanded multiplayer system.",
+    "developers": [
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "punkbuster/pbsvc_bc2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bfbc2game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c36db6848b23f2ab5077cd58a6a842c8",
+    "id": "451541573742755850",
+    "name": "Battlefield: Bad Company 2",
+    "publishers": [
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        },
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        }
+    ],
+    "splash": "8d0de52e1dfeeb1128715ad9845d12ee",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24960",
+            "sku": "24960"
+        },
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "2ff26b42c8c6b214aebc41c4a15dcfa037f90f7bab6d96c9ac2c86c7d8931e40"
+}

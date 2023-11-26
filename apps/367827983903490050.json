@@ -1,0 +1,41 @@
+{
+    "cover_image": "b76db81b683527961ee1432c24a02774",
+    "description": "click the circles! to the beat!",
+    "developers": [
+        {
+            "id": "521816554212687883",
+            "name": "Dean Herbert"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "osu!.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "osu!.app",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "188630481301012481",
+    "hook": true,
+    "icon": "ea86f6c52576847a7cb81f1c1faa18a3",
+    "id": "367827983903490050",
+    "name": "osu!",
+    "overlay": true,
+    "primary_sku_id": "367827983903490050",
+    "publishers": [
+        {
+            "id": "521816554212687882",
+            "name": "ppy Pty Ltd"
+        }
+    ],
+    "slug": "osu",
+    "splash": "8029278a3fab0e30108bd335f26ab8a0",
+    "summary": "",
+    "type": 1,
+    "verify_key": "abc0dcbf6dbb4d449ad89da9bdec270a12b8a427099ef2609be2d3fdae150b29"
+}

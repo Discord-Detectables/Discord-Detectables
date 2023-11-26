@@ -1,0 +1,30 @@
+{
+    "description": "A different take on the original Bejeweled where you can only play each round for 60 seconds and has a social element by including Facebook integration.",
+    "developers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bejblitz.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5a38f4d3b46e567685ee4afe9b8aed2",
+    "id": "496537107708248064",
+    "name": "Bejeweled Blitz",
+    "publishers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "4122838dede3c845fee27cc618b83247fa5998283f07062c2d354d04fed3f7eb"
+}

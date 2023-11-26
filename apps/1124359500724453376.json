@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "black book prologue/black book.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db0d7ce88ca1e5e2eb83195baeb617ba",
+    "id": "1124359500724453376",
+    "name": "Black Book: Prologue",
+    "publishers": [
+        {
+            "id": "1124359501177434192",
+            "name": "Morteshka"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1284240",
+            "sku": "1284240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "621e71d4b7d6684fce2009bd32ee6bc77ef11e25dea21cb2fc702b63554d718d"
+}

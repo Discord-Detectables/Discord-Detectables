@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "executable/riskysrevenge.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "170dd6c1f7ee702ac6c1492bd682e868",
+    "id": "1124358293586980894",
+    "name": "Shantae: Risky's Revenge - Director's Cut",
+    "publishers": [
+        {
+            "id": "521816607408914448",
+            "name": "WayForward"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "277890",
+            "sku": "277890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ef860a1e36352b496eff893dfe43938698d2da4b3b07e9899099c613b42eb5ef"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentaiminesweeper/hentai minesweeper.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b51b5128a43715a525688d22b41000eb",
+    "id": "1124358311232426086",
+    "name": "Hentai MineSweeper",
+    "publishers": [
+        {
+            "id": "1124358311727349820",
+            "name": "LeonWaan Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "948630",
+            "sku": "948630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "de094b41d2e177b3a2ad0bba881484f4364fe6ab973dff3cb612e506a76f6c4a"
+}

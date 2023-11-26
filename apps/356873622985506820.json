@@ -1,0 +1,57 @@
+{
+    "aliases": [
+        "PUBG"
+    ],
+    "description": "Led by the modder behind the Battle Royale mods for the ArmA series, PlayerUnknown's Battlegrounds is a shooter that pits 100 players in a large empty location where they must scavenge for weapons and fight to the death.",
+    "developers": [
+        {
+            "id": "521816684407947267",
+            "name": "Bluehole Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tslgame.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tslgame_be.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "207018395139309569",
+    "hook": true,
+    "icon": "d8cd6c5b1fe5b64ad2e0f660238eb43e",
+    "id": "356873622985506820",
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816684407947265",
+            "name": "Bluehole, Inc."
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        },
+        {
+            "id": "521816684407947267",
+            "name": "Bluehole Studio"
+        }
+    ],
+    "splash": "75621361e5ffb56d789b973b5e575b22",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "578080",
+            "sku": "578080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8c42503ece8b4b528c7efdb1c340eff7df60973cf18f68692c3550dd569c1f57"
+}

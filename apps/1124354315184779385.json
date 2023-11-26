@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/vectromirror_zero-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e2ce3a596868955735e5f3a729785bf2",
+    "id": "1124354315184779385",
+    "name": "Vectromirror 0",
+    "publishers": [
+        {
+            "id": "1124354315679715418",
+            "name": "The Vectromirror Initiative"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1296560",
+            "sku": "1296560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "713558907fc9e8d3a4de3fb88c9bee5998bd4ce522965aefe6067cec256cc691"
+}

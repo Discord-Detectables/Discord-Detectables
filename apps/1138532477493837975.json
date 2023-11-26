@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sab/super auto battlemon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd6475ced9c4fecfbffc508c20c18519",
+    "id": "1138532477493837975",
+    "name": "Super Auto Battlemon Demo",
+    "publishers": [
+        {
+            "id": "1138532482669625364",
+            "name": "Dino Rocket"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2285300",
+            "sku": "2285300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "429b8bf0d5a26c94f285bca949488dc74d3c723dddda9b51fa2d79848de8e5e1"
+}

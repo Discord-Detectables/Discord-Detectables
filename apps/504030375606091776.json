@@ -1,0 +1,44 @@
+{
+    "description": "A split-screen, multiplayer first-person shooter in which all players are invisible, and must \"screen look\" - analyze what the other players are seeing - to locate their opponents.",
+    "developers": [
+        {
+            "id": "521816668666855432",
+            "name": "Samurai Punk"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "screencheat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "360994319848570881",
+    "hook": true,
+    "icon": "931e202689ce044fc53dad6cf6a3c539",
+    "id": "504030375606091776",
+    "name": "Screencheat",
+    "publishers": [
+        {
+            "id": "521816625020928007",
+            "name": "Fellow Traveller"
+        }
+    ],
+    "splash": "fd2b9354a241f428ceb88170044de360",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "301970",
+            "sku": "301970"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "f15b2d75db115cbcc90a1cf292609e4b0380c6417c5b2800f3fb95672bdc9d9b"
+}

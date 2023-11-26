@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pemsa/pemsa.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "55e5bcbc437328c4ff552c8aeba9ba95",
+    "id": "1124360543629758637",
+    "name": "pemsa",
+    "publishers": [
+        {
+            "id": "566152423266320402",
+            "name": "Rexcellent Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1494910",
+            "sku": "1494910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "304f3c7cfbe02d9221406a7e4f5916afa9cc0a51f649a45a832d72746d1fbd35"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kane and lynch dead men/kaneandlynch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f8b001168f496d4e402994692160ab65",
+    "id": "1124356724745326632",
+    "name": "Kane & Lynch: Dead Men",
+    "publishers": [
+        {
+            "id": "521816647678558211",
+            "name": "IO Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "8080",
+            "sku": "8080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "239223e78a6481bffef732141be4f46f700d861a1af0e3d414b701d8849e26fe"
+}

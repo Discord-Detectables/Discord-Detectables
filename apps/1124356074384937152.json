@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "megadimension neptunia vii/neptuniavii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c1d46645c47167b9d26084e06962e46",
+    "id": "1124356074384937152",
+    "name": "Megadimension Neptunia VII",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "460120",
+            "sku": "460120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7fca0117e315a1d636bd536519d1e1b137eb6328ff847813df9c5815b0417600"
+}

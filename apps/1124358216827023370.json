@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "atlantic fleet/atlanticfleet.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f33fa9f1c912f527f03c98e750698606",
+    "id": "1124358216827023370",
+    "name": "Atlantic Fleet",
+    "publishers": [
+        {
+            "id": "524352523591483415",
+            "name": "Killerfish Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "420440",
+            "sku": "420440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "86a57b8e8de3895a1edebb4bc3eadf14fad05511020ca33fbce13b349c209f1b"
+}

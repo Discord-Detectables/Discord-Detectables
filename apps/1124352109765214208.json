@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "transport fever 2/transportfever2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "500a20b1af16c152ee667562d3d44e2d",
+    "id": "1124352109765214208",
+    "name": "Transport Fever 2",
+    "publishers": [
+        {
+            "id": "521816774086230043",
+            "name": "Urban Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1066780",
+            "sku": "1066780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b64dd1685f2b2f8b2c6f494a46e5e94f706517afe2b60c08f58f5910c6ae675e"
+}

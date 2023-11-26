@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "The Walking Dead Season Two"
+    ],
+    "description": "After separating from her friend Lee, young orphan Clementine must survive through the undead apocalypse with a new roaming group of survivors in this sequel to Telltale's adaptation of the comic book of the same name.",
+    "developers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thewalkingdead2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2c57a405153ec1fc342c1b7dcc35de17",
+    "id": "500830174590271509",
+    "name": "The Walking Dead: Season Two",
+    "publishers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "splash": "373fe1d00fcdabfe1622a312b2f65f4c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "261030",
+            "sku": "261030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "68138795d48ff62754a0e03b1d54113a0362e6d51c2d2e422c5df2994603847e"
+}

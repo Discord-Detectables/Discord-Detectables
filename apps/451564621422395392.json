@@ -1,0 +1,42 @@
+{
+    "description": "When Earth is in its final hour before extinction from alien hordes, it's up to one man to venture through an apocalyptic near-future Egypt and begin a journey to save humanity: Sam \"Serious\" Stone.",
+    "developers": [
+        {
+            "id": "521816609518518284",
+            "name": "Croteam Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sam3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1be99574d793701d9c0daff943f571e",
+    "id": "451564621422395392",
+    "name": "Serious Sam 3: BFE",
+    "publishers": [
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        },
+        {
+            "id": "521816658298404888",
+            "name": "Croteam"
+        }
+    ],
+    "splash": "00c47feab03b95b582bd011eb289797b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "41070",
+            "sku": "41070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9bb036adfb5e491ed1badd64f9dac073062aa5a6afb3064cf199ea17314ad24b"
+}

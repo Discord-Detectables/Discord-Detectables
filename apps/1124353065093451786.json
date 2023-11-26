@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shotgun king the final checkmate/shotgun_king.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "352542eed1c46d7c1c181a3bd2b5d2bc",
+    "id": "1124353065093451786",
+    "name": "Shotgun King: The Final Checkmate",
+    "publishers": [
+        {
+            "id": "1124353065579986974",
+            "name": "PUNKCAKE Delicieux"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1972440",
+            "sku": "1972440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4681a9c412f56e022d6e837fa0a60e1edb53ddc4c5e597468dfd7e339c98ad15"
+}

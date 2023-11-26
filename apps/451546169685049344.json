@@ -1,0 +1,42 @@
+{
+    "description": "Bayonetta is a \"stylish action game\" from PlatinumGames.  The titular character is a witch who can use hair-based magic, as well as firearms attached to her feet, to battle fallen angels and other foes.",
+    "developers": [
+        {
+            "id": "521816725793275924",
+            "name": "PlatinumGames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bayonetta.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8d2cd7d231176a4fe1e3a38b203754cd",
+    "id": "451546169685049344",
+    "name": "Bayonetta",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        },
+        {
+            "id": "521816725793275924",
+            "name": "PlatinumGames"
+        }
+    ],
+    "splash": "51feb7f51015d5595ed80d0c939928c9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "460790",
+            "sku": "460790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f20780d6e137306801ce3a091de847c1ef521ea6b89b143c1772d79b2ebd352"
+}

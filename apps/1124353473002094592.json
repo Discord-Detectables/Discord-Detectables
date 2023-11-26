@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mordheim/mordheim.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "669743687a06831c4c7a15cc8e4b52d2",
+    "id": "1124353473002094592",
+    "name": "Mordheim: City of the Damned",
+    "publishers": [
+        {
+            "id": "524352364208193547",
+            "name": "Rogue Factor"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "276810",
+            "sku": "276810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "abc9352b67fd12f1e9c3aa768a68182f9846a55097d3e7776b9e9c52c3566909"
+}

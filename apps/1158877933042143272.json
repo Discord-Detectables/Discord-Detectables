@@ -1,0 +1,37 @@
+{
+    "aliases": [
+        "Counter-Strike 2"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/cs2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "558f5a26ecb3b17c3dea3d15c1df537a",
+    "id": "1158877933042143272",
+    "name": "Counter-Strike 2",
+    "overlay_methods": 1,
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "730",
+            "sku": "730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54f84766a15f1aa38ed6d3643a23f01dff7db053168eca7c0567daf9fb7925cc"
+}

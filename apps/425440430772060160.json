@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Darksiders"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816508624535567",
+            "name": "Vigil Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darksiders1.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darksiderspc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "411080228052533250",
+    "hook": true,
+    "icon": "ae4566f8ee4e7adbe9e83a98a372850b",
+    "id": "425440430772060160",
+    "name": "Darksiders Warmastered Edition",
+    "primary_sku_id": "471030197421080597",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "slug": "darksiders-warmastered-edition",
+    "splash": "560b3efb9cb16f359bf77f677e21f65b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471030197421080597",
+            "sku": "471030197421080597"
+        },
+        {
+            "distributor": "steam",
+            "id": "462780",
+            "sku": "462780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7780f66ea05dbb0178fbaed1a769252ecb5eeec89b73ead1c36e5080b6958a9d"
+}

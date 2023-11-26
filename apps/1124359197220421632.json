@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "taphouse vr/taphousevr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2f532f8ea398b18141f93079f2001d15",
+    "id": "1124359197220421632",
+    "name": "Taphouse VR",
+    "publishers": [
+        {
+            "id": "524353288804761628",
+            "name": "Catland"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "591680",
+            "sku": "591680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b99baf83689027826a1ae4828a420d1d5815c135140398991eff77a3bc5a36df"
+}

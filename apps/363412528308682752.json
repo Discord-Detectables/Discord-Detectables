@@ -1,0 +1,48 @@
+{
+    "aliases": [
+        "Planetside 2"
+    ],
+    "description": "PlanetSide 2 is the sequel to the 2003 MMOFPS PlanetSide from Sony Online Entertainment which remains one of the most notable and successful games in the genre.",
+    "developers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "planetside2_x86.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "planetside2_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dbf4eb4c8b31033dd269c35a8ba3544d",
+    "id": "363412528308682752",
+    "name": "PlanetSide 2",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "splash": "8bcd765463c02e3d1d312c5d934f9762",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "218230",
+            "sku": "218230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d6b019d08dc5d42d1758ff73e0f4d31fdd87ca10d608a195d2c8d29443875a27"
+}

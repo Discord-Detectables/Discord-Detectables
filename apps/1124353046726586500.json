@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ultimate general civil war/ultimate general civil war.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d84fab2a0b04f66c286fbf1cbc843109",
+    "id": "1124353046726586500",
+    "name": "Ultimate General: Civil War",
+    "publishers": [
+        {
+            "id": "524352333501562912",
+            "name": "Game-Labs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "502520",
+            "sku": "502520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2fdb0b8bb5e6d964b2023c9a2891d4958680d68008a6eeb32c2f04b23e4eeca4"
+}

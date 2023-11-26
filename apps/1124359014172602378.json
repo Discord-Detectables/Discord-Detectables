@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "if on a winter's night four travelers/ioawn4t.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3e683d2b3ba051b8d1d09d850b38e10",
+    "id": "1124359014172602378",
+    "name": "If On A Winter's Night, Four Travelers",
+    "publishers": [
+        {
+            "id": "1124359014659149825",
+            "name": "Dead Idle Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1603980",
+            "sku": "1603980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1a06b7cb2a50850be3b46e217fcb9792dd86631662782603fb6cd7e7a7c6ab4"
+}

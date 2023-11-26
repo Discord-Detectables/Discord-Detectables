@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Batman: Arkham City",
+        "Batman: Arkham City GOTY"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "setup/vcredist_x86.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "batmanac.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "586e24dd7f5b3ce54371981c5954ffda",
+    "id": "451541064545861632",
+    "name": "Batman: Arkham City GOTY",
+    "publishers": [
+        {
+            "id": "521816538664402944",
+            "name": "Rocksteady Studios"
+        },
+        {
+            "id": "521816538664402944",
+            "name": "Rocksteady Studios"
+        }
+    ],
+    "splash": "d333a50c19996ddedd1f7ce3a2348194",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "200260",
+            "sku": "200260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "501afb9919b8799743e083e5dc6cd5ba5820b64512f695bdbdd751195f9f279b"
+}

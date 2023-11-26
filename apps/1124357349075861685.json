@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "love sucks night one/lovesucks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e24445717e09a4d3937d6418b94a6164",
+    "id": "1124357349075861685",
+    "name": "Love Sucks: Night One",
+    "publishers": [
+        {
+            "id": "1124357349566591026",
+            "name": "Art Witch Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1577420",
+            "sku": "1577420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ab06ab583b8a57580de412647447b3a74d0c3a0769155e96c6914d4f7140e7e2"
+}

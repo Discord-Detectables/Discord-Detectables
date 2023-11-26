@@ -1,0 +1,43 @@
+{
+    "description": "Endless Legend is a fantasy-themed 4X strategy game from Amplitude Studios.",
+    "developers": [
+        {
+            "id": "521816527343845459",
+            "name": "Amplitude Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "endlesslegend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "18acda825d0f42b7e0907ed241e27d02",
+    "id": "445329750819602433",
+    "name": "Endless Legend",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816527343845439",
+            "name": "Iceberg Interactive"
+        },
+        {
+            "id": "521816527343845450",
+            "name": "AMPLITUDE Studios"
+        }
+    ],
+    "splash": "6f9b6d77ebcc5bd5809b4581c508f570",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "289130",
+            "sku": "289130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aae67591a0c3cd02d55922cd2f263676a382c35bcac425ff3a2ff9690c1319ad"
+}

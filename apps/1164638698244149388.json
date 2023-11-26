@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Supraland"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/supraland-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3dbc86c1fe8251cf0e79c08f6576275f",
+    "id": "1164638698244149388",
+    "name": "Supraland",
+    "publishers": [
+        {
+            "id": "521816612626497539",
+            "name": "Supra Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "813630",
+            "sku": "813630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f897f0004dc42368ee959b0574a5e17ce48f274b56def2646af0cde12d61e503"
+}

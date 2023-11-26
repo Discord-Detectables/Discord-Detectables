@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thecrew2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0300313a9aea3621e4c3815a6990c50",
+    "id": "460639482547273749",
+    "name": "The Crew 2",
+    "publishers": [
+        {
+            "id": "521816533731639319",
+            "name": "Ivory Tower"
+        }
+    ],
+    "splash": "d8ea0ebc26f696a70032a83ce0c4b972",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "760760",
+            "sku": "760760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ec54f24a938a556ee877064458f095424a9cb8f3a2ca736a93fb007bbf5cf56e"
+}

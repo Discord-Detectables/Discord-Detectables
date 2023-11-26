@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "chaosgate/chaosgate.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5b3849ed222256107cd8ef6a07a65933",
+    "id": "1124352912357867621",
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "publishers": [
+        {
+            "id": "524352356909842446",
+            "name": "Complex Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1611910",
+            "sku": "1611910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e99cde6c690e3cfb5544d8be04d0a412b0c120bb172d38d25e0957e9b8ee584"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "omon simulator/omon simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5a458dc0b4de2517d4feedad436767dc",
+    "id": "1124355363337162802",
+    "name": "OMON Simulator",
+    "publishers": [
+        {
+            "id": "1124355363815309462",
+            "name": "Ukrainian Bears"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1140440",
+            "sku": "1140440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c14405608c20cc941006d10ba8eac8d828fbc2b4f858d9ecf1ccd5d78fa27ab"
+}

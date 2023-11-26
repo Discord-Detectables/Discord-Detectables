@@ -1,0 +1,38 @@
+{
+    "description": "Sonic Adventure DX: Director's Cut is a port of the Dreamcast hit to the Gamecube, and in turn, ported to PC.",
+    "developers": [
+        {
+            "id": "521816507676885013",
+            "name": "Sonic Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sonic adventure dx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "98c6e25823562d181a0d4f83b3275db1",
+    "id": "504042667714543626",
+    "name": "Sonic Adventure DX",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "splash": "bae9a7b8fb093aa55192ae4233d23cc2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "71250",
+            "sku": "71250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "da513a233a1bdb6c331826ff872fa79566d8bea96a2a048b4e9a8bb02b542aae"
+}

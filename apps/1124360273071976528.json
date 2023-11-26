@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rage parking simulator 2016/rps2016.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fcd421a4d6994508b150fc4076848a42",
+    "id": "1124360273071976528",
+    "name": "Rage Parking Simulator 2016",
+    "publishers": [
+        {
+            "id": "524352533452554276",
+            "name": "Zonitron Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "449630",
+            "sku": "449630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d26f187576d124dc3503129b8dbc1a9ec22e3912253a735f7668018e23883ed3"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Trulon: The Shadow Engine is an adventure RPG with unique card combat system, steampunk and magic.",
+    "developers": [
+        {
+            "id": "521816630355951628",
+            "name": "Kyy Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trulon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "49b43edf45f2f3aa2dd19786edb8267e",
+    "id": "425458804868513802",
+    "name": "Trulon: The Shadow Engine",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "75f21550789cb205dd1d5f228e4c801f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "433840",
+            "sku": "433840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f0defc75d7806254e635a97c4201a0aabd546c5d8bc81a29f04d0aa4714c8e60"
+}

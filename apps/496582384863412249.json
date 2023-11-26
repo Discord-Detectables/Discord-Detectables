@@ -1,0 +1,46 @@
+{
+    "description": "EverQuest II is a full-fledged sequel to the MMORPG that defined the genre. Set 500 years after the original game, a cataclysmic event has changed the face of Norrath forever.",
+    "developers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "everquest2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2f703f71d4d67c46234fc0587ec9bde6",
+    "id": "496582384863412249",
+    "name": "EverQuest II",
+    "publishers": [
+        {
+            "id": "521816682155737088",
+            "name": "Sony Online Entertainment"
+        },
+        {
+            "id": "521816717291421726",
+            "name": "Daybreak Game Company"
+        },
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "splash": "089320b5af16f0695bce941552f04ad5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "201230",
+            "sku": "201230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1675f0746af3a6e3b3fa227ced04dead95d4d621c7ac65ff411ed28301f616f"
+}

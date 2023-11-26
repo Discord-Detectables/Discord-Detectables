@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monolight/monolights.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c4200e83d224a5b4ca1f0e4830dde6b5",
+    "id": "1124358674178125915",
+    "name": "Monolight",
+    "publishers": [
+        {
+            "id": "1124358674652090418",
+            "name": "bit paradigm"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1324070",
+            "sku": "1324070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7140fb3de1f6ec3ffd5c00c0760d6b02f835b78ec8746a0422611119824eb74f"
+}

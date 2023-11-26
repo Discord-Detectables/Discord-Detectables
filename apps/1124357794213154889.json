@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gremlins_vs_automatons/gremlins_vs_automatons.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2cc65fb58df9f2f5c11b79c52dddc69",
+    "id": "1124357794213154889",
+    "name": "Gremlins vs Automatons",
+    "publishers": [
+        {
+            "id": "1124357794682912871",
+            "name": "Alexey Bokulev"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587670",
+            "sku": "587670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a457b434028757994986afbb2d2a8cd156509381e160d6458e6b065b138a558e"
+}

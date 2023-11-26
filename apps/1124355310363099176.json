@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "need for speed shift/shift.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf04d27b05a9db6c9e4ff264a46ec6a0",
+    "id": "1124355310363099176",
+    "name": "Need for Speed: SHIFT",
+    "publishers": [
+        {
+            "id": "521816652745277463",
+            "name": "Slightly Mad Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24870",
+            "sku": "24870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4ffb8e08e56f19e0d2d83cc5be32a02007e4fb938b920e59c0b85ac893da06d2"
+}

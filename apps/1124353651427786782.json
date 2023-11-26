@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/spacefish.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ca81bc20508561a432a5be2810ce3706",
+    "id": "1124353651427786782",
+    "name": "Predator: Hunting Grounds",
+    "publishers": [
+        {
+            "id": "521816560051159041",
+            "name": "Illfonic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1556200",
+            "sku": "1556200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1271cb40d826d9284e8a5da0839b6be367ca3be7056976499626c50f9fd83d20"
+}

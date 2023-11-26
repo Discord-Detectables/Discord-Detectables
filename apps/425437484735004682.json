@@ -1,0 +1,55 @@
+{
+    "aliases": [
+        "F.E.A.R."
+    ],
+    "description": "A horror-themed FMV game for the PS2",
+    "developers": [
+        {
+            "id": "521816711532511248",
+            "name": "Digital Frontier Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fear.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fearxp.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fearxp2/fearxp2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "af77eebc7437a63c53969dc197eed6b6",
+    "id": "425437484735004682",
+    "name": "F.E.A.R.",
+    "publishers": [
+        {
+            "id": "521816711532511245",
+            "name": "Monolith Productions, Inc."
+        },
+        {
+            "id": "521816711532511245",
+            "name": "Monolith Productions, Inc."
+        }
+    ],
+    "splash": "0aa575c520d8291413777c9db73160f2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "21090",
+            "sku": "21090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60451199c4dee1ae561fc396a773d999fcaf42cd31505bb3d723a5a4b3d1a4a3"
+}

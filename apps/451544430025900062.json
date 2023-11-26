@@ -1,0 +1,38 @@
+{
+    "description": "An MMORPG set in a fantasy world. The game has no in-game loading or instancing; the entire game world is a single map.",
+    "developers": [
+        {
+            "id": "521816706268659715",
+            "name": "Alchemic Dream Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dnl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "09b8d23fc7fd80ae810f432a4cc2e86e",
+    "id": "451544430025900062",
+    "name": "Dark and Light",
+    "publishers": [
+        {
+            "id": "521816706268659714",
+            "name": "Farlan Entertainment Ltd."
+        }
+    ],
+    "splash": "289f9a02504043d31bd65ef73c95210d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "529180",
+            "sku": "529180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6f7dfc509f2102487cb9c5a345c73e6e45f527d893bc2fe59e205726e83037f8"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "corpse party rf/corpseparty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "945b57e9c284b124c0f5b1e8d5fb488a",
+    "id": "1124358398717214770",
+    "name": "Corpse Party (2021)",
+    "publishers": [
+        {
+            "id": "1124358399233110048",
+            "name": "MAGES."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1273260",
+            "sku": "1273260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9dafe28840bc7cc78336ce4568cc134510cea59493f53145a3b1082b74c7f9b6"
+}

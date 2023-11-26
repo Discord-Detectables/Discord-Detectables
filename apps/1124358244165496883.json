@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "it lurks below/ilb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "96d746aa8bcc5e9128debf5a535d37f6",
+    "id": "1124358244165496883",
+    "name": "It Lurks Below",
+    "publishers": [
+        {
+            "id": "524353045245722659",
+            "name": "Graybeard Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "697550",
+            "sku": "697550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "947aaf1673811dcd0f2373a2d6e7d6008699e7c0a1d560b29ed81c3acabf5693"
+}

@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Command and Conquer 3: Tiberium Wars"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "command and conquer 3 tiberium wars/cnc3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bc6775ed326781320cf0ccb49f9394a4",
+    "id": "1162176596891943093",
+    "name": "Command and Conquer 3: Tiberium Wars",
+    "publishers": [
+        {
+            "id": "521816605223813131",
+            "name": "EA Los Angeles"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24790",
+            "sku": "24790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "935862d81d4bd9beb489751c3c107108dad00e9e7a7e0d60a1461a67bd04c47e"
+}

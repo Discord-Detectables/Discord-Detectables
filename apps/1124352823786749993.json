@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "liftoff/liftoff.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6591722eefff7777cf8d9ff21b1e418",
+    "id": "1124352823786749993",
+    "name": "Liftoff",
+    "publishers": [
+        {
+            "id": "524352518810107916",
+            "name": "LuGus Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "410340",
+            "sku": "410340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6476ab5805c954faa9ec1480844fbe0e773bcd5fd44a3b761e3cb72257663ba6"
+}

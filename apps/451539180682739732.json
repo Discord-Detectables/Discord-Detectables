@@ -1,0 +1,42 @@
+{
+    "description": "L.A. Noire is a detective thriller developed by Team Bondi in Australia and published by Rockstar Games.",
+    "developers": [
+        {
+            "id": "521816636177776645",
+            "name": "Team Bondi"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lanoire.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5457902123082280b0146c4772be6fe",
+    "id": "451539180682739732",
+    "name": "L.A. Noire",
+    "publishers": [
+        {
+            "id": "521816560537567257",
+            "name": "Rockstar Games"
+        },
+        {
+            "id": "521816636177776645",
+            "name": "Team Bondi"
+        }
+    ],
+    "splash": "0c6e6d73111bccc8d2006f6f688bc7b9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "110800",
+            "sku": "110800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c781b74915e4ce41748158eb47c22d5951e8d5e15108e1e42201bbe6112834de"
+}

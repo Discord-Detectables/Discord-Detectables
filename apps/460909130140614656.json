@@ -1,0 +1,38 @@
+{
+    "description": "A multiplayer first-person sports game where players race around an arena as jet-powered robots and hit each other with exploding dodgeballs.",
+    "developers": [
+        {
+            "id": "521816801537949720",
+            "name": "82 Apps"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "disco dodgeball.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1a1fd6871cda82580a6f2272770e27ac",
+    "id": "460909130140614656",
+    "name": "Robot Roller-Derby Disco Dodgeball",
+    "publishers": [
+        {
+            "id": "521816801537949720",
+            "name": "82 Apps"
+        }
+    ],
+    "splash": "a06b95e4c7dc59ad56bb5270e9fca4ef",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "270450",
+            "sku": "270450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d9a2ae8412c921e27cff2ec0da6e33f5694bf028a88754a22a48601e0a55ad0f"
+}

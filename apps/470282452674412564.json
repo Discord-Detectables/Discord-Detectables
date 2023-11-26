@@ -1,0 +1,30 @@
+{
+    "description": "Guild Wars is a 'competitive online role-playing game' developed by ArenaNet and published by NCsoft, notable for instanced, skilled play and for being one of the first games of its time without a subscription fee.",
+    "developers": [
+        {
+            "id": "521816722752405504",
+            "name": "ArenaNet, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b5902d6b299fc4ff7c2e3abe851e0ce8",
+    "id": "470282452674412564",
+    "name": "Guild Wars",
+    "publishers": [
+        {
+            "id": "521816560051159044",
+            "name": "NCsoft Corporation"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "fdc2e7f256257e1b1e119b73f5682c31ebaee9b5c4ef4adc28677d90d9d7e4c1"
+}

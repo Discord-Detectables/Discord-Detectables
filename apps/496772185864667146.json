@@ -1,0 +1,38 @@
+{
+    "description": "Chris Crawford-designed simulation of a nuclear reactor. The basis of this model was the nuclear reactor at 3-Mile Island, which had recently suffered a near-meltdown and was probably a direct inspiration for the creation of this simulation.",
+    "developers": [
+        {
+            "id": "521816526362247173",
+            "name": "Chris Crawford Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scram.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40dcacf888a9d3281d12858d2dbfa65a",
+    "id": "496772185864667146",
+    "name": "scram",
+    "publishers": [
+        {
+            "id": "521816526362247171",
+            "name": "Atari"
+        }
+    ],
+    "splash": "02a317a547a5c49a61053a78df394747",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "773920",
+            "sku": "773920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e55c8b3bde722d51933744a7fc7cfeee89e7d7160d8265e82d3b9f299e32fc5"
+}

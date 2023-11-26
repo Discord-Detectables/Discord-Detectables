@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rpg mo/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a8d09c4bc3fff344fef75db118847f9e",
+    "id": "1124354301226143744",
+    "name": "RPG MO",
+    "publishers": [
+        {
+            "id": "1124354301687513250",
+            "name": "Marxnet"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "372800",
+            "sku": "372800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "166c2113ab629836f5c31527b098262ffdab5677aa811474d16efde487836f86"
+}

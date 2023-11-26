@@ -1,0 +1,38 @@
+{
+    "description": "A stop motion, point-and-click adventure comedy game by Doug TenNapel, Mike Dietz, and Ed Schofield; with music by Terry Scott Taylor.",
+    "developers": [
+        {
+            "id": "521816547430236175",
+            "name": "Pencil Test Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "armikrog.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2c0f67aa8057198473b85a39f5d05fe9",
+    "id": "425455814497665034",
+    "name": "Armikrog",
+    "publishers": [
+        {
+            "id": "521816547430236175",
+            "name": "Pencil Test Studios"
+        }
+    ],
+    "splash": "4f3f36e8676a35db0e08a03b2cba34a8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "334120",
+            "sku": "334120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "45735e4417ba317371ac307bec27ea058fe7e1039835df9f818126352fed18de"
+}

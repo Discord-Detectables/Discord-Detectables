@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/frontend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "99234fa68998e82156a859ace05d4292",
+    "id": "1124357581578715257",
+    "name": "Tiger Knight: Empire War",
+    "publishers": [
+        {
+            "id": "1124357582102999211",
+            "name": "NetDragon Websoft Holdings Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "534500",
+            "sku": "534500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fc52d23506022c6c51c310a6f2657264c69b6a008ae25e0902d3c137073f7f20"
+}

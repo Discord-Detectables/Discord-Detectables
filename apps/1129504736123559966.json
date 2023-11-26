@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Police Stories"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "policestories/policestories.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5b276f20e80ad707f0bd206c6632b60",
+    "id": "1129504736123559966",
+    "name": "Police Stories",
+    "publishers": [
+        {
+            "id": "1129504737037930526",
+            "name": "Mighty Morgan"
+        },
+        {
+            "id": "521816499019841595",
+            "name": "HypeTrain Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "539470",
+            "sku": "539470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "237bab6a15501d186f849845534aa68d335633157991063938c0802cae871765"
+}

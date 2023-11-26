@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Warhammer 40,000: Dawn of War - Game of the Year Edition"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dawn of war gold/w40k.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war gold/graphicsconfig.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d7f654cf90a5cdc428466543c5941afc",
+    "id": "475821838782693387",
+    "name": "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+    "publishers": [
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        }
+    ],
+    "splash": "2216ed12dcf7da5e71f7e8aa0086a7a5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4570",
+            "sku": "4570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea04f3918a01e66e3b92f2ace62a5b149db5f7ebaa71ae95859bad55c302dba5"
+}

@@ -1,0 +1,47 @@
+{
+    "description": "An innovative, 2D 4X-like massive space RTS that adds a new twist to the RTS formula. It has had continual development and refinement since its release in 2009.",
+    "developers": [
+        {
+            "id": "521816506607206430",
+            "name": "Arcen Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aiwar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00b72933a814dc6878ca8d17aea038b4",
+    "id": "496525786468319232",
+    "name": "AI War: Fleet Command",
+    "publishers": [
+        {
+            "id": "521816506607206430",
+            "name": "Arcen Games"
+        },
+        {
+            "id": "521816506607206435",
+            "name": "Arcen Games, LLC"
+        }
+    ],
+    "splash": "be068af55dccd72a8e7c1aec94942ca1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "40400",
+            "sku": "40400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f89650ccde63e0f76cc70cc72103d99998e461ac2fd78a8a52445a511167f8f8"
+}

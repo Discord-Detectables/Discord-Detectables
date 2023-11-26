@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolongfallendynasty/wolong.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "581948184b7d6f8de16e648e3908570b",
+    "id": "1124354939716653086",
+    "name": "Wo Long: Fallen Dynasty",
+    "publishers": [
+        {
+            "id": "521816779509465099",
+            "name": "KOEI TECMO GAMES CO., LTD."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1448440",
+            "sku": "1448440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "56ba1ed04002042d03bd2bde1da6cee2e4b87a2aa715d7c6e8534ca8c9d89eb6"
+}

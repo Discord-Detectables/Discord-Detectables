@@ -1,0 +1,38 @@
+{
+    "description": "Manage emergency phone calls from any city in the world.",
+    "developers": [
+        {
+            "id": "521816631782014988",
+            "name": "Jutsu Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "911 operator/911.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ec792c5b9abce05d9102b8742d712487",
+    "id": "481103865559908372",
+    "name": "911 Operator",
+    "publishers": [
+        {
+            "id": "521816512516980736",
+            "name": "PlayWay"
+        }
+    ],
+    "splash": "ad5b332252bd5637c59f7237e43299a4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "503560",
+            "sku": "503560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f20bede7095364d290254df5f0780ba6130e105b728f00e6c6515a92ca804721"
+}

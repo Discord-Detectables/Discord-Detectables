@@ -1,0 +1,38 @@
+{
+    "description": "A science fiction-themed action-RPG by Supergiant Games, creators of Bastion.",
+    "developers": [
+        {
+            "id": "521816498017271833",
+            "name": "Supergiant Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "transistor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0b531d96893c314e83a5fc3fed2c615",
+    "id": "460299285049901056",
+    "name": "Transistor",
+    "publishers": [
+        {
+            "id": "521816498017271833",
+            "name": "Supergiant Games"
+        }
+    ],
+    "splash": "d5e864800e3e8a7ba9e1125ba5cb2d4a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237930",
+            "sku": "237930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ec7762a93c3524f7d5b4f846a9e0daa59410e74a4c36f4713eea868dc4dfe54"
+}

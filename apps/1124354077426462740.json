@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "madguns/madguns.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7abe57500dd2685994d6566877f405da",
+    "id": "1124354077426462740",
+    "name": "MadGuns",
+    "publishers": [
+        {
+            "id": "524352122959953946",
+            "name": "NovaLink"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1342340",
+            "sku": "1342340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0801bb8c8425319eaebe830419f0bb177560f5484b25092febe5b94c37ec5aad"
+}

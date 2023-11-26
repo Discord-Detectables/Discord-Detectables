@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star chef 2 cooking game/star chef 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c061221cc6e7e3e5e02dbdde2dacecf3",
+    "id": "1124356216198541352",
+    "name": "Star Chef 2: Cooking Game",
+    "publishers": [
+        {
+            "id": "1124356216823500890",
+            "name": "99Games Online Private Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1612810",
+            "sku": "1612810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9be0020471c2b3db995d80aa43271a33252d644c982662919593c99642382c13"
+}

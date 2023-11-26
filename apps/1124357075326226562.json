@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "luciusii/luciusii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "071a0628560e509f3accfded1f63d2f0",
+    "id": "1124357075326226562",
+    "name": "Lucius II",
+    "publishers": [
+        {
+            "id": "524352175741075461",
+            "name": "Shiver Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "296830",
+            "sku": "296830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ecb5577e3480aa05476dec7e46d165c04e58a209a9dbe1b4ea9a19bdb05461a"
+}

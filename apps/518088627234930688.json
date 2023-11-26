@@ -1,0 +1,61 @@
+{
+    "aliases": [
+        "Realm Royale Reforged"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "feddbb0a1ad88879bba3c09ef9e1d019",
+    "description": "Conquer the Realm in this fantasy Battle Royale! Choose a class, then loot, or craft, deadly weapons and powerful abilities to forge your own victory. Explore a fantasy world from horseback while outrunning the deadly fog. Can you survive the first 100-person fantasy Battle Royale?",
+    "developers": [
+        {
+            "id": "565247282044338196",
+            "name": "Heroic Leap Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "realm royale/binaries/win64/realmeac.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "realm royale/realmbootstrapper.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "realm royale/binaries/win64/realm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "418821423293923328",
+    "hook": true,
+    "icon": "0143015e3fc06c24b799e6607acd4725",
+    "id": "518088627234930688",
+    "name": "Realm Royale",
+    "primary_sku_id": "518088627234930688",
+    "publishers": [
+        {
+            "id": "521816544939081737",
+            "name": "Hi-Rez Studios"
+        },
+        {
+            "id": "565247282044338196",
+            "name": "Heroic Leap Games"
+        }
+    ],
+    "slug": "realm-royale",
+    "splash": "f75b8c85be0b20d1929f50cc3b460826",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "813820",
+            "sku": "813820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ddaf4497f6b562b43303e528b27e3fa311647c321e435b63535d04dafda4cb3a"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Mass Effect: Andromeda"
+    ],
+    "description": "Set in a galaxy far from the Milky Way, Mass Effect: Andromeda puts players in the role of a Pathfinder tasked with exploring new habitable worlds and investigating mysterious technology.",
+    "developers": [
+        {
+            "id": "521816782479163392",
+            "name": "BioWare Montreal"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "masseffectandromeda.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "496157679603055c8036340e8c23e268",
+    "id": "446061836807307301",
+    "name": "Mass Effect™: Andromeda",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "373cd6cfb837de4887b4adb306c18b854921cc827c617838809bad82f3d71f9f"
+}

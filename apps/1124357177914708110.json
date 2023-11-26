@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "degrees of separation/dofs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa6634e823376f9edf8461676784f124",
+    "id": "1124357177914708110",
+    "name": "Degrees of Separation",
+    "publishers": [
+        {
+            "id": "524352611869261844",
+            "name": "Moondrop"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "809880",
+            "sku": "809880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f2932d5f7420b84e9ff73b8305df2edbc495c97fda24b9fb1287b44010b49c54"
+}

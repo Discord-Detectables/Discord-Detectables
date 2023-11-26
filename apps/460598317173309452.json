@@ -1,0 +1,38 @@
+{
+    "description": "Earth Defense Force 4.1 is a remake of Earth Defense Force 2025 for the Playstation 4, featuring new content and remastered visuals.",
+    "developers": [
+        {
+            "id": "521816587586633729",
+            "name": "Sandlot"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "edf41.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1340927de47bbb5f9504447b1f60aefa",
+    "id": "460598317173309452",
+    "name": "EARTH DEFENSE FORCE 4.1  The Shadow of New Despair",
+    "publishers": [
+        {
+            "id": "521816587586633728",
+            "name": "D3 Publisher Inc."
+        }
+    ],
+    "splash": "6fa86d63a5c32169c2ac378c1dca4bd9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "410320",
+            "sku": "410320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0ae0d6937c9973d83cc246a2e60f0941bcd2165dc0edd0d6aca239ab6365be53"
+}

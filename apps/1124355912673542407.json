@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "walkabout mini golf/walkaboutminigolf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3de274663035e2685fe3345db570e45d",
+    "id": "1124355912673542407",
+    "name": "Walkabout Mini Golf",
+    "publishers": [
+        {
+            "id": "1124355913210408990",
+            "name": "Mighty Coconut"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1408230",
+            "sku": "1408230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7bbd4fcf6d08f22196294fc13794497f56b9140532f437b2643de3257a459402"
+}

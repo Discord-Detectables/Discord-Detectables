@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/potionomics-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e116633960603fbcd18aa8a7f0e191e2",
+    "id": "1124354675018313849",
+    "name": "Potionomics",
+    "publishers": [
+        {
+            "id": "1124354675509055498",
+            "name": "Voracious Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1874490",
+            "sku": "1874490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "80371ea6502d799e7ce14d597c295ac375a177d690c4210b39ac14b428e3d763"
+}

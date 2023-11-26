@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Drug Dealer Simulator"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/drugdealersimulator-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6c323bcc362b2153064eb1287f83afea",
+    "id": "1162159321354874910",
+    "name": "Drug Dealer Simulator",
+    "publishers": [
+        {
+            "id": "1162159323124879500",
+            "name": "Byterunners Game Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "682990",
+            "sku": "682990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e4800c0158aedc418fa945bd344713116271d0c81f389c0d3ae32ba0b3b78a2"
+}

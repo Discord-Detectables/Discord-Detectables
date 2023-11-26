@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "FIVE NIGHTS AT FREDDY'S VR: HELP WANTED"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/freddys-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f452fd2775d1a36230ff2c59efd7bc63",
+    "id": "1129504328848265387",
+    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "publishers": [
+        {
+            "id": "1124351837076738068",
+            "name": "Steel Wool Studios"
+        },
+        {
+            "id": "1124351837076738068",
+            "name": "Steel Wool Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "732690",
+            "sku": "732690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a2c8388a3ee3620f20608a12cc884618484a64e82d493a801027fe21a32c7516"
+}

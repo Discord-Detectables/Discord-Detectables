@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hakuoki kyoto winds/hakuokiwin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd4ab6f4695dd03cd0c6f48971b442db",
+    "id": "1124357899456622674",
+    "name": "Hakuoki: Kyoto Winds",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "589530",
+            "sku": "589530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "97eb927fa1c71fafa5a54404d1a9d84fc2289b58be470910076ec1fe4af3d0f4"
+}

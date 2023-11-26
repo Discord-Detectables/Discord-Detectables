@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "demeo - pc edition demo/demeo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7a89cc1e85a0f6ef517e1d03786c2d3d",
+    "id": "1124359467421683722",
+    "name": "Demeo - PC Edition Demo",
+    "publishers": [
+        {
+            "id": "524353260002344968",
+            "name": "Resolution Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1905240",
+            "sku": "1905240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ad3a0bdb4fe6aa342755a06165cb6709e87699955ae8d2cae71215c9cbb7825"
+}

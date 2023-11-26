@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "buddy simulator 1984/buddy simulator 1984.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b28a5ddc30e7ad6a0e2be4e0934d50fc",
+    "id": "1124355025632776303",
+    "name": "Buddy Simulator 1984",
+    "publishers": [
+        {
+            "id": "1124355026157060196",
+            "name": "Not a Sailor Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1269950",
+            "sku": "1269950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "93ba408a06367580b6fedfc6f3087d82972be8079d8b16c29bba56c38511899c"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "commandos 2 men of courage/comm2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0b19259697b1a574c9e1ce7c9787007d",
+    "id": "1124355948023140422",
+    "name": "Commandos 2: Men of Courage",
+    "publishers": [
+        {
+            "id": "1124354689446727800",
+            "name": "Pyro Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "6830",
+            "sku": "6830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "893416ae2abb7a9d6bd1353de3cefa5730319bf2dac87d6f473ccf970098e938"
+}

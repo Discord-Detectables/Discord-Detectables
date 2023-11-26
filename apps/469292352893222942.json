@@ -1,0 +1,58 @@
+{
+    "aliases": [
+        "System Shock"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816531831750657",
+            "name": "Nightdive Studios"
+        },
+        {
+            "id": "570358003165822992",
+            "name": "Looking Glass Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sshock.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "system shock.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "190583485826727936",
+    "hook": true,
+    "icon": "29a0a4f7d4f1a6e26945f1c3b813d663",
+    "id": "469292352893222942",
+    "name": "System Shock: Enhanced Edition",
+    "primary_sku_id": "471028545271889920",
+    "publishers": [
+        {
+            "id": "521816531831750657",
+            "name": "Nightdive Studios"
+        }
+    ],
+    "slug": "system-shock-enhanced-edition",
+    "splash": "640f1548a4e16022c384f1e7e9cf7fbc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "410710",
+            "sku": "410710"
+        },
+        {
+            "distributor": "discord",
+            "id": "471028545271889920",
+            "sku": "471028545271889920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f04f7fe198730b3bedf7b52fab62dc39e2613e6c9362a5349a6e75dbf4bc188b"
+}

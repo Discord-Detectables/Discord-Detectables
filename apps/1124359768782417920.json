@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tint 'n ink/tint n ink.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a850406e0cab58de6c16a4e11df0eafe",
+    "id": "1124359768782417920",
+    "name": "Tint 'n Ink",
+    "publishers": [
+        {
+            "id": "1124359769273159792",
+            "name": "Golden Dog Interactive, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1997630",
+            "sku": "1997630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c1aab2ef540296c87a079fe36953d8c1bbd30eea07a3400493a02b09a0047b7"
+}

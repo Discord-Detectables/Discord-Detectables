@@ -1,0 +1,39 @@
+{
+    "description": "Faeria is a turn-based game mixing the board game genre with tradable cards. The game board starts off blank as players first have to build lands, which serves as platforms to cast their creatures and move them.",
+    "developers": [
+        {
+            "id": "521816578342387715",
+            "name": "Abrakam"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "faeria.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "107041343619993600",
+    "hook": true,
+    "icon": "db075655b9d109df69f0ba050e4a9441",
+    "id": "451544379908423680",
+    "name": "Faeria",
+    "publishers": [
+        {
+            "id": "521816578342387715",
+            "name": "Abrakam"
+        }
+    ],
+    "splash": "351becf05663ab0b788c3cb50b871622",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "397060",
+            "sku": "397060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "431e071c6779edfc308f215b2237e239b295eea3bca5d5ca677ec8887bf7f4ad"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "A group of students trapped on the island of Jabberwock must murder their classmates in order to win a cruel game run by the diabolical Monokuma. An action-adventure visual novel game developed by Spike for the PSP.",
+    "developers": [
+        {
+            "id": "521816739286351887",
+            "name": "Spike Chunsoft"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dr2_us.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2465e13aba43cbfca81da001c38ad9f",
+    "id": "503578473227354112",
+    "name": "Danganronpa 2: Goodbye Despair",
+    "publishers": [
+        {
+            "id": "521816739286351887",
+            "name": "Spike Chunsoft"
+        }
+    ],
+    "splash": "11cbe7322d5ceaa077701063ab19f36f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "413420",
+            "sku": "413420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ffe025c2e425544c3b3fa6ec340327d9bfe74f8b3d77c5d872aed1377446abf5"
+}

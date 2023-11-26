@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "assemble with care/awc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "539f3ec811a2a92afcc88c19ac03c0bd",
+    "id": "1124354919646900418",
+    "name": "Assemble with Care",
+    "publishers": [
+        {
+            "id": "1124354920154419210",
+            "name": "ustwo games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1202900",
+            "sku": "1202900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91602f0c56623aa8f4dc3fe92b2e2357e2299255531048696085161fce731f50"
+}

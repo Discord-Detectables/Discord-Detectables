@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro evolution soccer 2018 lite/pes2018.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ec44de27bf50d59c45ac0bd5c9027299",
+    "id": "1124356918782218301",
+    "name": "PRO EVOLUTION SOCCER 2018 LITE",
+    "publishers": [
+        {
+            "id": "1124356919302307910",
+            "name": "Konami Digital Entertainment Co., Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "592600",
+            "sku": "592600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ef98eeb649d49cc29090c11e08e49364c419e0a53bdbabb9e96ac67452d56415"
+}

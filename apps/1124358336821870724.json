@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "GameGuru"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "game guru/gameguru.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5247fc1b2acaf00aa33b8271b1265a05",
+    "id": "1124358336821870724",
+    "name": "GameGuru",
+    "publishers": [
+        {
+            "id": "1124358337308405952",
+            "name": "TheGameCreators"
+        },
+        {
+            "id": "524352774486360085",
+            "name": "The Game Creators"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "266310",
+            "sku": "266310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bdbe0a53014294b505c7d922d89d1949498b4a4d38a941153ca571f101bb2999"
+}

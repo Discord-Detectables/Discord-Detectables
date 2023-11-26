@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/stayclose-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5017f72f4979e4f3d67e1d53f9f089c1",
+    "id": "1124353055865978880",
+    "name": "Stay Close",
+    "publishers": [
+        {
+            "id": "1124353056306376786",
+            "name": "Blind Bird"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "455120",
+            "sku": "455120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "890b82bdc149ea90c132f96ed8881b7f90e65d7f518dade0fc7390a82baea063"
+}

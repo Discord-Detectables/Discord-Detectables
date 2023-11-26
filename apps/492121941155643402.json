@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816509673242635",
+            "name": "Runic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "torchlight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "439223259352006657",
+    "hook": true,
+    "icon": "bfcbbe5ae5e4215433ff6c4c52c0836d",
+    "id": "492121941155643402",
+    "name": "Torchlight",
+    "primary_sku_id": "492147454469472257",
+    "publishers": [
+        {
+            "id": "521816509673242634",
+            "name": "Runic Games, Inc."
+        },
+        {
+            "id": "521816509673242635",
+            "name": "Runic Games"
+        },
+        {
+            "id": "521816509673242636",
+            "name": "Perfect World Entertainment"
+        }
+    ],
+    "slug": "torchlight",
+    "splash": "0fd8b5ee3b1243f285a5a887ce922b68",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "41500",
+            "sku": "41500"
+        },
+        {
+            "distributor": "discord",
+            "id": "492147454469472257",
+            "sku": "492147454469472257"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4f49e3e30fadfae250b6a2be6a3c01c236b0a596ae57519c84e7f8a3b02c09b"
+}

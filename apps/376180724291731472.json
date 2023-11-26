@@ -1,0 +1,38 @@
+{
+    "description": "\"Bendy and the Ink Machine\" is a first person puzzle action horror game that begins in the far days past of animation and ends in a very dark future.",
+    "developers": [
+        {
+            "id": "521816555584225282",
+            "name": "TheMeatly Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "batim.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bc3b317c8531e09e20038b7f0808b27e",
+    "id": "376180724291731472",
+    "name": "Bendy and the Ink Machine",
+    "publishers": [
+        {
+            "id": "521816555584225282",
+            "name": "TheMeatly Games"
+        }
+    ],
+    "splash": "139e3ae77dd4f2088556880f43769af4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "622650",
+            "sku": "622650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3e7435028cbf7b31bb02919918b9eccbb5accee0bf2780a1d5471960df48ede5"
+}

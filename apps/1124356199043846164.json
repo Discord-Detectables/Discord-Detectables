@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentai furry/hentai furry.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb16c4fd8698cf558bca4de7079de01f",
+    "id": "1124356199043846164",
+    "name": "Hentai Furry",
+    "publishers": [
+        {
+            "id": "1124356199509409792",
+            "name": "IR Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1260390",
+            "sku": "1260390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aa766272b8fa81439a3d02a86ef4cb707eafac50914654cf74b66afd0702663b"
+}

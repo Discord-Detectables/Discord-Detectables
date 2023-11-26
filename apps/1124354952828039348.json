@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "saints row the third remastered/srttr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5fbada40162b2ed1b9a8d9394c6469a7",
+    "id": "1124354952828039348",
+    "name": "Saints Row The Third Remastered",
+    "publishers": [
+        {
+            "id": "1124354953285226506",
+            "name": "Deep Silver Volition"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "978300",
+            "sku": "978300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "17dded4a97f09e1e6699a1cc78305ca37e7090d5aab9d8b4a6e6154594013d85"
+}

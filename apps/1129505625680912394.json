@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fortune/fortune.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de726430ed56e03b2e9faade70de9f7e",
+    "id": "1129505625680912394",
+    "name": "Fable Fortune",
+    "publishers": [
+        {
+            "id": "524352083227574277",
+            "name": "Mediatonic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "469830",
+            "sku": "469830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "10d693b4859ceec5799d48da9b7a566c074103cbc8c9e92c5708b8ddf1710785"
+}

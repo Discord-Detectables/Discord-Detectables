@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thea 2 the shattering/thea2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00174bcbadf0fb55c71b1369f69a3a0d",
+    "id": "1124356091891953727",
+    "name": "Thea 2: The Shattering",
+    "publishers": [
+        {
+            "id": "524352484194385960",
+            "name": "Muha Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "606230",
+            "sku": "606230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "854f3922ed2ba49c480e73d80ab157ea660e178a540ec3f076c3f5dab0054d41"
+}

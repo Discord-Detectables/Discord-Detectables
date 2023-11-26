@@ -1,0 +1,38 @@
+{
+    "description": "A VR Shooter with Roguelike elements, launching Early Access on Steam and Oculus Home.",
+    "developers": [
+        {
+            "id": "521816794068025354",
+            "name": "Solfar Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "indeath-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79044688685e9dca3ee7255a25fd5dd6",
+    "id": "496838571735384122",
+    "name": "In Death",
+    "publishers": [
+        {
+            "id": "521816794068025354",
+            "name": "Solfar Studios"
+        }
+    ],
+    "splash": "1ad4dbb169bf6a9b6bf57d6da64fb789",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "605450",
+            "sku": "605450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "63a28224d8a159e49e9bd2f029a8afa96ac47b8ab413b4f58366afa038b02ed1"
+}

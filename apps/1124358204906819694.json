@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "total miner/studioforge.totalminer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f16bbec030e25ede43f49d94e2272fb4",
+    "id": "1124358204906819694",
+    "name": "Total Miner",
+    "publishers": [
+        {
+            "id": "1124358205355606166",
+            "name": "Studio Forge Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "347600",
+            "sku": "347600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ecd56531e30d1e39d337b733084060c6d9cc95b0db55e2e9c9ed8807ecb56cfe"
+}

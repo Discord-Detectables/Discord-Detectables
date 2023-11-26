@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Cyberpunk 2077"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x64/cyberpunk2077.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "cyberpunk2077.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1042cfe3bb845f3c1f4fffd6227f4cf",
+    "id": "787443973538971748",
+    "name": "Cyberpunk 2077",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816596172505089",
+            "name": "CD Projekt Red"
+        },
+        {
+            "id": "521816596172505089",
+            "name": "CD Projekt Red"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1091500",
+            "sku": "1091500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4c0b2f474c34674b875ac2d9dfd8ffd0b08950c7c983eec63b0e83a1ea7b8c0a"
+}

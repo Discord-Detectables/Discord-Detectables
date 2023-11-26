@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "late shift/lateshift.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6f2d86b548e7b87dc50932d66423a20b",
+    "id": "1124354398290726982",
+    "name": "Late Shift",
+    "publishers": [
+        {
+            "id": "524352721508106261",
+            "name": "CtrlMovie"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "584980",
+            "sku": "584980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12454cff40067703925d2a7c398273e9fd16889104af13aa7d44deda185441cb"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ys origin/yso_win.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77c3e925c1d1dc6468c54467034801f7",
+    "id": "1124356738297114684",
+    "name": "Ys Origin",
+    "publishers": [
+        {
+            "id": "521816761516163072",
+            "name": "Nihon Falcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "207350",
+            "sku": "207350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ddae6c3a56248425457f4f968c6ab3f41183e33d0473d4a12fcb1bd14ebc749"
+}

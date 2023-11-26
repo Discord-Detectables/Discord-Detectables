@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thegolfclub2/golf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d81314925f357e3f70bd94fa6e4dc73a",
+    "id": "1124360309340123246",
+    "name": "The Golf Club 2™",
+    "publishers": [
+        {
+            "id": "524351599200698374",
+            "name": "HB Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "554510",
+            "sku": "554510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "141de23baf5be88cd0ffd8b070cdf2fe1b11ea45608c780044fd7a98b67ce2f1"
+}

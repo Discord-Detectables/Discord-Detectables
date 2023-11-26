@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metal slug 3/mslug3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "41c045c347beb139fcf5a2d66447757a",
+    "id": "1124352523273256970",
+    "name": "METAL SLUG 3",
+    "publishers": [
+        {
+            "id": "1124352523751403580",
+            "name": "SNK CORPORATION"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "250180",
+            "sku": "250180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e5bbe7386652546beaa13abc9d5876f374713b128f285f1e60af0ffe2c823951"
+}

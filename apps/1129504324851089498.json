@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Phoenix Wright: Ace Attorney Trilogy / 逆転裁判123 成歩堂セレクション",
+        "逆転裁判123 成歩堂セレクション"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "phoenix wright ace attorney trilogy/pwaat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d39517c1bec2e0e62bcb44778f2a26e3",
+    "id": "1129504324851089498",
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        },
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        },
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "787480",
+            "sku": "787480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bcd394051094afd87f28644c8f88fcc00bcbda0f224e29e0399a112ed6ed51cd"
+}

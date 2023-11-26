@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pumpingsimulator/pumping simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aaf133d1e41c95e1d087ddae0fe88a51",
+    "id": "1129505662993448990",
+    "name": "Pompacı Simülasyonu",
+    "publishers": [
+        {
+            "id": "1129505664096542870",
+            "name": "Lance Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1455120",
+            "sku": "1455120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "604c8dbea00c53523729b6021dac489d6c4a075f8db90722212e8b20229012e6"
+}

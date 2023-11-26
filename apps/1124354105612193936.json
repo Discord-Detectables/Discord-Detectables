@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ann/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac369f383fb13d4516cd9fe534521666",
+    "id": "1124354105612193936",
+    "name": "Ann",
+    "publishers": [
+        {
+            "id": "1124354109722607716",
+            "name": "Rong Rong"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1511270",
+            "sku": "1511270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1782ea0830d99e44c421500cf20a215a3ee2b42adc40746a90a443d939be36c9"
+}

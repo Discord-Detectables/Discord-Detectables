@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/sifu-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bed950f028f68bbe772cf4be815c8151",
+    "id": "1124355027398570055",
+    "name": "Sifu",
+    "publishers": [
+        {
+            "id": "521816744659124244",
+            "name": "Sloclap"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2138710",
+            "sku": "2138710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e84003ec40bd8788a40949c00fd962bef63ec2c82b5d5892ec163e3c88204615"
+}

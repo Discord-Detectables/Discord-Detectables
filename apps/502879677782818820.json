@@ -1,0 +1,39 @@
+{
+    "description": "Zeus' Battlegrounds is a forthcoming PvP battle-royale game based on the Greek Olympian gods.",
+    "developers": [
+        {
+            "id": "521816556720619552",
+            "name": "Industry Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zeus-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "384789588478132224",
+    "hook": true,
+    "icon": "fa6e9d616fe8dd16b99455adb2d3c6a7",
+    "id": "502879677782818820",
+    "name": "Zeus' Battlegrounds",
+    "publishers": [
+        {
+            "id": "521816556720619552",
+            "name": "Industry Games"
+        }
+    ],
+    "splash": "57176b537f9eeffa007fcd2845ab650a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "682290",
+            "sku": "682290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "01ccea62d0eec4de80e02256215794b97f53fd32de144b241953f47cdbbcac0f"
+}

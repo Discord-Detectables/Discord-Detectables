@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolfpack/wolfpack.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ccd8ba2d225fb69d63267563232531d8",
+    "id": "1124355848873984000",
+    "name": "Wolfpack",
+    "publishers": [
+        {
+            "id": "1124355849427628102",
+            "name": "Usurpator AB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "490920",
+            "sku": "490920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7d25efcff75dfe3ea2c9c5deb0effd57399a9b398de1d508d9a338f3caed6b0d"
+}

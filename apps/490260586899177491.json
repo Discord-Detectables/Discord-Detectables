@@ -1,0 +1,38 @@
+{
+    "description": "The third game in Lara's rebooted series",
+    "developers": [
+        {
+            "id": "521816535753555988",
+            "name": "Crystal Dynamics, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sottr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba54249f7ca7ee387b83de29f871a940",
+    "id": "490260586899177491",
+    "name": "Shadow of the Tomb Raider",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "251fadc0c813731fab8b638c254de55b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "750920",
+            "sku": "750920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "392f07450587f2e1541acfbcb916ea2192eaf894d1d2f98b7ab8d00111f67dc1"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Set in ancient Rome circa 68 A.D, this third-person action game follows Marius Titus as he sets out to avenge his fallen family. Developed by Crytek as an exclusive Xbox One launch game.",
+    "developers": [
+        {
+            "id": "521816652262670336",
+            "name": "Crytek GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ryse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "da41acc85e069cf25331454c8a8fa340",
+    "id": "425442538288185344",
+    "name": "Ryse: Son of Rome",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "splash": "84fa0753966cb2ee9d040a6bb7381b43",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "302510",
+            "sku": "302510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bca6596929d85e590bb05069bdcefe58d61be3270ab3c72e141b1a841877b1fb"
+}

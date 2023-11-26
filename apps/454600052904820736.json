@@ -1,0 +1,38 @@
+{
+    "description": "A sandbox-style RPG supporting up to 4 players in randomly generated 3D worlds with the goal of going through portals to progress to more difficult worlds and boss fights.",
+    "developers": [
+        {
+            "id": "521816633392627714",
+            "name": "Keen Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "portal_knights_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2c8debab024436e9f21e3005bc81ab49",
+    "id": "454600052904820736",
+    "name": "Portal Knights",
+    "publishers": [
+        {
+            "id": "521816570520141824",
+            "name": "505 Games"
+        }
+    ],
+    "splash": "12b256c9947bf844097e62d4cfc9dade",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "374040",
+            "sku": "374040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "375a65a275e0742d5a64d69c7969892c015dead65daee7d0c35137aa336affd4"
+}

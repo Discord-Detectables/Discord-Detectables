@@ -1,0 +1,44 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": false,
+    "cover_image": "26143d4d4c731bad7d706d6a04c897d1",
+    "description": "Dive into the zombie apocalypse with Zombie Panic! Source: a cooperative, survival-horror first-person-shooter. One of the most popular Half-Life 2 modifications of all time.",
+    "developers": [
+        {
+            "id": "524353255669628948",
+            "name": "Zombie Panic! Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zombie panic source/zps.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "280422623274598432",
+    "hook": true,
+    "icon": "b79d949320527e22e0ce57af632cf59f",
+    "id": "443156570847838218",
+    "name": "Zombie Panic! Source",
+    "primary_sku_id": "443156570847838218",
+    "publishers": [
+        {
+            "id": "524353255669628948",
+            "name": "Zombie Panic! Team"
+        }
+    ],
+    "slug": "zombie-panic-source",
+    "splash": "8c5806625d49e13831d57f6c94d54eb3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "17500",
+            "sku": "17500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94103be42f35bffcac4f2a94404b1ffd86ed61ec473061560c724542f73f6909"
+}

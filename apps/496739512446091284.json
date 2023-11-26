@@ -1,0 +1,42 @@
+{
+    "description": "Debut RPG for Compile Heart's Galapagos RPG brand.",
+    "developers": [
+        {
+            "id": "521816535304503320",
+            "name": "Compile Heart, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fairyfencer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6ea58b434701cec7775c52710e0e82d",
+    "id": "496739512446091284",
+    "name": "Fairy Fencer F",
+    "publishers": [
+        {
+            "id": "521816535304503320",
+            "name": "Compile Heart, Inc."
+        },
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "splash": "ded2d1547d68235c2b38362dc2f0cf86",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "347830",
+            "sku": "347830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bdf46761c18ae39afb00ce569ddfb086ceffd77bbf5f1d8bdcd61742f0f11078"
+}

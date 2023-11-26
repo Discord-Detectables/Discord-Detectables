@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Life is Feudal"
+    ],
+    "description": "Life is Feudal: MMO is a open world survival crafting MMO, with an emphasis on simulation.",
+    "developers": [
+        {
+            "id": "521816615457783813",
+            "name": "Bitbox Ltd. "
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "life is feudal mmo/game/eu/cm_client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "222787979649744896",
+    "hook": true,
+    "icon": "b831f0b284d8dc60da2173b79effac03",
+    "id": "451544345699549194",
+    "name": "Life is Feudal: MMO",
+    "publishers": [
+        {
+            "id": "521816535753555989",
+            "name": "Xsolla Inc."
+        },
+        {
+            "id": "521816535753555990",
+            "name": "Bitbox Ltd."
+        }
+    ],
+    "splash": "2175b0f9d0f8a0247bee33233c82975a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "700030",
+            "sku": "700030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fe963879d592b674f3a079fe29a16f17d954b0dd880dab3858b05a6136d50b97"
+}

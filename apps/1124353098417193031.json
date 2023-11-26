@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "assassin's creed iii remastered/aciii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "678233c052e206f60081653feb3748ee",
+    "id": "1124353098417193031",
+    "name": "Assassin's Creed III Remastered",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "911400",
+            "sku": "911400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26e342b843bcee3de8d0ddf43199bef1a74b1cead5442097d4bfc66ee74f4923"
+}

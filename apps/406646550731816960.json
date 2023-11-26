@@ -1,0 +1,42 @@
+{
+    "description": "The sequel to Dennaton's hit 2D action game moves the neon murder from the '80s to a '90s setting, and concludes the series.",
+    "developers": [
+        {
+            "id": "521816558092156948",
+            "name": "Dennaton"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hotlinemiami2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "25a0eeae48e2851129b3c7ddff837772",
+    "id": "406646550731816960",
+    "name": "Hotline Miami 2: Wrong Number",
+    "publishers": [
+        {
+            "id": "521816557656080391",
+            "name": "Dennaton Games"
+        },
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        }
+    ],
+    "splash": "521d183fcb44a5bafb2f49c2fbb013f5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "274170",
+            "sku": "274170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "29b70368cd1fea24cbcc1c5ad33d77049685034520241059b95e2542e75c76f9"
+}

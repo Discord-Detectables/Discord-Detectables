@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/rsg-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "37dea06e1bcb7d2cabbbabc6f4b77785",
+    "id": "1124353853643575397",
+    "name": "EVERSPACE™",
+    "publishers": [
+        {
+            "id": "524352619808817155",
+            "name": "ROCKFISH Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "396750",
+            "sku": "396750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5c8d35e2856342ba5972429d4b037a1054a3febb3bcf66fa6fd07bd534c94063"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/darkfracture-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b266720e8e87fc5b1cbc2004021471d3",
+    "id": "1124352799510118570",
+    "name": "Dark Fracture: Prologue",
+    "publishers": [
+        {
+            "id": "736213298529173604",
+            "name": "Twisted II Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1389160",
+            "sku": "1389160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "112a2b9fc82ca25817326512268e341f43c743971eba26cbe64558a454d2a76c"
+}

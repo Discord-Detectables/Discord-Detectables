@@ -1,0 +1,38 @@
+{
+    "description": "A 2D stealth/puzzle game from PC Gamer UK writer Tom Francis. As a private detective hired by a woman accused of murder, the player infiltrates buildings by hacking or \"crosslinking\" electrical systems to bypass heavy security.",
+    "developers": [
+        {
+            "id": "521816591604908032",
+            "name": "Suspicious Developments"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gunpoint.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "83da9bc247e22af7bc7072faca46f673",
+    "id": "486705198576828416",
+    "name": "Gunpoint",
+    "publishers": [
+        {
+            "id": "521816591604908032",
+            "name": "Suspicious Developments"
+        }
+    ],
+    "splash": "db56aac296860c4bf400474af309623a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "206190",
+            "sku": "206190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c2803191bbbf84e9521fc6222dab67a482767786843b79424a80654d27a60bc"
+}

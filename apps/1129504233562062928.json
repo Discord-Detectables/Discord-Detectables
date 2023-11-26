@@ -1,0 +1,53 @@
+{
+    "aliases": [
+        "Generation Zero",
+        "Generation Zero®"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "generationzero/generationzero_f.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f925eb2fc012660bcbf77dedfcfbd7f9",
+    "id": "1129504233562062928",
+    "name": "Generation Zero®",
+    "publishers": [
+        {
+            "id": "1124352839272116224",
+            "name": "Systemic Reaction™"
+        },
+        {
+            "id": "1129504244173643856",
+            "name": "Systemic Reaction"
+        },
+        {
+            "id": "1129504244727304222",
+            "name": "Avalanche Publishing"
+        },
+        {
+            "id": "1129504244173643856",
+            "name": "Systemic Reaction"
+        },
+        {
+            "id": "521816537192202241",
+            "name": "Avalanche Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "704270",
+            "sku": "704270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "352a4583933c68b247d323268831b415ad44cb46169d45f25a3f65093176bea2"
+}

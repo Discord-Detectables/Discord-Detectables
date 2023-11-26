@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "client/infinite_lagrange_gb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7de93510b30308c74b2f94bbadd2ef38",
+    "id": "1124359279974039602",
+    "name": "Infinite Lagrange",
+    "publishers": [
+        {
+            "id": "521816544939081735",
+            "name": "Netease Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1755920",
+            "sku": "1755920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "79cc841042f791de775c79f260b3b3095c28e8eb8b863b5af9dcadef8f8d94ba"
+}

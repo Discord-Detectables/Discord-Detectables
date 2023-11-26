@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mad father/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "50c4e7452f4b3c9b88f3eecce0feb651",
+    "id": "1124354212495642698",
+    "name": "Mad Father",
+    "publishers": [
+        {
+            "id": "524352640788856841",
+            "name": "Sen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "483980",
+            "sku": "483980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a32cfc6c4337b13537f3eca167d3c3718aaff2983527bc5554254d4c0d22f2e5"
+}

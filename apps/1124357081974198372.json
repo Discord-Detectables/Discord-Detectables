@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deep space waifu nekomimi/deep space waifu nekomimi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cff53fba44de26d60a9d14895b28d7c6",
+    "id": "1124357081974198372",
+    "name": "DEEP SPACE WAIFU: NEKOMIMI",
+    "publishers": [
+        {
+            "id": "521816704184090625",
+            "name": "Neko Climax Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "868980",
+            "sku": "868980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "36c6ec04734af47408359d093d8a7b7f0a7272ee50b8fbe72b03025332b12e05"
+}

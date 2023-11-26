@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "syberia 2/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0c9748f1173554c1de2a3b37b1668dd",
+    "id": "1124356794848923748",
+    "name": "Syberia 2",
+    "publishers": [
+        {
+            "id": "1124353874191466546",
+            "name": "Microids"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "46510",
+            "sku": "46510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0e70b6fc0772f11bf4b172fa780e40c1982f2405daaccebdc802146bd4351fae"
+}

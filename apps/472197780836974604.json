@@ -1,0 +1,38 @@
+{
+    "description": "Nazi scientists have found a way to breed killer dinosaurs. Will this turn the tide of World War II?",
+    "developers": [
+        {
+            "id": "521816621732462595",
+            "name": "800 North"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dinodday.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0d9d570a705b22a58c890396c306677",
+    "id": "472197780836974604",
+    "name": "Dino D-Day",
+    "publishers": [
+        {
+            "id": "521816621732462595",
+            "name": "800 North"
+        }
+    ],
+    "splash": "347b38ecbcdf7c60bda4207be8e6f4b3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "70000",
+            "sku": "70000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "40189dd081159469041e13db44b277e4a90aa5f37de9fb6335ea026a5282f9d9"
+}

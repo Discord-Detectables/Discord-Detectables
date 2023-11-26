@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "book of hours/bh.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d9a11ba935e5ab61463cc06a4131bebf",
+    "id": "1152680469578666096",
+    "name": "Book of Hours",
+    "publishers": [
+        {
+            "id": "524353161855631370",
+            "name": "Weather Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1028310",
+            "sku": "1028310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f73ea3b9398b8acfe220c684c8b4e35f17c883e669ca2d1da255c7f7da030d3e"
+}

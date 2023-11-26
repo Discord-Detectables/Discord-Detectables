@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legends of aria/legends of aria.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b03ad184c7f8ab02644f3cbbbcb8a3f4",
+    "id": "1124355346127929395",
+    "name": "Legends of Aria",
+    "publishers": [
+        {
+            "id": "1124355346627047545",
+            "name": "Citadel Studios Inc"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "594770",
+            "sku": "594770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "90fcb3c7c63f0a64a8684b384896e8a173d0486d65641c8efc00a93bf747e9e2"
+}

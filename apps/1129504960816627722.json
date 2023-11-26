@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Valkyria Chronicles 4"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vc4/valkyria4_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79eee97731b43706260c12ff0b5f02f7",
+    "id": "1129504960816627722",
+    "name": "Valkyria Chronicles 4 Complete Edition",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        },
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "790820",
+            "sku": "790820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a8924963d6ff17f9e9671b69a6a53003a4f5711ecc9d96e5717c3b9744e57b46"
+}

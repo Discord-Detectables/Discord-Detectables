@@ -1,0 +1,42 @@
+{
+    "description": "A spiritual successor to the Flatout franchise being worked on by Bugbear Entertainment.",
+    "developers": [
+        {
+            "id": "521816544385171486",
+            "name": "Bugbear Entertainment Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wreckfest_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "154bbe116a68aed48b50aa2e902462c3",
+    "id": "466457842401148948",
+    "name": "Wreckfest",
+    "publishers": [
+        {
+            "id": "521816544385171486",
+            "name": "Bugbear Entertainment Ltd."
+        },
+        {
+            "id": "521816515113385984",
+            "name": "Bugbear"
+        }
+    ],
+    "splash": "a5f569f511c8e5f2e6c7555705215fbd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "228380",
+            "sku": "228380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "671ca1c34fbecb7571f14fe6684fc442f45dc561f3864916177d259268fe6bfc"
+}

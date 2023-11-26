@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Far Cry 5"
+    ],
+    "description": "The fifth main entry in the open-world series, this time set in Montana. The protagonist must free Hope County from the cult known as Eden’s Gate, led by cult leader Joseph Seed.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gamelauncher/uplayinstaller.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "farcry5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "415833187ba5b19225a13a36f399e12f",
+    "id": "443156340454457344",
+    "name": "Far Cry 5",
+    "publishers": [
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        },
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        }
+    ],
+    "splash": "a8a3271fb16b103d2cfc2e1adf73c2bf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "552520",
+            "sku": "552520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "304a8a9ee3a7322ba6c27f0f7607ac3581f6463da65ef42f147e82d133b90949"
+}

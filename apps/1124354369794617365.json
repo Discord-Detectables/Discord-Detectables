@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/trover-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b189e3871d1a3f6d0fb88f609c5cefa4",
+    "id": "1124354369794617365",
+    "name": "Trover Saves the Universe",
+    "publishers": [
+        {
+            "id": "1124352223284052099",
+            "name": "Squanch Games, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1051200",
+            "sku": "1051200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8ce9f5d4d175f0298a5bcfaacfb9fc89eba08e77d7aac722b9827e33f2842930"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "client/dwarfheim.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "99fe2413d2dfaa8732264cd3907b5c1f",
+    "id": "1124359076957147146",
+    "name": "DwarfHeim",
+    "publishers": [
+        {
+            "id": "1124359077435293696",
+            "name": "Pineleaf Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "977650",
+            "sku": "977650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "305ecfd3f4b103f9f7ad9599330fac48165e4bcd94409ae4e83116a7e09466af"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Universe Sandbox 2"
+    ],
+    "description": "Universe Sandbox² is a space simulator from Giant Army.",
+    "developers": [
+        {
+            "id": "521816614543294465",
+            "name": "Giant Army"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "universe sandbox x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5fb3742c3ab229c8d6580c00c57f64b6",
+    "id": "443156067434889236",
+    "name": "Universe Sandbox",
+    "publishers": [
+        {
+            "id": "521816614543294465",
+            "name": "Giant Army"
+        }
+    ],
+    "splash": "fed7ceda9357bd9d7705cc751fa9d0bb",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "230290",
+            "sku": "230290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f090c52be6efb5c9bb3676ffe1e760b5bd1c24ff8b2032c3ebdb15d20932eba0"
+}

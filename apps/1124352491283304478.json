@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coloring game/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "54fcb44ce2ea70aa2c03e86bc688d6eb",
+    "id": "1124352491283304478",
+    "name": "Coloring Game",
+    "publishers": [
+        {
+            "id": "1124352491715313684",
+            "name": "L. Stotch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1026820",
+            "sku": "1026820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "06d2da48e22144b07b2586f85c26b57a6abed3bae2d25a9a19de0a73b98fed6f"
+}

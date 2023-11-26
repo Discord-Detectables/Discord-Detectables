@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Forza Horizon 4"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816775248183306",
+            "name": "Playground Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "forzahorizon4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": false,
+    "icon": "e023b3314301eeaf0bcd0a565b2b023e",
+    "id": "656353816370741248",
+    "name": "Forza Horizon 4",
+    "publishers": [
+        {
+            "id": "521816679085506591",
+            "name": "Turn 10 Studios"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "8dba56fbdd8f4f76bede1cbf529abfa1446b04e34d0c98aae8107bcc76394d79"
+}

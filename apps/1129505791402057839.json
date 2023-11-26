@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "latex dungeon mv/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2a26f1d8e2557677a1729c508fc6ab3",
+    "id": "1129505791402057839",
+    "name": "Latex Dungeon",
+    "publishers": [
+        {
+            "id": "1129505794212249741",
+            "name": "GODNASK"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1622780",
+            "sku": "1622780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "50a84cccc4c774e5c792000f30907af40424f928f5fb99655e776b4e836e6ba4"
+}

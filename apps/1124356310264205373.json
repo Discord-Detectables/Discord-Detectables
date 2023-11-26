@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "riding to bounce city/riding to bounce city.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d0f3b0b0259afc5165c53aef2b7df49f",
+    "id": "1124356310264205373",
+    "name": "Riding to Bounce City",
+    "publishers": [
+        {
+            "id": "1124356310817849416",
+            "name": "Trigon Fan"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1892370",
+            "sku": "1892370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7851d33208233bd6f2b06eb7f7aff1256869f9377ac61dcb13ab8848e6797d9d"
+}

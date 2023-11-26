@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Battlestations: Pacific"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battlestations pacific/battlestationspacific.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a409b8cab5fbe52777a8a597cb43ed9f",
+    "id": "1170067472599224482",
+    "name": "Battlestations: Pacific",
+    "publishers": [
+        {
+            "id": "1170067474889318481",
+            "name": "Eidos Studio Hungary"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "8170",
+            "sku": "8170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f2e0661632baed244ce594a6514757a86f39c7b28d98f3fbb0bfe702b810d7fb"
+}

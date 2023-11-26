@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warhammer chaos & conquest/warhammer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba35b6ceb362ffb0ddacaeb899b4fa06",
+    "id": "1124355575636045966",
+    "name": "Warhammer: Chaos & Conquest",
+    "publishers": [
+        {
+            "id": "1124355576143564871",
+            "name": "Hunted Cow Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1144170",
+            "sku": "1144170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4a5733400777b78e893cb0ac53ab527a3b65a0bcb95c507e771733c9e21806a8"
+}

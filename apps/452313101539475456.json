@@ -1,0 +1,68 @@
+{
+    "aliases": [
+        "Train Simulator"
+    ],
+    "description": "Train simulator 2016 is the annual update to the Train Simulator series. This update is free to existing users of Train Simulator 2015",
+    "developers": [
+        {
+            "id": "521816625507336192",
+            "name": "Dovetail Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "install/physx_9.10.0513_systemsoftware.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "install/vcredist_x86.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "railworks.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "railworks/utilities.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ca915e1fe23208182ee3bed131e0445b",
+    "id": "452313101539475456",
+    "name": "Train Simulator",
+    "publishers": [
+        {
+            "id": "521816625507336192",
+            "name": "Dovetail Games"
+        },
+        {
+            "id": "521816625507336192",
+            "name": "Dovetail Games"
+        },
+        {
+            "id": "521816625507336192",
+            "name": "Dovetail Games"
+        },
+        {
+            "id": "521816625507336192",
+            "name": "Dovetail Games"
+        }
+    ],
+    "splash": "44c9340486ee8e2583237e718d3e4f28",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24010",
+            "sku": "24010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "962f779f4c51de9d3ed359768768590626d5fad18342bf7a3fad11ffd3c2a238"
+}

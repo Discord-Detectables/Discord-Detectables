@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amongripples/amongripples.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b17a33095634c99d09e2df88b110011a",
+    "id": "1124357491963219978",
+    "name": "Among Ripples",
+    "publishers": [
+        {
+            "id": "524352390644629517",
+            "name": "Eat Create Sleep"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "341720",
+            "sku": "341720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c88570244ecba09a6d53c2b6a9e0e5f159291269099e367c1761c80e48fe1ba1"
+}

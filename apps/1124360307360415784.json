@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "whatthebox/whatthebox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a5b587785a90ffcb447ecf9e93575416",
+    "id": "1124360307360415784",
+    "name": "What The Box?",
+    "publishers": [
+        {
+            "id": "524352684065685544",
+            "name": "Bitten Toast Games Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "527340",
+            "sku": "527340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25d5d51f49c03ab33410a70b1c723d18e77385bd5e1c1be263625563de56c994"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "drift21/drift21.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9be2c5931778b608f8f5ba6d5866c212",
+    "id": "1124354608987385886",
+    "name": "Drift21",
+    "publishers": [
+        {
+            "id": "1124354609499099136",
+            "name": "ECC GAMES S.A."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "520950",
+            "sku": "520950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e56dc9370c55d48d4dc475488c46865b2712eaf8290a80ab6e41143bae493b7"
+}

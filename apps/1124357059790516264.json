@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "king's bounty - the legend/kb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ea3a037ef9b57c71b354c7906ee7c679",
+    "id": "1124357059790516264",
+    "name": "King's Bounty: The Legend",
+    "publishers": [
+        {
+            "id": "566258190891876363",
+            "name": "1C Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "25900",
+            "sku": "25900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "267e20fd75282b203b73983c7b2d8df5b03b544e5440fd0431c5b94271b5c0a3"
+}

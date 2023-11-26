@@ -1,0 +1,31 @@
+{
+    "description": "Real Pool 3D - Poolians",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "poolians.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3891ac63a5c74ea0e739234e3d0f8201",
+    "id": "426528563919978496",
+    "name": "Real Pool 3D - Poolians",
+    "publishers": [
+        {
+            "id": "521816754989694998",
+            "name": "Poolians.com"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "670290",
+            "sku": "670290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "546409de6457dee09d77c9b13441cc6543e0d89bc30fda039fdcd7e0689383bd"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "BlazBlue Continuum Shift Extend"
+    ],
+    "description": "Yet another updated version of \"BlazBlue Continuum Shift\", this time for the PS Vita, PS3 &amp; Xbox 360. Features a new playable character and additional features.",
+    "developers": [
+        {
+            "id": "521816536743149599",
+            "name": "Arc System Works Co., Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bbcse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e51f28df7d7fc94b2d8cd1dd7023f045",
+    "id": "504768003469082655",
+    "name": "BlazBlue: Continuum Shift Extend",
+    "publishers": [
+        {
+            "id": "521816553080094726",
+            "name": "H2 Interactive Co. Ltd."
+        }
+    ],
+    "splash": "224c994d938dd41ba8aa39bbff6f21f2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "294810",
+            "sku": "294810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c25fbb23f6a47d938784ac548c488c8619b24d35d986bc1c65a21351f91aeb46"
+}

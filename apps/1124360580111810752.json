@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "seekingdawn/seekingdawn.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "817536d32bb33abbabb346c0cb5d660e",
+    "id": "1124360580111810752",
+    "name": "Seeking Dawn",
+    "publishers": [
+        {
+            "id": "775595082475765780",
+            "name": "Multiverse"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "859340",
+            "sku": "859340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c458841c52628d70e61e049f01442279093c0226a4584230598b09b112d89cd7"
+}

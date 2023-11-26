@@ -1,0 +1,62 @@
+{
+    "description": "Developed by Funcom, The Secret World is an MMORPG influenced by ancient mythology and legend.",
+    "developers": [
+        {
+            "id": "521816542258790405",
+            "name": "Funcom Productions A/S"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "secretworldlegendsdx11.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "thesecretworld.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "secretworldlegends.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "thesecretworlddx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f2b40a3c29990580c0ad7c4fb8d0b152",
+    "id": "504077629175889923",
+    "name": "The Secret World",
+    "publishers": [
+        {
+            "id": "521816606318264330",
+            "name": "Funcom"
+        },
+        {
+            "id": "521816542258790405",
+            "name": "Funcom Productions A/S"
+        }
+    ],
+    "splash": "95de71900b941eb592fbd285b3ac187f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "215280",
+            "sku": "215280"
+        },
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "63f29c929ba8f45a39fc2490c75e7351a39a6dfc49111e444ae075326cd40c44"
+}

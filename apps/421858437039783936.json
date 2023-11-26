@@ -1,0 +1,31 @@
+{
+    "description": "SoulWorker is an anime action MMORPG which takes place in the Cloudrealm, a now vacant city which only harbors the psychics and a horde of monsters.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "soulworker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db238f19460907c7df768ab1d155b779",
+    "id": "421858437039783936",
+    "name": "SoulWorker",
+    "publishers": [
+        {
+            "id": "521816650840801282",
+            "name": "Lion Games Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "630100",
+            "sku": "630100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "462b4b03ab49f0610733dfdf9528f8da981bbe72f38795e0ab22a6296fe3530e"
+}

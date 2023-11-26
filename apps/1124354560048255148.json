@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kopanito all-stars soccer/kopanito.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4412a3b618cdfcc091a8ed1d9000ebae",
+    "id": "1124354560048255148",
+    "name": "Kopanito All-Stars Soccer",
+    "publishers": [
+        {
+            "id": "1124354560501235712",
+            "name": "Merixgames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "399820",
+            "sku": "399820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1beb1c90550b24d0601bfc7657db30bc857d640a0ce7db6fb8c649651861b141"
+}

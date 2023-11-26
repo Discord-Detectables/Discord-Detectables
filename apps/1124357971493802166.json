@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "plane mechanic simulator/pms_build.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d71c19cd7dbcd025f7569b910c71e301",
+    "id": "1124357971493802166",
+    "name": "Plane Mechanic Simulator",
+    "publishers": [
+        {
+            "id": "1124357972005503067",
+            "name": "Cobble Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "803980",
+            "sku": "803980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4dc40723253ca39780415fe38adab4fef67b0556169d447bb94101ebced234fb"
+}

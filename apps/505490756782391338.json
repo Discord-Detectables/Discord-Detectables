@@ -1,0 +1,37 @@
+{
+    "description": "Infantry is an online-only isometric view tactical war game, with game types ranging from capture the flag to football on hoverbikes.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "infantry.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7e66f9809fbc93b0cac00bd278ffd183",
+    "id": "505490756782391338",
+    "name": "Infantry",
+    "publishers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "splash": "c905b85ebc79d4c2df3ac26714d38d7b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "670050",
+            "sku": "670050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "92f2a9a5511985d363663f64897b92a499c4766da9bfd140df7b186a127021b1"
+}

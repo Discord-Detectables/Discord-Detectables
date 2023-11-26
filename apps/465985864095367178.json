@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Final Fantasy X | X-2 HD Remaster"
+    ],
+    "description": "A collection for PS3, PS4, Vita and PC, containing Final Fantasy X International and Final Fantasy X-2 International + Last Mission featuring HD visuals and a remastered soundtrack.",
+    "developers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ffx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7a95b41902d70a696a132b7564707c0b",
+    "id": "465985864095367178",
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "73e11b058b07bc9c6429b4b5d28b75b3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "359870",
+            "sku": "359870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1eff0f3faf9140d190be013570e5b04bf30c7997617c742629a769474b3e9e45"
+}

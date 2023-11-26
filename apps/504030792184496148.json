@@ -1,0 +1,38 @@
+{
+    "description": "Secret Ponchos is a downloadable, competitive twin-stick shooter focused on skill-based combat and its unique cast of Spaghetti-western inspired characters.",
+    "developers": [
+        {
+            "id": "521816539087896599",
+            "name": "Switchblade Monkeys"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "secretponchosd3d11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e7ca4a919a79c0654ca747d1520d375c",
+    "id": "504030792184496148",
+    "name": "Secret Ponchos",
+    "publishers": [
+        {
+            "id": "521816539087896598",
+            "name": "Switchblade Monkeys Entertainment"
+        }
+    ],
+    "splash": "8c1a1cfa11ecabb12ce6c646cb47055e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "265750",
+            "sku": "265750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d7008a3b6a5b269537228b45d2ed843fd89d3e0fdc4389b32505f443e00b489f"
+}

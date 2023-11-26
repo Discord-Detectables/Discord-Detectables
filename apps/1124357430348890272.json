@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin32/gasguzzlers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "43880c02c6ef2ecc59cfb8c66adbcc63",
+    "id": "1124357430348890272",
+    "name": "Gas Guzzlers Extreme",
+    "publishers": [
+        {
+            "id": "521816517952929794",
+            "name": "Gamepires"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "243800",
+            "sku": "243800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3330c8bbc22bceadb0cc3eb73ef69a1de02778431b0d32abb9e4dce89d06e305"
+}

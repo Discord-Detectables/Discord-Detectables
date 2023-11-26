@@ -1,0 +1,38 @@
+{
+    "description": "Race.a.bit is a retro-styled racing game that features an 8 and 16-bit art style.",
+    "developers": [
+        {
+            "id": "521816749830701056",
+            "name": "Aesir Interactive"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "raceabit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a33f54ee23e8a89c87b7f0e347ad45d4",
+    "id": "425458558620925982",
+    "name": "Race.a.bit",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "5d158c47ced176e3f466a6c982d408d3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "336030",
+            "sku": "336030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a4cb73f75ac3e6b0a0d5b5dee3fbca61640f02a9c9796bcbf4eb0863216632f9"
+}

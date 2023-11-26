@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scp nukalypse/scp nukalypse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "24f7c2836803fc8338a68b8838a1ea4b",
+    "id": "1124358580632572015",
+    "name": "SCP: Nukalypse",
+    "publishers": [
+        {
+            "id": "1124358581119107142",
+            "name": "Nikk F."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "947940",
+            "sku": "947940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d22cf0d74869228426795b0ccc7d07a7434676e0bcd206b3763890b0fcf1dc94"
+}

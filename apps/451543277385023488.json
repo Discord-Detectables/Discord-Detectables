@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "DC Universe Online Live"
+    ],
+    "description": "An MMO for the PC and consoles that allows you to fight for and alongside the forces of good or evil from the DC Comics Universe.",
+    "developers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dcgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "227819773688283137",
+    "hook": true,
+    "icon": "c95ded2fca578cef0f81ce49c4fa1e73",
+    "id": "451543277385023488",
+    "name": "DC Universe Online",
+    "publishers": [
+        {
+            "id": "521816682155737088",
+            "name": "Sony Online Entertainment"
+        },
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "splash": "fffce05fee6492f64c8bd91efe45cd44",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24200",
+            "sku": "24200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c1d326414aa29f6124db758f4151d0068f863242347151654e5f93024fd4c6f0"
+}

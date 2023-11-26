@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hammerwatch 2 demo/hw2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1d7694e4f94c44e04b206fef86411ed2",
+    "id": "1124358890662936746",
+    "name": "Hammerwatch II Demo",
+    "publishers": [
+        {
+            "id": "521816573485514762",
+            "name": "Crackshell"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2296420",
+            "sku": "2296420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bcec6eb1ae06a5dd4eb8847ed39ce829525e926332018c4629dc0e65983ea73e"
+}

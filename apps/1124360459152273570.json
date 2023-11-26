@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "multiwinia/multiwinia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a13645114a2c72ede93d102c19bd6508",
+    "id": "1124360459152273570",
+    "name": "Multiwinia",
+    "publishers": [
+        {
+            "id": "1124356036346789978",
+            "name": "Introversion Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1530",
+            "sku": "1530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "051f24df7e0af6ad3fd4c220c500af64b207fa4dccf88d5f74fcd067c88e015a"
+}

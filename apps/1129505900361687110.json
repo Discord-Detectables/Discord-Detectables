@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "handyman legend/handyman legend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "38b66c9bf20d0e0abf1ca4626934ad20",
+    "id": "1129505900361687110",
+    "name": "Handyman Legend",
+    "publishers": [
+        {
+            "id": "1129505901687099482",
+            "name": "SupaShinKen Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2127010",
+            "sku": "2127010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3fd4055ef1c0a72478b914a7320f885a190caccc6672cf7598bd80293c9704dd"
+}

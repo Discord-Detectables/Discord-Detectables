@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/angledshooter-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e711190d699bc3c19103b789b3294b44",
+    "id": "1124360586944327723",
+    "name": "Zombie Builder Defense",
+    "publishers": [
+        {
+            "id": "1124360587414098031",
+            "name": "NOHAM Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "945460",
+            "sku": "945460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e0dd80d33ddc4d78cdc89af3bec630a3c65bc74deb021ef391052fc58d92c8e1"
+}

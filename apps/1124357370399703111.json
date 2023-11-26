@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "voiceofcardstheisledragonroarsdemo/voiceofcardstheisledragonroarsdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bca2c8c0340247e72990ecc6f0934f1d",
+    "id": "1124357370399703111",
+    "name": "Voice of Cards: The Isle Dragon Roars Demo",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1457790",
+            "sku": "1457790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ed5289d96f996bd1bb7e5d7775a18cc10dfbc65ab2df3fff26b11f479350b66"
+}

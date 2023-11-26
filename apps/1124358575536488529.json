@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mad experiments escape room/mad experiments escape room.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9d74336c4f6bb243ca4f48f03b7e04b",
+    "id": "1124358575536488529",
+    "name": "Mad Experiments: Escape Room",
+    "publishers": [
+        {
+            "id": "1124352595230740620",
+            "name": "PlayTogether Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1201550",
+            "sku": "1201550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6da1a6ccefd32c145d1f6722e3cce7f678ec267869b389ece0b9922fc47baf75"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "daisenka/daisenka.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eef19e558ee0470ae12e06b6efa5c1c1",
+    "id": "1134863464280641686",
+    "name": "Glory & Miserable Survivors DX",
+    "publishers": [
+        {
+            "id": "1134863465383731361",
+            "name": "TLACHTLI"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2178330",
+            "sku": "2178330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12eedbc2d2459516b91f383219ccab305cc88c90916ceaa1d3a3f90fc41223a7"
+}

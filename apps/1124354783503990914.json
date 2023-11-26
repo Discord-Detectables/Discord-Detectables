@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beat hazard 2/beathazard2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d7e3df56961caf9c14fcb8ef35b17cee",
+    "id": "1124354783503990914",
+    "name": "Beat Hazard 2",
+    "publishers": [
+        {
+            "id": "521816744659124246",
+            "name": "Cold Beam Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "618740",
+            "sku": "618740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "23422a295622b2941463b54d2cc1c06fa48806da0e01674adb1b1e99c5411dbe"
+}

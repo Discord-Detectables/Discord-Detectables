@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/dxm-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f3a3c52e72c95676e9d8b1bb3ddf41f8",
+    "id": "1124355045308248085",
+    "name": "DAEMON X MACHINA",
+    "publishers": [
+        {
+            "id": "1124354203360444596",
+            "name": "Marvelous Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1167450",
+            "sku": "1167450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12453de4a5a36748131c444d56cf1711827d5267e64b35aded39e85206d26d4f"
+}

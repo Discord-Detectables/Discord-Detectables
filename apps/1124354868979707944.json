@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "distraint/distraint.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1004b8700d89e89ac6309d86e87fd83",
+    "id": "1124354868979707944",
+    "name": "DISTRAINT: Deluxe Edition",
+    "publishers": [
+        {
+            "id": "524353018855161866",
+            "name": "Jesse Makkonen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "395170",
+            "sku": "395170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aaf58267d87770b59d391732df11de3a5a67fbbb06224ea107d4edfa731e71cd"
+}

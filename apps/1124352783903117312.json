@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coffee talk/coffeetalk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1859ef2fee66a15e89ead3cd3773aad9",
+    "id": "1124352783903117312",
+    "name": "Coffee Talk",
+    "publishers": [
+        {
+            "id": "524352299816976398",
+            "name": "Toge Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "914800",
+            "sku": "914800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77091794c37725c4515e4b4e97aaaaba60d9ea955541463fa27eece6cc684073"
+}

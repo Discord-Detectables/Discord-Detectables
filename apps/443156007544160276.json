@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Microsoft Flight Simulator X"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fsx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59fcf8231557b9a7f5efb86ca997eb7f",
+    "id": "443156007544160276",
+    "name": "Microsoft Flight Simulator X: Steam Edition",
+    "publishers": [
+        {
+            "id": "521816508624535569",
+            "name": "Microsoft Game Studios"
+        }
+    ],
+    "splash": "5a76ea7622c30d80c643de2e91e9d900",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "314160",
+            "sku": "314160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eb95ed39869ebd479d8bc1a81a0b496b9621854e08757668a245f120c1069577"
+}

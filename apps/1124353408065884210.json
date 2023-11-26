@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "red hot vengeance/redhotvengeance.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed75b72f873e95c7d7833af88fecfeb9",
+    "id": "1124353408065884210",
+    "name": "RED HOT VENGEANCE",
+    "publishers": [
+        {
+            "id": "1124353408552419408",
+            "name": "Bros Before Giraffes"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1058640",
+            "sku": "1058640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1a73831429f6aea8a9b16f54b12c4566a770f52c7a5ab62b612985eecef116c"
+}

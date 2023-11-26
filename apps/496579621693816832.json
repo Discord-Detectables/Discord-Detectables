@@ -1,0 +1,41 @@
+{
+    "description": "Dungeonland is a multiplayer action RPG in which a team of players attempt to navigate their adventurer characters through an amusement park full of monsters and deathtraps set by another player who operates as the evil dungeonmaestro.",
+    "developers": [
+        {
+            "id": "521816625507336196",
+            "name": "Critical Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeonland.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1edfac6beca49f2ca0bd624298a7d9de",
+    "id": "496579621693816832",
+    "name": "Dungeonland",
+    "publishers": [
+        {
+            "id": "521816625507336196",
+            "name": "Critical Studio"
+        },
+        {
+            "id": "521816521249521702",
+            "name": "Paradox Interactive AB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "218130",
+            "sku": "218130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7745ddd9d55fd6d2201b0ed78a45ecdabb95692bc9e037c92970c6b4df0bc3c0"
+}

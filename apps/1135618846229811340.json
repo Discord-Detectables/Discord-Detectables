@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yttd/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1135618846229811340",
+    "name": "Your Turn To Die -Death Game By Majority-",
+    "publishers": [
+        {
+            "id": "1135618855486636252",
+            "name": "Nankidai"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2067780",
+            "sku": "2067780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9257c79ce310f9989af49b34cdc12217169dd11ba0320e137f60b5655a867c5f"
+}

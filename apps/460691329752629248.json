@@ -1,0 +1,38 @@
+{
+    "description": "Titan Souls is a top down action game where you play as a hero trying to defeat large and powerful monsters.",
+    "developers": [
+        {
+            "id": "521816543777128452",
+            "name": "Acid Nerve"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "titan souls/titan.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf30b272be68c4db7bcc69832b43e760",
+    "id": "460691329752629248",
+    "name": "Titan Souls",
+    "publishers": [
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        }
+    ],
+    "splash": "37befedeb8d216404f3da35a9ae88371",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "297130",
+            "sku": "297130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "558bbe368a9460b431570ecade86e3ddbad84046f6088e23b0f6a0b7449b8d2c"
+}

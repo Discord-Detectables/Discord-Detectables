@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "occult/occult.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4ad551a30fbcc8d34c12ffb44c202313",
+    "id": "1124354048171196417",
+    "name": "Occult",
+    "publishers": [
+        {
+            "id": "1124352001996763287",
+            "name": "Renderise"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1644490",
+            "sku": "1644490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9fc9ef221751f39a517765e89f3c01cb06574938a34e156a04e5e10fafec1b28"
+}

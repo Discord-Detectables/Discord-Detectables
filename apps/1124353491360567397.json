@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "i expect you to die/ieytd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1e7fd0fd1bec9f61b208f30e12064ab4",
+    "id": "1124353491360567397",
+    "name": "I Expect You To Die",
+    "publishers": [
+        {
+            "id": "524352068274618370",
+            "name": "Schell Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587430",
+            "sku": "587430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31238421701c9615dc447561b45806646f97e100f28ea4b7c4980f24a83f8ed7"
+}

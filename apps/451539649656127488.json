@@ -1,0 +1,32 @@
+{
+    "description": "Youtubers Life",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "youtuberslife.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "caf7bca4e46359f029ef7905ae2430a6",
+    "id": "451539649656127488",
+    "name": "Youtubers Life",
+    "publishers": [
+        {
+            "id": "521816689004904469",
+            "name": "U-Play Online"
+        }
+    ],
+    "splash": "a3046082e69b4ee4ba0f2e6b5ff953d0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "428690",
+            "sku": "428690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "041e356b98da0c62cb697f07b6a0568f26adc7d66f8c514171728cb8df5294d7"
+}

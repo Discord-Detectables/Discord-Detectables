@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "Maschine"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "maschine 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d66fd46c06ba96bae3574c1c6e32b906",
+    "id": "505143168287899676",
+    "name": "Native Instruments Maschine 2",
+    "publishers": [
+        {
+            "id": "521816722127192066",
+            "name": "Native Instruments"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "3b2cd1830620256690dbf2f6e0b3f86159c16c39e67649323b91f340f5aa527c"
+}

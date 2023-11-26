@@ -1,0 +1,32 @@
+{
+    "description": "A Taiwanese visual novel about a college student who is suddenly able to see three feline humanoid spirits.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nekojishi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7493ea899554d4d4b3b59e68a51cea4a",
+    "id": "497121061339529226",
+    "name": "Nekojishi",
+    "publishers": [
+        {
+            "id": "521816765186048038",
+            "name": "Team Nekojishi"
+        }
+    ],
+    "splash": "1d619aff0240944eeb4b1e2d62ad1704",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "570840",
+            "sku": "570840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "775e714b555edb9157c3d18c323988174f9bf4100ef2e35791d61ad497e497ab"
+}

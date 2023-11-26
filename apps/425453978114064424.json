@@ -1,0 +1,38 @@
+{
+    "description": "Bloody Good Time is a zany first-person competitive online murder simulator made by Outerlight, developer of the 2006 hit PC game The Ship.",
+    "developers": [
+        {
+            "id": "521816563456802821",
+            "name": "Outerlight Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bgt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1faa4aeb67530f72ddfeeea9992ec45b",
+    "id": "425453978114064424",
+    "name": "Bloody Good Time",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "b2387e9e9bf1f8c0cb165cb98527b8ba",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2450",
+            "sku": "2450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2f3b41281a4726a3e20e708c2aa82c8ec53444df5ffbec0241d14659eacc43cb"
+}

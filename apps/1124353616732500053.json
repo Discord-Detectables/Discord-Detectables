@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the sandbox evolution/thesandbox2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "57f3f3a67d539742062fe5a08564e888",
+    "id": "1124353616732500053",
+    "name": "The Sandbox Evolution",
+    "publishers": [
+        {
+            "id": "1124353617277767691",
+            "name": "PIXOWL INC."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "466940",
+            "sku": "466940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "062a96ebe4cf5e2716a14a52b34895b98e2d5a75b292634ae4913dc963a2e30d"
+}

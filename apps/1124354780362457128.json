@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/partisans-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "81a42545093c9d1c34327eba0483897d",
+    "id": "1124354780362457128",
+    "name": "Partisans 1941",
+    "publishers": [
+        {
+            "id": "1124354780794466345",
+            "name": "Alter Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1227530",
+            "sku": "1227530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "02dcffa59b908da29942c558748e53e14c9217c15e9060cae77ae5ac2bbfaef4"
+}

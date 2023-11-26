@@ -1,0 +1,37 @@
+{
+    "description": "EA's annual soccer release is back for the year 2014.",
+    "developers": [
+        {
+            "id": "521816499950714880",
+            "name": "EA Canada"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fifa15.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "edcddaf8887c9afb5deb3b11a945cff3",
+    "id": "496740139633213490",
+    "name": "FIFA 15",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "3fb96e4109a5acc1067be855fcbd4b8bca2526902f40075643c265875f3231e7"
+}

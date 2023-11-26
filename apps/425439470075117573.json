@@ -1,0 +1,38 @@
+{
+    "description": "The tenth installment of the bloody and storied fighting game franchise picks up decades after the events of the 2011 franchise re-boot, as new and returning kombatants fight throughout the realms over the power of an imprisoned evil.",
+    "developers": [
+        {
+            "id": "521816697448038412",
+            "name": "NetherRealm Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mk10.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3935ccd262aca4bd09dd489c6f6cc3d4",
+    "id": "425439470075117573",
+    "name": "Mortal Kombat X",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "45bd8d3915f1fa18ac6950ec9ed738ef",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "307780",
+            "sku": "307780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5010dda76bddc89b420eefcf0ca94ef71021159765930cad0dc1f14279bdbf1b"
+}

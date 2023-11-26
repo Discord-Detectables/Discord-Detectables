@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "honkaiimpact3rd/bh3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b6bd001ec7f1dc3542a9bbbc0be0b48",
+    "id": "1124351937098301590",
+    "name": "HonkaiImpact 3rd",
+    "publishers": [
+        {
+            "id": "890236907441754153",
+            "name": "miHoYo Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1671200",
+            "sku": "1671200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5920ab82cca6a690e102e8c7385ad5db5040b77de82d92e820a5e25f7c39d19a"
+}

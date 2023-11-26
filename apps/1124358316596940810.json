@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "guilty gear x2 #reload/ggx2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e4c73a24e07d18b75b80bd42370ee25a",
+    "id": "1124358316596940810",
+    "name": "Guilty Gear X2 #Reload",
+    "publishers": [
+        {
+            "id": "521816599095934983",
+            "name": "Arc System Works"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "314030",
+            "sku": "314030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94379fad1f91486ccbd78386cf97a10d1f855e5ef3b02918fdbe5a8c6a77dadf"
+}

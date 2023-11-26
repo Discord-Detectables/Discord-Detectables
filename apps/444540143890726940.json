@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Need For Speed 2016"
+    ],
+    "description": "Need for Speed attempts to reboot the franchise with a focus on nighttime street races, multiplayer action, police chases, and new ways for players to configure and tune their cars.",
+    "developers": [
+        {
+            "id": "521816785801052160",
+            "name": "Ghost Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nfs16.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5921759744d0bf4aa934bf429eb788c",
+    "id": "444540143890726940",
+    "name": "Need for Speed™",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "0c68c948d889958e2035d87301a0bff34c8fa0a38a74fb0b08732088d969322b"
+}

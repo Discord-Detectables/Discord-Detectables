@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "apewar/apewar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd5d60d600d68b11d007622c01bdcc8a",
+    "id": "1124353216621068338",
+    "name": "Apewar",
+    "publishers": [
+        {
+            "id": "1124353217325707344",
+            "name": "Gombe Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2306590",
+            "sku": "2306590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "00152a87611a80b98e1c7e165cf468d24b1c2f292f38d141c2b381f57ee2bdf5"
+}

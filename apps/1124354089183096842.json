@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "princess & conquest/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd725230bce5c43d4822933cf3e0b4e7",
+    "id": "1124354089183096842",
+    "name": "Princess & Conquest",
+    "publishers": [
+        {
+            "id": "1124354089652867203",
+            "name": "Towerfag"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1083880",
+            "sku": "1083880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c518a8be13d984cc8979ae42ef841175a6b564ee3858b60f726d9bb2e4482c4c"
+}

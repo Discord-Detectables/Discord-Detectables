@@ -1,0 +1,38 @@
+{
+    "description": "In Men of Valor you play as Dean Shepard, a young Marine in the United States Marine Corps, trying to stay alive with his squad in the harsh jungles of Vietnam.",
+    "developers": [
+        {
+            "id": "521816568473059340",
+            "name": "2015, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "menofvalor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c594d1ea5713fde6718f4984bbc22167",
+    "id": "425454383820570664",
+    "name": "Men of Valor",
+    "publishers": [
+        {
+            "id": "521816549666062336",
+            "name": "Sierra"
+        }
+    ],
+    "splash": "6b4a392f0a46e5fec595a6d25867422b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "411330",
+            "sku": "411330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d55bcbd4c3131577de0741cd48f65e9bc9b1c71ca840d79d2105717db726964c"
+}

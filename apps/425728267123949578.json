@@ -1,0 +1,38 @@
+{
+    "description": "Join Ray McCall and his brother Thomas on a quest for gold, lust, and greed.",
+    "developers": [
+        {
+            "id": "521816637956161558",
+            "name": "Techland Sp. z o.o."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cojbibgame_x86.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e045bae3e8e7cc494eedc9e12539e3f1",
+    "id": "425728267123949578",
+    "name": "Call of Juarez: Bound in Blood",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "926718fed0ef787ed16c6dbd07fc6bbf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "21980",
+            "sku": "21980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e61a328bd80e568741a2d1beebd9ebd65c62dbc05f4b104cc55f2da917054aa9"
+}

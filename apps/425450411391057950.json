@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "LEGO? Jurassic World"
+    ],
+    "description": "Relive the action of all four Jurassic Park films - in LEGO video game form!",
+    "developers": [
+        {
+            "id": "521816542707449856",
+            "name": "Traveller's Tales Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legojurassicworld_dx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8c834f7941d01cdcda477ebbb953349b",
+    "id": "425450411391057950",
+    "name": "LEGO® Jurassic World",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "86feace413f78ab473e5def81db13565",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "352400",
+            "sku": "352400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "34344c313156cead46d5c8f6cde79d3dff70b505a926c2d726361e9980cf1149"
+}

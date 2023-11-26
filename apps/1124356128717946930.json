@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "empty shell prologue/emptyshell.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "33eca6f5d49eac27c24ad0c46eb8b2de",
+    "id": "1124356128717946930",
+    "name": "EMPTY SHELL: PROLOGUE",
+    "publishers": [
+        {
+            "id": "1124356129183510598",
+            "name": "CC ARTS"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2224850",
+            "sku": "2224850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a3a86ba45b57b63d1ac98f9dae665c70783a7cd9614e6c1cba28f8d0e00b0cc"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "disneyafternoon/capcom_disney_afternoon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5810e2f65b5dae0ab31307b284f577db",
+    "id": "1124358683296550932",
+    "name": "The Disney Afternoon Collection",
+    "publishers": [
+        {
+            "id": "521816574512857088",
+            "name": "Capcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "525040",
+            "sku": "525040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "689240988f2140ef3ba418eae3a0f5c874bf8e9e781e4e8119ee5f9ecca6d185"
+}

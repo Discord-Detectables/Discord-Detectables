@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "squarecells/squarecells.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "be44ce4bd62c16e718dd5da8da08fe99",
+    "id": "1124360360812625930",
+    "name": "SquareCells",
+    "publishers": [
+        {
+            "id": "524352560874651649",
+            "name": "Matthew Brown"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "416770",
+            "sku": "416770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a390c50b226bb29ca016bb1c5ac956efba20dc7c055843f4f023388c8f54c2c6"
+}

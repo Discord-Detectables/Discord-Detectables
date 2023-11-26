@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows/retimed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d8c0a8bc23415996c8db04248e8b26ac",
+    "id": "1124360176066113669",
+    "name": "Retimed",
+    "publishers": [
+        {
+            "id": "524353230805925898",
+            "name": "Team Maniax"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "760810",
+            "sku": "760810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "34e3563fc5f8a1efaed0501f05dd69a6e78a9d5761acfafbc74a31d322371473"
+}

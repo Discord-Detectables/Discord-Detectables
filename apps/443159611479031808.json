@@ -1,0 +1,38 @@
+{
+    "description": "A procedurally generated space exploration game from Hello Games, the creators of Joe Danger.",
+    "developers": [
+        {
+            "id": "521816694797369354",
+            "name": "Hello Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nms.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a13ad44b102c5bb9ec91a72ec9c93099",
+    "id": "443159611479031808",
+    "name": "No Man's Sky",
+    "publishers": [
+        {
+            "id": "521816694797369354",
+            "name": "Hello Games"
+        }
+    ],
+    "splash": "1b0de773265cc85c8286187f43f82683",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "275850",
+            "sku": "275850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "999d67a2127ff938e840b74ed850e29dde9e89ba07a9c5938114d865814699b7"
+}

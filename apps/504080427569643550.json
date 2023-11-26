@@ -1,0 +1,38 @@
+{
+    "description": "Anniversary is a remake of the original Tomb Raider game, running in the engine from Tomb Raider: Legend. Join Lara Croft as she travels the world on her very first adventure all over again!",
+    "developers": [
+        {
+            "id": "521816535753555988",
+            "name": "Crystal Dynamics, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tra.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "865521656b13a4eecb24afb84bfd346e",
+    "id": "504080427569643550",
+    "name": "Tomb Raider: Anniversary",
+    "publishers": [
+        {
+            "id": "521816520817639456",
+            "name": "Eidos Interactive"
+        }
+    ],
+    "splash": "5358c9b7230e94fb7f9fcb1368cbc151",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "8000",
+            "sku": "8000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94769d479cef633e51bdd6459c8ea2d768dda5db79aa3ef722c805fb751cd6ea"
+}

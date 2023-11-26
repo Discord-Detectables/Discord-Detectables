@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eternal battlefield/legion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b1150750110bdf21ebf7dde82be411d9",
+    "id": "1124356993017196624",
+    "name": "Eternal Battlefield",
+    "publishers": [
+        {
+            "id": "1124356993533104188",
+            "name": "Shenzhen Huanjing Technology Co.,Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1193040",
+            "sku": "1193040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f9fccca2fe7b7023c0705a4ee1fa4760de2f454b34c843e07562934a06c3f2d5"
+}

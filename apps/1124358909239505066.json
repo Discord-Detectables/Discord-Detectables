@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cockhead/cockhead.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee665fb8fca372c97720d3c6a8c752c2",
+    "id": "1124358909239505066",
+    "name": "COCKHEAD",
+    "publishers": [
+        {
+            "id": "1124358909751218247",
+            "name": "Yoba Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1172050",
+            "sku": "1172050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "89f2acface9d40ee9489e7f7f8e288a0ac201042b210eab13c8ffdf1739802cc"
+}

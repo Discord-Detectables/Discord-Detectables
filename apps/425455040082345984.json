@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816589050445826",
+            "name": "Fabraz"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "slime-san.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "410112046839889920",
+    "hook": true,
+    "icon": "8eba3a654eb3077e26a7223339734222",
+    "id": "425455040082345984",
+    "name": "Slime-san",
+    "primary_sku_id": "469220845642973194",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "slug": "slime-san",
+    "splash": "eb20542cdd36025bab34b6b4ec96277b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "473530",
+            "sku": "473530"
+        },
+        {
+            "distributor": "discord",
+            "id": "469220845642973194",
+            "sku": "469220845642973194"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0715ca18cb6d4661793f22ea700147793d67141fc52b49efe06efc1e96307523"
+}

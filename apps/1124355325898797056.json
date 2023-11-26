@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "damned/damned.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "06bfea9238fb3ac3d2fddf5ad04de853",
+    "id": "1124355325898797056",
+    "name": "Damned",
+    "publishers": [
+        {
+            "id": "524352310495674379",
+            "name": "9heads Game Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "251170",
+            "sku": "251170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c802832026edb3930d451c82a343d5aeefaf3a1955ab14e376a53f36da2f69ca"
+}

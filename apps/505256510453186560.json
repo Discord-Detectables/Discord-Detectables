@@ -1,0 +1,38 @@
+{
+    "description": "A free-to-play, hack and slash roguelike, developed by Grasshopper Manufacture and published by Gung-Ho Entertainment for the PlayStation 4.",
+    "developers": [
+        {
+            "id": "521816539746271242",
+            "name": "Grasshopper Manufacture inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "brggame-steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5360e438d48b9c6c19416cae8c2e6a35",
+    "id": "505256510453186560",
+    "name": "LET IT DIE",
+    "publishers": [
+        {
+            "id": "521816539746271241",
+            "name": "GungHo Online Entertainment"
+        }
+    ],
+    "splash": "bb7e7df6f41d9a8f6b5843067a64016d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "794600",
+            "sku": "794600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f37d9ac0825232d3f9c70dcfc4ecc34a52a7954e48bbe44e843b299afe50f063"
+}

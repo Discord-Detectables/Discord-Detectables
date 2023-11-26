@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "80 days/80 days.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a88d2da50ee778bba875778393194a08",
+    "id": "1124357992884744192",
+    "name": "80 Days",
+    "publishers": [
+        {
+            "id": "1124357391803236475",
+            "name": "inkle Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "381780",
+            "sku": "381780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e298acd2d63759e9182b5a4e61c18939542d82163776bd8b8761d8da976f7a5c"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "final/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d508ccafe93bcae5621441817e774759",
+    "id": "1124353625783812218",
+    "name": "Pathologic Classic HD",
+    "publishers": [
+        {
+            "id": "524351757455982592",
+            "name": "Ice-Pick Lodge"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "384110",
+            "sku": "384110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9d6a8eb51c219466556c92ef490a7cb61b002858ab97e51e2c14df180bd18a72"
+}

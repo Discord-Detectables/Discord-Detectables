@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "library of ruina/libraryofruina.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bfe67ab11d9347d284dd43ab477494cd",
+    "id": "1124352518533697646",
+    "name": "Library Of Ruina",
+    "publishers": [
+        {
+            "id": "1124352400032022580",
+            "name": "ProjectMoon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1256670",
+            "sku": "1256670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "44997b2c9dfa4964c9b961624dbcfc53f550ba535f69ace6af19e61b99173ba2"
+}

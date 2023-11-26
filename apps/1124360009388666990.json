@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/valakas_story-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "acf85e68e6df1bb394f9a92c214f77c7",
+    "id": "1124360009388666990",
+    "name": "Valakas Story",
+    "publishers": [
+        {
+            "id": "524352914798542878",
+            "name": "Narko Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1171310",
+            "sku": "1171310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f6bd4af8d84ec523ef844cd88124bf58d1476bafa69b8851d29f0a93224a87a8"
+}

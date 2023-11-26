@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "king of the couch zoovival/king_of_the_couch_zoovival.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd3e1f90e8049be81e5a386d89297b62",
+    "id": "1124357418659369091",
+    "name": "King of the Couch: Zoovival",
+    "publishers": [
+        {
+            "id": "1124357419166875709",
+            "name": "Loophole Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "724350",
+            "sku": "724350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e02f862c40388baf15300a5d5c87cbcaf48b8ff6d28a1f00592a7a8c0bf35a5b"
+}

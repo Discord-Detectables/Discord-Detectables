@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "baremetal.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed3f9b742bc684fe12d95fb4177d3d2d",
+    "id": "496534611250118656",
+    "name": "Bare Metal",
+    "publishers": [
+        {
+            "id": "521816583115505696",
+            "name": "Michael McCartney"
+        }
+    ],
+    "splash": "45d3506e9b05a437c09714bd517ceb62",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "674130",
+            "sku": "674130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f3840f22d3a288102d2206c5c44c1f877e193f9569e979e45d301b302e9c56c1"
+}

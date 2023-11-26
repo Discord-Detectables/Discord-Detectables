@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "babble royale/babbleroyale.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d144b9c5c0594773d508f49a898ad37d",
+    "id": "1124353448134062203",
+    "name": "Babble Royale",
+    "publishers": [
+        {
+            "id": "1124353448599638210",
+            "name": "Everybody House Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1759440",
+            "sku": "1759440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e570353f83ff82e742497fedb37d093b71401393b0103d36273b4a6b6718149"
+}

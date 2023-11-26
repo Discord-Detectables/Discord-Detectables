@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/karnagevr-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d49fa3d2f2a085d61e25a9e33cd14758",
+    "id": "1124356588438827110",
+    "name": "Karnage Chronicles",
+    "publishers": [
+        {
+            "id": "524352741972115478",
+            "name": "Nordic Trolls"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "611160",
+            "sku": "611160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eac4d0b2ac199d4a30d3706092ae3216163f05101949b21e0d1241d9b4344c9c"
+}

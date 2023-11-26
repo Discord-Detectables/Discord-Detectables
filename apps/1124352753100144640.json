@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "postal1/postal plus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e737940e8e1c93ff9a9350c5dbcc9b55",
+    "id": "1124352753100144640",
+    "name": "POSTAL",
+    "publishers": [
+        {
+            "id": "521816665168543755",
+            "name": "Running With Scissors"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "232770",
+            "sku": "232770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c56c6184f40b3b446f4832d766477fece14e0a2e32c856c165e4a040c6a91a0f"
+}

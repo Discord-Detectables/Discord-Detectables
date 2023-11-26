@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gloomwood demo/gloomwood.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "451833d22d632ec1693800ee279ed61f",
+    "id": "1129505036372824104",
+    "name": "Gloomwood Demo",
+    "publishers": [
+        {
+            "id": "1124355867253428325",
+            "name": "Dillon Rogers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1325100",
+            "sku": "1325100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8f72fd767d7394bce0aa43a6281b085fa63e1067e2f84aa4895cea20fc2a844"
+}

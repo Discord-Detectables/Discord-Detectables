@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "almost home now/almosthomenow.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "88965f99fc601b66288889251d396df9",
+    "id": "1124357554579976372",
+    "name": "Almost Home Now",
+    "publishers": [
+        {
+            "id": "1124357555095883806",
+            "name": "Timberwell 本幺"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1994230",
+            "sku": "1994230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1d8487c7f2a529aa0af6594186bf2c41882d659d31d45b1dd56ab72067b0ea62"
+}

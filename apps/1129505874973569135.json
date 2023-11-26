@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bullet heaven 2/bullet heaven 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b22acfa86b07a45159454d8e905add83",
+    "id": "1129505874973569135",
+    "name": "Bullet Heaven 2",
+    "publishers": [
+        {
+            "id": "1124354377537306696",
+            "name": "Matt Roszak"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "412670",
+            "sku": "412670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "18ce82dea900a0193df04e9c85f78227387f096dc49ac67de2405a7fcc19c584"
+}

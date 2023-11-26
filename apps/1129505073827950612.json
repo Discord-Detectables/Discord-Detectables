@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Rushdown Revolt"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rushdown revolt - open alpha/rushdown revolt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "481c1f294af092add2bcd9c37a87eda8",
+    "id": "1129505073827950612",
+    "name": "Rushdown Revolt - Pre-Beta Testing",
+    "publishers": [
+        {
+            "id": "1129505074499043550",
+            "name": "Vortex Games"
+        },
+        {
+            "id": "1129505074499043550",
+            "name": "Vortex Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1376070",
+            "sku": "1376070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "552c59f88c6cb7f579ae1ac221188e1e479c003528a9bbcb498304132033ac11"
+}

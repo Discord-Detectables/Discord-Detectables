@@ -1,0 +1,38 @@
+{
+    "description": "Trackday Manager is a simulation game where players take control of a manager of a racing team.",
+    "developers": [
+        {
+            "id": "521816597569208329",
+            "name": "Arctic Hazard Game Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trackday manager.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a53bd1b5072523dfe70c714b21437c98",
+    "id": "504082602848813087",
+    "name": "Trackday Manager",
+    "publishers": [
+        {
+            "id": "521816597569208326",
+            "name": "Arctic Hazard Game Studio a/s"
+        }
+    ],
+    "splash": "712ae432e132b366a6bdce9100c15499",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "348030",
+            "sku": "348030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59571dcf769ca48557f1ec7b4ae85fc413a2f87f05e6b7a9782da12e7c2a6824"
+}

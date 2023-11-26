@@ -1,0 +1,38 @@
+{
+    "description": "3D Indie PVE Space MMO where players focus on exploring procedurally generated solar systems, space combat, mining, and trading.",
+    "developers": [
+        {
+            "id": "521816517071994892",
+            "name": "Fluffy Kitten Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thespacegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "000815c454545893303b432efd5109be",
+    "id": "496533328833544227",
+    "name": "Ascent - The Space Game",
+    "publishers": [
+        {
+            "id": "521816517071994892",
+            "name": "Fluffy Kitten Studios"
+        }
+    ],
+    "splash": "a8ebd10e6f9a44ec574d324a44b21988",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "345010",
+            "sku": "345010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b0720681869f92b66670117e7cf24407652f448b2dce87bdd211fbe06a1f2ec"
+}

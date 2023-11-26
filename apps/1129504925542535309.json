@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Monster Sanctuary"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monster sanctuary/monster sanctuary.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6213c0887dcb722444c0cca809e98533",
+    "id": "1129504925542535309",
+    "name": "Monster Sanctuary",
+    "publishers": [
+        {
+            "id": "1129504926444306542",
+            "name": "Moi Rai Games"
+        },
+        {
+            "id": "1129504926444306542",
+            "name": "Moi Rai Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "814370",
+            "sku": "814370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e98bfb14c73d51ae4ecd70880b9c1e50b4bf03806316b0ada28719f36ffcfb27"
+}

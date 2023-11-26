@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scrapvival/scrapvival.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c4a59a5db21858ec6b178a6e36b8a4e",
+    "id": "1124359127620132944",
+    "name": "Scrapvival",
+    "publishers": [
+        {
+            "id": "1124359128140238919",
+            "name": "Matus Pavkeje"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1809160",
+            "sku": "1809160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4baa32adad15881670cf9e6c65036da0710a82a9dec22714e17654c56dafb239"
+}

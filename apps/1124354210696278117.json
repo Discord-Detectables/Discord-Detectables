@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "granny/granny.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dda59994efedeeff08850117919b1c4b",
+    "id": "1124354210696278117",
+    "name": "Granny",
+    "publishers": [
+        {
+            "id": "524353285994577956",
+            "name": "DVloper"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "962400",
+            "sku": "962400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3b3114cc094e6e0f879101ab7045f6222885345a684f11cf223d336a68a65426"
+}

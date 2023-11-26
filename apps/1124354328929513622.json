@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dr langeskov the tiger and the terribly cursed emerald a whirlwind heist/drlangeskov.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1c7a8635cfac8bb9e0f1fed0f15bb99",
+    "id": "1124354328929513622",
+    "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",
+    "publishers": [
+        {
+            "id": "524352490565664805",
+            "name": "Crows Crows Crows"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "409160",
+            "sku": "409160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1446dec73e0b57ae0e14c7857a68b35b208a34f8c6b069d94874fc52493b5125"
+}

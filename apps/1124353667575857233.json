@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/aircar-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c54f44b843164b61a8abe953542bad6d",
+    "id": "1124353667575857233",
+    "name": "Aircar",
+    "publishers": [
+        {
+            "id": "1124353668095946833",
+            "name": "Giant Form Entertainment, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1073390",
+            "sku": "1073390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff371bf630b5c6ae619cba93327e3e7ff8d6525b7ebbf5beb22bd4c4c13a8189"
+}

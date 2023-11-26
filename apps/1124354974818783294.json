@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/projectnimble.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b64871be1bba288985d73c451c3b3159",
+    "id": "1124354974818783294",
+    "name": "Worms Rumble",
+    "publishers": [
+        {
+            "id": "1124353118428221450",
+            "name": "Team17 Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1186040",
+            "sku": "1186040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f2e50e813a8f580410e7ba32e34335a3ab898298c37bf8678b43aec1b32b7b9f"
+}

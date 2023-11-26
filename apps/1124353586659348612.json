@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rogue heroes/rogue heroes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fd5501661e06b3d5ee2335f171d4d08d",
+    "id": "1124353586659348612",
+    "name": "Rogue Heroes: Ruins of Tasos",
+    "publishers": [
+        {
+            "id": "524352731465646093",
+            "name": "Heliocentric Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "787810",
+            "sku": "787810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73ffda94992f10ef7f83731a1876982579f15bb2b5f8175f9d2fbcf4e695594e"
+}

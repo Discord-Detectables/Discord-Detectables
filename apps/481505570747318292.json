@@ -1,0 +1,42 @@
+{
+    "description": "EKO Software's zombie survival series goes to New Orleans.",
+    "developers": [
+        {
+            "id": "521816670004576266",
+            "name": "Eko Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "howtosurvive2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1ab2c1a5c756c44a9f1d4f33eca6e54",
+    "id": "481505570747318292",
+    "name": "How to Survive 2",
+    "publishers": [
+        {
+            "id": "521816570520141824",
+            "name": "505 Games"
+        },
+        {
+            "id": "521816670004576266",
+            "name": "Eko Software"
+        }
+    ],
+    "splash": "8c708c9791ba620faf53532356c7c00d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "360170",
+            "sku": "360170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "079b45c55bec68276201fad2f3e177c56ad975c820d245cbded82cd15c598f60"
+}

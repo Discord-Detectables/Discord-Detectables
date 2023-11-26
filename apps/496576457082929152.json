@@ -1,0 +1,46 @@
+{
+    "description": "A vertical-scrolling action roguelike that is heavily inspired by Spelunky.",
+    "developers": [
+        {
+            "id": "521816765680844831",
+            "name": "Moppin"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "downwell.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "146b8b583fb8cb50f1c505b98d67431a",
+    "id": "496576457082929152",
+    "name": "Downwell",
+    "publishers": [
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        },
+        {
+            "id": "521816765680844831",
+            "name": "Moppin"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "360740",
+            "sku": "360740"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "d35b854385572309634e2cec8bd68109653e3462160a318e872f80f4e6e0c70e"
+}

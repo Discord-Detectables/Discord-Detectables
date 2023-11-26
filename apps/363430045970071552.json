@@ -1,0 +1,59 @@
+{
+    "aliases": [
+        "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+    ],
+    "description": "The Naruto series jumps to eighth generation consoles with the fourth sequential installment of the Ultimate Ninja Storm series.",
+    "developers": [
+        {
+            "id": "521816579797811203",
+            "name": "CyberConnect2 Co., Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nsuns4.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "naruto shippuden ultimate ninja storm 4/x360ce.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "naruto shippuden ultimate ninja storm 4/x360ce_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2a5bf84a9fc4b4c88a9f1c0e043c5c0",
+    "id": "363430045970071552",
+    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        },
+        {
+            "id": "521816632801361929",
+            "name": "CyberConnect2 Co. Ltd."
+        },
+        {
+            "id": "521816632801361929",
+            "name": "CyberConnect2 Co. Ltd."
+        }
+    ],
+    "splash": "44e81aebf2522ae8e6dbb795c9d4a913",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "349040",
+            "sku": "349040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "512c0d386d3616544a72f38dca9f9a9cf0fb7fd9e3ce17e0b44f9971c581426a"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "postal iii/p3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5cfef2b457e50589f403b24a6a3ad5d",
+    "id": "1170256135748603964",
+    "name": "Postal 3",
+    "publishers": [
+        {
+            "id": "1170256136939765790",
+            "name": "Trashmasters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "10220",
+            "sku": "10220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1ac7a25d9fa233b78f6acbe6c8a372ad84dcf5b140d5e8383f58566e480bdda"
+}

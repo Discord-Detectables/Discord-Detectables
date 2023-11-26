@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nekopara vol. 3/nekoparavol3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7822d5f861c79e485bf18e9ef64808e",
+    "id": "1124353786954133554",
+    "name": "NEKOPARA Vol. 3",
+    "publishers": [
+        {
+            "id": "521816576895352838",
+            "name": "NEKO WORKs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "602520",
+            "sku": "602520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6973ef472b7fe4497efb00c03e2459c41bb384c0914b8ef511dd1f83e2b7ea3c"
+}

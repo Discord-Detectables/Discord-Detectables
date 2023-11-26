@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "piercing blow/piercingblow.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e74da08233adb51b75595210224de728",
+    "id": "1124358716645457970",
+    "name": "Piercing Blow",
+    "publishers": [
+        {
+            "id": "1124358717144576120",
+            "name": "Zepetto Co."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "382850",
+            "sku": "382850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "86598484f2568fbc7e6b7ed33e79e16ed7b5a96acbf0af14004509641e5bf10e"
+}

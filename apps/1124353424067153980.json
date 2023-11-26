@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zoo tycoon/zootycoon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "89bbca4a276cdc85470a1d533304a565",
+    "id": "1124353424067153980",
+    "name": "Zoo Tycoon",
+    "publishers": [
+        {
+            "id": "521816604175106059",
+            "name": "Frontier Developments"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "613880",
+            "sku": "613880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1038acabc47e059d26043f98a0468f6f9f46d962797e26d07df6cfe93f3147c2"
+}

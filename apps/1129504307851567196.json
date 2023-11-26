@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Street Fighter 6"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "street fighter 6/streetfighter6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "51d4b50896354ec0defad8fd9975211e",
+    "id": "1129504307851567196",
+    "name": "Street Fighter™ 6",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        },
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1364780",
+            "sku": "1364780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25de95e276d7511f19b097925584648c066ecf0a419fec38ec159cec648b506e"
+}

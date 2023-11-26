@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tristoy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16929d386e2f9de7a650c28ee0f695af",
+    "id": "425458781451845632",
+    "name": "TRISTOY",
+    "publishers": [
+        {
+            "id": "521816731153596447",
+            "name": "Uniworlds Game Studios"
+        }
+    ],
+    "splash": "7148f2da0c5e82f96990c269856124c6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "303260",
+            "sku": "303260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7779aa71aa293f887cc18fbf0d3f0bca9cb198bbdbef93b2f8469095c4692de4"
+}

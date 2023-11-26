@@ -1,0 +1,36 @@
+{
+    "description": "Tibia is an MMORPG created in 1997 by developer CipSoft GmbH. At present, more than 250,000 users play the game regularly.",
+    "developers": [
+        {
+            "id": "521816613364957195",
+            "name": "CipSoft GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tibia/bin/client.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tibia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f3698e7b1a0d6eb986e31b9a267cc43d",
+    "id": "406645450863804416",
+    "name": "Tibia",
+    "publishers": [
+        {
+            "id": "521816613364957195",
+            "name": "CipSoft GmbH"
+        }
+    ],
+    "splash": "800e416065444539528e30b2df55c53e",
+    "summary": "",
+    "type": 1,
+    "verify_key": "5f06200c9e064cef69d3e804a20b8a7c6b4b96d3825b8faecacb82609b25ff56"
+}

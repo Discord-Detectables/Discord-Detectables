@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bakerysimulatorfull-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b34a66032a24d94326451195e9a10a0a",
+    "id": "1124360232705998888",
+    "name": "Bakery Simulator",
+    "publishers": [
+        {
+            "id": "1124353954864713748",
+            "name": "Live Motion Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1031120",
+            "sku": "1031120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "143a03bfebd0f420ad9481a5117f5bae4f196bc1e673e92f1dfced04e75048bb"
+}

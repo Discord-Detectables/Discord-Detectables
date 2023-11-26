@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/likeadragonishin-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5f154376c90cae38559a55e80a2a8c3b",
+    "id": "1124356498911412334",
+    "name": "Like a Dragon: Ishin!",
+    "publishers": [
+        {
+            "id": "521816684957270028",
+            "name": "Ryu ga Gotoku Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1805480",
+            "sku": "1805480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "16750acb538a00773eaa50893bb20b2842d5e8694bf5ad2a137b0028beb5ab95"
+}

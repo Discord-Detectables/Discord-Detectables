@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "senran kagura shinovi versus/skshinoviversus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "924c8ce7f86555c040d67a8fec513136",
+    "id": "1124356355097112667",
+    "name": "SENRAN KAGURA SHINOVI VERSUS",
+    "publishers": [
+        {
+            "id": "1124354425075552296",
+            "name": "Tamsoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "411830",
+            "sku": "411830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c1fc2ccc56b01d8721be1d27a414632294f6116910c8cf430d6176a1e948db8a"
+}

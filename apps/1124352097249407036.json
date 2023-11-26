@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "humankind/humankind.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "699d681543ab1a75d75b73d4fa0a418c",
+    "id": "1124352097249407036",
+    "name": "HUMANKIND™",
+    "publishers": [
+        {
+            "id": "521816527343845459",
+            "name": "Amplitude Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1124300",
+            "sku": "1124300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9f6ec330d910bff22b875c5557af41e05e955bbf905a55bcd9046c549ad37915"
+}

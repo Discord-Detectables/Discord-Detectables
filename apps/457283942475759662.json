@@ -1,0 +1,29 @@
+{
+    "description": "Sequel to Wizard101",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pirate101.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pirate.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e66b26299010a726ae95153061568180",
+    "id": "457283942475759662",
+    "name": "Pirate101",
+    "publishers": [
+        {
+            "id": "521816682684088331",
+            "name": "KingsIsle Entertainment, Inc."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "40e6dee4bdc8f2e54e4777eef0d12cdf9e9562b7a09a84917ab1935a6f77552c"
+}

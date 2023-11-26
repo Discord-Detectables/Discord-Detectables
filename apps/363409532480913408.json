@@ -1,0 +1,45 @@
+{
+    "description": "Robocraft is a competitive multiplayer shooter in which players build their own robots and pit them against each other. Crates earned after each match contain parts that can be used in future builds.",
+    "developers": [
+        {
+            "id": "521816790599335989",
+            "name": "Freejam"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "robocraftclient.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "robocraft.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "194767680849313792",
+    "hook": true,
+    "icon": "8e67203ca773e07253d6254818cf4749",
+    "id": "363409532480913408",
+    "name": "Robocraft",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816790599335989",
+            "name": "Freejam"
+        }
+    ],
+    "splash": "aeb2e92af3061ec0c12fb74c41a162dd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "301520",
+            "sku": "301520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a9c1dd42d56630f8d88d293d7058f1179d915d203972592b75e79c8925fab585"
+}

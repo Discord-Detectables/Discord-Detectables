@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "flower girl/flower girl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff7b0d2a6e23b7c0f892512bd6ff5788",
+    "id": "1124355820138803300",
+    "name": "花妖物语/Flower girl",
+    "publishers": [
+        {
+            "id": "1124355820575019169",
+            "name": "ohiyosoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1568940",
+            "sku": "1568940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ce63d27d7a5a2deb33fed762fa9d255c6b38ea74abcd4e47e3f41dc61f3b36b1"
+}

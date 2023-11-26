@@ -1,0 +1,38 @@
+{
+    "description": "Creative Destruction ",
+    "developers": [
+        {
+            "id": "521816694797369364",
+            "name": "ZuoMasterDeveloper"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "creativedestruction/client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a8efab1e3feafb782232df1cc54a71da",
+    "id": "501792352898121743",
+    "name": "CreativeDestruction",
+    "publishers": [
+        {
+            "id": "521816694797369360",
+            "name": "Titan Studio"
+        }
+    ],
+    "splash": "c55a4c178727e6ac1f187e39cbc2ff37",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "893520",
+            "sku": "893520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5cb021d7d5220ed2193d3d3d43948bd18f896086c033897133f8404a3df4dba1"
+}

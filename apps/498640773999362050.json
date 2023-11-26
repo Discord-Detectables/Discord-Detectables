@@ -1,0 +1,45 @@
+{
+    "description": "Play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla. Impress the Gods!",
+    "developers": [
+        {
+            "id": "521816587041505293",
+            "name": "Thunder Lotus Games "
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jotun.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c27f19ac71aa714c32bcbaa493fa7684",
+    "id": "498640773999362050",
+    "name": "Jotun",
+    "primary_sku_id": "498691662705328138",
+    "publishers": [
+        {
+            "id": "521816587041505293",
+            "name": "Thunder Lotus Games "
+        }
+    ],
+    "slug": "jotun",
+    "splash": "39b3e48748293b5fa283e7bb667d50d0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "498691662705328138",
+            "sku": "498691662705328138"
+        },
+        {
+            "distributor": "steam",
+            "id": "323580",
+            "sku": "323580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e444a0878674091b30285b0618c67a1028e606866390ede35a50204bbc3b43dc"
+}

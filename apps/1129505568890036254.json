@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "The Spike",
+        "더 스파이크 (The Spike)"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the spike/the_spike.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "528472edd49c286e968cd6e6c8ead981",
+    "id": "1129505568890036254",
+    "name": "The Spike",
+    "publishers": [
+        {
+            "id": "1129505569628246059",
+            "name": "SUNCYAN studio"
+        },
+        {
+            "id": "1129505571528261774",
+            "name": "Osik"
+        },
+        {
+            "id": "1129505571528261774",
+            "name": "Osik"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1296840",
+            "sku": "1296840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03d4db4a5b39b6de62ce554cf6ee48ebb453843ee65bc2986dee1c4811923b32"
+}

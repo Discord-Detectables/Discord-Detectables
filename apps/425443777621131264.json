@@ -1,0 +1,39 @@
+{
+    "description": "Let Them Come is a side-scrolling, pixel art shoot 'em up.",
+    "developers": [
+        {
+            "id": "521816578786852876",
+            "name": "Klemen Lozar"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "letthemcome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "306957465407324171",
+    "hook": true,
+    "icon": "4b8a09cd8e7df4643b36232d51519dfa",
+    "id": "425443777621131264",
+    "name": "Let Them Come",
+    "publishers": [
+        {
+            "id": "521816509111336966",
+            "name": "Versus Evil"
+        }
+    ],
+    "splash": "28dbaa98a61bde0f746440024074c2dc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "505630",
+            "sku": "505630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d5b1d460800362d7a8c8b9d1c91fc3466731efcb4a864d187bf05227e2bd99a7"
+}

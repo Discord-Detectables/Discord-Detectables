@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "katana zero/katana zero.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "86e396c18e439e6ca83d6eed6fe614cc",
+    "id": "1124351888737972295",
+    "name": "Katana ZERO",
+    "publishers": [
+        {
+            "id": "524352244343373834",
+            "name": "Askiisoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "460950",
+            "sku": "460950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4b73f08f30799ca69e2397283eef876b7fe66af95414ec899448f8c529b68566"
+}

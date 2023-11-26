@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ez2on reboot r/ez2on.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "80cd50dea6c9d0bfe8f5b5c199a52ed3",
+    "id": "1124354669985153145",
+    "name": "EZ2ON REBOOT : R",
+    "publishers": [
+        {
+            "id": "1124354670484271184",
+            "name": "Neonovice Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1477590",
+            "sku": "1477590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6b57675db49f628605abb496c98ff6616e799a079a5bac9dc97bcfb38a3d705d"
+}

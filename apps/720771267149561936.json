@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "Age of Empires: Definitive Edition"
+    ],
+    "cover_image": "1877359b4a2072badf387c676b517b04",
+    "description": "Age of Empires, the pivotal real-time strategy game that launched a 20-year legacy returns with modernized gameplay, all-new 4K visuals, 8-person multiplayer battles and a host of other new features. Welcome back to history.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "age of empires - definitive edition/aoede_s.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "aoede_s.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "70afb8485fa303d9479b4fb6c0d921a6",
+    "id": "720771267149561936",
+    "name": "Age of Empires: Definitive Edition",
+    "summary": "",
+    "type": 1,
+    "verify_key": "4c9b95c8163a6aed6629e3c89e064a5b7df47c6237eaf6d4a908958c30da008d"
+}

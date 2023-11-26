@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "exoblast/exoblast.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4100ede336b34da9aeb8f087e21c74b3",
+    "id": "1124358300474036354",
+    "name": "Exoblast",
+    "publishers": [
+        {
+            "id": "524352422605357060",
+            "name": "Dreamirl"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "725100",
+            "sku": "725100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ccfcb3646e3be0403ab21499683fff4cc27672810046a49b5081aa621191f862"
+}

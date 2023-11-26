@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "this land is my land/this land is my land.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ccd61f344515a59eb48ff8615432726e",
+    "id": "1124353898921078805",
+    "name": "This Land Is My Land",
+    "publishers": [
+        {
+            "id": "524352333501562912",
+            "name": "Game-Labs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1069640",
+            "sku": "1069640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "98e6b3ccbb739dcdd5e1ecc66beef8ba426e2fefbc422dbc685c499117eff8bf"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amanda the adventurer demo/amanda the adventurer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "80269724fa755de3b211dfa2c8036162",
+    "id": "1124352545536618576",
+    "name": "Amanda the Adventurer Demo",
+    "publishers": [
+        {
+            "id": "1124352546018971648",
+            "name": "mangledMAW Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2198750",
+            "sku": "2198750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "85b19c503f91a95d54d00f96559ea342bc5ceba5174fd1ef5381a212711a8c58"
+}

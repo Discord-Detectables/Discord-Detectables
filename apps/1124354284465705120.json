@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "secretpie/secretpie.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a64bdca8a4f9310c25dce05c2957a7ad",
+    "id": "1124354284465705120",
+    "name": "Secret Pie",
+    "publishers": [
+        {
+            "id": "1124354284948045987",
+            "name": "Momentum Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1802870",
+            "sku": "1802870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c17427d42f1c7443b3bd3534e7011032815c160227e59f290ac6c50ffeab4e53"
+}

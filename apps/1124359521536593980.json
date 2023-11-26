@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/supralandsiu-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5232240a27c0cf9b3e692c6f326ce7c5",
+    "id": "1124359521536593980",
+    "name": "Supraland Six Inches Under",
+    "publishers": [
+        {
+            "id": "1124359522002157639",
+            "name": "Supra Games UG"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1522870",
+            "sku": "1522870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fe1dbd40c445699e3842bfc40d032107317ebe403ad904d525757684a0bc0661"
+}

@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "AMID EVIL"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/amidevil-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59b202a6e652b772d36f0939593f2804",
+    "id": "1164995500081172480",
+    "name": "AMID EVIL",
+    "publishers": [
+        {
+            "id": "598964647265042433",
+            "name": "Indefatigable"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "673130",
+            "sku": "673130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3ada6ff3aa655f8cc34283348394d5b80fd5f7f196d139033ee7ffa4e1b2f106"
+}

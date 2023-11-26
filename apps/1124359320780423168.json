@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "contraptionmaker/contraptionmaker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "28122be773fdfc64e33d42bee573eb9b",
+    "id": "1124359320780423168",
+    "name": "Contraption Maker",
+    "publishers": [
+        {
+            "id": "1124359321334067222",
+            "name": "Game Dev Castle"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "241240",
+            "sku": "241240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "30fcaca64e3e17c5b1ebbc846d2a181b0af45c1f75f05109aeb38060ced4d46b"
+}

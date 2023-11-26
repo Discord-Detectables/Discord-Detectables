@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Lego Harry Potter"
+    ],
+    "description": "The popular LEGO franchise adds Harry Potter to its list of conquests in this action-adventure from Warner Bros and Traveller's Tales. The game covers the first four books/movies, and Hogwarts acts as a main hub, containing many secret areas and unlockables.",
+    "developers": [
+        {
+            "id": "521816611506880523",
+            "name": "TT Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legoharrypotter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f78b31d6488fefdf3a6d64ef6efce82",
+    "id": "425460457558769674",
+    "name": "LEGO Harry Potter: Years 1-4",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "2eb795534738314b1fe5443baf1d36ae",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "21130",
+            "sku": "21130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "279509caf673a66c352510c3fc04e119d90732ca1386a80d3a638d320c30fd87"
+}

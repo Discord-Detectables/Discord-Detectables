@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mxgp2 - the official motocross videogame/mxgp_2x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cfda920fecbc99bfd5a9fb14b1238926",
+    "id": "1124360645744283699",
+    "name": "MXGP2 - The Official Motocross Videogame",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400800",
+            "sku": "400800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d64e2a7edb4f9fd1bb1e82be30d4c5ccdcf22ba74dcf129b7ba91270698e0a9e"
+}

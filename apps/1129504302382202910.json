@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Lobotomy Corporation"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lobotomycorp/lobotomycorp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "498ee4b3576ebecef15557cb399e9b48",
+    "id": "1129504302382202910",
+    "name": "Lobotomy Corporation",
+    "publishers": [
+        {
+            "id": "1124352400032022580",
+            "name": "ProjectMoon"
+        },
+        {
+            "id": "524352711378862104",
+            "name": "Project Moon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "568220",
+            "sku": "568220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c61d8b630c3b9862c0df2702bf400e1aee0fbc9d1547ea8133439c870c5f2972"
+}

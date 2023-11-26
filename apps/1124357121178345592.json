@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deathcoming/xdeath.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de0dbbe2fe6b29c0ae2786a3d6950faf",
+    "id": "1124357121178345592",
+    "name": "DeathComing",
+    "publishers": [
+        {
+            "id": "1124352406386393098",
+            "name": "NEXT Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "705120",
+            "sku": "705120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "add59b73d3cd7cd8664882b2de8185413a5f18b567eeacacc9b8d087e349b586"
+}

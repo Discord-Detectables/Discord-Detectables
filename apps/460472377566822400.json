@@ -1,0 +1,38 @@
+{
+    "description": "Side-scrolling 2D action RPG about a sailor shipwrecked on a mysterious island.",
+    "developers": [
+        {
+            "id": "521816505688522760",
+            "name": "Ska Studios, LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "salt and sanctuary/salt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "96973b32acd1da2ee41291e76a86a95b",
+    "id": "460472377566822400",
+    "name": "Salt and Sanctuary",
+    "publishers": [
+        {
+            "id": "521816505688522760",
+            "name": "Ska Studios, LLC"
+        }
+    ],
+    "splash": "27f50e496f454dab24eed0d6c0de3d59",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "283640",
+            "sku": "283640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2168634c05f44395406d24d79094b74a30c6c9431333477921f159d5b2d3ce63"
+}

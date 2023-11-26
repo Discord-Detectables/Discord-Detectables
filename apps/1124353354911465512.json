@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nekopara vol. 2/nekopara_vol2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7822d5f861c79e485bf18e9ef64808e",
+    "id": "1124353354911465512",
+    "name": "NEKOPARA Vol. 2",
+    "publishers": [
+        {
+            "id": "521816576895352838",
+            "name": "NEKO WORKs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "420110",
+            "sku": "420110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e73d188aa506b72cbffebfda52dc622ff375e4f34f0832bfaa9d8c1dc5e2757b"
+}

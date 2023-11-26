@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metal hellsinger demo/metal.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e38657c2ead1255528bb75364fc3da35",
+    "id": "1124352397909704754",
+    "name": "Metal: Hellsinger Demo",
+    "publishers": [
+        {
+            "id": "1124352398366879835",
+            "name": "The Outsiders"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1952410",
+            "sku": "1952410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "550b1acedc3e2b55323e14d1a6fe10e3bfb7bf30c6d9ba297add7c3716274849"
+}

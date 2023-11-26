@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "somesome/somesome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e2d20a04bae2d5b42701790c7366ca0c",
+    "id": "1124355473836097657",
+    "name": "썸썸 편의점",
+    "publishers": [
+        {
+            "id": "1124355474364575855",
+            "name": "TALESSHOP Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1217390",
+            "sku": "1217390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c21e7c5d26e3069d8a96ec366e805b7f9259b640199773ee85735283904b4894"
+}

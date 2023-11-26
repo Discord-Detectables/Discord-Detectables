@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/darkalliance-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "54f5051a9a3aec5254e597d1ce0d055f",
+    "id": "1124354260033875988",
+    "name": "Dungeons & Dragons: Dark Alliance",
+    "publishers": [
+        {
+            "id": "524352512392691784",
+            "name": "Tuque Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "623280",
+            "sku": "623280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb7ad2ec49da6f7af8f5cfdbda02ca25621a4dd8b6ff10da6d70cc52c9999c11"
+}

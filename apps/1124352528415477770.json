@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "max payne/maxpayne.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0eddd5e4b0b1f3bc6aaafdf04f86a113",
+    "id": "1124352528415477770",
+    "name": "Max Payne",
+    "publishers": [
+        {
+            "id": "521816635749695508",
+            "name": "Remedy Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "12140",
+            "sku": "12140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ec8bd522c50f8565dac6c9e68571c7939af710c1d181a2295e1ee20227a0d7bf"
+}

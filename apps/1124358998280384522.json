@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vanguard-princess/vanpri.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1b944ded7bb5d193ec8eeff7b4c08146",
+    "id": "1124358998280384522",
+    "name": "Vanguard Princess",
+    "publishers": [
+        {
+            "id": "524352299343151108",
+            "name": "Tomoaki Sugeno"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "262150",
+            "sku": "262150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c17d5c0ba436b73614ac34622f19590874b785a0312dc80630c8143d77c58a3f"
+}

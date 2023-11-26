@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stacklands/stacklands.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd6b3e6abc03d0f93400cbe2f55c5187",
+    "id": "1124352074927325257",
+    "name": "Stacklands",
+    "publishers": [
+        {
+            "id": "524353283251503114",
+            "name": "Sokpop Collective"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1948280",
+            "sku": "1948280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c22266ecf2f3361a3438a5ed5b2d308539b4a3ae4cd881e07f6dbf02e24a2e3f"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "slay the princess demo/slaytheprincessdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c4d802448da1e8f998b47b478adcd22",
+    "id": "1124357354083860490",
+    "name": "Slay the Princess Demo",
+    "publishers": [
+        {
+            "id": "1124357354603950080",
+            "name": "Black Tabby Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1989300",
+            "sku": "1989300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c5ce9241a8568fe65d9420f4c603a187524c38cc0416b41eb9827f3fc4e6f68e"
+}

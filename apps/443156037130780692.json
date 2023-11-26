@@ -1,0 +1,39 @@
+{
+    "description": "Darwin Project reimagines the battle royale genre, adding reality show elements such as spectator interaction and even a Show Director who controls the arena. Ten players must withstand extreme environmental conditions, track opponents, craft tools, set traps, and fight to be the last one left alive.",
+    "developers": [
+        {
+            "id": "521816617571581964",
+            "name": "Scavengers Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darwin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "309438551798317066",
+    "hook": true,
+    "icon": "773a1574fd5f2406c3e85fc2bbd3490a",
+    "id": "443156037130780692",
+    "name": "Darwin Project",
+    "publishers": [
+        {
+            "id": "521816617571581964",
+            "name": "Scavengers Studio"
+        }
+    ],
+    "splash": "54703f2eb0fbfd9c65f71e4bcc807a81",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "544920",
+            "sku": "544920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c4165e67200a25e31898a20ad282729b4bf774fcd58ef6a0de316b554c41b57f"
+}

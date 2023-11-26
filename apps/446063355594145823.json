@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Armored Warfare MyCom"
+    ],
+    "description": "Armored Warfare is a free-to-play, modern military, tactical MMO from Obsidian Entertainment.",
+    "developers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "armoredwarfare.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "301850249977266178",
+    "hook": true,
+    "icon": "f0f574d82ed29d909ce5e3959b9b2549",
+    "id": "446063355594145823",
+    "name": "Armored Warfare",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816651797233664",
+            "name": "Mail.Ru"
+        },
+        {
+            "id": "521816512085098549",
+            "name": "My.com"
+        },
+        {
+            "id": "521816750296137754",
+            "name": "My.com B.V."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "1b174900944254d9747acbc232b908e6bf3ab56259586467f2a27095e45a83ca"
+}

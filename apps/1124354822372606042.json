@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dealerslife2/dealerslife2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0aa4775a386d19a003423bdb5a6d083",
+    "id": "1124354822372606042",
+    "name": "Dealer's Life 2",
+    "publishers": [
+        {
+            "id": "1124354822888501358",
+            "name": "Abyte Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1343670",
+            "sku": "1343670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "09f1a8a5aeb0cb0a8777cd670a09fa5d0525ca383045b5d02b78e8fd1b713be4"
+}

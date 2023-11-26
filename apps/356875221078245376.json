@@ -1,0 +1,45 @@
+{
+    "description": "Overwatch 2 is a free-to-play, team-based action game set in the optimistic future, where every match is the ultimate 5v5 battlefield brawl.",
+    "developers": [
+        {
+            "id": "521816523430428673",
+            "name": "Blizzard Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "overwatch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "94882524378968064",
+    "hook": true,
+    "icon": "d20f9f39f2eec584dcdbc7b206786124",
+    "id": "356875221078245376",
+    "name": "Overwatch 2",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816523430428673",
+            "name": "Blizzard Entertainment"
+        }
+    ],
+    "splash": "ac088243bc713c37297073d7d12c453a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "battlenet",
+            "id": "Pro",
+            "sku": "Pro"
+        },
+        {
+            "distributor": "battlenet",
+            "id": null,
+            "sku": null
+        }
+    ],
+    "type": 1,
+    "verify_key": "fd60416794717e7531f4f22061f2a16ee87a71a3036fd7b6d8d37364c723ca9d"
+}

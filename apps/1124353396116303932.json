@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/battlefleetgothic-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f14d327a99831d37f1ad0e9687805e36",
+    "id": "1124353396116303932",
+    "name": "Battlefleet Gothic: Armada",
+    "publishers": [
+        {
+            "id": "524352329630089246",
+            "name": "Tindalos Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "363680",
+            "sku": "363680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e60ed7fc0385bacae33cd0be60b42fd878488f667a57316830b248724933b506"
+}

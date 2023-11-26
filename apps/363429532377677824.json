@@ -1,0 +1,38 @@
+{
+    "description": "From Torn Banner Studios, creators of Chivalry: Medieval Warfare, Mirage: Arcane Warfare is a magic and melee-focused multiplayer FPS. Expected to release in 2016",
+    "developers": [
+        {
+            "id": "521816579797811201",
+            "name": "Torn Banner Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tbl-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "10062841145856ac4fc73e922820f98c",
+    "id": "363429532377677824",
+    "name": "Mirage: Arcane Warfare",
+    "publishers": [
+        {
+            "id": "521816579797811201",
+            "name": "Torn Banner Studios"
+        }
+    ],
+    "splash": "51befdf220f9df3c3abace8593b04d51",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "368420",
+            "sku": "368420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "385bf15e57cf2bd17a5561172e62de2d20b18de1e0f494f76028bfe8fc43a14a"
+}

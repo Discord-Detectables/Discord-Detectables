@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "eFootball PES 2021"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "efootball pes 2021/pes2021.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa030d29d82e54c1604260a01d87b124",
+    "id": "1161794381561483386",
+    "name": "eFootball PES 2021",
+    "publishers": [
+        {
+            "id": "521816513074692111",
+            "name": "Konami"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "8ead3b503afdbe6854c87bdfc26453b71726ae6694c8939d46b24287cf2b08b2"
+}

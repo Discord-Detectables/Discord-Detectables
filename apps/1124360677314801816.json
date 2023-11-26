@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/theisland-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2447b66498478c7999bb3707865699c0",
+    "id": "1124360677314801816",
+    "name": "THE SHORE",
+    "publishers": [
+        {
+            "id": "1124360677822320803",
+            "name": "Ares Dragonis"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1297300",
+            "sku": "1297300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "44b702918dc1b5d36cbe807df97d868d841af156dbba90158f0789d61164637c"
+}

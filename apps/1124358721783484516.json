@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hexen 2/glh2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ecce1aae9de2d9a85fba2103f020b15f",
+    "id": "1124358721783484516",
+    "name": "HeXen II",
+    "publishers": [
+        {
+            "id": "521816668196831240",
+            "name": "Raven Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9060",
+            "sku": "9060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e1f9cd156734807c297b8f7f39bf2120375e5d9069b2007120c6e6664f5b28be"
+}

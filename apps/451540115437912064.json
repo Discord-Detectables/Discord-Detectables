@@ -1,0 +1,32 @@
+{
+    "description": "Horizon Source",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "horizon source/gameclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0ed3ef971d78985758caf6671bb55807",
+    "id": "451540115437912064",
+    "name": "Horizon Source",
+    "publishers": [
+        {
+            "id": "521816590673641484",
+            "name": "Zhong Chongren"
+        }
+    ],
+    "splash": "755422c090b4ea33c13c3ed4346d0635",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "788880",
+            "sku": "788880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "68916f3818a8fe93e1833f81c4edb30da628c68eb1a2a60472e197ac466f368f"
+}

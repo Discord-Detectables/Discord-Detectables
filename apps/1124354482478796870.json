@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "call of the wild the angler/cotwtheangler_steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "08733d4de0b316018f1141679c531588",
+    "id": "1124354482478796870",
+    "name": "Call of the Wild: The Angler™",
+    "publishers": [
+        {
+            "id": "521816747477827597",
+            "name": "Expansive Worlds"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1408610",
+            "sku": "1408610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ff750a48c802ba9c3674f4e0d52d53a001647796db42b1774ca00e459b0a466"
+}

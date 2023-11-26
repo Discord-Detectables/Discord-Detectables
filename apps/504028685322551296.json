@@ -1,0 +1,38 @@
+{
+    "description": "rFactor is a racing simulator designed for the PC. It is designed as an open ended world designed with the modding community and real work accuracy top of mind. The Physics engine is based on 15 degrees of freedom, complex aerodynamics, and advanced tire modelling.",
+    "developers": [
+        {
+            "id": "521816675008380948",
+            "name": "Image Space Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rfactor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "52d2443d1bdd7f3480731b440648d9e3",
+    "id": "504028685322551296",
+    "name": "rFactor",
+    "publishers": [
+        {
+            "id": "521816675008380948",
+            "name": "Image Space Inc."
+        }
+    ],
+    "splash": "3f86487cf377046f88d605e5baaf3a2e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "339790",
+            "sku": "339790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51ce38bab3d5030b80a7ddeb82b2790b9af6f0d5bc0f50e4ac01d8559aae5722"
+}

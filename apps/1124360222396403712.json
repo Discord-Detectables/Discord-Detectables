@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "capcom fighting collection/capcomfightingcollection.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "61f1083457ae78c47ad501967e986bb9",
+    "id": "1124360222396403712",
+    "name": "Capcom Fighting Collection",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1685750",
+            "sku": "1685750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c6ddf8384c991e4823bb6a30c94019cf835903164c54040f07cb3e7e9cd7966b"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dragonsin/dragonsin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac071c54ce0edf6cbe1dedc4d27aa8f8",
+    "id": "1124356563088457809",
+    "name": "Dragon Sin",
+    "publishers": [
+        {
+            "id": "1124356563591770112",
+            "name": "Fate Dragon Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "534220",
+            "sku": "534220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0883bbf7fe505273d785064cca950c07af6109ad2f07679deadac3b9e59158d6"
+}

@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Cabal Online"
+    ],
+    "description": "Cabal Online is a free massively-multiplayer online role-playing game (MMORPG), created by ESTsoft.  There are six character classes in Cabal Online known as the Authentic Six.",
+    "developers": [
+        {
+            "id": "521816665609207819",
+            "name": "ESTsoft Corp"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cabalmain.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "cabal.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "21093efcaf975262356a83372ad072f4",
+    "id": "496544716997918750",
+    "name": "CABAL Online",
+    "publishers": [
+        {
+            "id": "521816665168543757",
+            "name": "ESTsoft Corp."
+        },
+        {
+            "id": "521816663214129153",
+            "name": "Playpark"
+        },
+        {
+            "id": "521816665609207818",
+            "name": "Asiasoft"
+        }
+    ],
+    "splash": "558c9cb0f46fcc7889afc0c1117eda56",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "253490",
+            "sku": "253490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a03997456922ed1eb9c44ee6a271f5c1526f06feeef251520d4710210ab23ade"
+}

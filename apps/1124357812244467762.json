@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "harvest moon/harvest moon light of hope.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6c8612ac1efbf666f31e68737bae3f2a",
+    "id": "1124357812244467762",
+    "name": "Harvest Moon: Light of Hope",
+    "publishers": [
+        {
+            "id": "1124357812726808718",
+            "name": "TABOT, inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "585900",
+            "sku": "585900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "968c98b30c9c84d35f243ddad75695edc761b2a7812ec49307b1a585d19a35b8"
+}

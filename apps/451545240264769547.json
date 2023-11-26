@@ -1,0 +1,43 @@
+{
+    "cover_image": "375318aaa8730f2073b1f38bb6779b49",
+    "description": "Hitman: Absolution follows the Original Assassin undertaking his most personal contract to date. Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world.",
+    "developers": [
+        {
+            "id": "591189272623710209",
+            "name": "IO Interactive A/S"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hma.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "451879555523805195",
+    "hook": true,
+    "icon": "ab893289d94235c9807b3d9ac0dff08b",
+    "id": "451545240264769547",
+    "name": "Hitman: Absolution",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "primary_sku_id": "451545240264769547",
+    "publishers": [
+        {
+            "id": "591189272623710209",
+            "name": "IO Interactive A/S"
+        }
+    ],
+    "slug": "hitman-absolution",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "203140",
+            "sku": "203140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6af4ad2728b298a12e672e9b6df6f5801de300946140cf266648637cfcab4f2a"
+}

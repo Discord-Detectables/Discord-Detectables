@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/capybaraspa-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c7c82284528fba06cf16feae5275eb2d",
+    "id": "1124358655794499605",
+    "name": "Capybara Spa",
+    "publishers": [
+        {
+            "id": "1124358656276840479",
+            "name": "Cozy Bee Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1822910",
+            "sku": "1822910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7c0a3b1c72b9c23a5333d8aacecb85eeebc88d0baf9e108fd1a106065ea52dbc"
+}

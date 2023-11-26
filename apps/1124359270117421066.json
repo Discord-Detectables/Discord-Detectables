@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "power & revolution/_start.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fdad821f1bf00bb0988fa5799c99b540",
+    "id": "1124359270117421066",
+    "name": "Power & Revolution",
+    "publishers": [
+        {
+            "id": "524351999634833410",
+            "name": "Eversim"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "467520",
+            "sku": "467520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5759131cbf06f90df3a4a1a3ff3a5ad9cab881fa8cfd9e3665394132841fc8bb"
+}

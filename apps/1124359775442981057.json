@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zuma deluxe/popcapgame1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6f74e3543a77f210e4ab6c1ecd10ccc7",
+    "id": "1124359775442981057",
+    "name": "Zuma Deluxe",
+    "publishers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "3330",
+            "sku": "3330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3dd87d3fe9a7c03dd8589dabb8041077a93f40b7e020fa0e2333c58037cfbcbb"
+}

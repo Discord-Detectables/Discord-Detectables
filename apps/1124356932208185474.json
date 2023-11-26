@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clickteam fusion 2.5 free edition/mmf2u.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6ef96b46a2833baf21fcdc392c0b77bf",
+    "id": "1124356932208185474",
+    "name": "Clickteam Fusion 2.5 Free Edition",
+    "publishers": [
+        {
+            "id": "524352342712385540",
+            "name": "Clickteam"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "478960",
+            "sku": "478960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "627cca72a8c77bc9af5e161d238e7e5ef56abe81281a0d7a764273f3c5d87211"
+}

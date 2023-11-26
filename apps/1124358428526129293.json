@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/theinvincible-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "474b27b29a4b74a2aa2373356f0f372a",
+    "id": "1124358428526129293",
+    "name": "The Invincible",
+    "publishers": [
+        {
+            "id": "1124358428995899452",
+            "name": "Starward Industries"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2394270",
+            "sku": "2394270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2f37e74e76efe72eb8326142c053801f40c00cb5868f1c073414cc6f546a05de"
+}

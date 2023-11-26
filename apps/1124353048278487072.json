@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "brotatodemo/brotatodemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5049b9e12bad6ff0427800eaadb19bee",
+    "id": "1124353048278487072",
+    "name": "Brotato Demo",
+    "publishers": [
+        {
+            "id": "1124351818982510623",
+            "name": "Blobfish"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1979010",
+            "sku": "1979010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "646cbdd0017b91290139beb00725d3f1c529a633d62ff9568875dae66594f42e"
+}

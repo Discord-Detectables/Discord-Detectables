@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Shroud of the Avatar: Forsaken Virtues\t"
+    ],
+    "description": "Shroud of the Avatar is the first installment of Portalarium's new vision and represents the reinvention of the classic, fantasy role-playing which Richard Garriott pioneered. A fantasy role-playing game that will focus more on player choices and discovery than on level grinding.",
+    "developers": [
+        {
+            "id": "521816658981945367",
+            "name": "Portalarium"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shroud of the avatar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "23d63fa3377ddcf6346791c255944594",
+    "id": "425454648623628288",
+    "name": "Shroud of the Avatar",
+    "publishers": [
+        {
+            "id": "521816658981945367",
+            "name": "Portalarium"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "c8c018e4ea7ca22c1071fbf9113fc21c5462cd9703ce848d1f003b1954d5a15f"
+}

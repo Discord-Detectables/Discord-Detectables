@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/primalcarnagegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1a66199921b3e1206fb02240b89bdf8",
+    "id": "1138849337426845766",
+    "name": "Primal Carnage: Extinction",
+    "publishers": [
+        {
+            "id": "1138849341033943162",
+            "name": "Circle Five Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "321360",
+            "sku": "321360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b0a6764669ea3d52bc0868a6a6c735927edd83386bc7bac428a6c1c9f7d0809b"
+}

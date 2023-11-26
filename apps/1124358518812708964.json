@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "megatagmension blanc + neptune vs zombies/megatagmension blanc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4c0750079082973631ad6ca9bccac7bd",
+    "id": "1124358518812708964",
+    "name": "MegaTagmension Blanc + Neptune VS Zombies",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "496810",
+            "sku": "496810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5aff2222571a582313cd782870b9b936aea92db213b774abfe97ac100bf70a65"
+}

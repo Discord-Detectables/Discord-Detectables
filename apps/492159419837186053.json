@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816521249521702",
+            "name": "Paradox Interactive AB"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "492159419837186053",
+    "name": "Europa Universalis II",
+    "primary_sku_id": "492386332124119040",
+    "publishers": [
+        {
+            "id": "521816739726622745",
+            "name": "Virtual Programming Ltd."
+        }
+    ],
+    "slug": "europa-universalis-ii",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492386332124119040",
+            "sku": "492386332124119040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "99350eb9de915c98daed6bf4928976aa6f64574700bb1b991901d29546b1dc36"
+}

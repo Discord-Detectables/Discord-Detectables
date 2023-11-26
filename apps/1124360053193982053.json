@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "through the woods/through the woods.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "20b1ca7a83e0006a444abd799088176f",
+    "id": "1124360053193982053",
+    "name": "Through the Woods",
+    "publishers": [
+        {
+            "id": "524352447767117833",
+            "name": "Antagonist"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "368430",
+            "sku": "368430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0edcea3ff9f0ae613b8d0cd3e028a22605cd7a0ab8d532ad2d70941698a9e950"
+}

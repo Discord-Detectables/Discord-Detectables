@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sex simulator/sex simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb430a08d63d975d79620b4480a4a9b9",
+    "id": "1132690430694264872",
+    "name": "Sex Simulator",
+    "publishers": [
+        {
+            "id": "1132690432594280531",
+            "name": "Slippy Floor"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1111810",
+            "sku": "1111810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "893cbb60bd10997bd0fa8e27c520398c01362eb52a5b43cd1f2bc3a808dcdfa8"
+}

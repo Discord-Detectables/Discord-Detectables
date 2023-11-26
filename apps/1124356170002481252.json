@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "might and magic clash of heroes/clashofheroes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "090059cb7384ce39ff3af00e4eae3156",
+    "id": "1124356170002481252",
+    "name": "Might & Magic: Clash of Heroes",
+    "publishers": [
+        {
+            "id": "1124356170526765096",
+            "name": "Capybara Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "61700",
+            "sku": "61700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "df7675fceda476ebe39bca2d9f8f0d3486280037bc8f23f072c69d5d2bf78de3"
+}

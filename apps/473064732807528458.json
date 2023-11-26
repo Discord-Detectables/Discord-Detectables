@@ -1,0 +1,38 @@
+{
+    "description": "Democracy is a political strategy game, in which one takes control of a country, planning budgets and enacting laws, eventually influencing voter behavior.",
+    "developers": [
+        {
+            "id": "521816692079329281",
+            "name": "Positech Computing Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "democracy3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8e84de5dc1b60bbf792bccef502423b4",
+    "id": "473064732807528458",
+    "name": "Democracy 3",
+    "publishers": [
+        {
+            "id": "521816692079329280",
+            "name": "Positech Games"
+        }
+    ],
+    "splash": "f2dbe26abc46cbc4044a3fe8a9561343",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "245470",
+            "sku": "245470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b182f4ac0651a3ec5ebffd970905ca5f82e6302b5c681190008c557493083919"
+}

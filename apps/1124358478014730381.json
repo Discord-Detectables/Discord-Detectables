@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deisim/deisim.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0b1aa2fb1f4438b6fba23e06e03782c0",
+    "id": "1124358478014730381",
+    "name": "Deisim",
+    "publishers": [
+        {
+            "id": "1124358478492876810",
+            "name": "Myron Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "525680",
+            "sku": "525680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f0d53ea28a60a58e57e2f1952ced566d0f4260ba370356ef7f618f4c4f5f8cef"
+}

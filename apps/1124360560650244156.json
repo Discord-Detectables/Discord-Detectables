@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/outofammo-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "01182e4d97f6d2477d2d29b60f7f7c56",
+    "id": "1124360560650244156",
+    "name": "Out of Ammo",
+    "publishers": [
+        {
+            "id": "524352436605812766",
+            "name": "RocketWerkz"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "451840",
+            "sku": "451840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b769f2837865e74252eb31f4c7285af074ec76cefb154353ea1c0728fa860eb7"
+}

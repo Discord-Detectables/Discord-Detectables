@@ -1,0 +1,38 @@
+{
+    "description": "Learn what it used to be like \"to job\" in this VR-only job... simulator.",
+    "developers": [
+        {
+            "id": "521816678430933004",
+            "name": "Owlchemy Labs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jobsimulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5cba71d4b295ae02b3f605be0bdf06e",
+    "id": "489832887936483338",
+    "name": "Job Simulator",
+    "publishers": [
+        {
+            "id": "521816678430933004",
+            "name": "Owlchemy Labs"
+        }
+    ],
+    "splash": "01a0cd032cf0e0e667475cce74279610",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "448280",
+            "sku": "448280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "621d49a93520b3c099d86a3f0aa840adeea29518008fd86522c539b482582c47"
+}

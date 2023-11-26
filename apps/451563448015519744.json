@@ -1,0 +1,38 @@
+{
+    "description": "Avorion takes the sandbox aspects from the X games and Freelancer, throws in co-op multiplayer and lets players build their own ships.",
+    "developers": [
+        {
+            "id": "521816541323329561",
+            "name": "Boxelware"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/avorion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7d553286b262491a5a4757015140def6",
+    "id": "451563448015519744",
+    "name": "Avorion",
+    "publishers": [
+        {
+            "id": "521816541323329561",
+            "name": "Boxelware"
+        }
+    ],
+    "splash": "54a0e745fbd313737c0c66e41250a66e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "445220",
+            "sku": "445220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9139e8ad5c7089e274637fb4ced1d011b3dbfc65445f138e7414980b5a0ff3c7"
+}

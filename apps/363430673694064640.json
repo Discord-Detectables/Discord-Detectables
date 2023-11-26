@@ -1,0 +1,38 @@
+{
+    "description": "A free co-operative zombie survival experience which started out as a Half-Life 2 mod that eventually turned to its own stand-alone game.",
+    "developers": [
+        {
+            "id": "521816785197203457",
+            "name": "No More Room in Hell Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "no more room in hell/sdk/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "307b48a4afd2b8274c3c9e49bdee2d91",
+    "id": "363430673694064640",
+    "name": "No More Room in Hell",
+    "publishers": [
+        {
+            "id": "521816785197203456",
+            "name": "Lever Games "
+        }
+    ],
+    "splash": "9e5b6ad751b8b6534d42896cfe9cfe0f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224260",
+            "sku": "224260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "292fc2dfd5076b7fd6021b372964f0b52dadef5784602add39c718c751650e6a"
+}

@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Jade Empire"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jadeempire.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eac6fe73f0a3143d155bde750300fbb0",
+    "id": "496839367621476352",
+    "name": "Jade Empire: Special Edition",
+    "publishers": [
+        {
+            "id": "521816712211857408",
+            "name": "BioWare Corporation"
+        }
+    ],
+    "splash": "4262b7deff8624bdef2afd45ada49f3a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "7110",
+            "sku": "7110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c19ebb47e73468415909b27a84a8b88c4df00dbc23c41d6b46f9dc6c8e8b8b63"
+}

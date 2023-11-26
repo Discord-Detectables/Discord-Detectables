@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ashen-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "15db2ed400f95292034c829f5ef5e85d",
+    "id": "520453007578628124",
+    "name": "Ashen",
+    "publishers": [
+        {
+            "id": "521816677625757707",
+            "name": "Aurora44"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "649950",
+            "sku": "649950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51a1dfd0e1e1a40960418e3eca188adad51ddbfefa5dd788b2b4208f8708c9a9"
+}

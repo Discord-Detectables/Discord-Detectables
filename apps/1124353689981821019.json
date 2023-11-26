@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grim fandango remastered/grimfandango.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf64c1fb678f7847125b218d6301dd3b",
+    "id": "1124353689981821019",
+    "name": "Grim Fandango Remastered",
+    "publishers": [
+        {
+            "id": "521816700153495552",
+            "name": "Double Fine Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316790",
+            "sku": "316790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "62373f4966b084d0920ff4a93568cc3915a0c2310ec8bd7b406116c064c1d948"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/doge_fight-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "36b448355ebcda239028c6e4d48fab71",
+    "id": "1124352785853464616",
+    "name": "DogeFight",
+    "publishers": [
+        {
+            "id": "1124352786285473872",
+            "name": "IROX"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1938990",
+            "sku": "1938990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e2b82e916995efb498c2b4c61bf74be4690c64ec4be15c751cc8bea418ff8de"
+}

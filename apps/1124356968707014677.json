@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "narcissu2/narci2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e4df76ed88f26e646b868b9a37c2bd0d",
+    "id": "1124356968707014677",
+    "name": "Narcissu 1st & 2nd",
+    "publishers": [
+        {
+            "id": "524351792272769038",
+            "name": "stage-nana"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "264380",
+            "sku": "264380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "64358cca4ee6c7c59cdd6aa050f34cf89c39b045aa5a259d49218e0953a5c748"
+}

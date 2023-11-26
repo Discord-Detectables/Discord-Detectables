@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "CRSED"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/cuisine_royale.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1162074604576194650",
+    "name": "CRSED: F.O.A.D.",
+    "publishers": [
+        {
+            "id": "521816778264018956",
+            "name": "Darkflow Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "884660",
+            "sku": "884660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "658234cb19b085949ced97950c222a82119809de58ca39f44ac56cd164ee55f5"
+}

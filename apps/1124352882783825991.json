@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lewdapocalypse/lewdapocalypse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "05166b4fdb3d50889449c5f479a75731",
+    "id": "1124352882783825991",
+    "name": "LEWDAPOCALYPSE",
+    "publishers": [
+        {
+            "id": "1124352883274567751",
+            "name": "KG/AM"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1271710",
+            "sku": "1271710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ca134c53b27398a105ef1729e59613a0b39bb0c38092e1b18c18aaff4857e369"
+}

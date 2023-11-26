@@ -1,0 +1,24 @@
+{
+    "aliases": [
+        "메이플스토리2"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "maplestory2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "433766043098415127",
+    "hook": true,
+    "icon": "c58e167d2785e0d26d93a9924a76f9b7",
+    "id": "457301027453009947",
+    "name": "MapleStory 2",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "summary": "",
+    "type": 1,
+    "verify_key": "9b90e41ddddc7284c33fa012571209e59dcad8788fefc1e0f8d81d67325fa044"
+}

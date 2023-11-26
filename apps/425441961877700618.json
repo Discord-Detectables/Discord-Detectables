@@ -1,0 +1,38 @@
+{
+    "description": "A sci-fi sandbox survival game that lets you build your own contraptions to explore procedurally generated planets.",
+    "developers": [
+        {
+            "id": "521816598017867787",
+            "name": "Craneballs Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "planetnomads.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5ee8b8c83bbf7e0728c95360153e1cf8",
+    "id": "425441961877700618",
+    "name": "Planet Nomads",
+    "publishers": [
+        {
+            "id": "521816598017867786",
+            "name": "Craneballs"
+        }
+    ],
+    "splash": "a126a5f9a7a30aa126d339a4c499f189",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "504050",
+            "sku": "504050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "434beca0defbfbd85ea57301be781141b112d46e27d3682b34dfc3316865dd67"
+}

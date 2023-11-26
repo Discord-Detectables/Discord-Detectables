@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the silent age/thesilentage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "11091a7f2f906f71c2f87d71ac104853",
+    "id": "1124357730224844841",
+    "name": "The Silent Age",
+    "publishers": [
+        {
+            "id": "524352201577988100",
+            "name": "House on Fire"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "352520",
+            "sku": "352520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3e807a3db985166bf7ec81e6b5c1b71d0a6b28539f6e591c68e8bc0289905ad2"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin64/crysisremastered.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6164aca2985f3ebbf19260daad311f44",
+    "id": "1124353795875418132",
+    "name": "Crysis Remastered",
+    "publishers": [
+        {
+            "id": "521816601691947041",
+            "name": "Crytek"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1715130",
+            "sku": "1715130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5c011d87059afc2a685b47ad3dd02c3d1b07be26f1683673638cce7f5784d308"
+}

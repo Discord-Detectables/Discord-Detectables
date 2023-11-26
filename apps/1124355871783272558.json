@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kelvin/fahrenheit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6722571f920f251989ee65c7340877ee",
+    "id": "1124355871783272558",
+    "name": "Fahrenheit: Indigo Prophecy Remastered",
+    "publishers": [
+        {
+            "id": "1124355871783272559",
+            "name": "Aspyr"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "312840",
+            "sku": "312840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e581d7d3a6dab7c8b66aee43e3383976196875e5ff31751912f8719973c5c498"
+}

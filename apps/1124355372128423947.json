@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "golden light/golden light.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1e9b7486e87f548ba58b3226232918db",
+    "id": "1124355372128423947",
+    "name": "Golden Light",
+    "publishers": [
+        {
+            "id": "1124355372732399656",
+            "name": "Mr. Pink"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1245430",
+            "sku": "1245430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "660662bc7508584eff3348b50b9766c8cf70a71035bf2b24ee7272b7bff70743"
+}

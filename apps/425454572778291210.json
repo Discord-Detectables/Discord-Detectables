@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "europa1400gold.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "europa1400gold_tl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df4d5a9d698a800311ab6176ab1f6776",
+    "id": "425454572778291210",
+    "name": "The Guild Gold Edition",
+    "publishers": [
+        {
+            "id": "521816804323098635",
+            "name": "4HEAD Studios"
+        }
+    ],
+    "splash": "b115e82a3b3b9720748e08abc6d00769",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "39520",
+            "sku": "39520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "61f687a5bb68680ef489c263b31412ce708908abb01f4b68092c794e74cac8a1"
+}

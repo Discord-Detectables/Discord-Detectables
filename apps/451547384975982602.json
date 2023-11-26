@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aion.bin",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "39c56122a7cf7c3423202a3022fb0ff1",
+    "id": "451547384975982602",
+    "name": "AION Free-to-Play",
+    "publishers": [
+        {
+            "id": "521816560537567249",
+            "name": "NCSOFT"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "261430",
+            "sku": "261430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31e37d7ccd59254bd4019c26a258715de8c54b9d531acd1af9e9d14b804cb255"
+}

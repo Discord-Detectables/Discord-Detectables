@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Mafia - Definitve Edition",
+        "Mafia: Definitive Edition"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mafia definitive edition/mafiadefinitiveedition.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "mafia - definitive edition/mafiadefinitiveedition.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e278ac3ae5452ab0526b740e426b3f7a",
+    "id": "1174042614765457508",
+    "name": "Mafia: Definitive Edition",
+    "publishers": [
+        {
+            "id": "521816515557851147",
+            "name": "Hangar 13"
+        },
+        {
+            "id": "521816515557851147",
+            "name": "Hangar 13"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1030840",
+            "sku": "1030840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2c2fee5ed4ab7887b0270a6427f9e23f8f906202fc7d898050beea6726483f7e"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "corruption of champions ii/coc ii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "74caedeeb8f998df09697bfa83a46bef",
+    "id": "1124354931873304647",
+    "name": "Corruption of Champions II",
+    "publishers": [
+        {
+            "id": "1124354932334673970",
+            "name": "Salamander Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1292690",
+            "sku": "1292690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b611c36ef7bfb10c9c6be09e3252ef491e3fd4cb50070516bd376b9b83a3566a"
+}

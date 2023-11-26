@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "iron marines/ironmarines.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1db29391c058993e4307c60f184947c",
+    "id": "1124358932157181952",
+    "name": "Iron Marines",
+    "publishers": [
+        {
+            "id": "524352191700402180",
+            "name": "Ironhide Game Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "931280",
+            "sku": "931280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e69bb4134c1f82df42b16f08764282f56e0d04082e43eb77f58ae1c41a438d0"
+}

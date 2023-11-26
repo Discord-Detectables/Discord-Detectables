@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idol hands/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b3bbd2163739b6b49571076cc8aeb26d",
+    "id": "1129505896775569560",
+    "name": "Idol Hands",
+    "publishers": [
+        {
+            "id": "1129505898314875001",
+            "name": "樹懶叫工作室"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1745310",
+            "sku": "1745310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2d399ef5d9c7c27562a3e58a9518f3f673818fc87586ecc3051b6ae5c5d0b418"
+}

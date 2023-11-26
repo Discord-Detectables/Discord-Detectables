@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bbq simulator the squad/bbq_simulator_thesquad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9c24f61e698036fed110ff251cd08be0",
+    "id": "1124353865869967410",
+    "name": "BBQ Simulator: The Squad",
+    "publishers": [
+        {
+            "id": "1124353866310365285",
+            "name": "CubeCube Sports Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1755350",
+            "sku": "1755350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "52ebeb48564281b768947da788c59184cb0417f1f4d11f24c4bce88237ce94f0"
+}

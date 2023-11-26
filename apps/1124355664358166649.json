@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grime/grime.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9591e3c5ed840788ae9192ad9d0141c9",
+    "id": "1124355664358166649",
+    "name": "GRIME",
+    "publishers": [
+        {
+            "id": "1124355664848896050",
+            "name": "Clover Bite"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1123050",
+            "sku": "1123050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b637e1e8cdb679bc0e5ebcb72ee964fa86cff0903bc8767078fe75236e9a8b17"
+}

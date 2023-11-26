@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tom Clancy's Rainbow Six 3: Gold Edition"
+    ],
+    "description": "Tom Clancy's Rainbow Six 3: Black Arrow is the successful expansion to Rainbow Six 3. Multiplayer updates like \"Retrieval\" mode and split screen co-operative play help distinguish Black Arrow from its predecessors. ",
+    "developers": [
+        {
+            "id": "521816767484395520",
+            "name": "Ubisoft Milan Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ravenshield.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "01b7281338047f3e3eff9c7d46e3cafa",
+    "id": "425460908345524224",
+    "name": "Tom Clancy's Rainbow Six 3",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "1b20d61a2a3e1c3cb598b0a1806ef86e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "19830",
+            "sku": "19830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4ff736ba2a2d153c948a975b06bb07eb3bd6032f55c3922e97271c5d2f731a30"
+}

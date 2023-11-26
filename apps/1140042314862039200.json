@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steambirds alliance open beta/steambirds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e8052e87e9f96add35326ca8f61e84a3",
+    "id": "1140042314862039200",
+    "name": "Steambirds Alliance Open Beta",
+    "publishers": [
+        {
+            "id": "1124353224405692556",
+            "name": "Spry Fox LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1047410",
+            "sku": "1047410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3cb4b592ebddcfb891f546948bb360c6e68d2bf482138ca7ea529868caf82be9"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "BIOHAZARD RE:3 Raccoon City Demo"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "re3demo/re3demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "caeaeb69bce8f25e48c993190c623840",
+    "id": "1129504252381904987",
+    "name": "Resident Evil 3: Raccoon City Demo",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        },
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1173690",
+            "sku": "1173690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e2593b0670f9d1cdf6e42b2d2a04cfdb8bb768af4894d766179e247b2bbad432"
+}

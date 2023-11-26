@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Doom 3"
+    ],
+    "description": "Doom 3, a more story-focused remake of the original Doom, is a sci-fi first-person-shooter that was widely considered the most graphically advanced game available for its time.",
+    "developers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "doom.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "doom3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ca4a9e564217f19d041da4c63c77608d",
+    "id": "496575943431946250",
+    "name": "DOOM 3",
+    "publishers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        },
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        }
+    ],
+    "splash": "266fdc9619bb928b26eb2ae718e3c1b6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9050",
+            "sku": "9050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a6099cd48af01b7042ac3db496c9ae904932f663e1090190420c8c5926d83d9"
+}

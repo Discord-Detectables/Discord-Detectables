@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hyperdemon/hyperdemon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "52ed612fbfa425cdca7777ead2c4444f",
+    "id": "1124357675971530913",
+    "name": "HYPER DEMON",
+    "publishers": [
+        {
+            "id": "521816659519078410",
+            "name": "Sorath"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1743850",
+            "sku": "1743850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9ca476ad3361b06ef12ea126604655fb618ff7494d8366abc504ccc6276955ba"
+}

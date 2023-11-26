@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "smallworld2/smallworld.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cb6b633800365e1572749502943e94d8",
+    "id": "1124355167551242320",
+    "name": "Small World",
+    "publishers": [
+        {
+            "id": "524352272466182165",
+            "name": "Days of Wonder"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "235620",
+            "sku": "235620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12e9eebb828c504b4c8422e67276fafc8b34ed4c7c929d7fbbec3b1fe1472280"
+}

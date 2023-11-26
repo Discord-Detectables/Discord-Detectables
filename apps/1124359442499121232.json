@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sketch crawler/sketchcrawler.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8e844bed3bc81dfb94b326bd28cae066",
+    "id": "1124359442499121232",
+    "name": "Sketch Crawler",
+    "publishers": [
+        {
+            "id": "1124359442981474334",
+            "name": "Koan"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1731260",
+            "sku": "1731260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb52fbe3674556e2d2dd60438c28e0620f851983ac63909a5e1f9a24b3b1541e"
+}

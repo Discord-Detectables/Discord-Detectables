@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dragon ball the breakers/start_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "205e4dbd3eec39476d9e3c7ef502a55f",
+    "id": "1124355638793879572",
+    "name": "DRAGON BALL: THE BREAKERS",
+    "publishers": [
+        {
+            "id": "521816600723324929",
+            "name": "Dimps Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1276760",
+            "sku": "1276760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e7c16886f59bd031f9017e1bcbecb24f1519d5d8454c8366b38f2d6a27f535c4"
+}

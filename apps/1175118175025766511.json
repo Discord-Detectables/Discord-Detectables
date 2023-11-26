@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/overstepclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9dfc22986f26e2e76e3c65a01a69692a",
+    "id": "1175118175025766511",
+    "name": "Overstep",
+    "publishers": [
+        {
+            "id": "524352393412870148",
+            "name": "Gamecan"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1008580",
+            "sku": "1008580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25a687d414436b7f8d425d355cf1e7a0e25f379669288af911a919c4d46d2b3e"
+}

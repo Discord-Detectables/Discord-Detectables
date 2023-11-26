@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warhammer age of sigmar - realms of ruin/warhammer age of sigmar - realms of ruin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eaf790bfa4f980fa1a71c57e081bf1f2",
+    "id": "1175782544017473536",
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "publishers": [
+        {
+            "id": "521816604175106059",
+            "name": "Frontier Developments"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1844380",
+            "sku": "1844380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e28273a4b3bf0f8e37a96348296e8569e697e0fb5cdabd65da069e77c20c7616"
+}

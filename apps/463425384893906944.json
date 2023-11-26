@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Lords of the Fallen"
+    ],
+    "description": "A fantasy action-RPG developed by CI Games and Deck 13 for PC, PlayStation 4, and Xbox One. The protagonist, convicted and ostracized for his crimes by a draconian society, is called upon to stop an army of demons commanded by a god who was long ago overthrown.",
+    "developers": [
+        {
+            "id": "521816677101600814",
+            "name": "CI Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lordsofthefallen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ea98154eab6ab8922afd11fb40ab1962",
+    "id": "463425384893906944",
+    "name": "Lords Of The Fallen",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        }
+    ],
+    "splash": "1fb5ca0de9804e9e1c9d778cc484c079",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "265300",
+            "sku": "265300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac045481d42b5d26ba6ec41514446cfc0b039ef31d4307874511ffb8464b9b1a"
+}

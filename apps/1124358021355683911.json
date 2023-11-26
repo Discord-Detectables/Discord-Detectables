@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "chicken invaders 5/ci5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a62fc53baba49b5f54cc96cbcc4f4365",
+    "id": "1124358021355683911",
+    "name": "Chicken Invaders 5",
+    "publishers": [
+        {
+            "id": "524351603420037152",
+            "name": "InterAction studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "353090",
+            "sku": "353090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c9aa1176c8243ba9df2e84061db62d957221e9c4497e937e71c246f243d0b8c1"
+}

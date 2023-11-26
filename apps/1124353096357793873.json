@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "my time at sandrock/sandrock.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "698023f5e8d5c07675db608172610edd",
+    "id": "1124353096357793873",
+    "name": "My Time at Sandrock",
+    "publishers": [
+        {
+            "id": "521816571103019013",
+            "name": "Pathea Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1084600",
+            "sku": "1084600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b3234b42c2ca096ac7c36bffad53669392a329c484d2c8b7260d7c0057b34854"
+}

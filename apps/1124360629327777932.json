@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "concrete jungle/concrete jungle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b0f74399f3b618e38812959ddcb313c",
+    "id": "1124360629327777932",
+    "name": "Concrete Jungle",
+    "publishers": [
+        {
+            "id": "524352465186062359",
+            "name": "ColePowered Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400160",
+            "sku": "400160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "df8f62c1225a18b508ac8b31bf38b7d35c1fdbadf0185e7ae7e3c280ea66d467"
+}

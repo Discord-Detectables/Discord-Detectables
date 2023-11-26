@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deluxe/defendersquest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3d373ae9d77ad10b49bf08aa3e0726d7",
+    "id": "1124359514460803233",
+    "name": "Defender's Quest: Valley of the Forgotten",
+    "publishers": [
+        {
+            "id": "1124359514934755389",
+            "name": "Level Up Labs, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "218410",
+            "sku": "218410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "460a29469c4b80f75da93344fe34778493ca68dcd4b7c1aeaca4fe8de97e0f8b"
+}

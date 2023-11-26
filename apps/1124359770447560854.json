@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/dream_golf_vr-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8514eac06b439d4589f96e7a91978c4c",
+    "id": "1124359770447560854",
+    "name": "Dream Golf VR",
+    "publishers": [
+        {
+            "id": "1124359770908930129",
+            "name": "Isaac Stearns"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "723610",
+            "sku": "723610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f1d338d662499e32433b329be59777807df96c456439149b85c23aa3555ffc85"
+}

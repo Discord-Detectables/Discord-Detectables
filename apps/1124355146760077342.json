@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gamemaker studio 2/gamemaker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b16249490f6c6d9275c3220be5d011c7",
+    "id": "1124355146760077342",
+    "name": "GameMaker",
+    "publishers": [
+        {
+            "id": "1124355147280162847",
+            "name": "YoYo Games Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1670460",
+            "sku": "1670460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "114b11597fc8edca3389e8d572d164051d4c3047d3cc1d22f7794f71550654bc"
+}

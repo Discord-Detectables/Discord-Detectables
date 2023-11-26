@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "realpolitiks/realpolitiks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0c5cf02872fb950f856793d8dcbb4fa1",
+    "id": "1124358660773130320",
+    "name": "Realpolitiks",
+    "publishers": [
+        {
+            "id": "524353267698761731",
+            "name": "Jujubee S.A."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "553260",
+            "sku": "553260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77b72cf088a3c2d05af3a2db020fb8953e7dc200110ae3acb8323f05a14d309d"
+}

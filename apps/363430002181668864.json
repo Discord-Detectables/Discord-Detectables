@@ -1,0 +1,38 @@
+{
+    "description": "A 2D co-op shooter-platformer focused on boss battles. It is known for its unique art style, which imitates the more surreal cartoons of the 1930s.",
+    "developers": [
+        {
+            "id": "521816621271220236",
+            "name": "Studio MDHR"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cuphead.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e473174ecd2bf29d56541591ed2d8c31",
+    "id": "363430002181668864",
+    "name": "Cuphead",
+    "publishers": [
+        {
+            "id": "521816621271220236",
+            "name": "Studio MDHR"
+        }
+    ],
+    "splash": "a2e3cc78276e76c5b36d7187a93d5b1e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "268910",
+            "sku": "268910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "443f6529e1200e5b970a0e78a65130ab7660856fbc8573817109125e4a757e48"
+}

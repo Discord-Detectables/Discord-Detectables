@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deep space waifu fantasy/deep space waifu fantasy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0c25658fe4e9499c05799759082fc96d",
+    "id": "1124356151589482558",
+    "name": "DEEP SPACE WAIFU: FANTASY",
+    "publishers": [
+        {
+            "id": "521816704184090625",
+            "name": "Neko Climax Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "859680",
+            "sku": "859680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "778acef8b69350b201e93fdbd9726082d288932b093cf6a3e544d11dbe0f0929"
+}

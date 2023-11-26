@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ffxv_s.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "75befa7ddf3a1bb05c85cd46fb69debb",
+    "id": "425748942676819968",
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "637650",
+            "sku": "637650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "17c2e49544aa2fae76ed5fc9c6b18f0daf1fa0ebcb2d64fe6cb686d35140e0ce"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "A first-person adventure game by Cyan Worlds, in the vein of Myst.",
+    "developers": [
+        {
+            "id": "521816757548351500",
+            "name": "Cyan"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "obduction-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6efaa5341d1fbb5e762efb93f9ffd39",
+    "id": "425441688152965142",
+    "name": "Obduction",
+    "publishers": [
+        {
+            "id": "521816757548351500",
+            "name": "Cyan"
+        }
+    ],
+    "splash": "e16c24d1ea4926cef4e7054b7dfc6b33",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "306760",
+            "sku": "306760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "716120f4c4a364b407a3afcc52ea0e707bac71f17da0670815375ea5ddd4514f"
+}

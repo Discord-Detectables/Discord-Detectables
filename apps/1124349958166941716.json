@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bro falls ultimate showdown/run.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "24d0df6f8854714657b3db3bc35461c7",
+    "id": "1124349958166941716",
+    "name": "Bro Falls: Ultimate Showdown",
+    "publishers": [
+        {
+            "id": "1124349958703816775",
+            "name": "Boros Bros"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1590320",
+            "sku": "1590320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8bd3701073cee2b3aef3921185bd80d763fe4f0add0234469650f7acf2242451"
+}

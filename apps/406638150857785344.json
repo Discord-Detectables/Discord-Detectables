@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "TheLongDark"
+    ],
+    "description": "A first person survival adventure simulation set in a post-disaster environment in the Northern American wilderness. Developed by Hinterland Studios Inc.",
+    "developers": [
+        {
+            "id": "521816693094481940",
+            "name": "Hinterland Studio Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tld.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b36cc3aaabc698b8b10753f86567c365",
+    "id": "406638150857785344",
+    "name": "The Long Dark",
+    "publishers": [
+        {
+            "id": "521816693094481940",
+            "name": "Hinterland Studio Inc."
+        }
+    ],
+    "splash": "b4aed33e890000ddcc43af6f686d4e62",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "305620",
+            "sku": "305620"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "2d30cff30127d44106e9c5887e35d1a21883f753622bd9f9ffa035c9c8b22d33"
+}

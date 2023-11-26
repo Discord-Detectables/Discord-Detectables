@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "imperial glory/imperialglory.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4e36323f89c1959adc13427ff40fdfce",
+    "id": "1124359801707704378",
+    "name": "Imperial Glory",
+    "publishers": [
+        {
+            "id": "1124354689446727800",
+            "name": "Pyro Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "277450",
+            "sku": "277450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c641c9869907a34b93a8d8b1296ae5633450278be2f3feae209d2db23222f102"
+}

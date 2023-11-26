@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hokko life/hokko life.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a185c7737d5e8e096b35f70c793296d9",
+    "id": "1124355104334688276",
+    "name": "Hokko Life",
+    "publishers": [
+        {
+            "id": "1124355104896733254",
+            "name": "Wonderscope"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "824000",
+            "sku": "824000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b96aa615d9c487cadc52ce5e71953759266d762677f76f0fa7deb08b14fc35e"
+}

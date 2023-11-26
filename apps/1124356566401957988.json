@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zaccaria pinball/zaccariapinball.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5eef7dc0794c625872b04dfb3a702f0",
+    "id": "1124356566401957988",
+    "name": "Zaccaria Pinball",
+    "publishers": [
+        {
+            "id": "1124356566917853296",
+            "name": "Magic Pixel Kft."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "444930",
+            "sku": "444930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f60d9a04b191694e475a61a98ed524d47c620c374e096f4533a4f10379168f2b"
+}

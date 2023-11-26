@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/nza.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "41c5e067e44a3ec299dfd148f71c1e79",
+    "id": "1124354777040568582",
+    "name": "Sniper Elite: Nazi Zombie Army",
+    "publishers": [
+        {
+            "id": "521816698534494221",
+            "name": "Rebellion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "227100",
+            "sku": "227100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ce4c019ff01979942134d85fc7423084a187bb55f7f24d490660683eb6514dcd"
+}

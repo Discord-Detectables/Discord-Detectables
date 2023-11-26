@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/beastsofbermuda.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "659aaba24d197c8b5ae32ef16a8fec42",
+    "id": "1124352894758567989",
+    "name": "Beasts of Bermuda",
+    "publishers": [
+        {
+            "id": "1124352895240908840",
+            "name": "Sastrei Studios, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "719890",
+            "sku": "719890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d6cd710193106d0ff8fc37da0159b37ebbf0cf799d285fd04ea8a4b51c73fec5"
+}

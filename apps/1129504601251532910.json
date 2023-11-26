@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Anno 1800"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/anno1800.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cbb5e9740110788f7b37b929fa9873be",
+    "id": "1129504601251532910",
+    "name": "Anno 1800",
+    "publishers": [
+        {
+            "id": "1124353758537732116",
+            "name": "Ubisoft Mainz"
+        },
+        {
+            "id": "521816672781336584",
+            "name": "Blue Byte"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "916440",
+            "sku": "916440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3cd8272c8e820884964085f8de33f50a602fcf2469f097afc0ea5a838473b26f"
+}

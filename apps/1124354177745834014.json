@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bread & fred/bread&fred.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "92b66c8c6482d2fc1c2711c39122daf2",
+    "id": "1124354177745834014",
+    "name": "Bread & Fred",
+    "publishers": [
+        {
+            "id": "1124354178307866674",
+            "name": "SandCastles Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1607680",
+            "sku": "1607680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "93862134cb4e1bef2ad446d8f59acaf68315431096ad6be385a46436a75b8ef2"
+}

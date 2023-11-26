@@ -1,0 +1,42 @@
+{
+    "cover_image": "c7ef452295b98780dd996fd34622b2cc",
+    "description": "This world is a Machine - A Machine for Pigs! Fit only for the slaughtering of Pigs! A first-person horror that will drag you to the depths of greed, power and madness.",
+    "developers": [
+        {
+            "id": "521816681228664846",
+            "name": "The Chinese Room"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "machine for pigs/aamfp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "608260170660708352",
+    "hook": true,
+    "icon": "c7ef452295b98780dd996fd34622b2cc",
+    "id": "451544639674253322",
+    "name": "Amnesia: A Machine for Pigs",
+    "primary_sku_id": "451544639674253322",
+    "publishers": [
+        {
+            "id": "521816498541428770",
+            "name": "Frictional Games"
+        }
+    ],
+    "slug": "amnesia-a-machine-for-pigs",
+    "splash": "72faf4836b87bfabcf4f56bf1c870695",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239200",
+            "sku": "239200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "86eec6e518557b4435cd83ab2bea482cdbe1130c30f631ec148b5792859a8e37"
+}

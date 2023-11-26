@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lovers of aether/loversofaether.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "10bf0b7c18c121c67ba50df434a62efa",
+    "id": "1124354151913111702",
+    "name": "Lovers of Aether",
+    "publishers": [
+        {
+            "id": "521816554212687884",
+            "name": "Dan Fornace"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1043180",
+            "sku": "1043180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9a89c07bb852fd2e475af837623b7b946a70acaf1811fbd403e7d88b74a0ac70"
+}

@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Empires of the Undergrowth"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/eotu-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9c1090dd03a0acb81c3ec2273ce60025",
+    "id": "1164636668654006343",
+    "name": "Empires of the Undergrowth",
+    "publishers": [
+        {
+            "id": "1164636670444965969",
+            "name": "Slug Disco Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "463530",
+            "sku": "463530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60e0cc3bfb3c42e67a4721e6ad279f4f29fe7d33ad9f986659bdd5f7746893a0"
+}

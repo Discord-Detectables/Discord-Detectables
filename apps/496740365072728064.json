@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "FINAL FANTASY III"
+    ],
+    "description": "Unreleased outside of Japan for 16 years, this remake of Final Fantasy III features newly designed characters, a more robust Job system, new abilities, and Nintendo Wi-Fi support.",
+    "developers": [
+        {
+            "id": "521816539746271243",
+            "name": "Matrix Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ff3_win32.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff8591507140cf497755c4fc9054459d",
+    "id": "496740365072728064",
+    "name": "Final Fantasy III",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239120",
+            "sku": "239120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0c70db0785c8354b1e085da2bb23dd5e5b6deaa41b8f85fdcf287308b3cde99d"
+}

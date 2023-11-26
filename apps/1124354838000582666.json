@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a taste of the past/a taste of the past.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f71a2e647c96e7efc35a4bbad2678f5d",
+    "id": "1124354838000582666",
+    "name": "A Taste of the Past",
+    "publishers": [
+        {
+            "id": "1124354838499700736",
+            "name": "Sondering Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1706930",
+            "sku": "1706930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1d859055dfc963c8e4cf4e59d8048780ba9a4d1741d36e64b2b3f8002f7f95b2"
+}

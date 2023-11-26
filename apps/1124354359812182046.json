@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sword art online alicization lycoris/sao_al.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1ad6511aefeae91f6fb9869f23b66086",
+    "id": "1124354359812182046",
+    "name": "SWORD ART ONLINE Alicization Lycoris",
+    "publishers": [
+        {
+            "id": "1124354336475070515",
+            "name": "AQURIA Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1009290",
+            "sku": "1009290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8be6416ddf1bc00ff7bda5787d01ef044ee4307b39fedcb096febc21e711858a"
+}

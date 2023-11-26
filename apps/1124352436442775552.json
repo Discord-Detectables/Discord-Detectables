@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "theroomtwo/theroomtwo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cec4dc6ead751b4380dceb184bfc2f53",
+    "id": "1124352436442775552",
+    "name": "The Room Two",
+    "publishers": [
+        {
+            "id": "524352193109688325",
+            "name": "Fireproof Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "425580",
+            "sku": "425580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b27cb66020104781aed535a5cd2436f2dad2e29970c47cecee08dd5d63b97c2e"
+}

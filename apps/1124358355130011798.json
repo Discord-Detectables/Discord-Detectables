@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dv rings of saturn/delta-v.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1634ac8a6fdc6019ef6285693d6ed70a",
+    "id": "1124358355130011798",
+    "name": "ΔV: Rings of Saturn",
+    "publishers": [
+        {
+            "id": "559983677745135626",
+            "name": "Kodera Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "846030",
+            "sku": "846030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "db229fe1ccffed608106c181c69cabf0885033c931b14d7baa6352395150f326"
+}

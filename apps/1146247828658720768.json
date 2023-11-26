@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bless.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5f0a155afb6d825d9e197746b671b7fc",
+    "id": "1146247828658720768",
+    "name": "Bless Unleashed",
+    "publishers": [
+        {
+            "id": "1146247829392728086",
+            "name": "Round8 Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1254120",
+            "sku": "1254120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "db5c44f98f6809f013f51d333bad8e00dbdb6ef0bdf34aa2a4d7eb7fea5d0a59"
+}

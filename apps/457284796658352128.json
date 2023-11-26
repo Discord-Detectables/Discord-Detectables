@@ -1,0 +1,36 @@
+{
+    "description": "Often referred to as simply AVA, Alliance of Valiant Arms is a free to play (F2P) modern-based first person shooter.",
+    "developers": [
+        {
+            "id": "521816522302423055",
+            "name": "Red Duck"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ava.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "443950921286811649",
+    "hook": true,
+    "icon": "7d0d3e78c2786df6c4a843594bc09e39",
+    "id": "457284796658352128",
+    "name": "Alliance of Valiant Arms",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816522302423053",
+            "name": "NHN Games Corporation"
+        },
+        {
+            "id": "521816522302423054",
+            "name": "GameOn"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "b91e13168506186fe7084d46606c3c67082bfc10b2f86591a5119cf7322e00f5"
+}

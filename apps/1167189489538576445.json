@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Night Loops"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "night loops/night loops.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6ca621e5e97a8753009e2ab1e2c648d4",
+    "id": "1167189489538576445",
+    "name": "Night Loops",
+    "publishers": [
+        {
+            "id": "1167189491514085439",
+            "name": "Jiaquarium"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1826060",
+            "sku": "1826060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ecf619edf93def6d4960346671873f86480f62c372e18a5e761b71c6b45e3873"
+}

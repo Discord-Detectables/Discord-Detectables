@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "notruf 112/notruf112.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb469870b99b3417df5685307e55d896",
+    "id": "1124353283599908864",
+    "name": "Notruf 112",
+    "publishers": [
+        {
+            "id": "1124353284086444082",
+            "name": "Crenetic GmbH Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "491530",
+            "sku": "491530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c5000d8fbca4321bf0de117fcb3850c5f2e4b7b682f59cc8f9d713edfddd0c5d"
+}

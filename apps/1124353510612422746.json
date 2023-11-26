@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yogurt!!/yogurt!.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40d8b9be85a76cf799f49d4a5610441c",
+    "id": "1124353510612422746",
+    "name": "Yogurt!",
+    "publishers": [
+        {
+            "id": "1124353511115722812",
+            "name": "TheBoys"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1390740",
+            "sku": "1390740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eb0168ea9c73af1b9f2573bd8d75d3425a399098f888e700ac5845c13779c896"
+}

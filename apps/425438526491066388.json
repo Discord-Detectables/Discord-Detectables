@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "injustice.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c12b936ead4ea00d1f2a73ebcdcea644",
+    "id": "425438526491066388",
+    "name": "Injustice: Gods Among Us Ultimate Edition",
+    "publishers": [
+        {
+            "id": "521816697448038412",
+            "name": "NetherRealm Studios"
+        }
+    ],
+    "splash": "da4ca6fa5b64d31a6847242308ffa226",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "242700",
+            "sku": "242700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2aec86e78dba52557a3f5cb0cc257e228fb3fa7c16f9c9db5a1ad76d1aa91fbc"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bladed/chopghost.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1e006e35a19d0bfc2679a4fe8ef0821",
+    "id": "1124359541849604106",
+    "name": "Bladed Fury",
+    "publishers": [
+        {
+            "id": "1124352406386393098",
+            "name": "NEXT Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "927250",
+            "sku": "927250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac1df2ed0a50a23cfcf91a0c4e48a4e0f3518cb88105165c3ab48155b6cde2cf"
+}

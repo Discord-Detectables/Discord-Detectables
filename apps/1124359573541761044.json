@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shootinghurts/shooting hurts.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f7bdf245639b972e1eda33307d4a12d0",
+    "id": "1124359573541761044",
+    "name": "Shooting Hurts",
+    "publishers": [
+        {
+            "id": "1124359574053474355",
+            "name": "Jakob Vidal"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "931700",
+            "sku": "931700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60ac4c88091b402a4e8a7472c9a74b8095ca8f4bc3ee17afe244fa2fe7d13950"
+}

@@ -1,0 +1,31 @@
+{
+    "description": "Who's Your Daddy is a competitive 1v1 game where a clueless father is faced with watching over his curious son.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "whosyourdaddy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40881b132fbecc5861f4f92b25198558",
+    "id": "425751000477990922",
+    "name": "Who's Your Daddy",
+    "publishers": [
+        {
+            "id": "521816718457176114",
+            "name": "Evil Tortilla Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "427730",
+            "sku": "427730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2477700b626e79d97793c329aef4ec8910ddbaf7e19efdf97180f296d5d4e434"
+}

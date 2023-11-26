@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "welcome to the game/wttg.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "17ac30295875c72249eb14a7990b0e80",
+    "id": "1124353397848559706",
+    "name": "Welcome to the Game",
+    "publishers": [
+        {
+            "id": "524352630512680980",
+            "name": "Reflect Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "485380",
+            "sku": "485380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2d511d0bc012af82fbe91e00278d565675d2abb82ebdf18211c161c8f1fcc6cf"
+}

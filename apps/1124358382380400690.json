@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "west sweety/west sweety.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "814a69cb3a6f406eb7f3633378317df9",
+    "id": "1124358382380400690",
+    "name": "West Sweety",
+    "publishers": [
+        {
+            "id": "1124358382833381478",
+            "name": "ADOG"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1186400",
+            "sku": "1186400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dee940ba6d5622773008ef86e7f513cfc425d8e7cce5eff3fbae9681b3facc7f"
+}

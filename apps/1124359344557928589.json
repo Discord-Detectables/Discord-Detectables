@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dotnet/dotnetfx40_full_x86_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c6261bf4d1fc1ac0d685c30556c5bbc",
+    "id": "1124359344557928589",
+    "name": "Operation Flashpoint: Red River",
+    "publishers": [
+        {
+            "id": "1124359345099001897",
+            "name": "Codemasters Action Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "44340",
+            "sku": "44340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a64006e0d69a19efd7492e94e82c6d9c621d0400f8a6bcd5b46b77d704f44e13"
+}

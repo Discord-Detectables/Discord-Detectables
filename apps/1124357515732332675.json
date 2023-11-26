@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "endoparasitic/endoparasitic.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6e9944c22f1f2d34ea13d0b90a254e5",
+    "id": "1124357515732332675",
+    "name": "Endoparasitic",
+    "publishers": [
+        {
+            "id": "1124357516210491392",
+            "name": "Narayan Walters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2124780",
+            "sku": "2124780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8dd63ac5050cb30517ec03b4b20336a5933e79ffe41345d055793d1ec3eb0142"
+}

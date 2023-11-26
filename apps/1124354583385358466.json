@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blazing beaks/blazingbeaks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9c2fc5db64e70d9d75cb68cfab2bf41f",
+    "id": "1124354583385358466",
+    "name": "Blazing Beaks",
+    "publishers": [
+        {
+            "id": "570854428010217472",
+            "name": "Applava"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "585710",
+            "sku": "585710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea676bb6ed5deec4bc1320578041fb1298649327df1c9700b9690d50fd44a55f"
+}

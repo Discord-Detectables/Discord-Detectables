@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "chicken invaders universe/ciu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "effd6f3a2b56b00518df0b58a69bd6e3",
+    "id": "1124352579766333440",
+    "name": "Chicken Invaders Universe",
+    "publishers": [
+        {
+            "id": "524351603420037152",
+            "name": "InterAction studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1510460",
+            "sku": "1510460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "247e32b3e7198db1014b634c2d814976893297e0cc797de95a8504bad3971bd5"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "There Was A Caveman"
+    ],
+    "description": "A prehistoric, retro-inspired, indie action platformer.",
+    "developers": [
+        {
+            "id": "521816699008319495",
+            "name": "Nauris Amatnieks"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "therewasacaveman.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc94fbe8c42725319fc1b133f3edfd42",
+    "id": "504079332512235573",
+    "name": "There Was a Caveman",
+    "publishers": [
+        {
+            "id": "521816699008319495",
+            "name": "Nauris Amatnieks"
+        }
+    ],
+    "splash": "5bb2719fd99ace2ab212434830ccb45f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "407290",
+            "sku": "407290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fc4a5d8818bae989e3c7e4b095636bdf29402f535e71d217f10602b22124a963"
+}

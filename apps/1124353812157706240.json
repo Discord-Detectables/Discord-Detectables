@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shop heroes/shopheroes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4c650c871d82fa07e1982042e84813e3",
+    "id": "1124353812157706240",
+    "name": "Shop Heroes",
+    "publishers": [
+        {
+            "id": "1124353812682002432",
+            "name": "Cloudcade, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "506140",
+            "sku": "506140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4281f9e2ae2d1643d3337063483179a463981357be65be946e912eff44b0f22d"
+}

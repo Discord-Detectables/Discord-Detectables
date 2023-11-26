@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rome total war alexander/testappa.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3684803b08a9c8de620adfcdf9c66b0a",
+    "id": "1124354580117991544",
+    "name": "Rome: Total War - Alexander",
+    "publishers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4770",
+            "sku": "4770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "adbc602559f324f22e3e76000b7a67f1edee039816e9b8b6e546875af3444607"
+}

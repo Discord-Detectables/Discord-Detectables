@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "calico/calico.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a38ac7261609a7fecb0d17c342bf0501",
+    "id": "1124353425715511347",
+    "name": "Calico",
+    "publishers": [
+        {
+            "id": "1124353426168492122",
+            "name": "Peachy Keen Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1112890",
+            "sku": "1112890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad286195fd6be9f6a283110d169c3cd3a8a4835e970a4da6af4f67452b951211"
+}

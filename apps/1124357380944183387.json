@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "realm revolutions/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f31c47e0aac852edeefb64c64ade724",
+    "id": "1124357380944183387",
+    "name": "Realm Revolutions",
+    "publishers": [
+        {
+            "id": "524352817591222274",
+            "name": "Aleksandr Golovkin"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "764030",
+            "sku": "764030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1297d86c28f2593961770a7363b9e839a3a1737588f8dd0c8ee4f116d240bc20"
+}

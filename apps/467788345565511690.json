@@ -1,0 +1,32 @@
+{
+    "description": "HDH&amp;HG attempts to replicate some of the more nuanced parts of shooting a gun, including loading magazines.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "h3vr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3e61c40b17c41a166aded051c41af68a",
+    "id": "467788345565511690",
+    "name": "Hot Dogs, Horseshoes & Hand Grenades",
+    "publishers": [
+        {
+            "id": "521816545874149378",
+            "name": "RUST LTD"
+        }
+    ],
+    "splash": "02dd29948b8ec699736e71bd82b5c186",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "450540",
+            "sku": "450540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "66fe6a1297e795b8cb19fb650d9259501d2631222b4430f37533a1cb89596768"
+}

@@ -1,0 +1,39 @@
+{
+    "description": "A steampunk base-building survival strategy game.",
+    "developers": [
+        {
+            "id": "521816657581309954",
+            "name": "Numantian Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "theyarebillions.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "380472883605929984",
+    "hook": true,
+    "icon": "5f997a9771d7d9050fca73b4b2a80318",
+    "id": "406638043894775819",
+    "name": "They Are Billions",
+    "publishers": [
+        {
+            "id": "521816657581309954",
+            "name": "Numantian Games"
+        }
+    ],
+    "splash": "f5c1b98e64404d26f5ef4258a5d08faf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "644930",
+            "sku": "644930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "252b4447b84f9446c27ad09376c608be4bcd5d150046970938a15354c8d914d9"
+}

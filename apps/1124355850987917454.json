@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the plan/the plan.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9eb8e7766085a0db2d3a3736a2f8ac40",
+    "id": "1124355850987917454",
+    "name": "The Plan",
+    "publishers": [
+        {
+            "id": "1124354232011735070",
+            "name": "Krillbite Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "250600",
+            "sku": "250600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1c64034f87e6d8dda23b9517479eba3b29fce19c7f35b4305e5da2cb649efe7b"
+}

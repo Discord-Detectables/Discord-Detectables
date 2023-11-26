@@ -1,0 +1,38 @@
+{
+    "description": "Create a dad and romance other dads in this comedic dating sim produced by the team behind the Game Grumps webseries.",
+    "developers": [
+        {
+            "id": "521816741689425920",
+            "name": "Game Grumps"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dream daddy/ddadds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae9a6921c2c355ff0349384aeec16150",
+    "id": "452206598283198504",
+    "name": "Dream Daddy: A Dad Dating Simulator",
+    "publishers": [
+        {
+            "id": "521816741689425920",
+            "name": "Game Grumps"
+        }
+    ],
+    "splash": "4a6364ce35a24c330922d0607d6ca620",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "654880",
+            "sku": "654880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ce27341125f98c268153f46fa18f5d7bfc30d518eaba839bf5498b0aee9ac17"
+}

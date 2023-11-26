@@ -1,0 +1,32 @@
+{
+    "description": "MINDNIGHT",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mindnight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fec751518f04573f39192f8a82da7fbd",
+    "id": "443156444351561738",
+    "name": "MINDNIGHT",
+    "publishers": [
+        {
+            "id": "521816740246585345",
+            "name": "No Moon"
+        }
+    ],
+    "splash": "4f9f914585b8805583cbd4fd98e0d479",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "667870",
+            "sku": "667870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03278500a1f4a32a59792c21f3498b7da2e519c3988a9b3c37104bb004ec0d61"
+}

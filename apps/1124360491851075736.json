@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/herlieitriedtobelieve.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f7fd8b8c2389e69d9a6cb857552f05fa",
+    "id": "1124360491851075736",
+    "name": "Her Lie I Tried To Believe",
+    "publishers": [
+        {
+            "id": "1124360492413108416",
+            "name": "Hangover Cat Purrroduction"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "806510",
+            "sku": "806510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "29532576144f9fde782eb011385c5a4397f500a167996932fc15d0ed1cf5aeec"
+}

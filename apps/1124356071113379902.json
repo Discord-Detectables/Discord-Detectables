@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lostruins/lostruins.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad7e3645fd49a6adb40227d5adb3dd44",
+    "id": "1124356071113379902",
+    "name": "Lost Ruins",
+    "publishers": [
+        {
+            "id": "1124356071595720885",
+            "name": "ALTARI GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1306630",
+            "sku": "1306630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5182b64f6f60e3095ef111ef0926b3f02334c5d453084771c455a9baf5a68145"
+}

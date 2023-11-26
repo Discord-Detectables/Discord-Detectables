@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Killer is Dead"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kidgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "94c971e74771c42018527ace551d9d59",
+    "id": "425471324073230336",
+    "name": "Killer Is Dead - Nightmare Edition",
+    "publishers": [
+        {
+            "id": "521816777550725132",
+            "name": "KADOKAWA GAMES / GRASSHOPPER MANUFACTURE"
+        }
+    ],
+    "splash": "c8d8c291c4ec5d24da7e47ac83398957",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "261110",
+            "sku": "261110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2f09c234c0d1971631bce71f76a0ef12dc93a0d511745d1b4d85461c59b26fc5"
+}

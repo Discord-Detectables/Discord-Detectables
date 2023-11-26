@@ -1,0 +1,38 @@
+{
+    "description": "Loadout is a third-person shooter featuring fully customizable weapons and over-the-top violence. It is available through Steam for PC and the PlayStation Store for PS4.",
+    "developers": [
+        {
+            "id": "521816658298404886",
+            "name": "Edge of Reality, Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "loadout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9d45d79c35e38a7d1aaea4afa35c9c15",
+    "id": "451555691836997643",
+    "name": "Loadout",
+    "publishers": [
+        {
+            "id": "521816658298404886",
+            "name": "Edge of Reality, Ltd."
+        }
+    ],
+    "splash": "999fd65c0485196ad85da6e820316f79",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "208090",
+            "sku": "208090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "62ebf2ee09e73c46a206fd2e9b7228226ddf5cbe485ba0772f778d045261c766"
+}

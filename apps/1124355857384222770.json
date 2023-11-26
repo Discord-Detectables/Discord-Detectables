@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/advancedgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b064a0f375569b4e2c4331b84ef9773f",
+    "id": "1124355857384222770",
+    "name": "BACKROOMS: NO RETURN Demo",
+    "publishers": [
+        {
+            "id": "1124355857866575913",
+            "name": "FriedGPU"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2249720",
+            "sku": "2249720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a22e40a1167466536bdd66b762b940e5f7774f9f566207a29d6d12683d28668e"
+}

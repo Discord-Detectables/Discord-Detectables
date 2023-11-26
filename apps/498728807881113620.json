@@ -1,0 +1,38 @@
+{
+    "description": "We Happy Few is a game from Compulsion Games, makers of Contrast. It is a first-person survival game set in a drug-fuelled, retro-futuristic city in an alternative 1960s England.",
+    "developers": [
+        {
+            "id": "521816801537949718",
+            "name": "Compulsion Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "glimpsegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "80d3684358dcc4fbf3124fd166b041cf",
+    "id": "498728807881113620",
+    "name": "We Happy Few",
+    "publishers": [
+        {
+            "id": "521816801537949718",
+            "name": "Compulsion Games"
+        }
+    ],
+    "splash": "1c6e66ed31343b98c8cddb19b0bdea80",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "320240",
+            "sku": "320240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c380bca303b8fbae22b9d790f3d91929499ce8af1c652029728029adad3acdf0"
+}

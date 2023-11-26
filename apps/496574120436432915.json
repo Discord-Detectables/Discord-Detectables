@@ -1,0 +1,41 @@
+{
+    "description": "Dirt 3 is the latest installment in Codemasters' long-running Colin McRae Rally franchise. The game returns to the series' rally roots with dynamic weather, a career focusing on team-based racing, as well as introducing the freestyle event: Gymkhana.",
+    "developers": [
+        {
+            "id": "521816499464306689",
+            "name": "Codemasters Racing"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dirt3_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4d9475147716080f034063bd62400589",
+    "id": "496574120436432915",
+    "name": "DiRT 3",
+    "publishers": [
+        {
+            "id": "521816592208756748",
+            "name": "Codemasters Racing Studio"
+        },
+        {
+            "id": "521816499464306688",
+            "name": "Codemasters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "44320",
+            "sku": "44320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8a31272e380e069a2c63e1bc28cb55ace266610de83474dd6d548c2b6a29dbe9"
+}

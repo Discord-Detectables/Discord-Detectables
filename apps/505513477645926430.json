@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "th125.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "th125e.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b7a22023654e151e361721036e39695a",
+    "id": "505513477645926430",
+    "name": "Touhou 12.5: Double Spoiler",
+    "summary": "",
+    "type": 1,
+    "verify_key": "593485b67aa723a081eaad49148075cb320c3904bebc02e2e9ad971128de1536"
+}

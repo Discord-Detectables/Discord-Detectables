@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mitoza/mitoza.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d90aeaa865aeb4facb1ffca0cd4ad1c0",
+    "id": "1124354590037524572",
+    "name": "Mitoza",
+    "publishers": [
+        {
+            "id": "1124354590532448406",
+            "name": "Gal Mamalya"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1516240",
+            "sku": "1516240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff88c5ab0cf6b1b79a9208fd717ef684cdb30bedb65209b603bf6fd9f7273ac2"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eagle/eagle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "70730638eb6f405687b76169be32f32e",
+    "id": "1124357293287428106",
+    "name": "Project Eagle",
+    "publishers": [
+        {
+            "id": "521816607408914451",
+            "name": "Blackbird Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224000",
+            "sku": "224000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fe96ae5a7c1f69f3192ab452928dddbf9eec1e6b6fd884eed233a2e3cf7e7f42"
+}

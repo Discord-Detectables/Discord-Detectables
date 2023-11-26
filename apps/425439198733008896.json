@@ -1,0 +1,42 @@
+{
+    "aliases": [
+        "LEGO Worlds",
+        "LEGO? Worlds"
+    ],
+    "description": "An open world building game from Traveler's Tales.",
+    "developers": [
+        {
+            "id": "521816542707449856",
+            "name": "Traveller's Tales Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lego_worlds_dx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bc64a4b5119c30732e23cd764f4481b5",
+    "id": "425439198733008896",
+    "name": "LEGO® Worlds",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "f8bf6fe02a3aa31ca0c93fd3f4701e0c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "332310",
+            "sku": "332310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "419e1cc47f1b51f84b1aa1faa60a2ae6e8daa1ee946499e615ffbd36856ebda9"
+}

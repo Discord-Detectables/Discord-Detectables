@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ori and the will of the wisps/oriwotw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1c9b343cc59d1fd21f68210eafc2ff47",
+    "id": "1124351801001521294",
+    "name": "Ori and the Will of the Wisps",
+    "publishers": [
+        {
+            "id": "521816682684088330",
+            "name": "Moon Studios GmbH"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1057090",
+            "sku": "1057090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0a83766f7024a3d9da25978f8b29b6bf1b523f36ace39f2c47207dfba48481e7"
+}

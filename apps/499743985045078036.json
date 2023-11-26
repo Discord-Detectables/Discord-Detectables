@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blockpost.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1f97eb13bb20e86bb73b482201215eab",
+    "id": "499743985045078036",
+    "name": "BLOCKPOST",
+    "publishers": [
+        {
+            "id": "521816524403638273",
+            "name": "Skullcap Studios"
+        }
+    ],
+    "splash": "01570a3cca036d7727d94c5097bac35f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "706990",
+            "sku": "706990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "63f00a724f33cb081e44663c839795292b5c74e9711e925fe3ffa85b4ac3070f"
+}

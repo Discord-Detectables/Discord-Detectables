@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neverbreakup/neverbreakupbeta.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f138014f767ac3844771c783c332fcab",
+    "id": "1124356810678222858",
+    "name": "Never BreakUp Beta",
+    "publishers": [
+        {
+            "id": "1124356811122815066",
+            "name": "ISVR"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1390480",
+            "sku": "1390480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f7728af87764857c056903c6da1b993edbfc70df11fa41a9f2d9f3bd618b29f3"
+}

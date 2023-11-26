@@ -1,0 +1,37 @@
+{
+    "description": "Evolve is a class-based cooperative-competitive game in which a team of four hunters chase after an evolving monster, also controlled by a player.",
+    "developers": [
+        {
+            "id": "521816522977574922",
+            "name": "Turtle Rock Studios, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "evolve.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff060cff3e508ad5a48d1fa184cf79b8",
+    "id": "425748985517703188",
+    "name": "Evolve Stage 2",
+    "publishers": [
+        {
+            "id": "521816504392482816",
+            "name": "2K Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "273350",
+            "sku": "273350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25338d1c65be565d9a10df0af3b1a08e4d3083c76d31ba303e6a4b6d0f07c912"
+}

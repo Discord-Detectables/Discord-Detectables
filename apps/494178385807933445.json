@@ -1,0 +1,22 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "Warframe Test",
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "494178385807933445",
+    "name": "Warframe Test",
+    "primary_sku_id": "499571165988126730",
+    "slug": "warframe-test",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "499571165988126730",
+            "sku": "499571165988126730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bf6c4d75e50fba5392a821e632b5de7830c412ff2e66a036a77fe955ff60b110"
+}

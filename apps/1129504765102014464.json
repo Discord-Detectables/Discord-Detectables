@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Professional Fishing"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro fishing/profishing.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c8ce648fd7c443378a4ddd4773a5653c",
+    "id": "1129504765102014464",
+    "name": "Professional Fishing",
+    "publishers": [
+        {
+            "id": "1124359230560948305",
+            "name": "MasterCode"
+        },
+        {
+            "id": "1129504769149509762",
+            "name": "4Fishing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "798420",
+            "sku": "798420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4b44344ea168e26ac3c3fd932d87dabfccb3dfb79d0f565214800b75fd915768"
+}

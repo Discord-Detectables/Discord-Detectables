@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Mount & Blade II: Bannerlord"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64_shipping_client/bannerlord.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "70ff1999ed550805108084d81553e0f7",
+    "id": "1163956401874403438",
+    "name": "Mount & Blade II: Bannerlord",
+    "publishers": [
+        {
+            "id": "1124353242520895579",
+            "name": "TaleWorlds Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "261550",
+            "sku": "261550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e37b189a774b6678be59ceb277d89a4eabe5a1277fd27304924cc35da0254e74"
+}

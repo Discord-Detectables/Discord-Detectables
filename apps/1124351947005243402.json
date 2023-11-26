@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the long drive/thelongdrive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "97abaf6f02960bcd0d27728f37232701",
+    "id": "1124351947005243402",
+    "name": "The Long Drive",
+    "publishers": [
+        {
+            "id": "1124351947458236556",
+            "name": "Genesz"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1017180",
+            "sku": "1017180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "19d3648ddf20b3c9ed396e6320f1251de35e39424324a44b7469d7fb02915ea1"
+}

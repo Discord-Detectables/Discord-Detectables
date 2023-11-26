@@ -1,0 +1,42 @@
+{
+    "description": "Sequel to the tower defense/Monkey Ball/art history mashup Rock of Ages.",
+    "developers": [
+        {
+            "id": "521816597074018307",
+            "name": "ACE Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "roa2-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b53e6fd942e3870f151c7955e2804d12",
+    "id": "451584845898842112",
+    "name": "Rock of Ages 2",
+    "publishers": [
+        {
+            "id": "521816597074018306",
+            "name": "Atlus Co., Ltd."
+        },
+        {
+            "id": "521816597074018307",
+            "name": "ACE Team"
+        }
+    ],
+    "splash": "c51556d18b49f0eb3e253387c11a3e58",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "434460",
+            "sku": "434460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff425562ea6d5e3e3a1dd398191780c1638020e66b539a3eea46bd8c6112dc4e"
+}

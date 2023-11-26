@@ -1,0 +1,39 @@
+{
+    "description": "A story-focused platforming adventure/exploration game with a striking and colorful art style. Taking place in a small town of anthropomorphic animals, the game revolves around college dropout Mae as she tries to get reacquainted with her hometown.",
+    "developers": [
+        {
+            "id": "521816686991769601",
+            "name": "Infinite Fall"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "night in the woods.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "409719543984947201",
+    "hook": true,
+    "icon": "697990380ed8c9f190e50c8d3173b635",
+    "id": "451541089912881162",
+    "name": "Night in the Woods",
+    "publishers": [
+        {
+            "id": "521816686991769600",
+            "name": "Finji"
+        }
+    ],
+    "splash": "70c707531182fb90873ff974fd3f7c90",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "481510",
+            "sku": "481510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "829806626cbbe7ba034a2ea2488cce671127e14eeab61b39171abd274e232fa2"
+}

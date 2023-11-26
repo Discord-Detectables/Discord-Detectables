@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "FINAL FANTASY XII THE ZODIAC AGE"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x64/ffxii_tza.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1164622199475413012",
+    "name": "FINAL FANTASY XII",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "595520",
+            "sku": "595520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d76c5a1c5856bd332f297fcb08ab2aab34c3358f296ee86516a9be420ccb6ce8"
+}

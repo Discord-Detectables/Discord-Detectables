@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spirit of the island demo/soti demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "34aea0731da7cab5808ad5f1116b7496",
+    "id": "1124360349836128417",
+    "name": "Spirit Of The Island Demo",
+    "publishers": [
+        {
+            "id": "1124358886237945896",
+            "name": "1M Bits Horde"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1635110",
+            "sku": "1635110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fcc054db3e6f02a100182fc9e5514159c9ff7fe4af3b78d75534555449dcb404"
+}

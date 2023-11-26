@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "EZ Quake"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ezquake-gl.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ezquake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d51a9de6acdce17d83c87690e2ff8a7b",
+    "id": "505131009583480844",
+    "name": "nQuake",
+    "publishers": [
+        {
+            "id": "521816696345067521",
+            "name": "Empezar (mpezar@gmail.com)"
+        },
+        {
+            "id": "521816696345067522",
+            "name": "Empezar (empezar@quake.world)"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "6f99264330e3d0f6aa19ce713850ad69f9e96b1f511350106c7114bd9ea7c4f6"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crafting idle clicker/crafting idle clicker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4bad7a48ab7cf44e92ec5105ed1c05d9",
+    "id": "1124353894059880558",
+    "name": "Crafting Idle Clicker",
+    "publishers": [
+        {
+            "id": "1124353894059880559",
+            "name": "Bling Bling Games GmbH"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1250790",
+            "sku": "1250790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6bb2e48bfb51d387af7a196e71c66d613aef7df0f6c5ce15bdcb284430f34c7c"
+}

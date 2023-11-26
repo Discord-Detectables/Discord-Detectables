@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Greed Black Border"
+    ],
+    "description": "Greed is a hack-n-slash RPG from ClockStone studios. The game takes place on a mining ship that lost communication and stopped working. You play as one of the three different classes available. ",
+    "developers": [
+        {
+            "id": "521816635749695509",
+            "name": "ClockStone"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "greed black border/greed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b0152ef9eeb1d5202a2841209323e697",
+    "id": "425458464714653696",
+    "name": "Greed: Black Border",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "0d8809087e43c0e66b68be5c6b0b6940",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "46400",
+            "sku": "46400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0af97b08dd35e29e1e92c2f7fb16b9ea7a5ead046e21103e67c471a2f08411d5"
+}

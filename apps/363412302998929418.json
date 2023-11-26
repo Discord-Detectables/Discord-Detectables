@@ -1,0 +1,73 @@
+{
+    "aliases": [
+        "Mount & Blade: Warband"
+    ],
+    "description": "Warband is a stand-alone expansion for Mount and Blade. It serves an improved and expanded re-release of the original Mount and Blade, a medieval open world RPG by Taleworlds.",
+    "developers": [
+        {
+            "id": "521816586101850136",
+            "name": "Taleworlds"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mountblade warband/mb_warband_old.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "mountblade warband/mb_warband.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "mountblade warband/binkplay.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wse/wseloader.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "mountblade warband/battlesizer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf9835d3663bfe8a0c70860ee0340689",
+    "id": "363412302998929418",
+    "name": "Mount & Blade: Warband",
+    "publishers": [
+        {
+            "id": "521816521249521702",
+            "name": "Paradox Interactive AB"
+        },
+        {
+            "id": "1124353242520895579",
+            "name": "TaleWorlds Entertainment"
+        },
+        {
+            "id": "1124353242520895579",
+            "name": "TaleWorlds Entertainment"
+        },
+        {
+            "id": "1124353242520895579",
+            "name": "TaleWorlds Entertainment"
+        }
+    ],
+    "splash": "afab500c88e606201cce959f54875912",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "48700",
+            "sku": "48700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cdb477033b169a8eaa2c4d7f75c9bba4dc54358768c467b387137a3c2fa1fc2e"
+}

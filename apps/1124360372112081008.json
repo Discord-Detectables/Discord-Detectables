@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pleasure puzzle portrait/pp1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab5bb7c76bd17459f9d7eb7e51a463e5",
+    "id": "1124360372112081008",
+    "name": "Pleasure Puzzle:Portrait",
+    "publishers": [
+        {
+            "id": "1124360372565061752",
+            "name": "冷笑黑妖"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "939620",
+            "sku": "939620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8aee3c04e1b85244d9e676e79bddd13b64ca6b04af33e1996f412fb558a0cb8a"
+}

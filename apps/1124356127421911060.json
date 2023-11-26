@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "magic 2014/dotp_d14.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dad2ccd49ee55e6ef5da8c43414ac86b",
+    "id": "1124356127421911060",
+    "name": "Magic 2014",
+    "publishers": [
+        {
+            "id": "1124354976454557748",
+            "name": "Stainless Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "213850",
+            "sku": "213850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "755b41af0f323a604bd3bf91b51034279bf6fb149d68a732049e9947a8c9ceb9"
+}

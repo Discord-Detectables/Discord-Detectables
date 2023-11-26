@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "volzerk/volzerk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f36e4ae679b9d4af5ddfc291a88cd32c",
+    "id": "1124356139950297098",
+    "name": "Volzerk : Monsters and Lands Unknown",
+    "publishers": [
+        {
+            "id": "1124356140432637952",
+            "name": "COLOPL, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1995730",
+            "sku": "1995730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91a089f73f8d23faeab1e3000981dff7294e97497037434ff5f2583149832cfa"
+}

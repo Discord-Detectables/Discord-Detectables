@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nexomon/nexomon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c27e8ad18f7b4ec49cd24a3887bc7a64",
+    "id": "1124358249123172432",
+    "name": "Nexomon",
+    "publishers": [
+        {
+            "id": "1124355938829226145",
+            "name": "VEWO Interactive Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1191580",
+            "sku": "1191580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a36345ae93e7e4c45874a9cc3e4f46ca062d6f7231a9c32ef99684cd66398509"
+}

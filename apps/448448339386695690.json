@@ -1,0 +1,183 @@
+{
+    "aliases": [
+        "Warhammer 40,000: Dawn of War - Soulstorm",
+        "Warhammer 40K: Dawn of War Soulstorm"
+    ],
+    "description": "Soulstorm, developed by Iron Lore, is the third and final expansion pack to Relic's hit real-time strategy game, Warhammer 40,000: Dawn of War. The Sisters of Battle and the Dark Eldar join the fray as you fight to dominate the Kaurava system.",
+    "developers": [
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/4gb_patch.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "unification_bugfix/unification_configurator_1.0.0.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v1.4.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/tyranid_mod_0.5b3_installer.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "unification_bugfix/unification configurator 1.0.2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager 1.3.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.3.2.2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.3.1.0.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/tyranidsuninstall.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.1.3.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v1.52.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/graphicsconfig.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.1.9.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.1.6.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "soulstorm.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war soulstorm/dow mod manager v2.1.5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2add8673c6c84eea86b3796638534316",
+    "id": "448448339386695690",
+    "name": "Warhammer 40,000: Dawn of War - Soulstorm",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        }
+    ],
+    "splash": "49d9e2e0cc0e60e1deddd7166d8ba1ba",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9450",
+            "sku": "9450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0a17b3cfb7589d4c5ccf908fec972b2a02ececc5a0f10495a079a043bf25a6e9"
+}

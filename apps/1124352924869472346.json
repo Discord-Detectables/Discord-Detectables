@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/midnightsuns-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "daf14f267a18384650347b42f4f21769",
+    "id": "1124352924869472346",
+    "name": "Marvel's Midnight Suns",
+    "publishers": [
+        {
+            "id": "521816573485514765",
+            "name": "Firaxis Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "368260",
+            "sku": "368260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0111f30a77e01623e39625789b56cacc5ead6b032be71de3ab1461fd8efba0e5"
+}

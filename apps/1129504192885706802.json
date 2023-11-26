@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Catan Universe"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "catan universe/catanuniverse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b24a83be5e17ee9fef9581a11fef4107",
+    "id": "1129504192885706802",
+    "name": "Catan Universe",
+    "publishers": [
+        {
+            "id": "1124358833033203934",
+            "name": "Exozet"
+        },
+        {
+            "id": "1129504194919940247",
+            "name": "Endava"
+        },
+        {
+            "id": "1129504195398082722",
+            "name": "Client/Frontend: Endava  / Backend: SuperNimbus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "544730",
+            "sku": "544730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95b0e45eb2476c4ad21f99925932ad0edd8c9ed8dde5f221cdcbca5779a7bdee"
+}

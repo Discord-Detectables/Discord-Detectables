@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a mortician's tale/morticianstale.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5224204951f39f01afd1b239c3f0a706",
+    "id": "1124360112857956464",
+    "name": "A Mortician's Tale",
+    "publishers": [
+        {
+            "id": "524352821403975688",
+            "name": "Laundry Bear Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "578720",
+            "sku": "578720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "00702840de8c52976fdcd4d4d99a93f625f186efa09be48f93f6834ec3d92ce9"
+}

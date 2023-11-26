@@ -1,0 +1,36 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ethancarter-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1a1fab23d631f74aa01150ecc623ebf5",
+    "id": "504078762292543506",
+    "name": "The Vanishing of Ethan Carter Redux",
+    "publishers": [
+        {
+            "id": "521816694352510978",
+            "name": "The Astronauts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400430",
+            "sku": "400430"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "a2a17d7256c043de9181355bc4d046f97b29587c71e12edc4143baf8324fdd84"
+}

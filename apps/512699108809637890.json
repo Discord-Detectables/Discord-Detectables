@@ -1,0 +1,31 @@
+{
+    "description": "Battlefield V sees the series return to a World War II setting for the first time in nearly a decade.",
+    "developers": [
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battlefield v/bfv.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "140933721929940992",
+    "hook": true,
+    "icon": "5f70bb592b9efbad9b5973404b9b7d01",
+    "id": "512699108809637890",
+    "name": "Battlefield™ V",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "366d31ac02d906799684b41655e3449ad54fad6769c5fa6cb2e93e98f89a0d76"
+}

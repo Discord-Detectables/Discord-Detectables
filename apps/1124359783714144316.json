@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dominatrix simulator/dominatrix simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e70cf22f2a560d247341c90d65b536c5",
+    "id": "1124359783714144316",
+    "name": "Dominatrix Simulator: Threshold",
+    "publishers": [
+        {
+            "id": "1124359784246816818",
+            "name": "deviant.tech"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "953270",
+            "sku": "953270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "55b9ba75d0b2e2d9f8009eb1c4c11bbbf81f45c311a1d09d50a4160cd9239a07"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beavers be dammed/beaversbedammed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "68454e8a24bdd80194c8f65b0ff43509",
+    "id": "1124352380092305529",
+    "name": "Beavers Be Dammed",
+    "publishers": [
+        {
+            "id": "1124352380553674843",
+            "name": "Wallflower Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "764570",
+            "sku": "764570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fa269bd9e09fcd42da72d0e48161fc663eb62be7ec0613333bd1a462e6d83cca"
+}

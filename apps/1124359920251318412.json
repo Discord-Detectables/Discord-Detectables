@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "driver parallel lines/driverparallellines.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b07c5d3352be55ece6ffa9ecf0e7748f",
+    "id": "1124359920251318412",
+    "name": "Driver: Parallel Lines",
+    "publishers": [
+        {
+            "id": "521816510172233759",
+            "name": "Ubisoft Reflections"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "21780",
+            "sku": "21780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f9b942087cfb7f7bc5a3701a2a8d51ea76d75189757254c4c78a00505e52bfd6"
+}

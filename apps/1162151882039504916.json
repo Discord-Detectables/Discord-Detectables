@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "RuneLite"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "runelite/runelite.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f6589f21e7b6948f57c491744cfdf42",
+    "id": "1162151882039504916",
+    "name": "RuneLite",
+    "publishers": [
+        {
+            "id": "1162151883570434148",
+            "name": "RuneLite"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "c3f9721053d41b17feede89bd66d8b12f259cf9366786b6bdee86a7d7f67f9c6"
+}

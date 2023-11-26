@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "The Lab"
+    ],
+    "description": "A set of quick VR experiences are collected together in one free package for HTC Vive owners.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thelab.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "win64/secretshop.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa1eca67ec72510b1c0ee09c38159816",
+    "id": "451542394857455638",
+    "name": "The Lab",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        },
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        },
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "splash": "782aa30493ca28d56de4725fcd86f303",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "450390",
+            "sku": "450390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "06371df7175ce01c53e8e2314a03baea8e0f1af86dcd79714affd343680c74a7"
+}

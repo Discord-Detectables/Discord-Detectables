@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "castlevania lords of shadow - mirror of fate hd/cmof.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d50680ad3b3bc84a64983795169d1c44",
+    "id": "1124357290011672646",
+    "name": "Castlevania: Lords of Shadow – Mirror of Fate HD",
+    "publishers": [
+        {
+            "id": "1124354247660679198",
+            "name": "MercurySteam"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "282530",
+            "sku": "282530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "61c17dc4337ccc25348cfca5a7cfdd1bbf5e9f534fcec573e061b546f91e3ffd"
+}

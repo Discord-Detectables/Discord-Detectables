@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "electronauts/electronauts.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5a3a804d46314f05309b5e8bea28359",
+    "id": "1124358441666883624",
+    "name": "Electronauts",
+    "publishers": [
+        {
+            "id": "521816667232403457",
+            "name": "Survios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "691160",
+            "sku": "691160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2c25676be5119733dbbadd24d4eb4280f7d93555ecaa9af9d9d075ea5cd49df0"
+}

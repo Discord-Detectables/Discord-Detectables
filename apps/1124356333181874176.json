@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "frozen flame/frozenflame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc07f0244b71047f1305e7f7c54840fc",
+    "id": "1124356333181874176",
+    "name": "Frozen Flame",
+    "publishers": [
+        {
+            "id": "1124356333714559086",
+            "name": "Dreamside Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "715400",
+            "sku": "715400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26b64022f7d94c3c6fce12f67fc5d66acea01fa9aa9ec0ebeff5142b22f0a924"
+}

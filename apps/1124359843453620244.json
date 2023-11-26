@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cat in the box/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7c87fc9a0f6cb5534d33205a653fb286",
+    "id": "1124359843453620244",
+    "name": "Cat in the Box",
+    "publishers": [
+        {
+            "id": "524353191475937282",
+            "name": "Gustav"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1257410",
+            "sku": "1257410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dce9be8133b59f6617b56b9f82614ee9c46f5e796b06207856e5bc3abaef4553"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "at home alone final/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb9f5ef474c448441a69506b02c2de92",
+    "id": "1124354296251691208",
+    "name": "At Home Alone Final",
+    "publishers": [
+        {
+            "id": "1124353643429244968",
+            "name": "阿正不经"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1740100",
+            "sku": "1740100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b35888c45309cc798ded8214b3c6249f8ce239a1fbab618532054991934ae4ca"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Block n Load"
+    ],
+    "description": "Block N Load",
+    "developers": [
+        {
+            "id": "521816499950714881",
+            "name": "Jagex Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blocknload.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f201f02b5614d519dea61b4093b9c078",
+    "id": "426524547177512960",
+    "name": "Block N Load",
+    "publishers": [
+        {
+            "id": "521816562068488197",
+            "name": "Jagex"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "299360",
+            "sku": "299360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "070b63f5b746dd07a4a15688a87ca213718c208907de2dfb178c0931400ccf96"
+}

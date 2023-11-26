@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/dragons-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f283cd499f309f5c7ffa13ad9363666e",
+    "id": "1124353347705647144",
+    "name": "Day of Dragons",
+    "publishers": [
+        {
+            "id": "1124353348154445914",
+            "name": "Beawesome Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1088090",
+            "sku": "1088090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3e118fb65081b2b8e82283a500c112b37496926623bb5c1394e731d41d2f48fb"
+}

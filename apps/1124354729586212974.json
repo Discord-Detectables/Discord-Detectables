@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ship of fools/shipoffools.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d21e81857168ffe0f55b7ceb2ca4f092",
+    "id": "1124354729586212974",
+    "name": "Ship of Fools",
+    "publishers": [
+        {
+            "id": "1124354730093719562",
+            "name": "Fika Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1286580",
+            "sku": "1286580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "96308aa5963973e7dd74f439ff2c984c7e0d24c9bd6944dad79abe98e0a12325"
+}

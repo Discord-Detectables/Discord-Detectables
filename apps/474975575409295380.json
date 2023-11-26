@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stronghold crusader.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "23adf071518ea4e0b0b16e186f12eab2",
+    "id": "474975575409295380",
+    "name": "Stronghold Crusader HD",
+    "publishers": [
+        {
+            "id": "521816602132611105",
+            "name": "Firefly Studios"
+        }
+    ],
+    "splash": "0d0fabb636f8db44a2b9373cc5cc916e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "40970",
+            "sku": "40970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3fda872d368af9465fdf41830285c8b211b54db411c1d11cdcf5774e17f4dcb5"
+}

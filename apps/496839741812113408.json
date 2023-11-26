@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Jurassic Park The Game"
+    ],
+    "description": "Telltale Games continue on from the events of the first Jurassic Park film with this cinematic adventure game.",
+    "developers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jurassicpark100.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d50da088f4eba94ca6551aaff0f53c6c",
+    "id": "496839741812113408",
+    "name": "Jurassic Park: The Game",
+    "publishers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "splash": "79d787af63ed98643500e2993839f69d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "201830",
+            "sku": "201830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e22c482180216a81e83978dfd20fdad8ff19a1d8200aa3d427cf9d3ee12b9963"
+}

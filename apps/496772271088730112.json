@@ -1,0 +1,38 @@
+{
+    "description": "A rhythm game developed by the Taito team behind Space Invaders Infinity Gene.",
+    "developers": [
+        {
+            "id": "521816661788065792",
+            "name": "Taito Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gcst.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "028f814bcecaadd048518c21958eaf78",
+    "id": "496772271088730112",
+    "name": "Groove Coaster",
+    "publishers": [
+        {
+            "id": "521816661788065792",
+            "name": "Taito Corporation"
+        }
+    ],
+    "splash": "cdc72ff1fe450dfc57ff79c6ca56d051",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "744060",
+            "sku": "744060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e86e4d48e1a4a9cf5daac3da5880845bc9baeee32ec67286081e0da47b19851"
+}

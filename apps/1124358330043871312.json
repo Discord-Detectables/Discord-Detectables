@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "license/license.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8d25f8ceca69fb816b1a69ee858e8fa5",
+    "id": "1124358330043871312",
+    "name": "ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS",
+    "publishers": [
+        {
+            "id": "521816738807939112",
+            "name": "Konami Digital Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "650510",
+            "sku": "650510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dcf70f0035f225c7c005daac321ddd7fdded7628b98a99b8d4bbb2552f6acc1f"
+}

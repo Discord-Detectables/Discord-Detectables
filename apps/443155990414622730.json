@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Wakfu"
+    ],
+    "description": "Wakfu is the successor of the turn-based MMORPG of Dofus set in the same world 1000 years later. The game is now made in Java instead of Flash.",
+    "developers": [
+        {
+            "id": "521816751038791693",
+            "name": "Ankama Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wakfu.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wakfu.app",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6962992f1748869a81a0da00d83475bf",
+    "id": "443155990414622730",
+    "name": "WAKFU",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "54aaeab581bbdf69f13abe524970d663",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "215080",
+            "sku": "215080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "39997881cc8df9350ffe10248e62d726d7d5d4b38599b75ddcf3dab464bcfc6d"
+}

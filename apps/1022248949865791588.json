@@ -1,0 +1,34 @@
+{
+    "aliases": [
+        "MONSTER HUNTER RISE"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monsterhunterrise/monsterhunterrise.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1022248949865791588",
+    "name": "MONSTER HUNTER RISE",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1446780",
+            "sku": "1446780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "27082b1f7c23829fa7a896a1de3edbafcfccb0867950ea0a09fc440b3ab9c0be"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "superfight/superfight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b6bb480b69fc963967584e03e4df4d6a",
+    "id": "1124360278184841296",
+    "name": "SUPERFIGHT",
+    "publishers": [
+        {
+            "id": "1124360181128642681",
+            "name": "Pipeworks Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "404770",
+            "sku": "404770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "35ce36136f81290b243b429c52c0af91ddd73de6c46d57c81542505af46d4c38"
+}

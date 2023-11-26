@@ -1,0 +1,39 @@
+{
+    "description": "Absolver is an online multiplayer combat game where players are placed behind the mask of a Prospect under control of the Guides, the new rulers of the fallen Adal Empire, who will determine your worth in joining their elite corps of Absolvers.",
+    "developers": [
+        {
+            "id": "521816744659124244",
+            "name": "Sloclap"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "absolver-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "284619971735322624",
+    "hook": true,
+    "icon": "e3c14f9a6f3a8a756fba91f9bdb72f1d",
+    "id": "363430239134547978",
+    "name": "Absolver",
+    "publishers": [
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        }
+    ],
+    "splash": "dfe7fece821b15ad21a60548c8ddaa10",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "473690",
+            "sku": "473690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fd1438db7d9487aacc219f9f7b29f496b0b3dc97ef23a300b891a6c4c16e593b"
+}

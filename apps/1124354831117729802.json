@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tempo/tempo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3568df03c3609c868921213e53fb3d4d",
+    "id": "1124354831117729802",
+    "name": "Tempo",
+    "publishers": [
+        {
+            "id": "1124354831646208110",
+            "name": "Aestronauts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1445240",
+            "sku": "1445240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "29ade1b296519d5a87674b064e27b927f2316272540101f51c5b25dc6cb4b2c0"
+}

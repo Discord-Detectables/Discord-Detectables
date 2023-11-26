@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pokerstars vr/pokerstarsvr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a67431ef88f2f981b7740fbecf6e487b",
+    "id": "1124352956519698482",
+    "name": "PokerStars VR",
+    "publishers": [
+        {
+            "id": "556190292873838615",
+            "name": "Lucky VR Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "886250",
+            "sku": "886250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3afea84372fccebc0b18582fe3b6c5d510a8a1890a395e681398d1cd3a73b4c5"
+}

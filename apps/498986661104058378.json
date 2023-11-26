@@ -1,0 +1,38 @@
+{
+    "description": "Primal Carnage is a class-based online multiplayer game that places players as either humans or dinosaurs and pits them against each other.",
+    "developers": [
+        {
+            "id": "521816600031002636",
+            "name": "Lukewarm Media"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "primalcarnagegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f912ec00fe6b76f4149a41ee6ad6081b",
+    "id": "498986661104058378",
+    "name": "Primal Carnage",
+    "publishers": [
+        {
+            "id": "521816600031002635",
+            "name": "Reverb Communications Inc."
+        }
+    ],
+    "splash": "14e1e98e7917bf4d3fa1b6a36efe3d90",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "215470",
+            "sku": "215470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a496e82b3bc70920f44a4e378d40007205052b44a49652bdca0daa146b6c6eb0"
+}

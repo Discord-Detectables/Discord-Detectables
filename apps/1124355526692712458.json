@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hextechmayhem/hextechmayhem.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d0e174d2d50189a198560adb8c8cd732",
+    "id": "1124355526692712458",
+    "name": "Hextech Mayhem: A League of Legends Story™",
+    "publishers": [
+        {
+            "id": "524352010007609346",
+            "name": "Choice Provisions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1651960",
+            "sku": "1651960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cfd5e270f1794e089db91c9410b41af8fb62ec57aee5cb11368809fe4560133e"
+}

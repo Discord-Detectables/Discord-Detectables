@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Batman™: Arkham Origins"
+    ],
+    "description": "Two years after beginning his crime-fighting career, Batman faces his toughest challenge ever when the crime lord known as Black Mask hires the eight deadliest assassins in the DC Universe to kill the vigilante who has been interfering in his operations.",
+    "developers": [
+        {
+            "id": "521816745686859780",
+            "name": "WB Games Montréal"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "batmanorigins.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d469e494f3be7c84352a61b03e00d6f0",
+    "id": "425437243822571550",
+    "name": "Batman: Arkham Origins",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "33100a4b567ba37f6d171a60ec8affa1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "209000",
+            "sku": "209000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "56ea74499dd29512fcd9ea5fa5db2da5aca01d52e5b1b1e536d11bd76e620574"
+}

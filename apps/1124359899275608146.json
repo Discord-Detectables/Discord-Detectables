@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idle monkeylogy/idle monkylogy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b4567db1c59ab2816a030ca85d75a050",
+    "id": "1124359899275608146",
+    "name": "Idle Monkeylogy",
+    "publishers": [
+        {
+            "id": "1124359899724394681",
+            "name": "Imoyokan"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1690690",
+            "sku": "1690690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "90e737e6101de055759914e49fa0c3bf58e1fd83b551ccf341bf653cfee55d57"
+}

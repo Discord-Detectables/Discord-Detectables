@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "freshwomen/freshwomen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f08530baeca7600e2d40d17e54273c25",
+    "id": "1124352470425026600",
+    "name": "FreshWomen - Season 1",
+    "publishers": [
+        {
+            "id": "1124352471087722566",
+            "name": "Oppai-Man"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1350650",
+            "sku": "1350650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3843a6bdd1b7cb7707deffe1f35e2311a1ca9ad904091534ae815e6b5fe8950e"
+}

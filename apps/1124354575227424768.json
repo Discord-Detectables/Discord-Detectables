@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hasbro's battleship/battleship.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df6796c4bc9bed7571df5019960ee18a",
+    "id": "1124354575227424768",
+    "name": "Hasbro's BATTLESHIP",
+    "publishers": [
+        {
+            "id": "1124352178191093860",
+            "name": "Marmalade Game Studio Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "893050",
+            "sku": "893050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "82824446d666997085f12874f52c00d758b68cd2aefb0ff33cff1d498051039b"
+}

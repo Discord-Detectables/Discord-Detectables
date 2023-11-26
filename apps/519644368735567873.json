@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "522565612111790108",
+            "name": "Propaganda Games"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a53196a49c72a83456b98009e4fbe8c4",
+    "id": "519644368735567873",
+    "name": "Turok 2: Seeds of Evil",
+    "publishers": [
+        {
+            "id": "522565612111790106",
+            "name": "Disney Interactive"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "fbb31bddfa168ff8d6746835d191ef13b3895faaa4c02f31ef6dd7fa299a21e9"
+}

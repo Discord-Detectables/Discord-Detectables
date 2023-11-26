@@ -1,0 +1,31 @@
+{
+    "description": "An upcoming Free-to-play, developed by Yager.",
+    "developers": [
+        {
+            "id": "521816629416296448",
+            "name": "YAGER Development GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dreadgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "99592296034476032",
+    "hook": true,
+    "icon": "4915455b9c9419f07c070627fcd2a904",
+    "id": "457284340330659864",
+    "name": "Dreadnought",
+    "publishers": [
+        {
+            "id": "521816628980219917",
+            "name": "Grey Box"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "f5a69299c5baea53dceeb06177a6d7dd3941ae676e985f59c885393f44f71871"
+}

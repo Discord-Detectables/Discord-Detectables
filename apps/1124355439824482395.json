@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "different strokes/differentstrokes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "373de05c7e80037605e33614fba3a030",
+    "id": "1124355439824482395",
+    "name": "Different Strokes",
+    "publishers": [
+        {
+            "id": "1124355440352972960",
+            "name": "Different Folks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2102020",
+            "sku": "2102020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "79e656271dd115dbdd50fe44e098e9dff21e4cfd2f6fc546b76606bbea5b2a0c"
+}

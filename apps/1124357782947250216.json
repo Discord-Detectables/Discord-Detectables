@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a game about/agameabout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d60b12a99a62450a715c5e029ea3ab3e",
+    "id": "1124357782947250216",
+    "name": "A Game About",
+    "publishers": [
+        {
+            "id": "1124357783391842324",
+            "name": "byolivierb"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "927990",
+            "sku": "927990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9653cb448ae55af32a31616f6e9fe249465f858565bd304b699f55db5821fde5"
+}

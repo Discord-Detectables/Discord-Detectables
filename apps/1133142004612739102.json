@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "orx demo/orx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3b62f6073e79134b71d4a572c032c885",
+    "id": "1133142004612739102",
+    "name": "ORX Demo",
+    "publishers": [
+        {
+            "id": "1133142006789587125",
+            "name": "johnbell"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1310980",
+            "sku": "1310980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e6e6dda70b58e9ec65ef739011b43883927b264572884f84ef452531918529e"
+}

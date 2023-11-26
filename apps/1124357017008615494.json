@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "voxeltycoon/voxeltycoon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9002ce6c51f66a7963f3916d710da456",
+    "id": "1124357017008615494",
+    "name": "Voxel Tycoon",
+    "publishers": [
+        {
+            "id": "1124357017520328835",
+            "name": "Voxel Tycoon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "732050",
+            "sku": "732050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b147e9d05c5e6844b77d2ce1118aeecf0676444a68d2b230cf3f9e628cde87eb"
+}

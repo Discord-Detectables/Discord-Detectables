@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/scorn-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "23e4012e7c100251e7d5d68b01e0d842",
+    "id": "1124354586384289872",
+    "name": "Scorn",
+    "publishers": [
+        {
+            "id": "1124354586946322523",
+            "name": "Ebb Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "698670",
+            "sku": "698670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5b9f07973dd312596e006b17ff1d10d4c261fa3a3ff1e2561533872d286921c9"
+}

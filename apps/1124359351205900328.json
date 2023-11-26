@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "versus game/versus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6116e234463bfdfbaf3e77a8632eb010",
+    "id": "1124359351205900328",
+    "name": "Versus Squad",
+    "publishers": [
+        {
+            "id": "1124358240810061926",
+            "name": "DiezelPower"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "471330",
+            "sku": "471330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d9b80bef6e02e0d93f42c6089c3bcb8594d422e8f27f0482304642f80a46d17c"
+}

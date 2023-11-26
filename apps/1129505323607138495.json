@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Sakuna: Of Rice and Ruin"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sakuna of rice and ruin/sakuna.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c02aa100a047ddcc024fa4f11ae76cb9",
+    "id": "1129505323607138495",
+    "name": "天穂のサクナヒメ",
+    "publishers": [
+        {
+            "id": "521816680276426759",
+            "name": "Edelweiss"
+        },
+        {
+            "id": "521816680276426759",
+            "name": "Edelweiss"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1356670",
+            "sku": "1356670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "de1ace4e943505342405ed8581de79bf5678ee596d2964f2efac0c11c7ff7e96"
+}

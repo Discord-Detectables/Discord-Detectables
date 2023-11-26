@@ -1,0 +1,49 @@
+{
+    "aliases": [
+        "Subnautica-FullRelease"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816602728071191",
+            "name": "Unknown Worlds"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "subnautica.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "85342800492634112",
+    "hook": true,
+    "icon": "658213af4ac66a18d0783d00bcc60916",
+    "id": "363413811518242816",
+    "name": "Subnautica",
+    "primary_sku_id": "489926636943441932",
+    "publishers": [
+        {
+            "id": "521816602728071191",
+            "name": "Unknown Worlds"
+        }
+    ],
+    "slug": "subnautica",
+    "splash": "a5d4e0abcb94fbf51c42410475998999",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "264710",
+            "sku": "264710"
+        },
+        {
+            "distributor": "discord",
+            "id": "489926636943441932",
+            "sku": "489926636943441932"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b0f359dd02e604f32893d81fe4993a87c2d00b563a9a05f28815d29d26a24fbc"
+}

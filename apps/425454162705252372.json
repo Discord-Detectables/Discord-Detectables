@@ -1,0 +1,38 @@
+{
+    "description": "Black Mirror is an adventure game developed by KING Art and published by THQ Nordic.",
+    "developers": [
+        {
+            "id": "521816646768263170",
+            "name": "King Art Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blackmirror.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e0f23493d0c1d0c9e5c88490b2cf0b89",
+    "id": "425454162705252372",
+    "name": "Black Mirror",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "splash": "72c50249f77e0067b1c2eb841e990900",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "581300",
+            "sku": "581300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "974337a5031d48a55bdbfb4180074806ff3c9e442fe6e7b85b41cb54e623ec2f"
+}

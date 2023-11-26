@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/thevagrant-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de10bd2b61ddaaf9ff155b6d9ce7c995",
+    "id": "1124354581653115001",
+    "name": "The Vagrant",
+    "publishers": [
+        {
+            "id": "524353150321426439",
+            "name": "O.T.K Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "598700",
+            "sku": "598700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "49c87bc335ac54423680b083da2e0d99c3c8afc2b6f35426a0abe4f935bb02b0"
+}

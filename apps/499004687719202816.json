@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "RESIDENT EVIL REVELATIONS",
+        "Resident Evil Revelations"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rerev.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "86567776ef4d2c4e886b80ef3cc07a47",
+    "id": "499004687719202816",
+    "name": "Resident Evil Revelations / Biohazard Revelations",
+    "publishers": [
+        {
+            "id": "521816574512857088",
+            "name": "Capcom"
+        }
+    ],
+    "splash": "c8eab963b07efb1c00c7a19f8d60b470",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "222480",
+            "sku": "222480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "32fb17455eae70486c47857f0afa15a9f6a6f697fff6c18717b2f4c8e616fc58"
+}

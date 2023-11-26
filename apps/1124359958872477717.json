@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rune factory 4 special/rf4s.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c532b94c40a2aafabc157f83ac2f2e0a",
+    "id": "1124359958872477717",
+    "name": "Rune Factory 4 Special",
+    "publishers": [
+        {
+            "id": "1124354203360444596",
+            "name": "Marvelous Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1580240",
+            "sku": "1580240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7c8107ab4191ab32bda6d1446087e828d97d902609f6acb4af1811106e71f62a"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/sengokudynasty-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c55c2b464d444e51abe90764f13e3e0d",
+    "id": "1139468332614029404",
+    "name": "Sengoku Dynasty",
+    "publishers": [
+        {
+            "id": "1139468334409195550",
+            "name": "Superkami"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1702010",
+            "sku": "1702010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e4559f3c2607458d6319fb85b3d3af9674fa9857e7bac7cc1130f5a66b8bb738"
+}

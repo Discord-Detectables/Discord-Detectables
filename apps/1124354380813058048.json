@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "batman the telltale series/batman.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd72b7de89ec45fc53caa6ddfe568fdd",
+    "id": "1124354380813058048",
+    "name": "Batman - The Telltale Series",
+    "publishers": [
+        {
+            "id": "1124354381278621827",
+            "name": "Telltale"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "498240",
+            "sku": "498240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31a316b31d38d38895316f297ec5563008f1fd73f3a958c2ef1465dce1db8a8a"
+}

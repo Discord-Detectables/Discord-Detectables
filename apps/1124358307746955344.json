@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/nomads-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "12e101389a0fb78ab67c11f5eb10990a",
+    "id": "1124358307746955344",
+    "name": "Nomads of Driftland",
+    "publishers": [
+        {
+            "id": "524352807856242721",
+            "name": "Star Drifters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1400520",
+            "sku": "1400520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "071f270a38bb08ef55d967a6805067a6e4fe7f3f972a68bb4191c1e3f9708e92"
+}

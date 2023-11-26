@@ -1,0 +1,38 @@
+{
+    "description": "Wizard of Legend is a crowdfunded 2D dungeon crawler.",
+    "developers": [
+        {
+            "id": "521816713294118914",
+            "name": "Contingent99"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wizardoflegend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad36692b48c00671da441039aa8155ca",
+    "id": "450024058348634112",
+    "name": "Wizard of Legend",
+    "publishers": [
+        {
+            "id": "521816713294118914",
+            "name": "Contingent99"
+        }
+    ],
+    "splash": "4dadac1fdddf38de242c37d100f33b2d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "445980",
+            "sku": "445980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f7005296bde2e871392e026dedc17995ffc8c998388a06507a7c136c4ce18a9"
+}

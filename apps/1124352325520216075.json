@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wgt golf/golf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd6ec41af40979a8286d4a819c2b9d79",
+    "id": "1124352325520216075",
+    "name": "WGT Golf",
+    "publishers": [
+        {
+            "id": "1124352325956419615",
+            "name": "Topgolf Media"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1182020",
+            "sku": "1182020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "18c15e2429ecff821b7c2f095122699f76d0c502c365468763a8f87dc6aeeaf8"
+}

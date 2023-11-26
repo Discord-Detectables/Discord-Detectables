@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "orc massage/orcmassage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b81153573b4da6b0d596d2447fadc604",
+    "id": "1124353186753429584",
+    "name": "Orc Massage",
+    "publishers": [
+        {
+            "id": "1124353187202216038",
+            "name": "TorchEntertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1129540",
+            "sku": "1129540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5a4bfc631543ead500d3a4676e39042993525723566343741673431151c1105a"
+}

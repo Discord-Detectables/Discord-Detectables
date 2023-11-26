@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the council/the council.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f63f33057bc5319b8d9fe45572df9087",
+    "id": "1124354302958383176",
+    "name": "The Council",
+    "publishers": [
+        {
+            "id": "1124354303486873600",
+            "name": "Big Bad Wolf"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "287630",
+            "sku": "287630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6f89e9f27a99baa0474e9dde404d167a0b6d8cdfd92538f1a752b98f183c2242"
+}

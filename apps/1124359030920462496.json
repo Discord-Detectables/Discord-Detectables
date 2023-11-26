@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dude simulator 4/dudesimulator4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "02ae2d40e9115e69f234d11c1cf69ff7",
+    "id": "1124359030920462496",
+    "name": "Dude Simulator 4",
+    "publishers": [
+        {
+            "id": "1124353769870737528",
+            "name": "Kiddy"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1524750",
+            "sku": "1524750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77665d4f55852545b4db9b4bd0005409e57a586e88a6202ec3c8b06e0381d820"
+}

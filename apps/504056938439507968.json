@@ -1,0 +1,37 @@
+{
+    "description": "In the style of the classic Baldur's Gate games, Sword Coast Legends is an all new D&amp;D-licensed party-based RPG set in the Forgotten Realms campaign setting.",
+    "developers": [
+        {
+            "id": "521816678430933003",
+            "name": "n-Space, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swordcoast.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "95386e56215102209722f121cd5c1167",
+    "id": "504056938439507968",
+    "name": "Sword Coast Legends",
+    "publishers": [
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "325600",
+            "sku": "325600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03af81cb818d564986a207cb70abc38988eef9e6296b54608a61089bdb9745d7"
+}

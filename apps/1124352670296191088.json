@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "onmyoji/client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc9f32f0b70371eb50e2f42df86c1dec",
+    "id": "1124352670296191088",
+    "name": "Onmyoji",
+    "publishers": [
+        {
+            "id": "521816544939081735",
+            "name": "Netease Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "551170",
+            "sku": "551170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "99d85b384c4de664d9b5214dd858d01982fdee5151d9084dd79346f8a1cd40a0"
+}

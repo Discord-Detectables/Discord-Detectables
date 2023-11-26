@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "super friends party/superfriendsparty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2a932822ed371c9db646bf387fa546d",
+    "id": "1124359214752612443",
+    "name": "Super Friends Party",
+    "publishers": [
+        {
+            "id": "1124359215218176181",
+            "name": "LIONHEART GAMING"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1075140",
+            "sku": "1075140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2ed582af5a6e353ec4026a6af9e7104c88ac28305267a1ee97d7eb577e18f029"
+}

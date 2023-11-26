@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Quake III"
+    ],
+    "description": "Quake III: Team Arena is an expansion pack released for Quake III Arena in December 2000 by id Software. It features new modes focused on teamplay, as well as new weapons, items, player models, and maps.",
+    "developers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "quake3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4cf84c68f6b2b05bbc6faf434cb89ae6",
+    "id": "505493023031951411",
+    "name": "Quake III",
+    "publishers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "49a73f013a3664b36112ffddca597710e4cecd845c7048700a86083f240666cb"
+}

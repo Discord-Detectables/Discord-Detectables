@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scythe digital edition/scythe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b98f99ede9a59700124742a1aac0547a",
+    "id": "1124352749816000563",
+    "name": "Scythe: Digital Edition",
+    "publishers": [
+        {
+            "id": "524353145959350276",
+            "name": "The Knights of Unity"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "718560",
+            "sku": "718560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8f7305e09e589400602ff2437b4bb212fc3fbb785ab002a19d4797627f91e6c"
+}

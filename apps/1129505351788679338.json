@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "The Curious Expedition"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the curious expedition/the curious expedition.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7de9476f752d884b59d30edcfa429768",
+    "id": "1129505351788679338",
+    "name": "Curious Expedition",
+    "publishers": [
+        {
+            "id": "524352639865978881",
+            "name": "Maschinen-Mensch"
+        },
+        {
+            "id": "524352639865978881",
+            "name": "Maschinen-Mensch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "358130",
+            "sku": "358130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2bff32faeae9dc9b49210925fb4ffcc3012e8e88a7ea716bed6ff1361a97a54"
+}

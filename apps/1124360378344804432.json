@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "no more heroes/configurationtool.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "27cbf16c474722ce49f17a6685677da9",
+    "id": "1124360378344804432",
+    "name": "No More Heroes",
+    "publishers": [
+        {
+            "id": "521816539746271242",
+            "name": "Grasshopper Manufacture inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1420290",
+            "sku": "1420290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fc63cf178f4cd7c927250812360f80c9008e842e0e0e79a8cd4ab7ce328d16a6"
+}

@@ -1,0 +1,46 @@
+{
+    "description": "The third main installment in the match-three franchise.",
+    "developers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bejeweled3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "83ec75a972ad122c3d08d0da3357c58e",
+    "id": "496536236769542154",
+    "name": "Bejeweled 3",
+    "publishers": [
+        {
+            "id": "521816620339953704",
+            "name": "PopCap Games"
+        },
+        {
+            "id": "521816620339953705",
+            "name": "WildTangent"
+        },
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "splash": "10882407a7ff5d11944d2c9335b77408",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "78000",
+            "sku": "78000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f30fec328ed9d9d6ddf39c76e7344d735ade7df3f59a27087aeb557f1bed7d5e"
+}

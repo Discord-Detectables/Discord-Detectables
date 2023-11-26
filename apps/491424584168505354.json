@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816518871220235",
+            "name": "Double Fine Productions, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "brokenage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "148f00fded30f9953ea267e845aa3d22",
+    "id": "491424584168505354",
+    "name": "Broken Age",
+    "primary_sku_id": "491700594055053312",
+    "publishers": [
+        {
+            "id": "521816700153495552",
+            "name": "Double Fine Productions"
+        }
+    ],
+    "slug": "broken-age",
+    "splash": "f8504de14d434335b45dc91e39097612",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "232790",
+            "sku": "232790"
+        },
+        {
+            "distributor": "discord",
+            "id": "491700594055053312",
+            "sku": "491700594055053312"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b503411fc4008ef67703244b862ab0118504936e22ae9a68d7ca5b26f773dde"
+}

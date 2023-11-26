@@ -1,0 +1,38 @@
+{
+    "description": "The Forgettable Dungeon is a dungeon crawler with inspiration from roguelikes, Zelda, and arcade brawlers.",
+    "developers": [
+        {
+            "id": "521816637956161557",
+            "name": "Happy Box Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "forgettabledungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7c4f9ea21a1e33b8f955da3cae0236e3",
+    "id": "504075021677887541",
+    "name": "The Forgettable Dungeon",
+    "publishers": [
+        {
+            "id": "521816637956161556",
+            "name": "Anthony Rotondo"
+        }
+    ],
+    "splash": "564393290bb52bb1904d95ca6eb12209",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "375810",
+            "sku": "375810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12a14402e7f7c6b5121b4117546c304628d9eb02552586a44ab514948452d660"
+}

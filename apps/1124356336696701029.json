@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monster prom demo/monsterpromdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00f6ebd9145d1f3440d24c168ba4f0d9",
+    "id": "1124356336696701029",
+    "name": "Monster Prom Demo",
+    "publishers": [
+        {
+            "id": "521816560051159043",
+            "name": "Beautiful Glitch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1276400",
+            "sku": "1276400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "007e9446f42ee8d6e1e1c03e9003b3a30185ecc5339197260c8c2aca34c65dcb"
+}

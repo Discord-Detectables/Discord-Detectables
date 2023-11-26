@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steamworld heist/heist.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2a254e13b31469900ebc1e886de6fcf",
+    "id": "1124354760749895731",
+    "name": "SteamWorld Heist",
+    "publishers": [
+        {
+            "id": "1124353852423024660",
+            "name": "Image &amp; Form Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "322190",
+            "sku": "322190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "059cb77fde0d848246856a585b8d2e3d53f04e74c80c999f7fcb9c35e0fe3283"
+}

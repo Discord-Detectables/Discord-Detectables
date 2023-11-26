@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zombie gunship survival/zgi_steam_win_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9885553c5ba2aec59f004979069ef39",
+    "id": "1124355031173443644",
+    "name": "Zombie Gunship Survival",
+    "publishers": [
+        {
+            "id": "524352190761140254",
+            "name": "flaregames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1597480",
+            "sku": "1597480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8ccf5b5bdb4dbd4fd397ef412234907ff86d4ded8137b2d1897b45259255d329"
+}

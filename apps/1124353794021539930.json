@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rusty lake paradise/rustylakeparadise.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "41c13008ab36f9dbf5023963936373c1",
+    "id": "1124353794021539930",
+    "name": "Rusty Lake Paradise",
+    "publishers": [
+        {
+            "id": "524352595905740814",
+            "name": "Rusty Lake"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "744190",
+            "sku": "744190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60b8520502132f9ee2cde67c1be6de74669eb7efb0a06bd4b213242d207c1bb1"
+}

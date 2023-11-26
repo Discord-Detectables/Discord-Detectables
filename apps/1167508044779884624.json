@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "slay the princess/slaytheprincess.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6f4b2eb413d6a06cc0f8d7d134bbeec1",
+    "id": "1167508044779884624",
+    "name": "Slay the Princess",
+    "publishers": [
+        {
+            "id": "1124357354603950080",
+            "name": "Black Tabby Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1989270",
+            "sku": "1989270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1ff846baa734826c65fdd5e74176b8c2aa5bdf1d7f2790b23b0d1af63c70acb5"
+}

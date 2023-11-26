@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Farmer's Dynasty"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farmer's dynasty/farmersdynasty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae2faa598efc7a2718e51e8ef758f098",
+    "id": "1129505156174729296",
+    "name": "Farmer's Dynasty",
+    "publishers": [
+        {
+            "id": "1124357678005760221",
+            "name": "UMEO Studios"
+        },
+        {
+            "id": "1129505158926188594",
+            "name": "Toplitz Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "678900",
+            "sku": "678900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7588146217129133f4ebd6a527538ec9d59ca86767de1fac1e2c24d770a93ab7"
+}

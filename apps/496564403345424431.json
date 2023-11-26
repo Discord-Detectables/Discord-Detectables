@@ -1,0 +1,41 @@
+{
+    "description": "Set three years after the original Crysis, an ambushed Marine named Alcatraz dons the famous Nanosuit and fights his way through an obliterated New York City to stop the alien invasion.",
+    "developers": [
+        {
+            "id": "521816652262670336",
+            "name": "Crytek GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crysis2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1dd123bcbdb7f464dac000de1ec2f4eb",
+    "id": "496564403345424431",
+    "name": "Crysis 2",
+    "publishers": [
+        {
+            "id": "521816786321014819",
+            "name": "Crytek Studios"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "99830",
+            "sku": "99830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8b8116377006f6a8cd6f10d9a28e9de28c4ec0e170c08f9277095734bdca17e5"
+}

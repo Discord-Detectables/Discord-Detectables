@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lara croft and the temple of osiris/lc2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a4f21c1a112f622eb9d76004b0843e14",
+    "id": "1124352735492456458",
+    "name": "Lara Croft and the Temple of Osiris",
+    "publishers": [
+        {
+            "id": "521816639512248330",
+            "name": "Crystal Dynamics"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "289690",
+            "sku": "289690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "741c212f00846a5e216df033aa9b2b1396c8538d7c18bb734a3cef7c4ab03d8a"
+}

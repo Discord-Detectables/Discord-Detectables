@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ghost hunters corp/ghost exorcism inc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f944f4a3fd29202a8ad259f53e289c88",
+    "id": "1124359169672237158",
+    "name": "Ghost Hunters Corp",
+    "publishers": [
+        {
+            "id": "1124355229647908976",
+            "name": "StudioGoupil"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1618540",
+            "sku": "1618540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e133ee57a387fdcd460834bb152090dd7b585a02e744cb4eee9ae06e6c142553"
+}

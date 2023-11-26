@@ -1,0 +1,52 @@
+{
+    "description": "The fourth entry in the Elite franchise, from the series' co-creator David Braben and Frontier Developments.",
+    "developers": [
+        {
+            "id": "521816604175106063",
+            "name": "Frontier Developments Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "elitedangerous32.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "elitedangerous.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "elitedangerous64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7b1ce02a57ca981585cee935d42a304f",
+    "id": "363413225578037248",
+    "name": "Elite Dangerous",
+    "publishers": [
+        {
+            "id": "521816604175106059",
+            "name": "Frontier Developments"
+        },
+        {
+            "id": "521816604175106063",
+            "name": "Frontier Developments Ltd."
+        }
+    ],
+    "splash": "d4dacda40ee7ca50bf9f488bae5498fa",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "359320",
+            "sku": "359320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7a5b187b395bc02d87afd3d784a36b0e8a8d060bb8013b02688b0f92f358b17"
+}

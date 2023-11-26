@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "The Sims™ 4"
+    ],
+    "description": "The fourth installment of the main Sims franchise, revamping the series's customization features while improving the Sims' automations and emotions.",
+    "developers": [
+        {
+            "id": "521816577876951044",
+            "name": "Maxis Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ts4.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ts4_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "912bd1dd19dfd2ef3b0191985f942a40",
+    "id": "359509007423242240",
+    "name": "The Sims 4",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "splash": "4bf8d6cfe112edc9295cb7e8d93db7a6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": null,
+            "sku": null
+        }
+    ],
+    "type": 1,
+    "verify_key": "2adf36e8ef4669fbab319d256c59b165369fd04bfa791b55998170ff969e8f6f"
+}

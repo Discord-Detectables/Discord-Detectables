@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dontbitemebro_pc/dontbitemebro_pc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "80f3ed4ee8c7c2e8057cae7f3c4822b5",
+    "id": "1124358344996573315",
+    "name": "Don't Bite Me Bro! +",
+    "publishers": [
+        {
+            "id": "1124358345445359716",
+            "name": "MUIFWEGO"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "786450",
+            "sku": "786450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5d662ea9ed771b0f37bf22b51e5bfad4526ede0a39a03072f1f15a4efa135f2e"
+}

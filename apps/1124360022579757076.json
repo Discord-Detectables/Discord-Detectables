@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "narita boy/naritaboy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1b3d01b85cbb38b21156b3290d3d350",
+    "id": "1124360022579757076",
+    "name": "Narita Boy",
+    "publishers": [
+        {
+            "id": "1124360023057903646",
+            "name": "Studio Koba"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1069530",
+            "sku": "1069530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4bfa9b74bc6c5ff76c3739569b516709aa8c99397d1812a78b0da0ecf49fb8c8"
+}

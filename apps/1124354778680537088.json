@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "keywe/keywe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dcf3e0fd4aea51e013dcfb82ea3d4d9d",
+    "id": "1124354778680537088",
+    "name": "KeyWe",
+    "publishers": [
+        {
+            "id": "1124354779167084585",
+            "name": "Stonewheat &amp; Sons"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1242980",
+            "sku": "1242980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "01e30efaa0223adb71da544570a7ccc21bfbdffcc08c858402c41beff78fd853"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "horizon chase turbo demo/horizonchase.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff152943da7907acbe3a1eba3f533a97",
+    "id": "1124359330867724408",
+    "name": "Horizon Chase Turbo Demo",
+    "publishers": [
+        {
+            "id": "521816767941836800",
+            "name": "Aquiris Game Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "891900",
+            "sku": "891900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "64d2152c856601fac49de6ae22cffb721f98113f33a8dba60f66353d05748e98"
+}

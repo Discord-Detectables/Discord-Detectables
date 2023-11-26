@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bio inc. redemption/bioincredemption.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2ff5781324c6cfaea67bc2915b17c8be",
+    "id": "1124354164416327710",
+    "name": "Bio Inc. Redemption",
+    "publishers": [
+        {
+            "id": "1124354164944818307",
+            "name": "DryGin Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "612470",
+            "sku": "612470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5dbd53edb371d43d97901a3eb22b4b8b949f2795005bf1d0869701b6868a9fda"
+}

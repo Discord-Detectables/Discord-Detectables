@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Sonic Adventure™ 2"
+    ],
+    "description": "Sonic Adventure 2 is a 2001 sequel to Sonic Adventure. It marks the debut appearance of Shadow the Hedgehog and Rouge the Bat, and is the first ever Sonic title where Dr. Eggman is playable.",
+    "developers": [
+        {
+            "id": "521816507676885013",
+            "name": "Sonic Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sonic2app.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sonic adventure 2/sa2modmanager.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ccc56c1ac57a2e8883d36ca00563620a",
+    "id": "363427419249442816",
+    "name": "Sonic Adventure 2",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        },
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "splash": "b0cfe7aabd3c43201ab584c74153acee",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "213610",
+            "sku": "213610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be018374f4787beafbf399a07fa6c1461b480b2fe4fa9ef402454e49b7f4ceda"
+}

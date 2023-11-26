@@ -1,0 +1,43 @@
+{
+    "description": "A short adventure game.",
+    "developers": [
+        {
+            "id": "521816665609207821",
+            "name": "ErgoTM"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "homesick/binaries/win32/udk.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "homesick/binaries/win64/udk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e8b90da305d2119687844c4972541cc4",
+    "id": "425454613827813376",
+    "name": "Homesick",
+    "publishers": [
+        {
+            "id": "521816665609207820",
+            "name": "Lucky Pause"
+        }
+    ],
+    "splash": "716464159678e8052795de1c1fefff10",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "244910",
+            "sku": "244910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2330eec199c068a9f5206cb03096887e3c9253bb46e8577a40683a32cc56fe83"
+}

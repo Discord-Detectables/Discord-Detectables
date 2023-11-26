@@ -1,0 +1,42 @@
+{
+    "description": "Bless Online is a high fantasy MMORPG involving the conquering of dungeons, the taming of creatures and skirmishes between realms.",
+    "developers": [
+        {
+            "id": "521816598646882305",
+            "name": "NEOWIZ BLESS STUDIO"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bless online/binaries/win64/bless.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bc772e5cbdc678d3137476b09ab2de7c",
+    "id": "451132630390538270",
+    "name": "Bless Online",
+    "publishers": [
+        {
+            "id": "521816503465803779",
+            "name": "Neowiz Games"
+        },
+        {
+            "id": "521816598646882305",
+            "name": "NEOWIZ BLESS STUDIO"
+        }
+    ],
+    "splash": "6aaf09ae793cedbfe8bdc5aad6fce65b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "681660",
+            "sku": "681660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ab33aedb5cfe1773fd642e31e9b6a886cc1bf2b93733d46b7cdd2ab4d6815dc4"
+}

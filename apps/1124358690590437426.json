@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "substance 3d painter 2022/adobe substance 3d painter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bbfcf8baa1c3bf299ae4128b53909021",
+    "id": "1124358690590437426",
+    "name": "Substance 3D Painter 2022",
+    "publishers": [
+        {
+            "id": "1124358691039236217",
+            "name": "Adobe"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1775390",
+            "sku": "1775390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "730e0877e53ff363e9c6e7b788a1db8ca511fc8bbd62811ae6649c5981461183"
+}

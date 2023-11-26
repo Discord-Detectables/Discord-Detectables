@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Plants vs Zombies Garden Warfare 2"
+    ],
+    "description": "Building on the first game, Plants vs. Zombies: Garden Warfare 2 features a single-player campaign and plants going on the offensive.",
+    "developers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gw2.main_win64_retail.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6004e354a6dea58eb4f11d352462d21",
+    "id": "446063035057045534",
+    "name": "Plants vs Zombies GW2",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "99257f4d0f734fec738b8a230056dd368070b80a0642c291417a9672f5b4ca49"
+}

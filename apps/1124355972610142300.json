@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "driver booster 4/driverbooster.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2c1e790aa339b83775103f60bdaebfef",
+    "id": "1124355972610142300",
+    "name": "Driver Booster 4 for Steam",
+    "publishers": [
+        {
+            "id": "1124351887295135814",
+            "name": "IObit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "545110",
+            "sku": "545110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "76dbf7c36c698afd45543a6fea93ed3165497d9aa16183dfb0f75c17ea581f56"
+}

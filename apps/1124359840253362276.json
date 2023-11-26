@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sayno!more/snm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fba520ab4ab8a81f0386373d038688c2",
+    "id": "1124359840253362276",
+    "name": "Say No! More",
+    "publishers": [
+        {
+            "id": "521816738807939111",
+            "name": "Studio Fizbin"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1191900",
+            "sku": "1191900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4046497741ba04bf5ba8729a178b903581c7da2e5c1a84309d1c7053e650c839"
+}

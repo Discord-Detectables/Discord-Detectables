@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bounty of one/bountyofone.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2870a6a2efa3b65c47ae6a1f18754137",
+    "id": "1124354126663397406",
+    "name": "Bounty of One",
+    "publishers": [
+        {
+            "id": "1124354127145750568",
+            "name": "OptizOnion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1968730",
+            "sku": "1968730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cf54c9cde8d01df2fd99fe2cb0620774bb0bfd51ef5e92711a6486725e43790f"
+}

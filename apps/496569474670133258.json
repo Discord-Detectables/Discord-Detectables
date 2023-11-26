@@ -1,0 +1,38 @@
+{
+    "description": "Sequel to the first Defense Grid game, released following a successful Kickstarter campaign.",
+    "developers": [
+        {
+            "id": "521816567466688525",
+            "name": "Hidden Path Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "defensegrid2_release.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ef97d82a0f7508bd155586432393753e",
+    "id": "496569474670133258",
+    "name": "Defense Grid 2",
+    "publishers": [
+        {
+            "id": "521816567466688525",
+            "name": "Hidden Path Entertainment"
+        }
+    ],
+    "splash": "b5664296e3d128b534dc3b81dc2ae57f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "221540",
+            "sku": "221540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "765749daeae96a0f5dab1b9f3854d1d4182bc6876eadd3c28cd3b4048c9358db"
+}

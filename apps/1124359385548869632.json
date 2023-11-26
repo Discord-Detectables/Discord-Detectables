@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "64-bit/notime64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6f053ceda4590502894fa20368adde1",
+    "id": "1124359385548869632",
+    "name": "No Time",
+    "publishers": [
+        {
+            "id": "1124359386052182106",
+            "name": "Lost in Days Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1043340",
+            "sku": "1043340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "13c96d14435a667e16908e45458feed844b15713b46104247fe106d7877e331c"
+}

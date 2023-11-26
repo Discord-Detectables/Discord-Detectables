@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "QUBE"
+    ],
+    "description": "An enhanced version of the first person puzzle game, Q.U.B.E., for PC, PS3, Wii U and Xbox One with an all-new story, new puzzles and a new Time Trial mode.",
+    "developers": [
+        {
+            "id": "521816676644159498",
+            "name": "Toxic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "qubegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eaeee63b69f9b47cf036bc2dd3f60a69",
+    "id": "505496236548292648",
+    "name": "Q.U.B.E: Director's Cut",
+    "publishers": [
+        {
+            "id": "521816676644159498",
+            "name": "Toxic Games"
+        }
+    ],
+    "splash": "b4cc391b3ce5a3cc61c18c8284bfdd46",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239430",
+            "sku": "239430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e46df6b17e677ee2b24efeb3b4e5f48b28dcec2487341977a9690f27c816fed"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kofxv-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4dd80d36ecd297e58d3510fbfa23c81b",
+    "id": "1124353370707210310",
+    "name": "THE KING OF FIGHTERS XV",
+    "publishers": [
+        {
+            "id": "1124352523751403580",
+            "name": "SNK CORPORATION"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1498570",
+            "sku": "1498570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7e684419b672c7fd0c09f2ee6be8f538cc57f75073f22b2d755c370092b438b"
+}

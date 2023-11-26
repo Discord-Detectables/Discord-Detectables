@@ -1,0 +1,32 @@
+{
+    "description": "Originally a flash game that has now been released on mobile platforms. SAS: Zombie Assault 4 is an action game by ninja kiwi.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sas4-win.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2bf57ca7872ce31db636ebdec3750521",
+    "id": "447184346252836864",
+    "name": "SAS: Zombie Assault 4",
+    "publishers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "splash": "d2b366f03abee4d1123ca73608b1ecfe",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "678800",
+            "sku": "678800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "66add80c341a8b38c58f7cf41ae88f0c51d128d93a8daa9aae1e9bf28fd3012a"
+}

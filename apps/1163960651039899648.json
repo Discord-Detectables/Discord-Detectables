@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "UNBEATABLE [white label]"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "unbeatable/unbeatable [white label].exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "unbeatable [white label]/unbeatable [white label].exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "abf823d6a0aad0a875b6bd756026d1cc",
+    "id": "1163960651039899648",
+    "name": "UNBEATABLE [white label]",
+    "publishers": [
+        {
+            "id": "1163960656026947604",
+            "name": "D-CELL GAMES"
+        },
+        {
+            "id": "1163960656026947604",
+            "name": "D-CELL GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1290490",
+            "sku": "1290490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a10ef01e042aa9a63cb0f83a8a5cc1e5898326e2a721e3047a8e43a352d35258"
+}

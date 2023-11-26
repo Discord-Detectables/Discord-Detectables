@@ -1,0 +1,41 @@
+{
+    "description": "A wave based first-person shooter.",
+    "developers": [
+        {
+            "id": "521816538202767361",
+            "name": "Big Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bloodandbacon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e7eced6f459cd8f2fcebed6d52b96695",
+    "id": "426526253294551046",
+    "name": "Blood and Bacon",
+    "publishers": [
+        {
+            "id": "521816538202767360",
+            "name": "Grunge Games LTD"
+        },
+        {
+            "id": "521816538202767361",
+            "name": "Big Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "434570",
+            "sku": "434570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b2d1770d3eeb610cb1ef5cdb283cb045c467af738b39e646994b2c30c437434"
+}

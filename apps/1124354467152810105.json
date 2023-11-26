@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "keplerth/keplerth.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d4a43c9f4fb38b5400c791e1a24fd8c1",
+    "id": "1124354467152810105",
+    "name": "Keplerth",
+    "publishers": [
+        {
+            "id": "1124354467614179349",
+            "name": "TARO"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "747200",
+            "sku": "747200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25598cd32b51ef926d5a2aa251f48150ba0cce1aa08532bc01b9c8536ca430ae"
+}

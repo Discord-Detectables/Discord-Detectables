@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "anime standing/anime standing.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "160de4116dd272be232ba989cf50acfa",
+    "id": "1124356687432790066",
+    "name": "ANIME STANDING",
+    "publishers": [
+        {
+            "id": "1124356340639346920",
+            "name": "Konnichiwa Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1253870",
+            "sku": "1253870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fddd8cc8c2d87e9d762039c96e048c03eeedce3e7f8989a7b834056ae45bfabe"
+}

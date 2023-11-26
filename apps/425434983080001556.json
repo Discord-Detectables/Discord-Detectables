@@ -1,0 +1,37 @@
+{
+    "description": "Assassin's Creed: Rogue takes place during the Seven Years' War in and around the American colonies. The protagonist, Shay Patrick Cormac, is an Assassin-turned-Templar who is hunting his former Brothers in the region.",
+    "developers": [
+        {
+            "id": "521816515113385985",
+            "name": "Ubisoft Bucharest"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "acc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6785f0222990268a44c8beeb976905f9",
+    "id": "425434983080001556",
+    "name": "Assassin's Creed Rogue",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "311560",
+            "sku": "311560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f7ce3c6ee0533c6d39fca6a15c38b4f92e1b91a19c079f664e8ec8acc9edf84b"
+}

@@ -1,0 +1,53 @@
+{
+    "aliases": [
+        "Saints Row the Third"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816541323329560",
+            "name": "Deep Silver Volition, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "saintsrowthethird_dx11.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "saintsrowthethird.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fde7183e3ddd8e0ff9c5a9350d56846c",
+    "id": "363431107527704576",
+    "name": "Saints Row: The Third",
+    "primary_sku_id": "471028853888909312",
+    "publishers": [
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        }
+    ],
+    "slug": "saints-row-the-third",
+    "splash": "b398528e79fece8fb8dfc2150919b81a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471028853888909312",
+            "sku": "471028853888909312"
+        },
+        {
+            "distributor": "steam",
+            "id": "55230",
+            "sku": "55230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5f1ddeccc00586448867f210962c169773cd54ced8c3ef1a22d2e2ba469ded96"
+}

@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Medieval Dynasty"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/medieval_dynasty-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "856437a98aff1f29f1c973f6b7d714c9",
+    "id": "1162074139549519972",
+    "name": "Medieval Dynasty",
+    "publishers": [
+        {
+            "id": "524353258609836053",
+            "name": "Render Cube"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1129580",
+            "sku": "1129580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d7bc0ab8b6614be530b8c0b9259f0562b6c3214b526ebd54a3d60b9d814ca9c7"
+}

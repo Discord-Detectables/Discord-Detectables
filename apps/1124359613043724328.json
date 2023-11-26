@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fayburrow/fayburrow.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bad48edf3e4f4a7037b0b79c2540f9dd",
+    "id": "1124359613043724328",
+    "name": "Fayburrow",
+    "publishers": [
+        {
+            "id": "1124359613593174107",
+            "name": "The Fayburrow Troupe"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1873860",
+            "sku": "1873860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "47f6cb8a03d9bd075cdb75fcd6a2fe89b440756dd2ee78784f9e4fea5c167911"
+}

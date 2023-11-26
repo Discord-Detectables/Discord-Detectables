@@ -1,0 +1,38 @@
+{
+    "description": "Tetris for a new generation, designed to celebrate the series' 30th anniversary.",
+    "developers": [
+        {
+            "id": "521816759079010334",
+            "name": "SoMa Play Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tetrisultimate.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9713c722f19a66c9758b6a6170a54d8e",
+    "id": "504071743963529226",
+    "name": "Tetris® Ultimate",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "c0bb658af9a76f52d6ca0ee04952aa34",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316750",
+            "sku": "316750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b9aebb3356259a7ad94496f6cb0ef842aed2c8166b03e4907eee6399a8a80f3e"
+}

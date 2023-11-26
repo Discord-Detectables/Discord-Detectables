@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fire & maneuver/fire & maneuver.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e447a25ec97c0e5cbe83fdc0306dfc2e",
+    "id": "1124353488235810846",
+    "name": "Fire & Maneuver",
+    "publishers": [
+        {
+            "id": "1124353488734929016",
+            "name": "Armchair History Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1679290",
+            "sku": "1679290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "27cef649e24c11f72d2ab8261052224d7a864bf7ba4cd8cf6b0cbaa9e6a7a243"
+}

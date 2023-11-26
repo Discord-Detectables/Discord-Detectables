@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "desperados iii/desperados iii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab9f531e2ae597ed8f26b22734bb3863",
+    "id": "1124353287945203783",
+    "name": "Desperados III",
+    "publishers": [
+        {
+            "id": "1124353288431751288",
+            "name": "Mimimi Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "610370",
+            "sku": "610370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f24b43e4f29c1a6224657c7d7a0e5f7d8516c5fe6ced57e3cee3da4d2352b994"
+}

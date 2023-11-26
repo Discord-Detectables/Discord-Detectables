@@ -1,0 +1,38 @@
+{
+    "description": "The Assassin's Creed IV DLC, starring Adéwalé, is released as a standalone, digital release for PS4, PS3, and PC.",
+    "developers": [
+        {
+            "id": "521816510730338327",
+            "name": "Ubisoft Quebec"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "acfc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb46349d900f6c6c0b8576ed456e74b1",
+    "id": "425453860392402964",
+    "name": "Assassin's Creed Freedom Cry",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "3ee7435cba1957b4a00822175b641197",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "277590",
+            "sku": "277590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "37207eddddeeba5aed015f035fdee0dc0e9a3a842bea2508067ef7c372a0b0b5"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blaze rush/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b217355e4161ca0de1c0ee62b05beb3e",
+    "id": "1124358565805703281",
+    "name": "BlazeRush",
+    "publishers": [
+        {
+            "id": "521816790083567631",
+            "name": "Targem Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "302710",
+            "sku": "302710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e9c4d3abf0ee1ac093b6a74a9921f523fe8e66c7838ed9c5a8bf31ada89556f9"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/walkinthewoods-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fccd38f9e73d3f21cf6febfa717e92c8",
+    "id": "1124355160664195092",
+    "name": "A Walk in the Woods",
+    "publishers": [
+        {
+            "id": "1124355161125564518",
+            "name": "Something Dark Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "842420",
+            "sku": "842420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b07da8f2f3acf88db232e3f3d928c8a49e9dbf85e579c29e6c8818baed9832d6"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hover/hover.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "19fb40eb25002b5fbe3bcd42ab9bbfcc",
+    "id": "1124355035376136343",
+    "name": "Hover",
+    "publishers": [
+        {
+            "id": "524352309573189643",
+            "name": "Midgar Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "280180",
+            "sku": "280180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0a3b5f8d108b8196f50152b5a3dba976e74cc4eda62b6df7b1ff24d0b596375a"
+}

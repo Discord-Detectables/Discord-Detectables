@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeon munchies/dungeon munchies.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cbf5cc7f2db9cd76a604280ad0c4c18d",
+    "id": "1124359482537947288",
+    "name": "Dungeon Munchies",
+    "publishers": [
+        {
+            "id": "1124359482537947289",
+            "name": "maJAJa"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "799640",
+            "sku": "799640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "418718c101e0f93d0cf2eef2943f4239f52d353e583553d8370c2e5be6d6b46c"
+}

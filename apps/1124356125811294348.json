@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neighbours back from hell/neighbours back from hell.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f14759fbc5bbeded757aa7f8d1fd28e1",
+    "id": "1124356125811294348",
+    "name": "Neighbours back From Hell",
+    "publishers": [
+        {
+            "id": "1124356126306218074",
+            "name": "Farbworks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1283190",
+            "sku": "1283190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a0329c5452716f4d30a1e396faad88324c5e98ab7573c2b52e7fe6ec88a33ff4"
+}

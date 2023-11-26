@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "loop hero demo/loophero_demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "34b519d5bd7f3012a88f898ad4f47a0b",
+    "id": "1124355036969980045",
+    "name": "Loop Hero Demo",
+    "publishers": [
+        {
+            "id": "524352411243118623",
+            "name": "Four Quarters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1519390",
+            "sku": "1519390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0dec39af535d2b471a858d820cb4a53c1c6590c8afb524428636cd1aa2171a19"
+}

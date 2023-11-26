@@ -1,0 +1,46 @@
+{
+    "description": "Insurgency (originally Insurgency 2) is a multiplayer-focused first-person shooter with a focus on realism. It is based on the hit Half-Life mod of the same name.",
+    "developers": [
+        {
+            "id": "521816505688522756",
+            "name": "New World Interactive"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "insurgency.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "insurgency_be.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "464728263248576522",
+    "hook": true,
+    "icon": "813573fe2d3c0131a45129479c47dd8b",
+    "id": "363409205740175360",
+    "name": "Insurgency",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816505688522756",
+            "name": "New World Interactive"
+        }
+    ],
+    "splash": "16aed21cf40394c17fb113b19872bab7",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "222880",
+            "sku": "222880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "01566fb6549b7f1e3fe75bb3201dcd64e9c5031954a9d33a2ba3c0c43d25e691"
+}

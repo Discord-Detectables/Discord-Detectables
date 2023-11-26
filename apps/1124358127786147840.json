@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battle of empires  1914-1918/boe-1914.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d694fb8607e08fb1d795b388aa00e1dc",
+    "id": "1124358127786147840",
+    "name": "Battle of Empires : 1914-1918",
+    "publishers": [
+        {
+            "id": "524352539907325953",
+            "name": "Great War Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316430",
+            "sku": "316430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c80eab4cfbcd5eb0ddd8a435cded4cfecb85c4a15b6b5d6d2ea06649cc44fc77"
+}

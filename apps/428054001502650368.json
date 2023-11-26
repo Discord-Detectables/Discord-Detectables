@@ -1,0 +1,41 @@
+{
+    "cover_image": "89b5ec65b3e3a83a2eeb26c5b4004f89",
+    "description": "Torisbash is an extremely violent, complicated, community driven turn-based fighting game created by Swedish software engineer and Judo fighter Hampus \"Hampa\" Söderström.",
+    "developers": [
+        {
+            "id": "521816667232403461",
+            "name": "Nabi Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "toribash.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "385460405754920970",
+    "hook": true,
+    "icon": "89b5ec65b3e3a83a2eeb26c5b4004f89",
+    "id": "428054001502650368",
+    "name": "Toribash",
+    "primary_sku_id": "428054001502650368",
+    "publishers": [
+        {
+            "id": "558166032661872641",
+            "name": "Nicalis"
+        }
+    ],
+    "slug": "toribash",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "248570",
+            "sku": "248570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5256c917fa0eb70960edde7e612f2f1cd0da06b76fa8338b9b9b348101de8199"
+}

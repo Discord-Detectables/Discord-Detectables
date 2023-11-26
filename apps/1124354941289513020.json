@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hexcells/hexcells.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d184186ea5b0d41f2eb4b6b3714e9b08",
+    "id": "1124354941289513020",
+    "name": "Hexcells",
+    "publishers": [
+        {
+            "id": "524352560874651649",
+            "name": "Matthew Brown"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "265890",
+            "sku": "265890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "98003909126c225457fca599c461ad12f4c031521551fe7a8b9d7551c6d7d8fd"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "teleforum/teleforum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "92388cf1048b0d6fd8307524119aa3e0",
+    "id": "1166632254735405126",
+    "name": "TELEFORUM",
+    "publishers": [
+        {
+            "id": "1166632259500114032",
+            "name": "Monumental Collab"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2186570",
+            "sku": "2186570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "80cd43766e4d673011f575f30e78da5dd6023e2d7ac7f71e373727c9bd75dba3"
+}

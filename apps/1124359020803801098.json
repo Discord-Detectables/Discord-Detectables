@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "electro ride prologue/electrorideprologue.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2a0d553735ced14cf2cbf75b1e53c227",
+    "id": "1124359020803801098",
+    "name": "Electro Ride Prologue",
+    "publishers": [
+        {
+            "id": "1124359021328085144",
+            "name": "Sylwester Osik"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1301990",
+            "sku": "1301990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2953d19f05aaaa8976378006bd191374047ba05c8e565892c685a4797349d6b5"
+}

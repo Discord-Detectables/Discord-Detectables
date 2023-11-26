@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Deponia 1-3: The Complete Journey"
+    ],
+    "description": "Deponia: The Complete Journey includes the whole Deponia Trilogy plus bonus content including four hours of developer's commentary and making-of features.",
+    "developers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deponia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "71069de89b68f822c5dd758e9aae3ec1",
+    "id": "425714472997355560",
+    "name": "Deponia: The Complete Journey",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "splash": "03d93d2a3b1a5070927d4bb3792d1cae",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "292910",
+            "sku": "292910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9278fa66d951ed1db165d91711ea6f80d0417122c2ac8a94a5e93e16e28b985f"
+}

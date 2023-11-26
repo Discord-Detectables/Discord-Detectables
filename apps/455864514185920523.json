@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rct.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc0cd65f17ae7a81dbece8716200d241",
+    "id": "455864514185920523",
+    "name": "RollerCoaster Tycoon: Deluxe",
+    "publishers": [
+        {
+            "id": "521816507102003203",
+            "name": "Chris Sawyer Productions"
+        }
+    ],
+    "splash": "e67c9587c284e1f261d2df3c64b5da36",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285310",
+            "sku": "285310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b62e0fd909ff4bfdbb6b3306655f37aa799da4b469555de747ebfa7c25a3dd5c"
+}

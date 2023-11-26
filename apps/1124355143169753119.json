@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "floaty flatmates/sad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4302e4a6ca5c353dfca84db8b33b25fb",
+    "id": "1124355143169753119",
+    "name": "Sam & Dan: Floaty Flatmates",
+    "publishers": [
+        {
+            "id": "1124355143710814279",
+            "name": "Pelican Party Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "978270",
+            "sku": "978270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f596a9dc1ffe2a401a400ba7250711c6a060f9726f16885bb78f48aad24c1d63"
+}

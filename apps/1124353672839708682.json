@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farmer against potatoes idle/farmer against potatoes idle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9d8293c882982e861a92ff92bf1adb81",
+    "id": "1124353672839708682",
+    "name": "Farmer Against Potatoes Idle",
+    "publishers": [
+        {
+            "id": "1124353673380769954",
+            "name": "Oni Gaming"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1535560",
+            "sku": "1535560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8154219c615093b264a4e9928c430ce600046bd4784a12a9cdfb15488677e091"
+}

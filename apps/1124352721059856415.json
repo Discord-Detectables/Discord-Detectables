@@ -1,0 +1,34 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "luck be a landlord/luck be a landlord.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9ba320dc4e7318b8634fa26bbb49f149",
+    "id": "1124352721059856415",
+    "name": "Luck be a Landlord",
+    "overlay_methods": 1,
+    "publishers": [
+        {
+            "id": "1124352721504448652",
+            "name": "TrampolineTales"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1404850",
+            "sku": "1404850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "28013d0a00f0f4f6420b052236e2a6f3333948b88e03ee43c7fc0f4a331f9241"
+}

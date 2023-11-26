@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sleepingdogs/hkship.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4a972809aa3e4ea069850eb56711a875",
+    "id": "1124354596979097731",
+    "name": "Sleeping Dogs™",
+    "publishers": [
+        {
+            "id": "521816640195788801",
+            "name": "United Front Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "202170",
+            "sku": "202170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74070af5efc4dd80887f2a77c9c1e9798228f910bf1b4ce6a49dd0b5ffe76446"
+}

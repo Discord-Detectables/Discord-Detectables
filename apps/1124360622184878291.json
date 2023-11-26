@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pngtuber maker/pngtuber maker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6a7b90904d99dd867b7a95b0b22c1ed9",
+    "id": "1124360622184878291",
+    "name": "PngTuber Maker",
+    "publishers": [
+        {
+            "id": "1124360622646247474",
+            "name": "YiMeta"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2266940",
+            "sku": "2266940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "58705ef39846235efcf0572085042a3cc7684f92d7b59400f127c4e8139b385e"
+}

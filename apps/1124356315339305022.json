@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/jigsaw-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "72f6b2dbab5a9e61a2e35f0f9ab7574c",
+    "id": "1124356315339305022",
+    "name": "Jigsaw Puzzle Dreams",
+    "publishers": [
+        {
+            "id": "1124356315800686712",
+            "name": "That's Nice Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1653970",
+            "sku": "1653970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b410aed29a5b7c1657683946e8eaccf52957f9c8c3d1403b8ca7628b944039c"
+}

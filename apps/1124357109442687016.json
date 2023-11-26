@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "binary domain/binarydomainconfiguration.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "344c4a5eaf2c3ba0998f11b386b12746",
+    "id": "1124357109442687016",
+    "name": "Binary Domain",
+    "publishers": [
+        {
+            "id": "524352125640114192",
+            "name": "Devil's Details"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "203750",
+            "sku": "203750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8a7029190c16dfbcd05ce6393500b0ac93e5b302e60f02b9a536a7048fe1718a"
+}

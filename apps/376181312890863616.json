@@ -1,0 +1,38 @@
+{
+    "description": "Cartoony free to play real time strategy game for PlayStation platforms.",
+    "developers": [
+        {
+            "id": "521816525410402313",
+            "name": "Valkyrie Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "guns up.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c46583a8d85c05ad0e2c5bc4ae8dd64d",
+    "id": "376181312890863616",
+    "name": "GUNS UP!",
+    "publishers": [
+        {
+            "id": "521816525410402312",
+            "name": "Sony Interactive Entertainment America"
+        }
+    ],
+    "splash": "1ec232a9a707627281fc5fa8f355d481",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "446150",
+            "sku": "446150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ba68249f0711d6899ce8cc13efa08024367e22b8757956b06ca82d54dcace611"
+}

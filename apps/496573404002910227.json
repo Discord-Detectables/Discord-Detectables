@@ -1,0 +1,42 @@
+{
+    "description": "Diadra Empty is a free-roaming shoot-'em-up.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "diadraempty154lw.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "diadraempty.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "diadraempty154plus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b212d99478b938b9d8b64eb90513fbc5",
+    "id": "496573404002910227",
+    "name": "Diadra Empty",
+    "publishers": [
+        {
+            "id": "521816720046948394",
+            "name": "Frozen Orb"
+        }
+    ],
+    "splash": "658469265f1e213d0db820740decbebd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "284220",
+            "sku": "284220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2f78c8c69c18c273430a81e168089471d04178d067b2d5b6c2a3445a2f063b7"
+}

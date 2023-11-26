@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the last of waifus/the last of waifus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c7429000bec8a1fff92b60e6be662090",
+    "id": "1124356340148617258",
+    "name": "The Last of Waifus",
+    "publishers": [
+        {
+            "id": "1124356340639346920",
+            "name": "Konnichiwa Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1359650",
+            "sku": "1359650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "433a8bc44df44c47dfadfe9f38329cf33935776194c176041031868318dfc3b9"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tom Clancy's Splinter Cell: Chaos Theory"
+    ],
+    "description": "The third outing for Sam Fisher finds him battling against terrorists who want to take control of the world using a simple algorithmic code.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "splintercell3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7cc83516871cda6b871d65174fa3c93a",
+    "id": "425470107368554504",
+    "name": "Tom Clancy's Splinter Cell Chaos Theory",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "45df80e5f91511bed5aaf6a2faa4e5e9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "13570",
+            "sku": "13570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12cad2b9ab1f2f3e9e6de87168b7abfdd4f742da8be14a7b4f6dfc88d30f9721"
+}

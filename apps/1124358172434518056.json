@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "storyteller/storyteller.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b8f08237105830fa0f777cee8a74ad45",
+    "id": "1124358172434518056",
+    "name": "Storyteller",
+    "publishers": [
+        {
+            "id": "524352349762879524",
+            "name": "Daniel Benmergui"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1624540",
+            "sku": "1624540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a383ceadb6befe14bd4d01b833045a7ebfd8c11c62fc2849457799ea77841dcd"
+}

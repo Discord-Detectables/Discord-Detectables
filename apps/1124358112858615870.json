@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the unfinished swan/tus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1e2db1fc2cf78b9cba43d88704fed659",
+    "id": "1124358112858615870",
+    "name": "The Unfinished Swan",
+    "publishers": [
+        {
+            "id": "524352061270130699",
+            "name": "Giant Sparrow"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1206430",
+            "sku": "1206430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e4cec2622921abf2124327eca08ffcbd7ddfb099b58cc94941d59048475c19b"
+}

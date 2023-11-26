@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816774086230037",
+            "name": "Swing Swing Submarine"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1f9fd2df669ca4e6e826538fd4df355",
+    "id": "489916817146511371",
+    "name": "Seasons After Fall",
+    "primary_sku_id": "489920936414543922",
+    "publishers": [
+        {
+            "id": "521816537192202247",
+            "name": "Focus Home Interactive"
+        }
+    ],
+    "slug": "seasons-after-fall",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489920936414543922",
+            "sku": "489920936414543922"
+        }
+    ],
+    "type": 1,
+    "verify_key": "67bd2c4eec43b0f442e763465459cd1ee0eef844f95bd8b04c625caa61b38ce7"
+}

@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Roblox"
+    ],
+    "description": "Roblox is a free Massive Multiplayer Online Game, where you play in user-created worlds with blocks and physics.",
+    "developers": [
+        {
+            "id": "521816731715502090",
+            "name": "Roblox Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "roblox.app",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "robloxplayerbeta.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "roblox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "150074202727251969",
+    "hook": true,
+    "icon": "f2b60e350a2097289b3b0b877495e55f",
+    "id": "363445589247131668",
+    "name": "Roblox",
+    "overlay_methods": 1,
+    "publishers": [
+        {
+            "id": "521816731715502090",
+            "name": "Roblox Corporation"
+        }
+    ],
+    "splash": "e970e33dd647f87dc87f4dc4b28f4627",
+    "summary": "",
+    "type": 1,
+    "verify_key": "80a23c75a38f156e1fd650fd046334916a91e69470f9efae2703186e53958cd4"
+}

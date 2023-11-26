@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/zombiesbeyondme-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b492cfc5080a6cbe41b4f38a7029e83f",
+    "id": "1124358109134073866",
+    "name": "Zombies Beyond Me",
+    "publishers": [
+        {
+            "id": "1124358109608038420",
+            "name": "Painted Island Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1652950",
+            "sku": "1652950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "601b27e4a2677ed7cb3901d0165180afa95f02cc5200a50afd1ccee747a9a951"
+}

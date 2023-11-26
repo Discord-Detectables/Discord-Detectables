@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "DEATH STRANDING"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ds.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "death stranding/ds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "734286565114904586",
+    "name": "DEATH STRANDING",
+    "publishers": [
+        {
+            "id": "521816572088811558",
+            "name": "Kojima Productions"
+        },
+        {
+            "id": "521816572088811558",
+            "name": "Kojima Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1190460",
+            "sku": "1190460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9acd0ffbc0b34d170bb555dd6940e79806c1d36d13759ebe2d00146b558413c3"
+}

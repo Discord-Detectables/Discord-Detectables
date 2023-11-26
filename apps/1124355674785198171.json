@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the haunted island a frog detective game/the_haunted_island.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6d9a2ddadc163d8733d4fd41c9cd8ee",
+    "id": "1124355674785198171",
+    "name": "The Haunted Island, a Frog Detective Game",
+    "publishers": [
+        {
+            "id": "524353274032422912",
+            "name": "Grace Bruxner"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "963000",
+            "sku": "963000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e89d22c8ad5d5e30dec9c98449df8513e0974aa5c2b34a038bcc761adec68066"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "i hate this game/i hate this game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3eba573f7a0515c75dbe6a890a6bc9c",
+    "id": "1124357631503511562",
+    "name": "I hate this game",
+    "publishers": [
+        {
+            "id": "1124357631964893324",
+            "name": "Pixel Error"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "976010",
+            "sku": "976010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6141d75959a0c71411e041d528c2d87eab149168494d88e7c7727ba36acccad9"
+}

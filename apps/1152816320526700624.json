@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "system/unrealtournament.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "accfe865768cfeebb4c84e942e8f5861",
+    "id": "1152816320526700624",
+    "name": "Unreal Tournament: Game of the Year Edition",
+    "publishers": [
+        {
+            "id": "521816519332855821",
+            "name": "Epic Games, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "13240",
+            "sku": "13240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3b84fa311c491501ae5b9244b6b1ffbc3fa6e18180034183ccc603599856c8b0"
+}

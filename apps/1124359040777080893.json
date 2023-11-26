@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "treasure hunter claire/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb51e567f8a49af96efee76e5b7da5c3",
+    "id": "1124359040777080893",
+    "name": "Treasure Hunter Claire",
+    "publishers": [
+        {
+            "id": "524352875338399752",
+            "name": "acerola"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "828070",
+            "sku": "828070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c4929cbb8f2dc2fb772a707c72606ca820abda543424d8bf9d30da1fe8fd7d21"
+}

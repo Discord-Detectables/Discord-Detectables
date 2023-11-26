@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/actinglessons.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4aa5d6af00f70a556d09da0f08432fbd",
+    "id": "1124354624925749278",
+    "name": "Acting Lessons",
+    "publishers": [
+        {
+            "id": "1124353486952345671",
+            "name": "Dr PinkCake"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1045520",
+            "sku": "1045520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "481285d101d362449cb60d4313bb97bf8ebc0c74b1f9b476c0e04c4ec687a731"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadrising4/deadrising4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "128d0bb143c181c1a22043e57d57c478",
+    "id": "1124353090435432530",
+    "name": "Dead Rising 4",
+    "publishers": [
+        {
+            "id": "1124353090980687943",
+            "name": "Capcom Game Studio Vancouver, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "543460",
+            "sku": "543460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2a9e123087cdb134d13a61831d1c7e256ae56fcf55020d7048d2342d5006dae1"
+}

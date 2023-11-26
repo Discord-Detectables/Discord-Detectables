@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swallow the sea/swallowthesea.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dbdbc198ab9470f3e48a7478f97b607a",
+    "id": "1124354753082708109",
+    "name": "Swallow the Sea",
+    "publishers": [
+        {
+            "id": "1124354753716043806",
+            "name": "Maceo bob Mair"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1511860",
+            "sku": "1511860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c54081d361e02f87250af2d8564b56d2c8864078dd05044123306767f0218744"
+}

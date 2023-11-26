@@ -1,0 +1,39 @@
+{
+    "description": "When hordes of failed super-soldiers (the zombie-like \"specimens\") break out of the labs of Horzine Biotech, it's up to London's finest to put them down in this cooperative survival horror wave-based first-person shooter.",
+    "developers": [
+        {
+            "id": "521816653646790671",
+            "name": "Tripwire Interactive, LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "killingfloor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "120305629175742464",
+    "hook": true,
+    "icon": "cc041209037d96765ef15edd958ed183",
+    "id": "363429388156403712",
+    "name": "Killing Floor",
+    "publishers": [
+        {
+            "id": "521816653646790671",
+            "name": "Tripwire Interactive, LLC"
+        }
+    ],
+    "splash": "6f87ff07440c46d5dd85291bd55655ee",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1250",
+            "sku": "1250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d8a04b9cd0d4e3a70cca8096c89a05807252cbccd060c8d54d78e127f1697772"
+}

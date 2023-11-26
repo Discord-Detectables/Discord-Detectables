@@ -1,0 +1,20 @@
+{
+    "description": "",
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "489917480274362368",
+    "name": "Shadows: Heretic Kingdoms",
+    "primary_sku_id": "491289795138682880",
+    "slug": "shadows-heretic-kingdoms",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "491289795138682880",
+            "sku": "491289795138682880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be74cf7ac98de866a256b832cecc2f5611940591618b8b989574a704ab19a508"
+}

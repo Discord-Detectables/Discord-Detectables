@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "puzzline/puzzline.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7b716a4e8cb1bee165323df4ba67d2c6",
+    "id": "1124360073817370785",
+    "name": "Puzzline -パズライン-",
+    "publishers": [
+        {
+            "id": "1124360074266169344",
+            "name": "Aineko Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2088670",
+            "sku": "2088670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4950c7f3834a8411dfdbcb74fea14005c676731cb43e4679321b02421dd0e11a"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thefisher online/thefisher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "76145889b4b043c8d56976edb4998637",
+    "id": "1124359057659150386",
+    "name": "Fisher Online",
+    "publishers": [
+        {
+            "id": "524353213412016168",
+            "name": "R-Age"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1094780",
+            "sku": "1094780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a738b4666125561e013cedc30b4790c0cb5b0f706edac451e5430cbdd4ae9c30"
+}

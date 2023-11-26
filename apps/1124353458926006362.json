@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/gothicremake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7c44a4d7419b7cc131dad3f5201dc8b9",
+    "id": "1124353458926006362",
+    "name": "Gothic Playable Teaser",
+    "publishers": [
+        {
+            "id": "1124353459404165190",
+            "name": "THQ Nordic Barcelona"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "950670",
+            "sku": "950670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1c88c2534da4e3f05852e46f587869d737b8518a662c9c561e3ce9fce4013552"
+}

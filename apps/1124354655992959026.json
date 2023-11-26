@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "barro/barro.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e2a7fb03f65e4b171eba38c779e8d379",
+    "id": "1124354655992959026",
+    "name": "Barro",
+    "publishers": [
+        {
+            "id": "1124354656466911323",
+            "name": "SC Jogos"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "618140",
+            "sku": "618140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b99a37147b34483b096afcaa2a265b65c3086e87905314b79da1aa925b3fc24c"
+}

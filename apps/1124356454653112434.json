@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amnesia the bunker demo/amnesiathebunker_demo_steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77a304930e81bdedb0025b8a9a9509f5",
+    "id": "1124356454653112434",
+    "name": "Amnesia: The Bunker Demo",
+    "publishers": [
+        {
+            "id": "521816498541428770",
+            "name": "Frictional Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2312010",
+            "sku": "2312010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d78c49560911ca54bcade98eaf4e9f33a290e2e1cece93f34080499ff3d8e676"
+}

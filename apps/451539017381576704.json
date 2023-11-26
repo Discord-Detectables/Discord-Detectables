@@ -1,0 +1,42 @@
+{
+    "description": "The first entry in the spin-off series of Total War takes a more focused approach on the events at the end of the 9th century in England.",
+    "developers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "total war saga thrones of britannia/thrones.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b1c6d8e49fade9b2b721f3b52f49d54b",
+    "id": "451539017381576704",
+    "name": "Total War Saga: Thrones of Britannia",
+    "publishers": [
+        {
+            "id": "521816568473059338",
+            "name": "Creative Assembly"
+        },
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "splash": "26d04af5dff21db686a153bee8c0ee51",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "712100",
+            "sku": "712100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cf7cb4e549f2a405cf869496859ef2672cb8cb3bf4d0b04f66709fcaee9255ef"
+}

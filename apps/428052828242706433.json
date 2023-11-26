@@ -1,0 +1,47 @@
+{
+    "aliases": [
+        "Need for Speed: Most Wanted",
+        "Need for Speed: Most Wanted (2005)",
+        "Need for Speed: Most Wanted (2012)"
+    ],
+    "description": "Players cruise the streets of the city Fairhaven, evading the cops while working their way to the top of the most wanted street racers list in this open-street racing game from Criterion Games.",
+    "developers": [
+        {
+            "id": "521816761948045361",
+            "name": "Criterion Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nfs13.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "need for speed - most wanted/speed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "239f96838aa2bc6c6691975316536f8b",
+    "id": "428052828242706433",
+    "name": "Need for Speed™ Most Wanted",
+    "publishers": [
+        {
+            "id": "521816538202767363",
+            "name": "EA Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "06fac703350cff18d8f0fc54720e055580bb49d217d5f715a15550d62ec6710b"
+}

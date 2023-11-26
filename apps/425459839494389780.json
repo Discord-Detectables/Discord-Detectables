@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Gotham City Impostors: Free To Play"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gotham city impostors f2p/engine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "45ab76dd90e55b2ffd71573ebd73eedc",
+    "id": "425459839494389780",
+    "name": "Gotham City Impostors Free to Play",
+    "publishers": [
+        {
+            "id": "521816711532511245",
+            "name": "Monolith Productions, Inc."
+        }
+    ],
+    "splash": "58711b9e784b6b2498239251d173a54d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "206210",
+            "sku": "206210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "41abf90abb989c389356c3530dd9f23a872f382b8d87932f6ee47ef9f068f67d"
+}

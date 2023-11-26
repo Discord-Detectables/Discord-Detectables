@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "common/master levels of doom/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "113ec5d5d1e3371759ae716cc56110b8",
+    "id": "1124354361271795773",
+    "name": "Master Levels for DOOM II",
+    "publishers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9160",
+            "sku": "9160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ef5d79781347fc671edcfbe45614eace24f3afd8aa27551ddb2f95b27abc101"
+}

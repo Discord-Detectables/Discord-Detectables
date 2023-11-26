@@ -1,0 +1,38 @@
+{
+    "description": "The world's greatest communism simulator!",
+    "developers": [
+        {
+            "id": "521816534881009686",
+            "name": "Hyper Hippo Productions Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "adventure-communist.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "346c0ecfd70a3401480d00a9d95b3b68",
+    "id": "451539129973604352",
+    "name": "AdVenture Communist",
+    "publishers": [
+        {
+            "id": "521816534881009686",
+            "name": "Hyper Hippo Productions Ltd."
+        }
+    ],
+    "splash": "68862c7ae4cedbc12c77eb56f29c8057",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "462930",
+            "sku": "462930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7bbb4fdcaff8469878524aadc294daa6023c8b5a138bc01c5d68d7625fed1e47"
+}

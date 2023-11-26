@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/trick and treat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd5658c28eecb67fb72f6179cc45d393",
+    "id": "1124357486661615737",
+    "name": "Trick and Treat - Visual Novel",
+    "publishers": [
+        {
+            "id": "1124357487215259768",
+            "name": "Eternal Night Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "555210",
+            "sku": "555210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ee2cbd8c478ec04c216958777fd9531544cf0d0efcf6164c7cfeae763e6cda60"
+}

@@ -1,0 +1,49 @@
+{
+    "aliases": [
+        "Command & Conquer 3: Kane's Wrath"
+    ],
+    "description": "Kane's Wrath expands on the events before, during and after the events of Command & Conquer: Tiberium Wars with a new campaign, as well as the all-new Global Domination mode and a range of sub-factions and new units to fight with or against.",
+    "developers": [
+        {
+            "id": "521816605223813131",
+            "name": "EA Los Angeles"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cnc3ep1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "835e1e821097d07fa250472a77eac610",
+    "id": "496557233979654154",
+    "name": "Command and Conquer 3: Kane's Wrath",
+    "publishers": [
+        {
+            "id": "521816605223813131",
+            "name": "EA Los Angeles"
+        },
+        {
+            "id": "521816605223813133",
+            "name": "Electronic Arts Inc."
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "splash": "2c4d2dc9508058033b9d6ff0bdfa0fc6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24810",
+            "sku": "24810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be173f919ddf66a0ba6837d4251900f3d019d6a788cb71c75b028b15f6b5029d"
+}

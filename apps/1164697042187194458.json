@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "FIFA 20"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fifa 20/fifa20.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16d0396c06a16b5521d561877cf955c0",
+    "id": "1164697042187194458",
+    "name": "FIFA 20",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "fa4ae1d47a6666521a9b0389d10738c996817f36e42e55c070f8bd23c8e3cd85"
+}

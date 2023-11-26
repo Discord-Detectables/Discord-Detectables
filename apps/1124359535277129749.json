@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the backrooms 1998 - found footage backroom survival horror game/thebackrooms1998.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2332dab7acaa8febf5e6ce307345f369",
+    "id": "1124359535277129749",
+    "name": "The Backrooms 1998 - Found Footage Backroom Survival Horror Game",
+    "publishers": [
+        {
+            "id": "1124359535751082004",
+            "name": "Steelkrill Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1985930",
+            "sku": "1985930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "791206e9302cf8cff553340076989b7b5b3612e1da95c5fe8afe2c484bd9d299"
+}

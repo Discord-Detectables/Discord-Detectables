@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816696345067520",
+            "name": "2K Marin"
+        },
+        {
+            "id": "524352055746232324",
+            "name": "2K China"
+        },
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        },
+        {
+            "id": "521816749830701057",
+            "name": "2K Australia"
+        },
+        {
+            "id": "537921424950558720",
+            "name": "Blind Squirrel"
+        }
+    ],
+    "eula_id": "542074049984200704",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bioshock2hd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7f421657fb7a89b88bfcaa0f0b0d886a",
+    "id": "425442965255880704",
+    "name": "BioShock™ 2 Remastered",
+    "primary_sku_id": "425442965255880704",
+    "publishers": [
+        {
+            "id": "542107996516253761",
+            "name": "2K"
+        }
+    ],
+    "slug": "bioshock-tm-2-remastered",
+    "splash": "225361492675523b31b1f993e86986ee",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "409720",
+            "sku": "409720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a6638229163a9c01bf781c50132cc3bab06b3f3e15fa01716b9cb39c9bc7ff57"
+}

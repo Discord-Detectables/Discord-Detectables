@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "those games/those games.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "31de1ae2fec69073152fb6f873726fed",
+    "id": "1177368079412506674",
+    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+    "publishers": [
+        {
+            "id": "1124352712742551642",
+            "name": "MONKEYCRAFT Co. Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2348100",
+            "sku": "2348100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "23396f25d289737e061defc5d5d23dcff1c6ac1351fb916e293f0dc4cd7d0a40"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grand ages rome/rome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0c184945ab3b731c34c4f827ccdf4284",
+    "id": "1124359826575736842",
+    "name": "Grand Ages: Rome",
+    "publishers": [
+        {
+            "id": "521816616602959882",
+            "name": "Haemimont Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "23450",
+            "sku": "23450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "612f4c16f9a470693c3364c9b4de55c6c9127742ae3db98820ef0f4d6ac70fd7"
+}

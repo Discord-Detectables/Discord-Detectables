@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the escape together/the escape together.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e179805e1af6e82ee2a29ebba1582086",
+    "id": "1124360472062349453",
+    "name": "The Escape: Together",
+    "publishers": [
+        {
+            "id": "1124360472527912980",
+            "name": "Nightstuff Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2242760",
+            "sku": "2242760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3bdec12abdc5c96100c66798abcdf54e2361cebb974f04e090312ae1b3cb2eac"
+}

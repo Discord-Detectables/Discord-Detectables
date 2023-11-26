@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nko dice/nkodice.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "54c8897c2354cf600e73f62c83d9a04e",
+    "id": "1124355500046299337",
+    "name": "NKO DICE",
+    "publishers": [
+        {
+            "id": "1124355500503486504",
+            "name": "KSYM"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1510950",
+            "sku": "1510950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03762e5a0d7f5a7648d124443bd1ec6864dc50af6b88fd3b04fd7ce9b3dffa70"
+}

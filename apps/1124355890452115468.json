@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yu escape  monday/yu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8936e4aedd2977d83ccef40b9b1e8fe6",
+    "id": "1124355890452115468",
+    "name": "Yu Escape / Monday",
+    "publishers": [
+        {
+            "id": "1124355890934468628",
+            "name": "Team Tailnut"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1177720",
+            "sku": "1177720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a9418f17dfa43fcb0daa1ce34e8e72151cfe1f8be0b7893e56675c424b75830"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "evil inside - prologue/evil_inside.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3cee2744c48c772034709fd49fb4c9d",
+    "id": "1124352378301329418",
+    "name": "Evil Inside - Prologue",
+    "publishers": [
+        {
+            "id": "524352606869520384",
+            "name": "JanduSoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1485870",
+            "sku": "1485870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f028de7c353be01d63aad6d97ef8aa4a1194b514cb32a1338e53f13d6216fce8"
+}

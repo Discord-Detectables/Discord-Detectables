@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "la-mulana/lamulanawin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ef6ec566457cd6303c1049c1d0ee34f9",
+    "id": "1124357647907438632",
+    "name": "La-Mulana",
+    "publishers": [
+        {
+            "id": "524352151687004198",
+            "name": "Nigoro"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "230700",
+            "sku": "230700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2f308a42a735fed6563d26347c900b3e7e0f9f7c347aff1ca1b3cebe66c6282"
+}

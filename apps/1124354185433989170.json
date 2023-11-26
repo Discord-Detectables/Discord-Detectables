@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "epistory/epistory.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7a19d0b88783a17443c386f79765dddc",
+    "id": "1124354185433989170",
+    "name": "Epistory - Typing Chronicles",
+    "publishers": [
+        {
+            "id": "524352010527571971",
+            "name": "Fishing Cactus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "398850",
+            "sku": "398850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a8a0da0ef050c6ed8ec9685c6bb2398652a22691d8562f9bd4f3c22a3ef5861"
+}

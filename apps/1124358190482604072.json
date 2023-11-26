@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ronin/ronin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9282ce4390800d8b40fd2c05f6ff4d37",
+    "id": "1124358190482604072",
+    "name": "RONIN",
+    "publishers": [
+        {
+            "id": "524352443031486477",
+            "name": "Tomasz Wacławek"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "274230",
+            "sku": "274230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9523d0f7ecf9ae63459b0131df7ea13bf4ad9d8ab701a8de67aeeb61b50296b6"
+}

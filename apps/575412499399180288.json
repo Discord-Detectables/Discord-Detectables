@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "MORDHAU"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mordhau-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "win64/mordhau-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "275436245318893568",
+    "hook": true,
+    "icon": "ca732f9bf6364da1afffa1c8a7eb3dd0",
+    "id": "575412499399180288",
+    "name": "MORDHAU",
+    "publishers": [
+        {
+            "id": "524352802995175437",
+            "name": "Triternion"
+        },
+        {
+            "id": "524352802995175437",
+            "name": "Triternion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "629760",
+            "sku": "629760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e289f8f7856e21f3109f28d7d55cac6ba0b025eebd1be4e40d5e675a398ed7bc"
+}

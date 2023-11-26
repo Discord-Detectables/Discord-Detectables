@@ -1,0 +1,44 @@
+{
+    "description": "Call of Duty 4: Modern Warfare ditches the World War II setting of the past Call of Duty games to tell a story set in contemporary times, and backs it up with a solid, feature-rich multiplayer mode.",
+    "developers": [
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "iw3mp.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "iw3sp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8e608881762ba5e864cd5bbe02711ddd",
+    "id": "486763816944795658",
+    "name": "Call of Duty 4: Modern Warfare",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        }
+    ],
+    "splash": "3b42a1dea246398d153285a41d8e466e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "7940",
+            "sku": "7940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d5955d2487ee276358884b95f7823e297291f3cf601137fce88db99ec129a5a8"
+}

@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Shadow Complex"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shadowcomplex-win32-egl.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "shadowcomplex-win32.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "29a97185209b211a5cfa56bd7e538421",
+    "id": "505500036214292545",
+    "name": "Shadow Complex Remastered",
+    "publishers": [
+        {
+            "id": "521816619689967618",
+            "name": "ChAIR Entertainment"
+        }
+    ],
+    "splash": "d054f6986c520b907d4c8409d63909e8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "epic",
+            "id": "Viper",
+            "sku": "Viper"
+        },
+        {
+            "distributor": "steam",
+            "id": "385560",
+            "sku": "385560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "422c6c4c52fd2bd47528f120111175e75dfe52d04396755b03d0a8fdff950cbd"
+}

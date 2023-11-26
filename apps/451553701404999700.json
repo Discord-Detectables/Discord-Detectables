@@ -1,0 +1,38 @@
+{
+    "description": "A pixelart ludus simulator.",
+    "developers": [
+        {
+            "id": "521816649264005121",
+            "name": "DolphinBarn"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "domina.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb9b5557716c5d90ac9dacc49c5b7b54",
+    "id": "451553701404999700",
+    "name": "Domina",
+    "publishers": [
+        {
+            "id": "521816649264005121",
+            "name": "DolphinBarn"
+        }
+    ],
+    "splash": "9055f63a2029b3459c5a7d25bf8fc5d5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "535230",
+            "sku": "535230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60de6074c9b8e7c825c618362abb91739936c412869720c146d30451a8fa25b3"
+}

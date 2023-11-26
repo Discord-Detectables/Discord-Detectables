@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "handydandywindows/handydandyhandy2020.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7357148ac5dcd3fd257584a22feeb9a",
+    "id": "1124358515507613766",
+    "name": "Handy Dandy",
+    "publishers": [
+        {
+            "id": "1124358516031897600",
+            "name": "Yellow Boot Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1234400",
+            "sku": "1234400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "07a7bd92b379847971cbca1245ffbbbf8c7c1f40e073bba3642507c74fd1746b"
+}

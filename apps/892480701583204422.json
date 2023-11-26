@@ -1,0 +1,62 @@
+{
+    "aliases": [
+        "New World"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "newworld.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "new world/newworldlauncher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bin64/newworld.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "newworldlauncher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "854475600080928768",
+    "hook": true,
+    "icon": "e53fac6bebee68e171701973688d4bb3",
+    "id": "892480701583204422",
+    "name": "New World",
+    "publishers": [
+        {
+            "id": "892480703382577152",
+            "name": "Amazon Games"
+        },
+        {
+            "id": "892480703382577152",
+            "name": "Amazon Games"
+        },
+        {
+            "id": "892480703382577152",
+            "name": "Amazon Games"
+        },
+        {
+            "id": "892480703382577152",
+            "name": "Amazon Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1063730",
+            "sku": "1063730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "70dfc170d4c1dfd123012bd6a4dcaddeb3525c95185f460e9d5b9bed76f50c50"
+}

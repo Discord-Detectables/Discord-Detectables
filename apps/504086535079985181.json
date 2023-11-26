@@ -1,0 +1,30 @@
+{
+    "description": "Warsow is a free FPS, focusing on fast, competitive online play. Combining a featherweight engine with cartoony, celshaded graphics, this open source game could produce some of the fastest gameplay you will ever see.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warsow_x64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "warsow_x86.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a081ae638eb6e9f69da667650c96420c",
+    "id": "504086535079985181",
+    "name": "Warsow",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a0e61d5eb8f152f881fd8a187f1d2f983ad3257275167bcc9ed66d40b227a2d"
+}

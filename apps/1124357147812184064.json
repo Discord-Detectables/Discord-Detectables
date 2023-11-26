@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the room vr/theroomvr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "37e72c9f6db1220ca6b18c5258492792",
+    "id": "1124357147812184064",
+    "name": "The Room VR: A Dark Matter",
+    "publishers": [
+        {
+            "id": "524352193109688325",
+            "name": "Fireproof Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1104380",
+            "sku": "1104380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d918a7a7fb3f2ffebf7b10d16c37c3c6c829529f46dbbaeebea3ff037e660cae"
+}

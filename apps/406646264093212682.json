@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Tomb Raider (2013)"
+    ],
+    "description": "A young and inexperienced Lara Croft is shipwrecked on a mysterious island in this reboot of the beloved action adventure franchise, which departs from the mood of prior games in the series.",
+    "developers": [
+        {
+            "id": "521816535753555988",
+            "name": "Crystal Dynamics, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tombraider.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "27f4b5bae47a19b3d8f43ce5bb0c01ee",
+    "id": "406646264093212682",
+    "name": "Tomb Raider",
+    "publishers": [
+        {
+            "id": "521816639512248330",
+            "name": "Crystal Dynamics"
+        },
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "71c9073ae150324c04b6536b253985bb",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "203160",
+            "sku": "203160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2b2e2c1423b983918f8e7d0b3919d54a23914de843ea9f4ef57e5387c0a3c9b1"
+}

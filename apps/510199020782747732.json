@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816524952961036",
+            "name": "PixelCount Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kynseed/kynseed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "350412853284700161",
+    "hook": true,
+    "icon": "82b8b45931abe40381eeccc54ec13930",
+    "id": "510199020782747732",
+    "name": "Kynseed",
+    "primary_sku_id": "510199020782747732",
+    "publishers": [
+        {
+            "id": "521816524952961036",
+            "name": "PixelCount Studios"
+        }
+    ],
+    "slug": "kynseed",
+    "splash": "232a47bf94b531f997369228293cdfd3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "758870",
+            "sku": "758870"
+        },
+        {
+            "distributor": "discord",
+            "id": "510199020782747732",
+            "sku": "510199020782747732"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d97e35564bc322e63ec747dce081270ba16223c435bb56d26db59e3fc4122aa"
+}

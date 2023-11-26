@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin64/gujianol.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5a75fc9d778b3b11e2a49d43a7ee37ae",
+    "id": "1124357186953433108",
+    "name": "Swords of Legends Online",
+    "publishers": [
+        {
+            "id": "1124357187532243075",
+            "name": "Wangyuan Shengtang Entertainment Technology CO."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1418100",
+            "sku": "1418100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3efc4277889863669573dae898322c5691e799cea46ac05ecd7a47979158d83e"
+}

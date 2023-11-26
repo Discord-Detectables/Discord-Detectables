@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "post void/post void.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c01acae2512ad76de2f605b9f6358ff",
+    "id": "1124353174845804604",
+    "name": "Post Void",
+    "publishers": [
+        {
+            "id": "1124353175302979665",
+            "name": "YCJY Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1285670",
+            "sku": "1285670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e43c5c41f895e423a8ba7c07094d2926d3fc0a38c4d3c3af1eec21adc6edb425"
+}

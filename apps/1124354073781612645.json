@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "antimatter dimensions/antimatter dimensions.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab15d975ecf9d411efb9d061900c2272",
+    "id": "1124354073781612645",
+    "name": "Antimatter Dimensions",
+    "publishers": [
+        {
+            "id": "1124354074247188620",
+            "name": "Hevipelle"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1399720",
+            "sku": "1399720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "381d8e4a178f6c5418312612640cfce183463c6a2ff7c3d0d7ee89a21c269c31"
+}

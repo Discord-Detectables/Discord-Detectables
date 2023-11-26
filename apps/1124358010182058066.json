@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fraymakers/fraymakers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a397cb88075506b87a12bbb2998d8482",
+    "id": "1124358010182058066",
+    "name": "Fraymakers",
+    "publishers": [
+        {
+            "id": "1124358010693758996",
+            "name": "Team Fray"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1420350",
+            "sku": "1420350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cd48be8e040e502ebb3d043485b3e719ae0efcd7a2ef0df62decfbaecef9b40d"
+}

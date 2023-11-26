@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Tanki Online"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tanki online/tanki online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "02a93ee7e6a8efae0fa24b805db913be",
+    "id": "1129504740301086812",
+    "name": "Tanki Online",
+    "publishers": [
+        {
+            "id": "1129504741660053564",
+            "name": "Alternativa Game Ltd."
+        },
+        {
+            "id": "1129504746680623164",
+            "name": "Tanki Online Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "562010",
+            "sku": "562010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "306eff65e879bfe0fe04e958471668586347ee01f7e7ac5b4f412a10ba9c3ddb"
+}

@@ -1,0 +1,47 @@
+{
+    "description": "A snowboarding, skiing, wingsuit, and paragliding game from Ubisoft.",
+    "developers": [
+        {
+            "id": "521816681228664844",
+            "name": "Ubisoft Annecy Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steep.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5ac7fe88357c3674b1862b2eb10f03b6",
+    "id": "425439790746566666",
+    "name": "Steep",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816681228664842",
+            "name": "Ubisoft Annecy"
+        }
+    ],
+    "splash": "17768a57cce02340e7559b2404e7a41b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "460920",
+            "sku": "460920"
+        },
+        {
+            "distributor": "uplay",
+            "id": "3279",
+            "sku": "3279"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9add9b6a4c8f23a18a3721709b0bf76f23a715b9c2f2b6a7a560d139ddd9fd35"
+}

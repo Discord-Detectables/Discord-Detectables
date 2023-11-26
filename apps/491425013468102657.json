@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816651306631168",
+            "name": "Sonalysts, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dangerous waters/steamrun.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fd982ffd28e6f4c9ea1afd9b5e2456d6",
+    "id": "491425013468102657",
+    "name": "Dangerous Waters",
+    "primary_sku_id": "492082077831790605",
+    "publishers": [
+        {
+            "id": "521816698534494219",
+            "name": "Black Bean"
+        }
+    ],
+    "slug": "dangerous-waters",
+    "splash": "012cd3f20cb4b5ed7982428a89194162",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492082077831790605",
+            "sku": "492082077831790605"
+        },
+        {
+            "distributor": "steam",
+            "id": "1600",
+            "sku": "1600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a397ce8143caf260d82aa7f1344fcb9cefe144a3740f6b1fe71f3b667744c869"
+}

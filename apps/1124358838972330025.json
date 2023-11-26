@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "save room - organization puzzle/save room.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aaa7a183ae3c6f13f030baccd3e32f66",
+    "id": "1124358838972330025",
+    "name": "Save Room - Organization Puzzle",
+    "publishers": [
+        {
+            "id": "1124358839450488943",
+            "name": "Fractal Projects"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1955330",
+            "sku": "1955330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eb3fdb81e6cf3ed87cc47812e5b3dc7406473f2a7a948f42b49ed49db5b78271"
+}

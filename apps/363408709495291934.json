@@ -1,0 +1,38 @@
+{
+    "description": "Depth is a multiplayer game which blends heart pounding tension and visceral action in a dark aquatic world.",
+    "developers": [
+        {
+            "id": "521816801995390978",
+            "name": "Digital Confectioners"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "depthgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "791f19be2642d00e2b78b58f5436d3a5",
+    "id": "363408709495291934",
+    "name": "Depth",
+    "publishers": [
+        {
+            "id": "521816801995390978",
+            "name": "Digital Confectioners"
+        }
+    ],
+    "splash": "a7bf13ab1c64b409175ae9f445ff70a6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "274940",
+            "sku": "274940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1f7be1e790156882ed2fd663788b8f28408441da51020190038fe488929bc27a"
+}

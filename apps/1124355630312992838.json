@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "derail valley/derailvalley.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7468c3d04efd6603224ce38c64ed49a4",
+    "id": "1124355630312992838",
+    "name": "Derail Valley",
+    "publishers": [
+        {
+            "id": "1124355630833094787",
+            "name": "Altfuture"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "588030",
+            "sku": "588030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7c45aa539f5ab47a3fb3a47d475c20a1a96f887a5347226bd48b108a98467a2a"
+}

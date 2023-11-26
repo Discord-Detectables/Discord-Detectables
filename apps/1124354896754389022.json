@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the slormancer/the slormancer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd47c68aef9e9c849c368929039ffb4e",
+    "id": "1124354896754389022",
+    "name": "The Slormancer",
+    "publishers": [
+        {
+            "id": "1124354897215770664",
+            "name": "Slormite Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1104280",
+            "sku": "1104280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6addc44d1650382596ce05b6bac0e23468515d39dc9be8a36a2499514cb2e4ba"
+}

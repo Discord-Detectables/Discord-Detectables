@@ -1,0 +1,38 @@
+{
+    "description": "A game from the team that made Surgeon Simulator. In I Am Bread, the player assumes the role of a piece of bread as it explores the house around it.",
+    "developers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "iambread.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6923de08a0574f27e375eaa80d250346",
+    "id": "501542797430489098",
+    "name": "I am Bread",
+    "publishers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "splash": "afb6beff5303d1c15c5fc02bccd4f411",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "327890",
+            "sku": "327890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d59f4da3a9ae6e19479f78f02331bf1342a1895c0faf11d9b0c05a0adf29cd51"
+}

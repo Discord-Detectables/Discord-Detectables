@@ -1,0 +1,51 @@
+{
+    "description": "When Alan Wake's twisted doppelganger, Mr. Scratch, unleashes his forces of darkness throughout the rural Arizona town of Night Springs, it's up to Alan to rewrite reality and foil his plans (unaware that he has a twisted trick up his sleeve) in this crazy spin-off of the original 2010 horror game Alan Wake.",
+    "developers": [
+        {
+            "id": "521816609518518282",
+            "name": "Remedy Entertainment Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "alan_wakes_american_nightmare.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0a7831c1cbc1807cc7b81d4f81f3f21",
+    "id": "496526142673649724",
+    "name": "Alan Wake's American Nightmare",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        },
+        {
+            "id": "521816635749695508",
+            "name": "Remedy Entertainment"
+        },
+        {
+            "id": "521816519768932352",
+            "name": "R.G. Mechanics, spider91"
+        }
+    ],
+    "splash": "d1271f6926f7679bb535e50059f1e686",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "202750",
+            "sku": "202750"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "e28f6ffd4df4c6e79e4a8b6eef578d995068360cdaf32c82466ef5c4621e9db8"
+}

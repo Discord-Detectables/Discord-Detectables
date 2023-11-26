@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "core keeper demo/corekeeper.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b1905c1041a261c13c6e9eccd9e8390d",
+    "id": "1129505205453603027",
+    "name": "Core Keeper Demo",
+    "publishers": [
+        {
+            "id": "1124351750002983045",
+            "name": "Pugstorm"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1831940",
+            "sku": "1831940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a32c7457f5f40e125066091732d006c9a95a3ea2978aabc98929bb00a20c2d36"
+}

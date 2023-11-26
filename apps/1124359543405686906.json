@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windlands 2/windlands2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "54e3a34f271e18aa98af4c8cd22e96a2",
+    "id": "1124359543405686906",
+    "name": "Windlands 2",
+    "publishers": [
+        {
+            "id": "1124358734274117763",
+            "name": "Psytec Games Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "458580",
+            "sku": "458580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a3d89e9a080e41fabe5f9de2a78934302e0bcdb20a6baf832cbd4ef2b6bb481f"
+}

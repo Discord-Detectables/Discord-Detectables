@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Kingdom Two Crowns"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kingdom two crowns/kingdomtwocrowns.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7e29439f86d6ff9554bb8cd0090fd74d",
+    "id": "1129504257700282548",
+    "name": "Kingdom Two Crowns",
+    "publishers": [
+        {
+            "id": "1129504258551717888",
+            "name": "StumpySquid"
+        },
+        {
+            "id": "521816607941459968",
+            "name": "Noio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "701160",
+            "sku": "701160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac8d51632f70319fdc0a32e50712f4b338f7c3b2bb10b858e487df09b9b44d9d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "golfing over it with alva majo/golfing over it with alva majo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eae7356af2a974d088bec887d30a0a32",
+    "id": "1124354201363951698",
+    "name": "Golfing Over It with Alva Majo",
+    "publishers": [
+        {
+            "id": "524352733017538576",
+            "name": "Majorariatto"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "817510",
+            "sku": "817510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0bc2ec7911c222d63e20f48962c9bae02622392bd92a08a5c0271f11c2f5a4b8"
+}

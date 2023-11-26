@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "The Final Station"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thefinalstation/thefinalstation.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d91df4db1a9071cb03bf9ff007b4b4f0",
+    "id": "1129505106262511626",
+    "name": "The Final Station",
+    "publishers": [
+        {
+            "id": "1129505106870681760",
+            "name": "Oleg Sergeev"
+        },
+        {
+            "id": "1129505109387255859",
+            "name": "DO MY BEST"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "435530",
+            "sku": "435530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "442761c234d2a071ab9139bab60c5918519d9be29db90d355b82d8c44308de68"
+}

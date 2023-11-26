@@ -1,0 +1,45 @@
+{
+    "description": "A free-to-play MOBA game from the developers of Global Agenda and Tribes Ascend. Smite is played entirely in third person and every spell and attack is a skillshot.",
+    "developers": [
+        {
+            "id": "521816544939081737",
+            "name": "Hi-Rez Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "smite.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "smiteeac.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d47e191eb893a1d6377264e11f1e901b",
+    "id": "358422012990849024",
+    "name": "SMITE",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816544939081737",
+            "name": "Hi-Rez Studios"
+        }
+    ],
+    "splash": "5aad57fbc1c49285bc0138bef5724445",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "386360",
+            "sku": "386360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1870ee9580fef840e65ed3680df9f6f405b3befa95679263335374f5b2422ed2"
+}

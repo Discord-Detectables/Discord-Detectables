@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "twilight struggle/twilightstruggle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6503e18443e7f5d2da679f5ad059d0e",
+    "id": "1124354615526310059",
+    "name": "Twilight Struggle",
+    "publishers": [
+        {
+            "id": "1124354616029622303",
+            "name": "Playdek, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "406290",
+            "sku": "406290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8866de5412bb06e0e0bcaabb8b2c760f5ed732286e57fe7a74ef5b0e79b200b4"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/vr3_part1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9f01eaac6e0b35cc2fdef32ae248180",
+    "id": "1124360148354347159",
+    "name": "IKEA VR Pancake Kitchen",
+    "publishers": [
+        {
+            "id": "1124360148861866034",
+            "name": "IKEA Communications AB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "611120",
+            "sku": "611120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a2655fc65ef9915893fc98f64fee4af473c04b7f48d4c07a10b76928d45bb16"
+}

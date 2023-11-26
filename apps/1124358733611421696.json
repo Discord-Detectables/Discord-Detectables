@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windlands/windlands_win_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c785bfbeff321db5b4aeee45074e74fb",
+    "id": "1124358733611421696",
+    "name": "Windlands",
+    "publishers": [
+        {
+            "id": "1124358734274117763",
+            "name": "Psytec Games Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "428370",
+            "sku": "428370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "648958a0839f7018ea7fa915b8f8384bba43985706021f270aeebc91129c0459"
+}

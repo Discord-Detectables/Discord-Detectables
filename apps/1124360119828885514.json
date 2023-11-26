@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pancake sailor/pancake_sailor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee76c7e1d18a2d106a57764d9f83841a",
+    "id": "1124360119828885514",
+    "name": "Pancake Sailor",
+    "publishers": [
+        {
+            "id": "524352680332886061",
+            "name": "MarineVerse"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1274800",
+            "sku": "1274800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1d876a42234a1dafd552c363f81a08a4d2491c2b8150449c035fed1009b52b5a"
+}

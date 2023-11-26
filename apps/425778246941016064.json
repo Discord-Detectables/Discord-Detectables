@@ -1,0 +1,31 @@
+{
+    "description": "This is a game that helps users improve their aim in games such as Overwatch and CSGO with custom settings for the user to twiddle in, with different modes this game allows the user to improve their reflects, flick-shooting and/or tracking.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aim hero.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad10788941033b638409d216ebf789a4",
+    "id": "425778246941016064",
+    "name": "Aim Hero",
+    "publishers": [
+        {
+            "id": "521816742675218463",
+            "name": "ProGames Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "518030",
+            "sku": "518030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e47dd3ce7a0a60908a2f68739e12246c74e70e733e6bd0059b4d920f48d36c1c"
+}

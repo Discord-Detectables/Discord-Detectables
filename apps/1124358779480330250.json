@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "diaries of a spaceport janitor/diaries_7.6_win.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5a1e698b06f0b6780f85532930e6d821",
+    "id": "1124358779480330250",
+    "name": "Diaries of a Spaceport Janitor",
+    "publishers": [
+        {
+            "id": "524352642634219560",
+            "name": "Sundae Month"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "436500",
+            "sku": "436500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e7991de38747fe5898c07a3a7b1a28989693b3e4fa2a1df6cd83d437cfcae29"
+}

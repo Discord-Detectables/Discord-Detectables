@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sticky business demo/stickybusiness.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cb68ee2504947ed3395c1f2d24c44cbc",
+    "id": "1129505603845365940",
+    "name": "Sticky Business Demo",
+    "publishers": [
+        {
+            "id": "1129505604499689584",
+            "name": "Spellgarden Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2418150",
+            "sku": "2418150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51d97eb27e94dd307574c45931aaed39dec9579d58bbe4873fb13e49bc4d498c"
+}

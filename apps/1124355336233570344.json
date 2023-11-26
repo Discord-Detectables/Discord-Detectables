@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "holy potatoes! a weapon shop!/hpaws.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5181d2256244ef1f6fe5201d8ab16f12",
+    "id": "1124355336233570344",
+    "name": "Holy Potatoes! A Weapon Shop?!",
+    "publishers": [
+        {
+            "id": "524352283597733977",
+            "name": "Daylight Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "363600",
+            "sku": "363600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "47d096e321ca4f49d83b729c5c475c7e31a18e3ea295207b2785d957685ad192"
+}

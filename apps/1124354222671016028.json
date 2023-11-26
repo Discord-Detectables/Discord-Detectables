@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clicker heroes 2/clickerheroes2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0a8ff4e7823e1a949c4ae1532740b63f",
+    "id": "1124354222671016028",
+    "name": "Clicker Heroes 2",
+    "publishers": [
+        {
+            "id": "521816644432166912",
+            "name": "Playsaurus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "629910",
+            "sku": "629910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9a2cf599908d6dd26c615caa2a24bea3a81f2658cb4dd6f964a4eb009b504314"
+}

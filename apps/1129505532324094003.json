@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blockhood/blockhood v0_40_08.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "863b3535d6dcf5608d3c1c35aae4bc81",
+    "id": "1129505532324094003",
+    "name": "Block'hood",
+    "publishers": [
+        {
+            "id": "1129505534341554246",
+            "name": "Plethora-Project LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "416210",
+            "sku": "416210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94e0330705ca66f98cee47f803ca58da1b54bab8d35c6f65a66a2f2fc7a3908c"
+}

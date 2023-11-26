@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eternal card game/eternal.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa779f97307d2e712ff906d3895229b3",
+    "id": "451551225968853012",
+    "name": "Eternal Card Game",
+    "publishers": [
+        {
+            "id": "521816520267923482",
+            "name": "Dire Wolf Digital"
+        }
+    ],
+    "splash": "d202daad4b7b11e345ae0ecbcda89097",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "531640",
+            "sku": "531640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1bbdd84b2bb71e45c7a096540e7f1276857eadd8a29eda0b9deea804815bb4cf"
+}

@@ -1,0 +1,43 @@
+{
+    "description": "A single or 2 to 4Plo-player co-op micro-platformer where the players must control a pink spaceship by interacting with systems inside of the ship.",
+    "developers": [
+        {
+            "id": "521816660584169476",
+            "name": "Asteroid Base"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "loversinadangerousspacetime.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77d7acda21f8ca3e50e2269c54ca120c",
+    "id": "496851934339268622",
+    "name": "Lovers in a Dangerous Spacetime",
+    "publishers": [
+        {
+            "id": "521816660584169475",
+            "name": "Super Rare Games"
+        }
+    ],
+    "splash": "8d1e8418090f43caa0f66e6447a8227b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252110",
+            "sku": "252110"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "8b73f45b36ba4e3c12bcdddadc389ebf3b9ae50cdcde655207208626b01502f7"
+}

@@ -1,0 +1,47 @@
+{
+    "description": "In the fantasy world of Falana, a mysterious swordsman named Dust, armed with a living sword called Ahrah and a quirky companion named Fidget, seeks to free a village from oppression while uncovering the truth behind his past.",
+    "developers": [
+        {
+            "id": "521816762472202251",
+            "name": "Humble Hearts"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dustaet.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "202e4097bbdd52a7c61564ffacde0268",
+    "id": "496580906916511764",
+    "name": "Dust: An Elysian Tail",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        },
+        {
+            "id": "521816762472202250",
+            "name": "Humble Hearts LLC"
+        }
+    ],
+    "splash": "e3019e9e9c65fa34214b3add97cc377b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "236090",
+            "sku": "236090"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "7c857317559478ef573690e5945ea5a71e4cbc66862865223ff096ab8f51dd2e"
+}

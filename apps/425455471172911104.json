@@ -1,0 +1,38 @@
+{
+    "description": "A puzzle game from Gojira.",
+    "developers": [
+        {
+            "id": "521816798140563477",
+            "name": "Gojira"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "munin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9923ad8abfa32fc75a5ba0bd4dd892be",
+    "id": "425455471172911104",
+    "name": "Munin",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "splash": "0c036220b6fe27e1dd86a4cd4d6e311b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "281750",
+            "sku": "281750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bfadfe58a24ea9091a4de9233defac38f2c1381fc2f3754c61a46bc7b347f246"
+}

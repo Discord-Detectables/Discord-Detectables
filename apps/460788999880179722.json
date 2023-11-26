@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Metal Gear Rising: Revengeance"
+    ],
+    "description": "A fast-paced action game co-developed by PlatinumGames and Kojima Productions. It follows ninja-cyborg Raiden's activities four years after the events of Metal Gear Solid 4: Guns of the Patriots.",
+    "developers": [
+        {
+            "id": "521816725793275924",
+            "name": "PlatinumGames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metal gear rising revengeance.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cb172f47edc9678f3fa527bf87b468cd",
+    "id": "460788999880179722",
+    "name": "METAL GEAR RISING: REVENGEANCE",
+    "publishers": [
+        {
+            "id": "521816513074692111",
+            "name": "Konami"
+        }
+    ],
+    "splash": "51458eeaebd9b36e5afb745376985205",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "235460",
+            "sku": "235460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03d3fd48ef23fdc00da72f218567d59cbdc0c29bd60e785a32d4d920e73f4a59"
+}

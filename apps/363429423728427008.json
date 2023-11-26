@@ -1,0 +1,38 @@
+{
+    "description": "A follow up to 2013's Tomb Raider reboot. After the events of the previous game, Lara spends one year searching to explain what she saw. Her quest to explain immortality leads her to Siberia, home of a mythical city known as Kitezh.",
+    "developers": [
+        {
+            "id": "521816535753555988",
+            "name": "Crystal Dynamics, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rottr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "780a603fe5499627dec19339d2f8c280",
+    "id": "363429423728427008",
+    "name": "Rise of the Tomb Raider",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "af221d527613743e0eacc23ae7de4285",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "391220",
+            "sku": "391220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8987e2a113214572232bb5d97da4f74243a19a52f7a01f1df1d1ec7e542c91f4"
+}

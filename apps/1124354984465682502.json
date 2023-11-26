@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kitty powers matchmaker/matchmaker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "084092882b0be3e159525818fbfea1b8",
+    "id": "1124354984465682502",
+    "name": "Kitty Powers' Matchmaker",
+    "publishers": [
+        {
+            "id": "1124354984973189161",
+            "name": "Magic Notion Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285740",
+            "sku": "285740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a3246375418a7b05ce30f594955ea96976ea225abe6899bf4dd2cb8a96e52fa7"
+}

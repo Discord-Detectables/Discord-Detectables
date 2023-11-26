@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/seduce me official.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fe158849befdd5fe4e036c5aa57a00ec",
+    "id": "1124355595407995011",
+    "name": "Seduce Me the Otome",
+    "publishers": [
+        {
+            "id": "1124355595877765161",
+            "name": "Michaela Laws"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "367120",
+            "sku": "367120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8cc5208a9654f0c7883ad3c6e972d2ecd6f57dc0036ba0e5c07e10be9ea0b6f9"
+}

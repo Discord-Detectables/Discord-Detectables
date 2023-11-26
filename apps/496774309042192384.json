@@ -1,0 +1,30 @@
+{
+    "description": "The fourth game in the Guitar Hero series adds drums and vocals to the mix, along with a music studio that you can use to create new tracks and share them online.",
+    "developers": [
+        {
+            "id": "521816783670476800",
+            "name": "Budcat Creations"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ghwt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6e105ce199cee19855176ba2b333a263",
+    "id": "496774309042192384",
+    "name": "Guitar Hero World Tour",
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "5335b5234490c2eb5deb2230bc0579b6f7c59c0c40e2166fa1047c33139ec741"
+}

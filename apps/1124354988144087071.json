@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "notruf2/notruf2019.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9ae7e20354be82c6d3a3a7c429762ce4",
+    "id": "1124354988144087071",
+    "name": "Notruf 112 - Die Feuerwehr Simulation 2",
+    "publishers": [
+        {
+            "id": "1124354988144087072",
+            "name": "Crenetic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "785770",
+            "sku": "785770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8d9a34112be61070313b6f109baf1db49e45b3de52c589f8cb890436657bf76c"
+}

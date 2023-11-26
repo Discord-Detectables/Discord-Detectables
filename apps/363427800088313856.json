@@ -1,0 +1,33 @@
+{
+    "description": "A unique take on an MMO that combines customization of a condo, character customization, several minigames, and a plaza that has many activities on its own.",
+    "developers": [
+        {
+            "id": "521816750296137753",
+            "name": "PixelTail Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tower-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "93925271886897152",
+    "hook": true,
+    "icon": "acb798a7428c6daedbacae59df61f4dd",
+    "id": "363427800088313856",
+    "name": "Tower Unite",
+    "splash": "e996826ff1b343ecaa9e2b1904ca13fd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "394690",
+            "sku": "394690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb1a995a123425158c5b76c059a3b00c5f9f35c654115f113baadf67e305e77e"
+}

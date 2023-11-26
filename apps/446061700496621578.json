@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Dragon Age: Inquisition"
+    ],
+    "description": "Dragon Age: Inquisition is the third installment in the Dragon Age series of role-playing games developed by BioWare.",
+    "developers": [
+        {
+            "id": "521816589570408449",
+            "name": "BioWare"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dragonageinquisition.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a158334e8e46f8c8e369f8ffeea12710",
+    "id": "446061700496621578",
+    "name": "Dragon Age™: Inquisition",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "0b433447c7b577aa223a52933aadda31f69fb4ab033eb104ddb3be7d39c8fab9"
+}

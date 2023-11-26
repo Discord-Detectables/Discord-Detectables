@@ -1,0 +1,38 @@
+{
+    "description": "A compilation of high-definition remakes of the first three Crash Bandicoot games.",
+    "developers": [
+        {
+            "id": "521816513561493528",
+            "name": "Vicarious Visions"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crashbandicootnsanetrilogy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9e7b48fd1982e91224ce7d13d22b292",
+    "id": "468099355962900480",
+    "name": "Crash Bandicoot™ N. Sane Trilogy",
+    "publishers": [
+        {
+            "id": "521816525410402312",
+            "name": "Sony Interactive Entertainment America"
+        }
+    ],
+    "splash": "b853a85105bb7c698ffe49703016f755",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "731490",
+            "sku": "731490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4196a13ae81ad512410374008c7bbe9aed487ec1be6f43e2de223ab5eed8499c"
+}

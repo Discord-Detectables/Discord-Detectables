@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fairy tail/fairy_tail.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "118afa20dadef66c1023087d6038f52f",
+    "id": "1124358487347052595",
+    "name": "FAIRY TAIL",
+    "publishers": [
+        {
+            "id": "521816779509465099",
+            "name": "KOEI TECMO GAMES CO., LTD."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1233260",
+            "sku": "1233260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff76318550918a914cf9a7db4d5b5c1426530b87304a10871f7b573891a03ef7"
+}

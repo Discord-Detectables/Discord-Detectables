@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "no one lives under the lighthouse/no one lives under the lighthouse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5fd9f35a274174e485d90b412273fd00",
+    "id": "1124360111167647814",
+    "name": "No one lives under the lighthouse",
+    "publishers": [
+        {
+            "id": "1124360111738081280",
+            "name": "Sowoke Entertainment Bureau"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1254370",
+            "sku": "1254370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1ac8871061baaa8a5a0e93f35f4c0b996f9915164f8783f702ebdb401747fc04"
+}

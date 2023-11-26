@@ -1,0 +1,38 @@
+{
+    "description": "Beat Hazard is a twin-stick shooter by a one-man development team. The beat of the music controls your shots, while the song itself supplies the layout of the level.",
+    "developers": [
+        {
+            "id": "521816744659124246",
+            "name": "Cold Beam Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beathazard.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dcc25b38db62011c5363d8e84c086e1e",
+    "id": "496535788427935764",
+    "name": "Beat Hazard",
+    "publishers": [
+        {
+            "id": "521816744659124246",
+            "name": "Cold Beam Games"
+        }
+    ],
+    "splash": "fa1971ac8e0490c79ea84d8480d1b01e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "49600",
+            "sku": "49600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "43b115a2b209d70f917b76b772a8ee44f77896b42cd9c4682f1e8574f2816e77"
+}

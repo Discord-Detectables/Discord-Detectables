@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeon siege iii/dungeon siege iii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa5238f6978d5d8ba907f96137b9811f",
+    "id": "1124356048623521833",
+    "name": "Dungeon Siege III",
+    "publishers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "39160",
+            "sku": "39160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac76b33047b4cdaa31ab8ce6da5337f721efb1c8207fe6522ed20e507b581d3a"
+}

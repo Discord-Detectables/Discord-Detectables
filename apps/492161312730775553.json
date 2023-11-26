@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "victoria.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "42aaf395b85247299ff951ae3b8d453b",
+    "id": "492161312730775553",
+    "name": "Victoria I",
+    "primary_sku_id": "492390457381224450",
+    "publishers": [
+        {
+            "id": "521816527918333962",
+            "name": "Paradox Interactive"
+        }
+    ],
+    "slug": "victoria-i",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492390457381224450",
+            "sku": "492390457381224450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c2bbdfff656b732ecd3b5f7a66fb5e7959fd29b634e05b5d093cff52d9a92713"
+}

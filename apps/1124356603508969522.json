@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mini healer/minihealer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2732e81e5c0bab4855873dc7173a15f7",
+    "id": "1124356603508969522",
+    "name": "Mini Healer",
+    "publishers": [
+        {
+            "id": "1124356603953561641",
+            "name": "Sad Doge"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "955740",
+            "sku": "955740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9824e6eac4e187dfaf6b037679e6bd8686177efdb912fddf26560a99b47cbc76"
+}

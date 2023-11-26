@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/tmdp-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6b7691c1a2ea13b79883c213ef2f818",
+    "id": "1124355811267850421",
+    "name": "Truck Mechanic: Dangerous Paths - Prologue",
+    "publishers": [
+        {
+            "id": "524352869919490050",
+            "name": "Atomic Jelly"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1635550",
+            "sku": "1635550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25ef63e2fc99627a99e02f7983508e49ccda005e8c5264dce318f70aa4611a61"
+}

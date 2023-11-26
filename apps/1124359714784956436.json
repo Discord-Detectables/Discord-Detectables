@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bravery and greed/bravery and greed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6f44876b287d40bbf932b721bad3b21e",
+    "id": "1124359714784956436",
+    "name": "Bravery and Greed",
+    "publishers": [
+        {
+            "id": "1124357701133160538",
+            "name": "Rekka Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "943370",
+            "sku": "943370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "469fb4e07a383897402ee99ad17237bbbaa50ff51608e3cbbabce7794d4934f2"
+}

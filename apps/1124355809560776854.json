@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/ard-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eee25ff3dc384fbcbb47f547e5fb2dc0",
+    "id": "1124355809560776854",
+    "name": "A.R.D. Alien Removal Division",
+    "publishers": [
+        {
+            "id": "1124355810026340413",
+            "name": "Enchanted Bean Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1768550",
+            "sku": "1768550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9d2ed05ab563043fea97a0e7cd8910820a76513dd03b26696f2f01966db43b0f"
+}

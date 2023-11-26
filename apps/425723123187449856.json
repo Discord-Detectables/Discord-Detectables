@@ -1,0 +1,49 @@
+{
+    "aliases": [
+        "Tormentor X Punisher"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tormentorxpunisher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tormentorxpunishergit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "261683801372098560",
+    "hook": true,
+    "icon": "0be2e6b915950a1b523df0e9b753ff87",
+    "id": "425723123187449856",
+    "name": "Tormentor❌Punisher",
+    "overlay": true,
+    "primary_sku_id": "471029037003833355",
+    "publishers": [
+        {
+            "id": "521816660152287233",
+            "name": "E-Studio"
+        }
+    ],
+    "slug": "tormentorpunisher",
+    "splash": "24822cfdd44f5a500feb28fa2ed3d8ce",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471029037003833355",
+            "sku": "471029037003833355"
+        },
+        {
+            "distributor": "steam",
+            "id": "500670",
+            "sku": "500670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b5bf79351b06664e98c0b5ecb38f4795c82743a8ef80147742b64d83e2d4ffef"
+}

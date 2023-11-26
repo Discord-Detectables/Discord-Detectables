@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kukoro stream chat games/kukoro stream chat games.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae5c16ff36eb6eb2e2bb28b1eeb6d992",
+    "id": "1124356237010681856",
+    "name": "Kukoro: Stream chat games",
+    "publishers": [
+        {
+            "id": "1124356237010681857",
+            "name": "HeyNau"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1166990",
+            "sku": "1166990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c52f8a3d932e394ca17e4bcf53f45698fd3a0209992a7e15f3fac8c4fb4b6fb"
+}

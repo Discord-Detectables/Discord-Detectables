@@ -1,0 +1,40 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spellforce2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "309836623594520576",
+    "hook": true,
+    "icon": "2777632d512fc238e27b26a618c5d60d",
+    "id": "425440739166650368",
+    "name": "SpellForce 2 - Anniversary Edition",
+    "primary_sku_id": "471030686954946560",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "slug": "spellforce-2-anniversary-edition",
+    "splash": "48583a225ed646556efa2cdf016b4fe6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471030686954946560",
+            "sku": "471030686954946560"
+        },
+        {
+            "distributor": "steam",
+            "id": "39550",
+            "sku": "39550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b93644fe1f6e8231c8ea94bb4c3df9c1733089f04eabaea9dfe9752b8138add"
+}

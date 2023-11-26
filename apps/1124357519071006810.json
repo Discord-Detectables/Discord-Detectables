@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pixelheist-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ebdda8d81488be05f3f588ddd1c336ff",
+    "id": "1124357519071006810",
+    "name": "Perfect Heist",
+    "publishers": [
+        {
+            "id": "1124353070655094975",
+            "name": "yeswecamp"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "787040",
+            "sku": "787040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c36bf0b241c8e91d6f75a538094b229c8c62e311053e9598c970946fb0916abd"
+}

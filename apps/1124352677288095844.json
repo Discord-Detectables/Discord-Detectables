@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/gwt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a309b68d9b6a4ae71b25b0b483dad125",
+    "id": "1124352677288095844",
+    "name": "Ghostwire: Tokyo",
+    "publishers": [
+        {
+            "id": "521816549057626140",
+            "name": "Tango Gameworks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1475810",
+            "sku": "1475810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2069281e1a87d18771adbfff64de8cdaf01a5e53b61248d966958b5ebb8ba15e"
+}

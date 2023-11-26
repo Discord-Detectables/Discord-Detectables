@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "Crab Champions"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/crabchampions-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "crabchampions-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1095820752877535262",
+    "name": "Crab Champions",
+    "publishers": [
+        {
+            "id": "1095820753473114223",
+            "name": "Noisestorm Limited"
+        },
+        {
+            "id": "1095820753473114223",
+            "name": "Noisestorm Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "774801",
+            "sku": "774801"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9f9652682e52eb30523757e15d26d80595ef928017a21a9d7e0cd82ad6890fec"
+}

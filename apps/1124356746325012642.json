@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "elderborn/elderborn.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5cab14d9ca3a47c91adbf251f961a11",
+    "id": "1124356746325012642",
+    "name": "ELDERBORN",
+    "publishers": [
+        {
+            "id": "524353239299391528",
+            "name": "Hyperstrange"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "727850",
+            "sku": "727850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b34fe7a537604bfef733817398aeef95614e82c4b6df869e6102ee5ea80be5be"
+}

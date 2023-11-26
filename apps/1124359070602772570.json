@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "samorost 2/samorost2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6d3743054719aab2838b81f1605661e",
+    "id": "1124359070602772570",
+    "name": "Samorost 2",
+    "publishers": [
+        {
+            "id": "524351864485969922",
+            "name": "Amanita Design"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "40720",
+            "sku": "40720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "67713bf37f272e28260f413d913d813ffe3116d70e622517f4b6896c2c86cd37"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tom Clancy's Ghost Recon\t"
+    ],
+    "description": "Two soldiers fight their way through the streets of a futuristic Northern Europe in this on rails, third person shooter for the Wii.",
+    "developers": [
+        {
+            "id": "521816504824758294",
+            "name": "Next Level Games, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ghostrecon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "afe3ed8999c48f1b27c9c84dbcfd2b39",
+    "id": "425451104117981184",
+    "name": "Tom Clancy's Ghost Recon",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "1c8c17dfeae234f2af198205d53897bf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "15300",
+            "sku": "15300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d81d5a16412746378488a94ac74920ab67de694cd0b412fabc3f7311fbbc34ab"
+}

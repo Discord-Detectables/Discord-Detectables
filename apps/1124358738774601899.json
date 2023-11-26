@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "biohazard re2 z/re2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5938e1ac6e7cfe2d92959ea4bed1f16e",
+    "id": "1124358738774601899",
+    "name": "BIOHAZARD RE:2 Z Version",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "895950",
+            "sku": "895950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "337d1cc5717427b0f2a2541d14f155f98880cddeadd290d138502f086d4cf7ab"
+}

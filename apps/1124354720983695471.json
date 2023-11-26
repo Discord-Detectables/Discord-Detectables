@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nine sols demo/ninesols.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e790f4d99e84feee6d510b1fe5ce26a9",
+    "id": "1124354720983695471",
+    "name": "Nine Sols Demo",
+    "publishers": [
+        {
+            "id": "524352698368393235",
+            "name": "Red Candle Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1913910",
+            "sku": "1913910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ca77754a3bf36f46c2d655ba0c28999aec37de9af321b316f5723db1f2a9342f"
+}

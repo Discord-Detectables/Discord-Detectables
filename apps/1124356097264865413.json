@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pharaoh a new era/pharaoh.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "42176a4d703ac36195619ec9f4df4fb1",
+    "id": "1124356097264865413",
+    "name": "Pharaoh: A New Era",
+    "publishers": [
+        {
+            "id": "524352430939308042",
+            "name": "Triskell Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1351080",
+            "sku": "1351080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3f5f2581838294fead0d267c90a49d5171711de5d399cfcbedaee1d8b1263c78"
+}

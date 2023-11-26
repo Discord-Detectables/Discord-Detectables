@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "red planet farming/redplanetfarming.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b58b177f0411c660596a9361b9e765d7",
+    "id": "1124357436996866108",
+    "name": "Red Planet Farming",
+    "publishers": [
+        {
+            "id": "1124357437491789855",
+            "name": "Nina Demirjian"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1288170",
+            "sku": "1288170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fcd531f2a01546b52126c99f7c40d4c4cd739eec420149c46d181733c7837419"
+}

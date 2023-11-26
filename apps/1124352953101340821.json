@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/intotheradius-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "edaef0913e03ea4554cfd33f4ff9a059",
+    "id": "1124352953101340821",
+    "name": "Into the Radius VR",
+    "publishers": [
+        {
+            "id": "1124352953571098726",
+            "name": "CM Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1012790",
+            "sku": "1012790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad9ef31cbebec751f79fe289514d7bfdb90d0c287f854151bdb4a8c33886499f"
+}

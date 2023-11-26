@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/trikaya-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac6d7b774c884dd017517326029acb8c",
+    "id": "1124360200770568272",
+    "name": "Trikaya",
+    "publishers": [
+        {
+            "id": "1124357980238925874",
+            "name": "SMU Guildhall"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1410870",
+            "sku": "1410870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "42de7fc08fd4b9b873bb621167358eb86248ff9f41d9701e153e88271248ed89"
+}

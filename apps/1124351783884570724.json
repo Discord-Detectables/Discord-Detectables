@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zero hour/zero hour.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b7375ce973cd716a745adfb6c9232b96",
+    "id": "1124351783884570724",
+    "name": "Zero Hour",
+    "publishers": [
+        {
+            "id": "1124351784366911498",
+            "name": "M7 Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1359090",
+            "sku": "1359090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "794ad64fe6d3d85ef600e18241ccd9e7fafdbda9900c7e7558e9b820d8878687"
+}

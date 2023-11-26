@@ -1,0 +1,38 @@
+{
+    "description": "An improvisational party game for up to eight players (each using their own device, such as smartphones and computers) from the creators of the Jackbox Party Pack.",
+    "developers": [
+        {
+            "id": "521816532737851443",
+            "name": "Jackbox Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "quiplash.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "28ca2238d900521019b41e86458c0b06",
+    "id": "498988229798920242",
+    "name": "Quiplash",
+    "publishers": [
+        {
+            "id": "521816532737851443",
+            "name": "Jackbox Games"
+        }
+    ],
+    "splash": "ca3f606888c084e082a5b0bc06c1863e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "351510",
+            "sku": "351510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2106cece5d6361948619bf78f01af1ad65507a2256bb5fe96f10bbaf1901666"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Outnumbered and outgunned by high-tech Nazi forces, B.J. Blazkowicz returns to fight for an underground resistance movement in an alternate-historical 1960 where the Nazis won World War II and achieved global dominance.",
+    "developers": [
+        {
+            "id": "521816549666062338",
+            "name": "MachineGames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolfneworder_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "171b5e8a353328351345dd6f77c84027",
+    "id": "376171871873400832",
+    "name": "Wolfenstein: The New Order",
+    "publishers": [
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "35b8040dc89e64a386113430e713c10c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "201810",
+            "sku": "201810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b81b08e81048d19268a67470bb1e0891a9d4f7e647ac4086d75930eaf2be0e02"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mixcraft 8 home studio/mixcraft8.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "04cebe5d8758161aa3ba003d230f6d94",
+    "id": "1124360690497499218",
+    "name": "Mixcraft 8 Home Studio",
+    "publishers": [
+        {
+            "id": "1124360691072127088",
+            "name": "Acoustica, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "218760",
+            "sku": "218760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ca32788294369e890bdd8eb66128eecf62ed8b923a5f2939033b4629b7046aa"
+}

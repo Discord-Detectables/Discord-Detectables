@@ -1,0 +1,38 @@
+{
+    "description": "Murderous Pursuits is an 8-player stealth action game from Blazing Griffin.",
+    "developers": [
+        {
+            "id": "521816711104823311",
+            "name": "Blazing Griffin"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "murderouspursuits.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad17ef3012862897eada5f44cdc18c18",
+    "id": "505801835613913098",
+    "name": "Murderous Pursuits",
+    "publishers": [
+        {
+            "id": "521816711104823311",
+            "name": "Blazing Griffin"
+        }
+    ],
+    "splash": "67307ab2f0c3986b11a15ea8f366ca91",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "638070",
+            "sku": "638070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "473552934b72078d336b7b26d75c5d8a2fa56ac1782667c5a250c1630cc94e59"
+}

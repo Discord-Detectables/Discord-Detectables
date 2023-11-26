@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "chess/chess.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b6e8bd801e11694ef46e59adb919da99",
+    "id": "491048607072387072",
+    "name": "Simply Chess",
+    "publishers": [
+        {
+            "id": "521816554648764427",
+            "name": "BlueLine Games"
+        }
+    ],
+    "splash": "2ee2a751fc16888026791ca52736a1b9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "312280",
+            "sku": "312280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d8525c6da89baa5a22cc2677741212c0e4e208186e585bea0714666c933cc197"
+}

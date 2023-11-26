@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "train station renovation/tsr_steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b23d7ee86ab5d2957efb6c32320bd75e",
+    "id": "1124357480546324602",
+    "name": "Train Station Renovation",
+    "publishers": [
+        {
+            "id": "1124353954864713748",
+            "name": "Live Motion Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "914010",
+            "sku": "914010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0332a4dcafc6812e20dd9b58c1034c8ebe3811b9fd7c247ccc2d06f2dc6ac75d"
+}

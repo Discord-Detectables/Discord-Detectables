@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neon chrome/neonchrome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0d7930c5f3a5975b37d6dd279c3196c",
+    "id": "1124359918384857128",
+    "name": "Neon Chrome",
+    "publishers": [
+        {
+            "id": "521816513561493525",
+            "name": "10tons Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "428750",
+            "sku": "428750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b746cf90abda9b2ea901d4ccf21774fa81d53d773fd833561d3e767c34f06962"
+}

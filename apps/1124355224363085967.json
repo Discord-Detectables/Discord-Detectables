@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "seekgirl/seekgirl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df6f160651de9df1e3f9345580467c38",
+    "id": "1124355224363085967",
+    "name": "Seek Girl",
+    "publishers": [
+        {
+            "id": "1124355224841244702",
+            "name": "DSGame"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "998930",
+            "sku": "998930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e1016dc4e70fd5f0637b17819069b0861f18bfbc79d066af563b7686ce604d58"
+}

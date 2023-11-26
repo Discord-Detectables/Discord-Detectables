@@ -1,0 +1,30 @@
+{
+    "description": "Napoleon: Total War follows Napoleon from the early Italian campaign, to the Battle of Waterloo, and beyond.",
+    "developers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "napoleon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "072d778729e34238b5426d6a610377a2",
+    "id": "457284624977100800",
+    "name": "Napoleon: Total War",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "85996c00c53213d3f8917331a998556fd91db4da1b95e51779ac01d58ef12d25"
+}

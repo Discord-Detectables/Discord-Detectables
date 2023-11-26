@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "until we die/until we die.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b4af393127659540b734b9500a9c7cac",
+    "id": "1124356973425602631",
+    "name": "Until We Die",
+    "publishers": [
+        {
+            "id": "1124356973899567114",
+            "name": "Pixeye Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1197570",
+            "sku": "1197570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fe8389914cb853a8eb81ca3a6ad5f36e3d158a03a9154fb9f4a1eade55e47b26"
+}

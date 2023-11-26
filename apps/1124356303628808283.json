@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blightbound/blightbound.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a9b83ee647ea22d9cf9702faf1025fd9",
+    "id": "1124356303628808283",
+    "name": "Blightbound",
+    "publishers": [
+        {
+            "id": "521816503960600576",
+            "name": "Ronimo Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1263070",
+            "sku": "1263070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7ff6cc68b65ee11977dc87c8281347572cff3a85c4ddf1cec039a91e4b9beb6"
+}

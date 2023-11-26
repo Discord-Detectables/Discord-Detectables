@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kindergarten 2/kindergarten2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "26b81112805616009ca0f699b8a79700",
+    "id": "1124353156659294299",
+    "name": "Kindergarten 2",
+    "publishers": [
+        {
+            "id": "1124352288715198554",
+            "name": "Con Man Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1067850",
+            "sku": "1067850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3d88f6cbf1890d5be7a4a1a7f57290ccd655a50ae0406f406af56f5f0666b06b"
+}

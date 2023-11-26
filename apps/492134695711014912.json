@@ -1,0 +1,38 @@
+{
+    "description": "Yooka-Laylee is a spiritual successor to classic 3D platformers, such as Banjo Kazooie, from former RARE developers at Playtonic Games. Playtonic crowdsourced the game's funding through Kickstarter, achieving their goal within 40 minutes.",
+    "developers": [
+        {
+            "id": "521816702753701898",
+            "name": "Playtonic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yookalaylee64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7dc90618a4d754c33eaa5757e3d4887c",
+    "id": "492134695711014912",
+    "name": "Yooka-Laylee",
+    "publishers": [
+        {
+            "id": "521816571103019015",
+            "name": "Team17 Software Limited"
+        }
+    ],
+    "splash": "a67ab6724e15fdb3196f5653059d6b27",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "360830",
+            "sku": "360830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60121b8327b60840d203c123584190a1f48207ef34c1b6e7c91af8e6012cbcc2"
+}

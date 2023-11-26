@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "camping simulator the squad/camping_simulator_thesquad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9517505044697ec015b529bead6950fa",
+    "id": "1124354927993573476",
+    "name": "Camping Simulator: The Squad",
+    "publishers": [
+        {
+            "id": "1124353866310365285",
+            "name": "CubeCube Sports Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1562260",
+            "sku": "1562260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51fa6f0bcabf0332008b1ae990eb08eab5c8d8582f67773c6f056e64677d9497"
+}

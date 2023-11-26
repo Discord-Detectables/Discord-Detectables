@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Epic Games Launcher"
+    ],
+    "cover_image": "c1864b38910c209afd5bf6423b672022",
+    "description": "",
+    "developers": [
+        {
+            "id": "521816615457783818",
+            "name": "Epic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fortniteclient-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fortniteclient-mac-shipping.app",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "322850917248663552",
+    "hook": true,
+    "icon": "c1864b38910c209afd5bf6423b672022",
+    "id": "432980957394370572",
+    "name": "Fortnite",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816519332855821",
+            "name": "Epic Games, Inc."
+        },
+        {
+            "id": "521816615457783818",
+            "name": "Epic Games"
+        }
+    ],
+    "splash": "b82e4ce1bb3835f5adfd9a1e766844ae",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "epic",
+            "id": "Fortnite",
+            "sku": "Fortnite"
+        }
+    ],
+    "type": 1,
+    "verify_key": "08d636fce21be4d2a5eb4e907dd2cf42a75e2b35825ef9a97b1a171403c3237d"
+}

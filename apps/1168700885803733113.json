@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "game/sogame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6eedb3deeae5cd7d3acb19fdb0a66399",
+    "id": "1168700885803733113",
+    "name": "Stay Out",
+    "publishers": [
+        {
+            "id": "1168700887921852507",
+            "name": "Mobile Technologies LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1180380",
+            "sku": "1180380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e186b6a71ae2f09ad70bca2b951494649e687179b33f7a1d6af56304f9f1b175"
+}

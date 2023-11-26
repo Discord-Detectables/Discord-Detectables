@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bmibenchmark-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db942fa1eb964302fd6ce19782a16da3",
+    "id": "1124358811650637967",
+    "name": "Bright Memory Infinite Ray Tracing Benchmark",
+    "publishers": [
+        {
+            "id": "1124353020575105145",
+            "name": "FYQD-Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1409670",
+            "sku": "1409670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5889546d873e55c2f858c5b38e606e1b26beae2df283c6104ecaedd986f843d5"
+}

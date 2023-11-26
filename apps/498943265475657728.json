@@ -1,0 +1,38 @@
+{
+    "description": "A 'mountain simulator' from David O'Reilly.",
+    "developers": [
+        {
+            "id": "521816786321014822",
+            "name": "David O'Reilly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mountain.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ef674ca6c7ee5102b468839520294b18",
+    "id": "498943265475657728",
+    "name": "Mountain",
+    "publishers": [
+        {
+            "id": "521816745099395082",
+            "name": "Double Fine Presents"
+        }
+    ],
+    "splash": "9ad94882fc4a73f6eeea20d75708d9e1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "313340",
+            "sku": "313340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9d10753f6ed54050882f46a044df92566e79285765ccd2f5d1c57fe6bc32cf49"
+}

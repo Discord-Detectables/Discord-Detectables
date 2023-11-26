@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gc2twilightofthearnor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5911e38c5fae2c56f7444a0aa152a4fc",
+    "id": "488380884337295360",
+    "name": "Galactic Civilizations II: Ultimate Edition",
+    "publishers": [
+        {
+            "id": "521816531831750658",
+            "name": "Stardock Entertainment"
+        }
+    ],
+    "splash": "3144b187753e69221ff52580178071cf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "202200",
+            "sku": "202200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03b73d8dfcfadfb2e646aa865b7f66b10d6588ded3ca264e21981bebcb1ee229"
+}

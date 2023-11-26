@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "KARDS"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kards-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e7c88a1364f734fa3e522695967a9302",
+    "id": "1129504366387273758",
+    "name": "KARDS - The WWII Card Game",
+    "publishers": [
+        {
+            "id": "566230781400186900",
+            "name": "1939 Games"
+        },
+        {
+            "id": "566230781400186900",
+            "name": "1939 Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "544810",
+            "sku": "544810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5f1bdc0bf9e3cab5344dae7fb4047a10520036e70c59984d7d10bed8f2fd7333"
+}

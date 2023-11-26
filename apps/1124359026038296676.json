@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/waves.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b6034ffd95a8df72da3149e9c9918e5f",
+    "id": "1124359026038296676",
+    "name": "Waves",
+    "publishers": [
+        {
+            "id": "1124359026604523631",
+            "name": "Squid In A Box Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "107600",
+            "sku": "107600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0b038faeecc3d8d21dcce6a1e1011f62be0f602892bc8c874ef2346e82e02f84"
+}

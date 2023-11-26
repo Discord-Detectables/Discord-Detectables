@@ -1,0 +1,38 @@
+{
+    "description": "A critically acclaimed role-playing game developed by Black Isle Studios and Tim Cain in 1997, Fallout established itself as a prominent post-apocalyptic universe with a dark sense of humor.",
+    "developers": [
+        {
+            "id": "521816563456802817",
+            "name": "Black Isle Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "falloutw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e61f946aecd1f5d1948e60697cbf7d08",
+    "id": "372825995084038144",
+    "name": "Fallout",
+    "publishers": [
+        {
+            "id": "521816563024920612",
+            "name": "Interplay Entertainment Corp."
+        }
+    ],
+    "splash": "53550094790ca172ceac3a624c6fd3e7",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "38400",
+            "sku": "38400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "92060987d905bbb1609352ae0ff2f1fe99d5ef943da1b11b71d911abe9c46097"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Friday the 13th"
+    ],
+    "description": "Take control of classic horror icon Jason Voorhees and stalk up to seven other players (as camp counselors trying to survive the night) in this asymmetrical-multiplayer survival horror game.",
+    "developers": [
+        {
+            "id": "521816560051159041",
+            "name": "Illfonic"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "summercamp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2a654eea2d72d75904e892e5a9b36c6f",
+    "id": "363414482615271434",
+    "name": "Friday the 13th: The Game",
+    "publishers": [
+        {
+            "id": "521816560051159040",
+            "name": "Gun Media"
+        }
+    ],
+    "splash": "05b69cd265bcd3b483d78329c6a38527",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "438740",
+            "sku": "438740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "946956ce6cb8941411f52fd8d50313d3a894a4b6cc1096f238d3085fbd67be8c"
+}

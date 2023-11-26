@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "p4u2/p4u2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c60655558cd4a55c5c8c05342158823c",
+    "id": "1124353884735946842",
+    "name": "Persona 4 Arena Ultimax",
+    "publishers": [
+        {
+            "id": "521816599095934983",
+            "name": "Arc System Works"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1602010",
+            "sku": "1602010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a57587d53e78885754928769baab5403eafe635fffc75a4f8f6a340d06476103"
+}

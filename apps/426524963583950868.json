@@ -1,0 +1,38 @@
+{
+    "description": "The sequel to Amplitude Studio's 4X Space Strategy game Endless Space, featuring new factions and in depth political system.",
+    "developers": [
+        {
+            "id": "521816527343845459",
+            "name": "Amplitude Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "endlessspace2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "227126593754103810",
+    "hook": true,
+    "icon": "8c5e5ef46b04c7302093151e203e8644",
+    "id": "426524963583950868",
+    "name": "Endless Space 2",
+    "publishers": [
+        {
+            "id": "521816527343845450",
+            "name": "AMPLITUDE Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "392110",
+            "sku": "392110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ec31d4d382d794d6953101246e71de800f6eb64bd71024513b57428513505bd"
+}

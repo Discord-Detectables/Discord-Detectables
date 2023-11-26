@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadrealm/deadrealm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0bcf8d031209060f42cd54927810c55a",
+    "id": "1124355330982293595",
+    "name": "Dead Realm",
+    "publishers": [
+        {
+            "id": "524352337905451008",
+            "name": "Section Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "352460",
+            "sku": "352460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2bb0419abb3ca84c4a4b68554218397f82abf77baa17d31e876a215a08027649"
+}

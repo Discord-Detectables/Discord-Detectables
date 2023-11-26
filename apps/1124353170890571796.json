@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "caves of qud/coq.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa6cbaa32f181b59c4d8d098e2a71d08",
+    "id": "1124353170890571796",
+    "name": "Caves of Qud",
+    "publishers": [
+        {
+            "id": "524352379303362584",
+            "name": "Freehold Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "333640",
+            "sku": "333640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2978b9b7b2b5d004b44ecc615bdcf5d616a337a02f3908be0b16405b4698fd9d"
+}

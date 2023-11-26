@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amazingcultivationsimulator/amazing cultivation simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "11a8a2f15e8a8aaacc1b7dd8703a9af7",
+    "id": "1124355125281050716",
+    "name": "Amazing Cultivation Simulator",
+    "publishers": [
+        {
+            "id": "1124355125734031460",
+            "name": "GSQ Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "955900",
+            "sku": "955900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "864236c521dc1efe2d509b79bd0c015f850d5087a8e67f94794325f984790a52"
+}

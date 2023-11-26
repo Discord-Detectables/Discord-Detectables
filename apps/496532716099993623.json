@@ -1,0 +1,50 @@
+{
+    "description": "A first-person exploration/puzzle game set within a boldly-colored world with a focus on non-euclidean geometry and optical illusions.",
+    "developers": [
+        {
+            "id": "521816519332855822",
+            "name": "Demruth"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "antichamber/binaries/win32/udk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd21a2e4c95a5355c861dd4d1b9bfd64",
+    "id": "496532716099993623",
+    "name": "Antichamber",
+    "publishers": [
+        {
+            "id": "521816519332855820",
+            "name": "Alexander Bruce"
+        },
+        {
+            "id": "521816519332855821",
+            "name": "Epic Games, Inc."
+        },
+        {
+            "id": "521816519332855822",
+            "name": "Demruth"
+        },
+        {
+            "id": "521816519768932352",
+            "name": "R.G. Mechanics, spider91"
+        }
+    ],
+    "splash": "50b91b24eb2d54071bc0f30645dd3375",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "219890",
+            "sku": "219890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "558c0830baabb9dddc8be4da29e7304050e992c423a0f261d62e771e8bc7b216"
+}

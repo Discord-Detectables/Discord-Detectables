@@ -1,0 +1,40 @@
+{
+    "description": "War Thunder is a free-to-play air combat game set in the World War II and Korean War eras. Naval and land battles are planned additions.",
+    "developers": [
+        {
+            "id": "521816505688522752",
+            "name": "Gaijin Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aces.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b23dfa191e3f3aa8142572110a99723f",
+    "id": "357607478105604096",
+    "name": "War Thunder",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816505688522752",
+            "name": "Gaijin Entertainment"
+        }
+    ],
+    "splash": "04d71799c6c65c202262a7335f039264",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "236390",
+            "sku": "236390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ed5af666992678458c1f7e0984ba8c42317ae667220e8332854d7b44f384cd4e"
+}

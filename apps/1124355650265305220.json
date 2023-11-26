@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "achat/achat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "78cca5a4b9c12ccc69e63a5649f36cf9",
+    "id": "1124355650265305220",
+    "name": "AChat",
+    "publishers": [
+        {
+            "id": "1124355650793783316",
+            "name": "AChat Animation Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1245610",
+            "sku": "1245610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f16fcaf9d5255b59d5b69da7a4540f4a9b3ad59999e26d0c3b8861f650a720db"
+}

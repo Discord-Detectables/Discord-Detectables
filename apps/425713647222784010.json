@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Dreamfall Chapters"
+    ],
+    "description": "The episodic sequel to Dreamfall: The Longest Journey.",
+    "developers": [
+        {
+            "id": "521816542258790407",
+            "name": "Red Thread Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dreamfall chapters.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2db78adf4849c711247d15d0587c089c",
+    "id": "425713647222784010",
+    "name": "Dreamfall Chapters: The Longest Journey",
+    "publishers": [
+        {
+            "id": "521816542258790405",
+            "name": "Funcom Productions A/S"
+        }
+    ],
+    "splash": "d995e53a84ce7c491acd9cd1de51ae05",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237850",
+            "sku": "237850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6f5ddb983f0e5bb71334b0e83c21c0396404286485ea8d5c3947a78baafba81e"
+}

@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Zula Europe"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "game/zula.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d133ff10a27706557e3d073aa0dfdb72",
+    "id": "1163888866550366310",
+    "name": "Zula",
+    "publishers": [
+        {
+            "id": "521816709490016258",
+            "name": "Madbyte Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "513650",
+            "sku": "513650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73b567e18baba6679fc6e507923165f5d27a33bc9c8e9c76cc6db931d0053177"
+}

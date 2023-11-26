@@ -1,0 +1,30 @@
+{
+    "description": "The first game in the Halo series of sci-fi first-person shooters. Halo: Combat Evolved is considered largely responsible for pioneering console shooters.",
+    "developers": [
+        {
+            "id": "521816529453449247",
+            "name": "Bungie"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "haloce.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "33bcd098a7df21c40aafe4ee563a665b",
+    "id": "496775885249314885",
+    "name": "Halo Custom Edition",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "ddaacb4ce7141cf7fa5504fca1224e42caafdb5aaca4600b13ec6eb322e4b37a"
+}

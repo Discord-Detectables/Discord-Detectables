@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/tabletopplayground-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "adc5b2c8bdcbfcb51e89a7dd8d6a77bd",
+    "id": "1124359175980462181",
+    "name": "Tabletop Playground",
+    "publishers": [
+        {
+            "id": "1124359176446038016",
+            "name": "Plasticity Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "838410",
+            "sku": "838410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74d501081c0f1bbaf377196a0c3b32b32d40aef8af6a5b083eb5f3224d08c52b"
+}

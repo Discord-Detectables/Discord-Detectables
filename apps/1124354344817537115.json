@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sow1 project/symphonyofwar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1f5306263d5db1169a3bbfa50aa446c",
+    "id": "1124354344817537115",
+    "name": "Symphony of War: The Nephilim Saga",
+    "publishers": [
+        {
+            "id": "1124354345283113030",
+            "name": "Dancing Dragon Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1488200",
+            "sku": "1488200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1ccefbb63fa3d46e51656cfef7e989817497b4213154e654647d9c05996077a4"
+}

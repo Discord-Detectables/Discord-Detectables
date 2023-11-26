@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "resident evil 7 biohazard demo/re7trial.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cca27b0caaa68ba1817bd250684bcb34",
+    "id": "1124353293301330070",
+    "name": "Resident Evil 7 Teaser: Beginning Hour",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "530620",
+            "sku": "530620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "90ed3b1a7f95dbdd24166d87356a3d0e79c0b53acab778fde095f285b613bf27"
+}

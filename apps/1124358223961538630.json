@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x invader prologue/x invader.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a23578ce1bf4e7b6f7bbc33a2538b51c",
+    "id": "1124358223961538630",
+    "name": "X Invader: Prologue",
+    "publishers": [
+        {
+            "id": "1124358224464851045",
+            "name": "ALLAF GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2214500",
+            "sku": "2214500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4fa71761aa9ea18c6c758531505fd8299349e93b0445a70c149db46184cc3233"
+}

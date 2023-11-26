@@ -1,0 +1,38 @@
+{
+    "description": "The Sword of Asumi is a visual novel developed by AJTilley.",
+    "developers": [
+        {
+            "id": "521816673855209493",
+            "name": "AJTilley.com"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sword of asumi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "330d56229917d02d729c1d847c1089e3",
+    "id": "504057095109214247",
+    "name": "Sword of Asumi",
+    "publishers": [
+        {
+            "id": "521816673855209492",
+            "name": "Dharker Studio"
+        }
+    ],
+    "splash": "778150781df7a90d3ac44289f0c6c3dc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "326950",
+            "sku": "326950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "47f90fc44c68b2a9dc5dd949583a7bd9abc9db2dd4f352061e11a7d2fc51046d"
+}

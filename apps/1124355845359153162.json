@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/thematriarch-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b8d2d5ab7d0033c9996680ae7dd637f4",
+    "id": "1124355845359153162",
+    "name": "The Matriarch",
+    "publishers": [
+        {
+            "id": "1124355845866672220",
+            "name": "Chewa"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1773180",
+            "sku": "1773180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7030b48a32df0cc20123ec9adca8519edbde90630ca9d522508376de0f2e1aef"
+}

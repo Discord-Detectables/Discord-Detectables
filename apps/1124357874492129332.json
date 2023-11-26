@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the crooked man/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c812b1e2afeaa1e34f8e85ee5f1a09ee",
+    "id": "1124357874492129332",
+    "name": "The Crooked Man",
+    "publishers": [
+        {
+            "id": "524352893734617088",
+            "name": "Uri Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "736570",
+            "sku": "736570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ee315d548ec29a189c623f75603a4328d153d022124c777915d60c5431500aad"
+}

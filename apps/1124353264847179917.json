@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/towergame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "81fc78a07938f30b091740f086119956",
+    "id": "1124353264847179917",
+    "name": "Cloud Climber",
+    "publishers": [
+        {
+            "id": "1124352552692101201",
+            "name": "Two Star Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1509820",
+            "sku": "1509820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e3bed94a2da1fa211faf76f1eefa1f79c3a2cfe26c9dab5a56bf4e0237eb07b"
+}

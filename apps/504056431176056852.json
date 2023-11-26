@@ -1,0 +1,32 @@
+{
+    "description": "SURV1V3",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "survive-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae7d3e0737ccd8adde0e67de9819cfc9",
+    "id": "504056431176056852",
+    "name": "SURV1V3",
+    "publishers": [
+        {
+            "id": "521816700715401236",
+            "name": "Candymakers"
+        }
+    ],
+    "splash": "440e00568dd29605f84b4b323ca3456c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "722180",
+            "sku": "722180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0989393cba931989178456cb4d8c25afe301792ab6f349fdf7b215b96e6601ed"
+}

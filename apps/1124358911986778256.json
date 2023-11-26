@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the house of the dead remake/the house of the dead remake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "69ff5049ad376d061575c48125d75485",
+    "id": "1124358911986778256",
+    "name": "THE HOUSE OF THE DEAD: Remake",
+    "publishers": [
+        {
+            "id": "1124358912477507743",
+            "name": "MegaPixel Studio S. A."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1694600",
+            "sku": "1694600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5853f5f88b33e503c26ee8c0077f2d7a6830d812875492b20c4e8a770711d59c"
+}

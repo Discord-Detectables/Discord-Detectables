@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dreams of desire definitive edition/dreamsofdesire.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "36de823bf9146bda04adb43a4f44b992",
+    "id": "1124356166881918976",
+    "name": "Dreams of Desire: Definitive Edition",
+    "publishers": [
+        {
+            "id": "1124356167322316832",
+            "name": "Lewdlab"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1639990",
+            "sku": "1639990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77df47bd7a49751505d107227e789eb94d03821f22d7dd05dbd53733b07c8fdd"
+}

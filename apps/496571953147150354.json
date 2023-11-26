@@ -1,0 +1,30 @@
+{
+    "description": "An isometric strategy RPG that takes place in and below the town of Tristram. Gothic fantasy weapons and spells are used to defeat hordes of monsters from hell through randomized dungeon levels, continuously gaining experience points, gold, and a variety of equipment to bolster the hero's monster-killing potency along the way.",
+    "developers": [
+        {
+            "id": "521816523430428673",
+            "name": "Blizzard Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "diablo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5530ebdc735e5ea2069458102d23b94d",
+    "id": "496571953147150354",
+    "name": "Diablo",
+    "publishers": [
+        {
+            "id": "521816523430428673",
+            "name": "Blizzard Entertainment"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "3823a3f093a75f0b223179cf9feaad0b3338bece6b13585dc53273013d2c436a"
+}

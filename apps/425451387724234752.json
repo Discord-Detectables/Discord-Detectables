@@ -1,0 +1,38 @@
+{
+    "description": "The third installment of ASCARON's Sacred franchise, now owned by Deep Silver. It was first shown to the public at PAX Prime 2012.",
+    "developers": [
+        {
+            "id": "521816633392627714",
+            "name": "Keen Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sacred3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "10f94b9f9c25c5e73b1d758ebc1ed036",
+    "id": "425451387724234752",
+    "name": "Sacred 3",
+    "publishers": [
+        {
+            "id": "521816524403638274",
+            "name": "Deep Silver"
+        }
+    ],
+    "splash": "73c052e407f0163de5b3faee707893fe",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "247950",
+            "sku": "247950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "50597d886d1367a2a264db0fbd4c397565545ea2c6aafea03175e8cefe2b65be"
+}

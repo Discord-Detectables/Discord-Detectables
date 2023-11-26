@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/shepherdoflight-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7dff52c2e5f0b423b8699b4f73ee4dd4",
+    "id": "1124358842508136570",
+    "name": "Shepherd of Light",
+    "publishers": [
+        {
+            "id": "1124358842969505812",
+            "name": "Bad Seahorse"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1106770",
+            "sku": "1106770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7f8a07c3ef79aed36e3e02ae51657014c661a632122ce66af66d0a00c3e35556"
+}

@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spacehulkgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a576dfaf2db5b5c49397aa504b587724",
+    "id": "459764260935958538",
+    "name": "Space Hulk: Deathwing - Enhanced Edition",
+    "publishers": [
+        {
+            "id": "521816672248791063",
+            "name": "Streum On Studio"
+        }
+    ],
+    "splash": "b18111e09ffa76f5edb78a197315b23f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "816090",
+            "sku": "816090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "761a0084ec9eaac81bb33ec69dde322bab33624bcc4ca7c8be79c81406aaa0a5"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coma/bad dream coma.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "63a198bdc4ee087333dc24654e065b21",
+    "id": "1124356735176552598",
+    "name": "Bad Dream: Coma",
+    "publishers": [
+        {
+            "id": "1124356735646322858",
+            "name": "Desert Fox"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "538070",
+            "sku": "538070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6dbc70361bfab6d8c424237f36d9f8bacd1ab37a2dd8b35a213e496c56f28c8e"
+}

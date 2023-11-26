@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sprout/sprout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4726fe44bf6e1c496cf424fb668a8ecf",
+    "id": "1124359166602002442",
+    "name": "Sprout",
+    "publishers": [
+        {
+            "id": "524352960311066624",
+            "name": "Jeff Nusz"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "758530",
+            "sku": "758530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be34fccc95f6033a2700b153ef6e033b86dc51ebdb373e72f43e928ff5f42b16"
+}

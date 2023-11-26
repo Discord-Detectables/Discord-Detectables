@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "escape the ayuwoki/escape the ayuwoki.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2ae3bad0a902676e8452a24e222399b",
+    "id": "1124354471728791562",
+    "name": "Escape the Ayuwoki",
+    "publishers": [
+        {
+            "id": "1124354472202743880",
+            "name": "Deadlycrow Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1177660",
+            "sku": "1177660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad868b6ac980797f731efac48f38e1205811274104329ddc72f5939fad44c287"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tokyo xanadu ex+/tokyoxanadu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9781b1c8b00277c9ec11609cf8f31094",
+    "id": "1124357122935771267",
+    "name": "Tokyo Xanadu eX+",
+    "publishers": [
+        {
+            "id": "521816761516163072",
+            "name": "Nihon Falcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587260",
+            "sku": "587260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8e37641f4b364baba09a63a7c059c17161cc104fb153de6e0ea27dee9ab6b176"
+}

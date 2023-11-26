@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beneath the surface/beneath the surface.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d162ee11a20e3c011c0dcda98eaa7839",
+    "id": "1138592962452918272",
+    "name": "Beneath the Surface",
+    "publishers": [
+        {
+            "id": "1138592963778314371",
+            "name": "carla51"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "792050",
+            "sku": "792050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3806e5a18d0c524e864387743190605c7abe9bb4e6721bd272c9521af501058b"
+}

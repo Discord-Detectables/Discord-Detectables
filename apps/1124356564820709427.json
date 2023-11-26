@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/breathe-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "502571133333bbc2c3eaafc07f846f3b",
+    "id": "1124356564820709427",
+    "name": "BREATHE",
+    "publishers": [
+        {
+            "id": "524352773563875342",
+            "name": "dotBunny"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "799860",
+            "sku": "799860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d883d7750dc5d03c2edea282dfbb92bcd16fdbef0852a4203eeb0d3882b22d3e"
+}

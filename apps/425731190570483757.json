@@ -1,0 +1,37 @@
+{
+    "description": "Delta Force: Black Hawk Down is a first-person shoooter developed and published by Novalogic, based on the same events portrayed in the novel and film \"Black Hawk Down\".",
+    "developers": [
+        {
+            "id": "521816672248791067",
+            "name": "NovaLogic, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "delta force black hawk down/dfbhd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c205bd3b6f9307c8bf2ad616cf8b5f8a",
+    "id": "425731190570483757",
+    "name": "Delta Force: Black Hawk Down",
+    "publishers": [
+        {
+            "id": "521816672248791067",
+            "name": "NovaLogic, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "32670",
+            "sku": "32670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a455cdfd79ab68099a8d514d9bf3ac107bb76c67f804a32a1b798cbb0d78fd25"
+}

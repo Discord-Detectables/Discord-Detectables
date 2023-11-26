@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pine/pine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e08daf652edd6dbce7c71c4a64542597",
+    "id": "1124357233438904360",
+    "name": "Pine",
+    "publishers": [
+        {
+            "id": "524352718723088396",
+            "name": "Twirlbound"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1042780",
+            "sku": "1042780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "681b6a0695eb17e40947f577162c25854d2e7e8e1a3d24e83773fee90bf94509"
+}

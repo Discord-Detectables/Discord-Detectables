@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gamemaker studio 2 desktop/gamemakerstudio.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6a26ea5854a7e1e318aae90dddeed47",
+    "id": "1129505137157754931",
+    "name": "GameMaker Studio 2 Desktop",
+    "publishers": [
+        {
+            "id": "1124355147280162847",
+            "name": "YoYo Games Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "585410",
+            "sku": "585410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "168570767e9c65750294ac5f7a2ca83908afce1c2bff4deb72ff0413dc2ef24f"
+}

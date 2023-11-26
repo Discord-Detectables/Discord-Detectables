@@ -1,0 +1,38 @@
+{
+    "description": "A horror action-RPG developed by Dontnod Entertainment. In Vampyr the player takes control of a vampiric doctor in the time period following World War I.",
+    "developers": [
+        {
+            "id": "521816549057626131",
+            "name": "DONTNOD Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "avgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c81a12f4c35d80c9ad334e063a7c0268",
+    "id": "454123972343365652",
+    "name": "Vampyr",
+    "publishers": [
+        {
+            "id": "521816537192202247",
+            "name": "Focus Home Interactive"
+        }
+    ],
+    "splash": "05fd7b8bde2b0481ed70f9c82e921b73",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "427290",
+            "sku": "427290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "de2ad3c9db360eb9ec7404e7b06a0cf3f55d2d6d7eb9f56e2456283b288ee5ee"
+}

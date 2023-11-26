@@ -1,0 +1,32 @@
+{
+    "description": "Hand Simulator",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hand simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "73512cc3fee923d0e4c4e2c15843ce7f",
+    "id": "418232964783144980",
+    "name": "Hand Simulator",
+    "publishers": [
+        {
+            "id": "521816572994519040",
+            "name": "HFM Games"
+        }
+    ],
+    "splash": "2f2762f1b1b20f9c62c63571a55312b4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "657200",
+            "sku": "657200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a29c110a1614a66223ebb411f624684d0b6963256bfd2eb56420a85fa1ddfaee"
+}

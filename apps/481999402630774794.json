@@ -1,0 +1,38 @@
+{
+    "description": "A fast paced 8-bit game where you shower with your dad.",
+    "developers": [
+        {
+            "id": "521816523954978819",
+            "name": "Marbenx "
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "showerdad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "44aa404e52146f1b1c57143e3a1f7715",
+    "id": "481999402630774794",
+    "name": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+    "publishers": [
+        {
+            "id": "521816523954978818",
+            "name": "marbenx"
+        }
+    ],
+    "splash": "1d8faacac18e0e5ff677c08b2081fcc9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "359050",
+            "sku": "359050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "64abe8672999c913585fdf4e73c6e7e424ea9f96043d1261dad942d53bb1d65f"
+}

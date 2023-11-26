@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/srs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd9e5a77c7b1780189f78d571e9b0566",
+    "id": "1124355508195835904",
+    "name": "Street Racing Syndicate",
+    "publishers": [
+        {
+            "id": "1124355508644622356",
+            "name": "Eutechnyx"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "292410",
+            "sku": "292410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7220378b8a16762c23c1fd23a2820971ad92de117c43d94f4501c50bae0d2af1"
+}

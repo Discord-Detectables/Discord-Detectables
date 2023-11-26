@@ -1,0 +1,32 @@
+{
+    "description": "Mirror",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mirror/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "99f83c43c67fd44bbd0fe7850cbab4f8",
+    "id": "451552550446170113",
+    "name": "Mirror",
+    "publishers": [
+        {
+            "id": "521816730650017802",
+            "name": "SakuraGame"
+        }
+    ],
+    "splash": "dee520291bfec8df06b2d1a2d2f8a5a9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "644560",
+            "sku": "644560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fafa8d9d5d37d60623f384adad543208310dba092c36edbcd20ee9b244bfe9c1"
+}

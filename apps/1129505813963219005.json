@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/vicecity.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "63c962732f0b4d369ede5cc4b4f83192",
+    "id": "1129505813963219005",
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "publishers": [
+        {
+            "id": "521816560537567257",
+            "name": "Rockstar Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1546990",
+            "sku": "1546990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aca7155b21dd7c13ccb0dd0fa76b32f77ff90dae9b9c2c5fc79e48024f8b8f52"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "VTuber Maker"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vtuber maker/vtuber maker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dcb0227630b0918d2c80870b28de569c",
+    "id": "1129504273588310097",
+    "name": "VTuber Maker",
+    "publishers": [
+        {
+            "id": "1124352337331376149",
+            "name": "Live3D"
+        },
+        {
+            "id": "1129504276713062442",
+            "name": "ZingFront"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1368950",
+            "sku": "1368950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ae6d0f00d214ab15849234e78443524197afec6491f73943babf2bdfce2ff0f8"
+}

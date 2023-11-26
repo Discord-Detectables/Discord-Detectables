@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "king of the castle/kingofthecastle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b962d4065195808ff4a7b13955e23e41",
+    "id": "1124356555958140928",
+    "name": "King Of The Castle",
+    "publishers": [
+        {
+            "id": "1124356556453064764",
+            "name": "Tributary Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1839880",
+            "sku": "1839880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a27e117879264703e272fd13f578b6ae35e0326ba1db17d7357cf1cbad9d5967"
+}

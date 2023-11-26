@@ -1,0 +1,43 @@
+{
+    "description": "Peggle Extreme is the shorter version of Peggle which was created specially for the Orange Box's release. Players must aim to get the highest score they can and clear a level of \"pegs\" in the hopes of advancing to the next stage.",
+    "developers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "peggleextreme.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "peggleextreme/popcapgame1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "574b1222a17532e12bb460fe1dd92124",
+    "id": "498980339470041123",
+    "name": "Peggle Extreme",
+    "publishers": [
+        {
+            "id": "521816596633747478",
+            "name": "PopCap Games, Inc."
+        }
+    ],
+    "splash": "49cfc4382df2609fdafe5fdc62a00a19",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "3483",
+            "sku": "3483"
+        }
+    ],
+    "type": 1,
+    "verify_key": "892332a55e7cc68c74995d18d7ea182131528934a1c4d9815f9aff82ead1b9f1"
+}

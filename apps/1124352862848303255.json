@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/lightbearers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e650808983209cccd2e05c373d50e7d3",
+    "id": "1124352862848303255",
+    "name": "Light Bearers",
+    "publishers": [
+        {
+            "id": "1124352863355809843",
+            "name": "FAT BOMB STUDIOS, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "765710",
+            "sku": "765710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb8322b5a86db82b246ecb1be44290138a9af824bea5483f3f969a87521de43e"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/helloguest-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40bc7a5279b1a38ea8663310162f1656",
+    "id": "1124354265184489552",
+    "name": "Hello Guest: Hello Neighbor 2 pre-alpha",
+    "publishers": [
+        {
+            "id": "1124354265687801898",
+            "name": "Eerie Guest"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1504150",
+            "sku": "1504150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "167bdd4c487278f9ab3b0a5d6c2b2e2c147c54b080e69ab6fff7281757730898"
+}

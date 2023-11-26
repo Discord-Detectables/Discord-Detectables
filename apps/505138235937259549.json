@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Hyperdimension Neptunia Re;Birth2"
+    ],
+    "description": "A remake of Hyperdimension Neptunia mk2 for the Vita, with new features, content and a revised cast of characters.",
+    "developers": [
+        {
+            "id": "521816535304503322",
+            "name": "Felistella"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neptuniarebirth2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd638309a02b6f0777b5128e6c2f92af",
+    "id": "505138235937259549",
+    "name": "Hyperdimension Neptunia Re;Birth2 Sisters Generation",
+    "publishers": [
+        {
+            "id": "521816535304503320",
+            "name": "Compile Heart, Inc."
+        }
+    ],
+    "splash": "d4a41339b665b5137557a0e173e8b0ac",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "351710",
+            "sku": "351710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e6abda4c945e5d098ab1c9b432b756a8524527be7978558b08a437eb696c13cd"
+}

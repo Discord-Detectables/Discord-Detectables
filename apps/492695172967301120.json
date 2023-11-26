@@ -1,0 +1,38 @@
+{
+    "description": "Travel across Europe in a variety of trucks, picking up and delivering cargo in SCS Software's latest game.",
+    "developers": [
+        {
+            "id": "521816662261891072",
+            "name": "SCS Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eurotrucks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e7196942c7d47b6b21da1c404bcf6e0e",
+    "id": "492695172967301120",
+    "name": "Euro Truck Simulator",
+    "publishers": [
+        {
+            "id": "521816556175491083",
+            "name": "rondomedia Marketing & Vertriebs GmbH"
+        }
+    ],
+    "splash": "202be5ab3de8e2090d2b8dbf6e26a6af",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "232010",
+            "sku": "232010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9533ac6ee970bced1f891443d420cfb992d006c7516d6b8b2883578fee9f8641"
+}

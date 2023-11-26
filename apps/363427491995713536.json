@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Bloons TD Battles"
+    ],
+    "cover_image": "cef0c4fce7b5fd37c59f847f17d7f78e",
+    "description": "Go head to head with other players in a Bloon-popping battle for victory. From the creators of best-selling Bloons TD 5, this all new Battles game is specially designed for multiplayer combat, featuring the ability to control Bloons directly and send them charging past your opponent's defenses.",
+    "developers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battles-win.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bloons td battles/battles-win.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cef0c4fce7b5fd37c59f847f17d7f78e",
+    "id": "363427491995713536",
+    "name": "Bloons TD Battles",
+    "privacy_policy_url": "https://ninjakiwi.com/privacy",
+    "publishers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "splash": "9006d618e5cf97f6249be44e2941b3b8",
+    "summary": "",
+    "terms_of_service_url": "https://ninjakiwi.com/terms",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": null,
+            "sku": null
+        },
+        {
+            "distributor": "steam",
+            "id": "444640",
+            "sku": "444640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e22266bba1b4ab5927f8424764508f65d823924a7613381fe9befbc842b2d6b"
+}

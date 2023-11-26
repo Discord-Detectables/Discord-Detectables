@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Need for Speed™ Payback"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "need for speed payback/needforspeedpayback.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a88cf6e3ea76e9b7b25351acc78e91b6",
+    "id": "1162173790449569822",
+    "name": "Need for Speed™ Payback",
+    "publishers": [
+        {
+            "id": "542075586886107157",
+            "name": "Electronic Arts, Inc."
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "5468cddb24c94deedf98f57549717dd0ffc4cb81e615f19d58e3ab405bd0d962"
+}

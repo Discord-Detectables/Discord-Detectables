@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lara croft go/lara croft go.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3cbefdbc700ff28ec435e5a603eafe56",
+    "id": "1124356613734674532",
+    "name": "Lara Croft GO",
+    "publishers": [
+        {
+            "id": "1124356614237999185",
+            "name": "Square Enix Montréal"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "540840",
+            "sku": "540840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e4994080a915de6b9bba7d0b30fb8ce968bc90b8b914b19939e618ac0b570cd0"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "broken reality/brokenreality.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a3d6103db12baff9cb704ce418a6dd74",
+    "id": "1124359630995345438",
+    "name": "Broken Reality",
+    "publishers": [
+        {
+            "id": "1124359631486074890",
+            "name": "Dynamic Media Triad"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "757480",
+            "sku": "757480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f743ea7e33fd30e43db9c6efff16ad92be198034a50c518689ea9c8cd8293e99"
+}

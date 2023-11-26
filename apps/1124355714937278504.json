@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "oh my god, look at this knight/oh_my_god__look_at_this_knight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "700ab4b3a9ac343e6a90cdf1d64ac90a",
+    "id": "1124355714937278504",
+    "name": "OH MY GOD, LOOK AT THIS KNIGHT",
+    "publishers": [
+        {
+            "id": "1124355715402842142",
+            "name": "Foxoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "781440",
+            "sku": "781440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "588eee3dfe85e1be61964970731295cf445f01c5f3b5341915f0555b85322bb0"
+}

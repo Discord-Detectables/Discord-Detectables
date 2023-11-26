@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the gardens between/thegardensbetween.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "238f787ce999c69cf5ed18441feae4ec",
+    "id": "1124358802716766298",
+    "name": "The Gardens Between",
+    "publishers": [
+        {
+            "id": "524352163518873624",
+            "name": "The Voxel Agents"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "600990",
+            "sku": "600990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2a6f423a24f4c80e2db2d59ca3f456c8858b0b05a15adfea8ca4f862dbedabb6"
+}

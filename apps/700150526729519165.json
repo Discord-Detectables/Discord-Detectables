@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "Age of Empires: Definitive Edition"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aoede/aoede_s.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "aoede_s.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "700150526729519165",
+    "name": "Age of Empires: Definitive Edition",
+    "publishers": [
+        {
+            "id": "700150527622643742",
+            "name": "Forgotten Empires"
+        },
+        {
+            "id": "700150527622643742",
+            "name": "Forgotten Empires"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1017900",
+            "sku": "1017900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77055e5eb29bf413f1abcbbdcd6004de6bf507efce7354bac86f8b04aec35b08"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "prehistoric kingdom demo/prehistoric kingdom.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aad2d935b9cebfef0bd6bf8a4aaeb844",
+    "id": "1129505593099558942",
+    "name": "Prehistoric Kingdom Demo",
+    "publishers": [
+        {
+            "id": "1129505594148147251",
+            "name": "Shadow Raven Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "666180",
+            "sku": "666180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8da176a2999cdab9343db073f3346ef1d6dc31ffbdee83bd9943a14a9987b015"
+}

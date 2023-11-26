@@ -1,0 +1,54 @@
+{
+    "aliases": [
+        "Craftopia",
+        "Craftopia / クラフトピア",
+        "Craftopia / 始世樂土"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "craftopia/craftopia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd675bff530e670d548d8a71680d5136",
+    "id": "1129504382485012522",
+    "name": "Craftopia",
+    "publishers": [
+        {
+            "id": "1124358748438278236",
+            "name": "POCKET PAIR, Inc."
+        },
+        {
+            "id": "1124354364736295064",
+            "name": "Pocketpair"
+        },
+        {
+            "id": "1124358748438278236",
+            "name": "POCKET PAIR, Inc."
+        },
+        {
+            "id": "1124354364736295064",
+            "name": "Pocketpair"
+        },
+        {
+            "id": "1124354364736295064",
+            "name": "Pocketpair"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1307550",
+            "sku": "1307550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "34e336048a868b15d42ddae4b6432c465ffc965641f9669a60c8fa7e9e08ac1d"
+}

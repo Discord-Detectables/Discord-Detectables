@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star wars starfighter/starfighter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a90648075d52627e31cda215d1803399",
+    "id": "1124359509255663698",
+    "name": "STAR WARS™ Starfighter™",
+    "publishers": [
+        {
+            "id": "521816522977574924",
+            "name": "LucasArts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "32350",
+            "sku": "32350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f73db8d491e78ee8c843c96988339ffc7c75db9d2871c308774a29cee8db62e9"
+}

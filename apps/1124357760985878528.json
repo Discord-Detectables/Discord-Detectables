@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wrestling empire/wrestling empire.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1e2d30f325b8ae1281527151590488f",
+    "id": "1124357760985878528",
+    "name": "Wrestling Empire",
+    "publishers": [
+        {
+            "id": "524352454221889566",
+            "name": "MDickie"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1620340",
+            "sku": "1620340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "285a6e8cbc3a3abe9512131d2394edc1c9d5479401b1b63eeb5ecdcd47e22c3c"
+}

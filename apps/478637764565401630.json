@@ -1,0 +1,45 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": true,
+    "cover_image": "2d9e11d27028a681e8894ef03f7fbe24",
+    "description": "Last Year is a 5 vs 1 multiplayer asymmetrical action game where 5 players play as a group of teenagers, such as the Jock, the Nerd, or the Popular Girl, and must survive against the one player that is playing as the Killer. Sound familiar? Not so fast. Every time the Killer dies they come back as a new Killer, with different abilities, and the Survivors must adapt and work together if they want to escape with their lives. ",
+    "developers": [
+        {
+            "id": "521816650304061470",
+            "name": "Elastic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lastyear-win64-shippinggame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "425383353739509771",
+    "hook": true,
+    "icon": "2d9e11d27028a681e8894ef03f7fbe24",
+    "id": "478637764565401630",
+    "name": "Last Year: The Nightmare",
+    "overlay": true,
+    "primary_sku_id": "489576163438624769",
+    "publishers": [
+        {
+            "id": "521816650304061470",
+            "name": "Elastic Games"
+        }
+    ],
+    "slug": "last-year-the-nightmare",
+    "splash": "7bfeb08ba4e841a992f804ebdd86a376",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489576163438624769",
+            "sku": "489576163438624769"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ca1bf24bb85f30e6e283e006c5d413ffc8b9edd534207eaf1eac4103c13a5d6b"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Windscape is a first-person RPG from Magic Sandbox.",
+    "developers": [
+        {
+            "id": "521816584076132354",
+            "name": "Magic Sandbox"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windscape.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2307006ad11c658d747720a6a616f0b",
+    "id": "425457461731000320",
+    "name": "Windscape",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "b393beecf82b44f7f1d104bd1d55b4d8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "363950",
+            "sku": "363950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "774b9313a9453870087e46d7e10e87fe32e61f0e251651a1aef210d7612d7c2d"
+}

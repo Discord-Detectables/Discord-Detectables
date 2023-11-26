@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "th123.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "th123e.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1ba356d1a13b7dff7cf0c6627d02d5ac",
+    "id": "505513116302573578",
+    "name": "Touhou 12.3: Hisoutensoku",
+    "publishers": [
+        {
+            "id": "521816550596935690",
+            "name": "黄昏フロンティア"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "df461c1857cc59796666d9a469ba34bbbd2444806f945a9f3031a2cefa776b75"
+}

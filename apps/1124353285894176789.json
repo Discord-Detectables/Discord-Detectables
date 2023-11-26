@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "soviet jump game/sovietjumpgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "10889f228ebecff8311e71242a9a713c",
+    "id": "1124353285894176789",
+    "name": "Soviet Jump Game",
+    "publishers": [
+        {
+            "id": "1124353286380720138",
+            "name": "Fantastic Passion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1072710",
+            "sku": "1072710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0ad31c9a8375eb14fd375a017567b83b589c40c14203ca41feb77d23d0c618bf"
+}

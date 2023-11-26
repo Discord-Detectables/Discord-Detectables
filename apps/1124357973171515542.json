@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bob-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "70c3890378a33d025997a3bd8b7c8985",
+    "id": "1124357973171515542",
+    "name": "Bang-On Balls: Chronicles",
+    "publishers": [
+        {
+            "id": "1124357973666451477",
+            "name": "Exit Plan Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1227650",
+            "sku": "1227650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f8925779ff2a17f3c784c8ac87f353977c5a979423c438df721826759bf5cbd2"
+}

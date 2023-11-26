@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nancydrew_midnightinsalem/midnightinsalem.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eab56d3d784f14df509fce0260c2bc8b",
+    "id": "1134606768920600727",
+    "name": "Nancy Drew: Midnight in Salem",
+    "publishers": [
+        {
+            "id": "524351472792764438",
+            "name": "Her Interactive, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1038450",
+            "sku": "1038450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8d7aef36ea14613ad3e1b107da3be4de168c006bce54713a30067e8f64e663a2"
+}

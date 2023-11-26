@@ -1,0 +1,38 @@
+{
+    "description": "Superbrothers: Sword &amp; Sworcery EP is an adventure game from Capybara Games. As the Scythian, the player seeks the mysterious Megatome in a beautiful fantasy world rendered in a distinctive pixel art style. \"EP\" is a music reference; the soundtrack is part of the package and gameplay.",
+    "developers": [
+        {
+            "id": "521816567030218768",
+            "name": "Capy"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swordandsworcery_pc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "818c8bc17bd76ccd14cd48b89a07edd8",
+    "id": "504056145854464000",
+    "name": "Superbrothers: Sword & Sworcery EP",
+    "publishers": [
+        {
+            "id": "521816567030218768",
+            "name": "Capy"
+        }
+    ],
+    "splash": "7c246216737b6e1d4b9e34d15b9cf320",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "204060",
+            "sku": "204060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "775757cf5a50d2ff2d2edfd8c3803b325e26f9ec677cc92ee532556adf1b435a"
+}

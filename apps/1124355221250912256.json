@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tails of iron/toi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5ca6543a90225505008679c80c200784",
+    "id": "1124355221250912256",
+    "name": "Tails of Iron",
+    "publishers": [
+        {
+            "id": "1124355221708099604",
+            "name": "Odd Bug Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1283410",
+            "sku": "1283410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0c4e251f97566e3354885668f293339e4a54f4a39cca6edd23ba7753f6cf191e"
+}

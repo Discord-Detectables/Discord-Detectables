@@ -1,0 +1,24 @@
+{
+    "description": "A free to play MMO developed by Gpotato. Features a cash shop allowing players to buy items to use in-game.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rappelz/sframe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad3ed30e33f6f95e993bd8545d62cbb8",
+    "id": "498991137214955531",
+    "name": "Rappelz",
+    "publishers": [
+        {
+            "id": "521816562542313483",
+            "name": "gPotato"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "c127ea5236a4a78c43f09ea67c0c3525606f65261e753332c3b2d117e9c61ee0"
+}

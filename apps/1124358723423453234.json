@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro cycling manager 2022/pcm64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2eb10fe995247865e0a3a39d80385ad3",
+    "id": "1124358723423453234",
+    "name": "Pro Cycling Manager 2022",
+    "publishers": [
+        {
+            "id": "521816537653444608",
+            "name": "Cyanide Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1767560",
+            "sku": "1767560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95b3d412b7efbf762cd79091a7e209a44d88bf947e37a4e001d14eb7aac72de4"
+}

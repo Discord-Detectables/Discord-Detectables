@@ -1,0 +1,43 @@
+{
+    "description": "Scum",
+    "developers": [
+        {
+            "id": "521816517952929794",
+            "name": "Gamepires"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "228656196247093248",
+    "hook": true,
+    "icon": "83c6b689ee21b111749f54f9ee361967",
+    "id": "484425151631589378",
+    "name": "SCUM",
+    "publishers": [
+        {
+            "id": "521816517952929794",
+            "name": "Gamepires"
+        },
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        }
+    ],
+    "splash": "7c1206145f1c6b1147280956e0180463",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "513710",
+            "sku": "513710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d13ffb8892934c88877f9747e7cc8e9a04a7d2f924da79b3d225d986b7338f64"
+}

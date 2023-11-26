@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "milmo/milmo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eaa476fa11c235ff9f18989390a0bf4b",
+    "id": "1124355134365909042",
+    "name": "MilMo",
+    "publishers": [
+        {
+            "id": "1124355134823084172",
+            "name": "Dohi Sweden AB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "896590",
+            "sku": "896590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "57bed40f4aea3b2432b339674f760d5ade3ed132876df139574b4b85d5cb95ae"
+}

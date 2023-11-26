@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Nekopara Vol. 0"
+    ],
+    "description": "A fandisc of Nekopara Vol.1 published by Sekai Project.",
+    "developers": [
+        {
+            "id": "521816576895352838",
+            "name": "NEKO WORKs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nekopara_vol0.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7822d5f861c79e485bf18e9ef64808e",
+    "id": "497660949260664832",
+    "name": "NEKOPARA Vol. 0",
+    "publishers": [
+        {
+            "id": "521816532288798739",
+            "name": "Sekai Project"
+        }
+    ],
+    "splash": "81112a7b920cd2ceefe89e7ded79f6a5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "385800",
+            "sku": "385800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "660bb6c784656b0898f0c5298958c00bd8cbc3920596d9f3b410dd5a26ee4d65"
+}

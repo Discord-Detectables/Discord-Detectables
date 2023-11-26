@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Call of the Sea"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bluecode-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2b11534298a8af9cd7acd4c5649ce9d",
+    "id": "1129505495363899412",
+    "name": "Call of the Sea",
+    "publishers": [
+        {
+            "id": "1129505496357945484",
+            "name": "Out of the Blue"
+        },
+        {
+            "id": "1129505498614472785",
+            "name": "Out of the Blue Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1042490",
+            "sku": "1042490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff91c64d9af1020d21bb9ec1ec678fc00224c95b7918c5b5aa091da495fcc14f"
+}

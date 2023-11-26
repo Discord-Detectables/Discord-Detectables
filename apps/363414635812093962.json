@@ -1,0 +1,39 @@
+{
+    "description": "The latest game announced by acclaimed indie developer, Introversion Software, in which players will \"build and manage a maximum security prison.\" It is current available on Steam and through the developer's website.",
+    "developers": [
+        {
+            "id": "521816530397298691",
+            "name": "Introversion Software Limited"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "prison architect.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e8291d74af2a2c8c9827077589b05170",
+    "id": "363414635812093962",
+    "name": "Prison Architect",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816530397298691",
+            "name": "Introversion Software Limited"
+        }
+    ],
+    "splash": "9f5c8be11c67fb8a342f73fbe7b956b5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "233450",
+            "sku": "233450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95e6248d42a2edf5a74cf68d6e286c161092d1a5e36abb9064c31a8b8e326d54"
+}

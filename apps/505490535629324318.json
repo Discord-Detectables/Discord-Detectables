@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hindie.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "hindie.steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9a004e39e00c776a2a9b6466d81a594",
+    "id": "505490535629324318",
+    "name": "Houdini Indie",
+    "splash": "387d037cd483b7904d12ee5ad4397c31",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "502570",
+            "sku": "502570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0d0528040b3f40605198dcc024768637f2269e63acb994bf37398efbc6a5ac23"
+}

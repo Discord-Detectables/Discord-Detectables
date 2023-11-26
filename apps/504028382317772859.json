@@ -1,0 +1,42 @@
+{
+    "description": "An MMORPG from My.com",
+    "developers": [
+        {
+            "id": "521816803228254219",
+            "name": "NetEase"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tianyu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "118875840514752513",
+    "hook": true,
+    "icon": "877413e783ccd52ce5c53ddf72952b1f",
+    "id": "504028382317772859",
+    "name": "Revelation Online",
+    "publishers": [
+        {
+            "id": "521816512085098549",
+            "name": "My.com"
+        },
+        {
+            "id": "521816544939081735",
+            "name": "Netease Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "876330",
+            "sku": "876330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be309dae91d5a0a51d22512f6acbdcaf8164712ba551ebec525ebbcea305f592"
+}

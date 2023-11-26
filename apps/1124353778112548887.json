@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kyle is famous/kyle is famous.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "06346ef4755ac19b8daaf291b0f8d2e1",
+    "id": "1124353778112548887",
+    "name": "Kyle is Famous",
+    "publishers": [
+        {
+            "id": "1124353778657792020",
+            "name": "John Szymanski"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1186740",
+            "sku": "1186740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2878ece2dc3df18634e4eba7914ad73be6f153d9e41432ac7b7e7f9a96cc13e3"
+}

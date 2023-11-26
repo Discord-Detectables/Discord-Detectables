@@ -1,0 +1,51 @@
+{
+    "description": "Call of Juarez is a Western-themed first person shooter from Polish developer Techland and published by Ubisoft.",
+    "developers": [
+        {
+            "id": "521816637956161558",
+            "name": "Techland Sp. z o.o."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coj.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "coj_dx10.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f1d38ede6b8edfc7194f7481d146fcf",
+    "id": "496547399599390730",
+    "name": "Call of Juarez",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816510730338325",
+            "name": "Ubisoft"
+        },
+        {
+            "id": "521816514106621962",
+            "name": "Techland"
+        }
+    ],
+    "splash": "cf3ced0e310b30fc85b86da02f63f3ce",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "3020",
+            "sku": "3020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e10a128e19c85a3d33cabb294c17d38b3a6990872d8a3e67bf3124cbfe7cd7f2"
+}

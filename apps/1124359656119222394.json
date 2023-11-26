@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "samurai shampoo/samurai shampoo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "397fb1bfadffc1e30ac411e5e715e78d",
+    "id": "1124359656119222394",
+    "name": "Samurai Shampoo",
+    "publishers": [
+        {
+            "id": "1124359656639312022",
+            "name": "Joey Einerhand"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1667770",
+            "sku": "1667770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "008547bfd6c375f22c6f7110a99e7d7b60b7d91629db622b36b88ffea2410ee0"
+}

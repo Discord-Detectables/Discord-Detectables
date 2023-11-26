@@ -1,0 +1,38 @@
+{
+    "description": "Inspired by Monty Python's Dead Parrot sketch, Oh...Sir! The Insult Simulator is a remake of the original Game Jam game, Oh...Sir!.",
+    "developers": [
+        {
+            "id": "521816649264005127",
+            "name": "Vile Monarch"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "oh...sir! the insult simulator/ohsir.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd5e16f66ee69d8dcf4116dbd6dadaad",
+    "id": "503362822957432832",
+    "name": "Oh...Sir! The Insult Simulator",
+    "publishers": [
+        {
+            "id": "521816530866929705",
+            "name": "Good Shepherd Entertainment"
+        }
+    ],
+    "splash": "4ab8ed722bd922a1601e84d76d1744db",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "512250",
+            "sku": "512250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c352f67d77b84e9623780fbf6f2e68fa579698824e5d412e15774a22b11a926a"
+}

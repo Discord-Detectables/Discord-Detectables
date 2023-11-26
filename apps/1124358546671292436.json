@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "climber sky is the limit - free trial/climber sky is the limit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "522a186e747e74c904fbab423607b81f",
+    "id": "1124358546671292436",
+    "name": "Climber: Sky is the Limit - Free Trial",
+    "publishers": [
+        {
+            "id": "1124355199675412600",
+            "name": "A2 Softworks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1963500",
+            "sku": "1963500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ff8363f3d50b8cc9af7455e338cb38e036c9dd2745957c64577e705a8e117af8"
+}

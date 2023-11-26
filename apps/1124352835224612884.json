@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stronghold kingdoms/strongholdkingdoms.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "91af3b3c98d533881b6e897fb9ad94f8",
+    "id": "1124352835224612884",
+    "name": "Stronghold Kingdoms",
+    "publishers": [
+        {
+            "id": "521816602132611105",
+            "name": "Firefly Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "47410",
+            "sku": "47410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74ce770516705e6dc4b8d36397184bfd0e0659a66fead7c86393df477bad8333"
+}

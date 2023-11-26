@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hue/hue.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a71d9e07307ec942fd64571e91abbffe",
+    "id": "1124352512779108402",
+    "name": "Hue",
+    "publishers": [
+        {
+            "id": "1124352513404055562",
+            "name": "Fiddlesticks Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "383270",
+            "sku": "383270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ccbc754e17ad22a479cacfe3a153e5b338318f8be488b2709e51b434c0b0882a"
+}

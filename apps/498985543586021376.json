@@ -1,0 +1,38 @@
+{
+    "description": "Poi is a 3D adventure platformer throwback to the 90s era of classic platforming games. Explore big worlds, compete in challenge levels, meet quirky characters and pull off classic platforming feats on a journey to become a Master Explorer.",
+    "developers": [
+        {
+            "id": "521816502001991691",
+            "name": "PolyKid"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "poi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4d8e9f18c55b3e54ce41db7d61ab3dca",
+    "id": "498985543586021376",
+    "name": "Poi",
+    "publishers": [
+        {
+            "id": "521816502001991691",
+            "name": "PolyKid"
+        }
+    ],
+    "splash": "364763c6bc329669ea860809b91b325e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "401810",
+            "sku": "401810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "37d1a102b59030958b2715f0487e080aad056afc63a4a91d032afabb5bd5581f"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Besiege is a physics based building game in which you construct medieval siege engines and lay waste to immense fortresses and peaceful hamlets.",
+    "developers": [
+        {
+            "id": "521816660584169473",
+            "name": "Spiderling Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "besiege.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bdf508d4e0c809944dc6c29f4f82698f",
+    "id": "376181155868966912",
+    "name": "Besiege",
+    "publishers": [
+        {
+            "id": "521816660584169473",
+            "name": "Spiderling Studios"
+        }
+    ],
+    "splash": "4129ed095c9f7bbe59a26c35499f22f8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "346010",
+            "sku": "346010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad72c5d4cd4d514654f0a9d386f67c639f5a1bfc07fcabd70aed7e507d5ee6cc"
+}

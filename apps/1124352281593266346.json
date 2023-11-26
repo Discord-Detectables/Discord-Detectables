@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/upgun-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "684886997550f625bb6198ccbed5ecaf",
+    "id": "1124352281593266346",
+    "name": "UpGun",
+    "publishers": [
+        {
+            "id": "1124352282046246912",
+            "name": "MaxEstLa"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1575870",
+            "sku": "1575870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2181ee40b9a90399a45541d73804dc0b4916ba1b1e3b1d94aa67a5bc046d962"
+}

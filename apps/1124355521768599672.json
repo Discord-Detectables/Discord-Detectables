@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "disgaea 2 pc/disgaea2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "58f3fc49b780064137a15a08adcf16c7",
+    "id": "1124355521768599672",
+    "name": "Disgaea 2 PC",
+    "publishers": [
+        {
+            "id": "521816533270396929",
+            "name": "Nippon Ichi Software, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "495280",
+            "sku": "495280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "27d75134b699201119710c5d679e19ca314f0968a0d657fb794b81f6032448a7"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "WolfQuest: Classic"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolfquest/wolfquest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "daadb867b6aa6d8b6795184d1b7f549b",
+    "id": "1129505100482748548",
+    "name": "WolfQuest",
+    "publishers": [
+        {
+            "id": "524352679368065054",
+            "name": "Eduweb"
+        },
+        {
+            "id": "524352679368065054",
+            "name": "Eduweb"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "431180",
+            "sku": "431180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1592cfd6c33104b05d8be998ff0eb4ed7caf348fa3768a5f10a79790bb963a2f"
+}

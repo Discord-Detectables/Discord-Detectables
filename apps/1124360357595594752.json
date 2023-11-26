@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "portal dungeon/portal dungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b8dc6acca83f3590c36fdd9a5fdb71f7",
+    "id": "1124360357595594752",
+    "name": "傳送地下城",
+    "publishers": [
+        {
+            "id": "1124360358056964226",
+            "name": "DuskDogStudio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1679220",
+            "sku": "1679220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5d60c6a1a86d88c5b08166dc01b8e8fca00f0613bda84132dfdc8645aa9c204d"
+}

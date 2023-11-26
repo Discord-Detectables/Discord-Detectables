@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "doraemon story of seasons/doraemon story of seasons.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "63c96d0190ea7d5c4e9258102be7487f",
+    "id": "1124356453268996126",
+    "name": "DORAEMON  STORY OF SEASONS",
+    "publishers": [
+        {
+            "id": "1124354203360444596",
+            "name": "Marvelous Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "965230",
+            "sku": "965230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea9d8f766251da3b9d6c13266c0625d8f1a0b25b19426c80a9a0bb84b83b76a8"
+}

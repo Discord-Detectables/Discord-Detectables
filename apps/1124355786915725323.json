@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fights in tight spaces (prologue)/fightsintightspaces.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae9252195001f5822e090dc3d59c4472",
+    "id": "1124355786915725323",
+    "name": "Fights in Tight Spaces (Prologue)",
+    "publishers": [
+        {
+            "id": "524352467010453532",
+            "name": "Ground Shatter"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1478070",
+            "sku": "1478070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d4f5b121c91bf776d3579c9f379d7c9791133ae882abfe9147dc1a586d579c96"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "decent icons 2/decenticons.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "be57e10acadfe12335e212964eaa2b30",
+    "id": "1124358588454948955",
+    "name": "Decent Icons 2",
+    "publishers": [
+        {
+            "id": "1124358174393249932",
+            "name": "Decent Software LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1006710",
+            "sku": "1006710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "954645211c3d9d941b9f9043973448866f555bd6d186655729069a644dd57616"
+}

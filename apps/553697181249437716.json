@@ -1,0 +1,38 @@
+{
+    "description": "Control a settlement of humans and guide them through 10,000 years of human prehistory.",
+    "developers": [
+        {
+            "id": "521816794722205696",
+            "name": "Madruga Works"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dawnofman.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8883c48e470f5b737de0e50cd4f97163",
+    "id": "553697181249437716",
+    "name": "Dawn of Man",
+    "publishers": [
+        {
+            "id": "521816794722205696",
+            "name": "Madruga Works"
+        }
+    ],
+    "splash": "073d43f43a93e6a4be72c83ae5d6dc5b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "858810",
+            "sku": "858810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c862a0832d3d29fa4c1aa0c4172f89ac80ceaea2877584ee6723dff83ebe0be"
+}

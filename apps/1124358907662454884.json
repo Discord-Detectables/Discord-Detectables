@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dialtown phone dating sim demo/dialtown demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df56df5f8fb3555b968f91875d36219e",
+    "id": "1124358907662454884",
+    "name": "Dialtown: Phone Dating Sim Demo",
+    "publishers": [
+        {
+            "id": "1124358908098658365",
+            "name": "DirectDoggo"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1220260",
+            "sku": "1220260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4820eb565538ca267b749812693eff55c7a1ef0557d53b61e285ab309b3f5ae7"
+}

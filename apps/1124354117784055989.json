@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/ride3-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2851fc8bdaf3b6ecd83a5685e60542e",
+    "id": "1124354117784055989",
+    "name": "RIDE 3",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "759740",
+            "sku": "759740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c33a3cf234e10c2c8d81ac53818a41bcd11947743c772c0d5eca47af8a8b5970"
+}

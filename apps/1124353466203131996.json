@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yes, your grace/yes, your grace.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8494646616f61947f201f01ae93da598",
+    "id": "1124353466203131996",
+    "name": "Yes, Your Grace",
+    "publishers": [
+        {
+            "id": "1124353466681278585",
+            "name": "Brave At Night"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1115690",
+            "sku": "1115690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5cb2371cb8d84fa2b79a6bbfdb9a6ebc3adb6fb298347ae305121130a39b5c8b"
+}

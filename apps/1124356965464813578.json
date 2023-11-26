@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monster camp demo/monstercampdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "221031862a41600cc2eca0c91cbf9bde",
+    "id": "1124356965464813578",
+    "name": "Monster Prom 2: Monster Camp Demo",
+    "publishers": [
+        {
+            "id": "521816560051159043",
+            "name": "Beautiful Glitch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1321430",
+            "sku": "1321430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fd8e95193a93135b359c7189fd77ec392805ac407992c6f3f4b5a70e95842dc1"
+}

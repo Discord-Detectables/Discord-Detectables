@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mydockfinder/dock_64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8891da2b98cb24a3e9d6c8617d5ded04",
+    "id": "1124357900933025882",
+    "name": "MyDockFinder",
+    "publishers": [
+        {
+            "id": "1124357901423755285",
+            "name": "MyDockFinder"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1787090",
+            "sku": "1787090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6fad54b68faa5599e9aa00f29c59ea56641487fdfdf81e7c8d97f50457289c19"
+}

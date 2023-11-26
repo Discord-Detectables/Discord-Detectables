@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "worms/dosbox/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0a1ba2c5bd49ce5bc7892959c20793c4",
+    "id": "1124360166805090354",
+    "name": "Worms",
+    "publishers": [
+        {
+            "id": "521816610600779776",
+            "name": "Team17 Digital Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "70640",
+            "sku": "70640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b161845c5977726590ace34baf2b4598e1b2c42bee435006c24245f3bffd6cbc"
+}

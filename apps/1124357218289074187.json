@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win/kingsquest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "342c74c96a9b16ccd057135cd7c1f07c",
+    "id": "1124357218289074187",
+    "name": "King's Quest",
+    "publishers": [
+        {
+            "id": "524352048603594772",
+            "name": "The Odd Gentlemen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "345390",
+            "sku": "345390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7fef25bc0f4c52649eecee2e7a444b06d4a75f7a657826019e7a785f3720ca66"
+}

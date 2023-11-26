@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "serena/dagon64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c495a7ff7901129d4fee567d9600da31",
+    "id": "1124355178502570064",
+    "name": "Serena",
+    "publishers": [
+        {
+            "id": "524352085874180127",
+            "name": "Senscape"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "272060",
+            "sku": "272060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "10a0ef74de65bd43ab491608b744138790ccf71f556a5c1f6e054f02bdb122bb"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "방 탈출 시뮬레이터"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "escape simulator/escape simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d256a7e39e78063aa8c0c1fd9b4d3957",
+    "id": "1129504170781724772",
+    "name": "Escape Simulator",
+    "publishers": [
+        {
+            "id": "521816656021028864",
+            "name": "Pine Studio"
+        },
+        {
+            "id": "521816656021028864",
+            "name": "Pine Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1435790",
+            "sku": "1435790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e77f3b7be4aa0e241a6b145aa38bf6cac9ded69f2a5a721e8f87c61da527310"
+}

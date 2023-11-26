@@ -1,0 +1,38 @@
+{
+    "description": "Released in 1995, The Ultimate Doom refined elements of deathmatch, and added a completely new episode of content to the original game.",
+    "developers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ultimate doom/base/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c22325395acdcb8efba445d1848b334",
+    "id": "478613204323270666",
+    "name": "The Ultimate DOOM",
+    "publishers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "splash": "517c763c570f3fbe9063581a2898bc1c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2280",
+            "sku": "2280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "38e4bf66e374df23f57a251c80eea7657c8f7fd197d92c05d9bf0191e5766e33"
+}

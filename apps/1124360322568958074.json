@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ydkj_vol4/ydkjtr.jbg",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6423497aeefc5783e03447dec861f2d",
+    "id": "1124360322568958074",
+    "name": "YOU DON'T KNOW JACK Vol. 4 The Ride",
+    "publishers": [
+        {
+            "id": "1124351743136903320",
+            "name": "Jackbox Games, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "259980",
+            "sku": "259980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a191c13e4089384c67f1ca0fa80e85d00a42c395e40201abdd40a1badbf9fbe7"
+}

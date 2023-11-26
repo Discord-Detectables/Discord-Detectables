@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Baldur's Gate 3"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/bg3_dx11.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bin/bg3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3d6a6ddf065f232dc0d93af3050954ce",
+    "id": "1137125502985961543",
+    "name": "Baldur's Gate 3",
+    "overlay_methods": 1,
+    "publishers": [
+        {
+            "id": "521816603671920661",
+            "name": "Larian Studios"
+        },
+        {
+            "id": "521816603671920661",
+            "name": "Larian Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1086940",
+            "sku": "1086940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9476929718349d07d2713c4887489914f271fda4b92e7e3fbda2934425aac30e"
+}

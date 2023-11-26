@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scene investigators demo/scene investigators (demo).exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b46235659f41597ea413be8152eb0f4b",
+    "id": "1129505774129926164",
+    "name": "Scene Investigators Demo",
+    "publishers": [
+        {
+            "id": "524352978472140802",
+            "name": "EQ Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1444400",
+            "sku": "1444400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "673798c1c3c8dab0bc217cce1b732dc71e8a046b4b34689dcc0416e550943c64"
+}

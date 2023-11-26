@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dead state/zrpg.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9c7439d420a3086823d08c0efa0d9174",
+    "id": "1124360032738361434",
+    "name": "Dead State",
+    "publishers": [
+        {
+            "id": "524352073815556116",
+            "name": "DoubleBear Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239840",
+            "sku": "239840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f0fd25d1ece7198e2b70bc39c3d68688843bdc7d4de752828d3ec1d93d343fea"
+}

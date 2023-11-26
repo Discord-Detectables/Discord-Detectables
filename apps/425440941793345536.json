@@ -1,0 +1,38 @@
+{
+    "description": "A first-person mystery set in the Wyoming wilderness developed by Campo Santo, where the protagonist's only lifeline, emotionally and physically speaking, is the person on the other end of a handheld radio.",
+    "developers": [
+        {
+            "id": "521816602132611104",
+            "name": "Campo Santo"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "firewatch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fcd536fe0d0bf317ece9c7063d6a64cb",
+    "id": "425440941793345536",
+    "name": "Firewatch",
+    "publishers": [
+        {
+            "id": "521816602132611103",
+            "name": "Panic"
+        }
+    ],
+    "splash": "4dcec0923641a6a3b869e5d229a08d8b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "383870",
+            "sku": "383870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8b62c7d46cd27f3aa8eacbf3c5edf72f672895b4fcc4f3420bfa747cdee1182c"
+}

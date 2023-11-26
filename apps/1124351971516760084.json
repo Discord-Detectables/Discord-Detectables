@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trailmakers/trailmakers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "76a0f0e7993d30b4b97263739af23d47",
+    "id": "1124351971516760084",
+    "name": "Trailmakers",
+    "publishers": [
+        {
+            "id": "556044330591059988",
+            "name": "Flashbulb"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "585420",
+            "sku": "585420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "02fd807342bf1c97c142326a6480f152aba62a975e31ab68dcbe4d562d473a83"
+}

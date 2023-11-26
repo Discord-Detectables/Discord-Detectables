@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "僕のヒーローアカデミア ULTRA RUMBLE"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/mhur.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a3fb85286400cec3f1c44a7a0d783059",
+    "id": "1157104676592955474",
+    "name": "MY HERO ULTRA RUMBLE",
+    "publishers": [
+        {
+            "id": "1124354540913832007",
+            "name": "Byking Inc."
+        },
+        {
+            "id": "1124354540913832007",
+            "name": "Byking Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1607250",
+            "sku": "1607250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "40ba8af4924fbcdc96ba23e8daf8e78b1a94faa9b232a31ab7e7ae7d670d89ae"
+}

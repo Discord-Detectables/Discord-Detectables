@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bacon may die/bacon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3e4a4a478300d972fb3e7f68ffc0e85",
+    "id": "1124354916505370695",
+    "name": "Bacon May Die",
+    "publishers": [
+        {
+            "id": "521816533270396930",
+            "name": "SnoutUP"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "646240",
+            "sku": "646240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "80d46179a5596907f07622674899c9b962b9d7138ddf288a608e215d7150374a"
+}

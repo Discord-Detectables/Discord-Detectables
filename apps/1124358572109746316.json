@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/fushimiinari-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1cce1bdc178ee2b49c988b8f7072ca99",
+    "id": "1124358572109746316",
+    "name": "Explore Fushimi Inari",
+    "publishers": [
+        {
+            "id": "1124358572659195915",
+            "name": "Matt Newell"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1098490",
+            "sku": "1098490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "57251a3bcdc25f2b2a4955273355956a179e3d1e1f47d91b84e23c75dc4979e3"
+}

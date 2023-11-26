@@ -1,0 +1,37 @@
+{
+    "description": "An action-RPG in the same vein as Diablo, from Crate Entertainment.",
+    "developers": [
+        {
+            "id": "521816763332165659",
+            "name": "Crate Entertainment, LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grim dawn.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b911091b194da1194d4efd34eabf177c",
+    "id": "425777682135908352",
+    "name": "Grim Dawn",
+    "publishers": [
+        {
+            "id": "521816763332165659",
+            "name": "Crate Entertainment, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "219990",
+            "sku": "219990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4f3f3980cc25de7a5ecd56101bae5dc622cdcf03912b8b7e3ef437d3c5b7ec38"
+}

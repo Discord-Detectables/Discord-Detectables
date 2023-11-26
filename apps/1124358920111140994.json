@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gretel and winslow's mansion/gretel and winslow's mansion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d4bf79f9abd62105c8b38ab20ae04c19",
+    "id": "1124358920111140994",
+    "name": "Gretel and Winslow's Mansion",
+    "publishers": [
+        {
+            "id": "1124358920568328272",
+            "name": "Team E.T"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1767320",
+            "sku": "1767320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c24e73d53c419bf2ca5858181071935ec38fed19e6bc18a5d2276962236c44af"
+}

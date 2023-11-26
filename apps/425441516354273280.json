@@ -1,0 +1,42 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": false,
+    "cover_image": "28744429dcd2b146f404ecf17b3ef01d",
+    "description": "RTS FOR THE NEXT GENERATION\n\nColonize solar systems, annihilate homeworlds, and exterminate your foes in epic interplanetary battles with multiple players and thousands of units. Planetary Annihilation is a next-generation RTS that takes the genre to a planetary scale.",
+    "developers": [
+        {
+            "id": "547963908208459806",
+            "name": "Planetary Annihilation Inc"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pa.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "467998465004273674",
+    "hook": true,
+    "icon": "28744429dcd2b146f404ecf17b3ef01d",
+    "id": "425441516354273280",
+    "name": "Planetary Annihilation: TITANS",
+    "publishers": [
+        {
+            "id": "547963908208459806",
+            "name": "Planetary Annihilation Inc"
+        }
+    ],
+    "splash": "59c8f63a9cab297d55aacc9c9db12e6d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "386070",
+            "sku": "386070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cece0752c5c71cfcf936fd844297bb571ecf37833482a7658c9b242e15c63e93"
+}

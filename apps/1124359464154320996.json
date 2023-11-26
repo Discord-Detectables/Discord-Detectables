@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "damnosaur/damnosaur.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3d97ff47a3f0b11752fa4fcc8810c45",
+    "id": "1124359464154320996",
+    "name": "DAMNOSAUR",
+    "publishers": [
+        {
+            "id": "1124359464653439138",
+            "name": "Evlanic Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "974950",
+            "sku": "974950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c952078a7ee5ccd19f6d2e0d1655a40d8ba45345988280fdc655ae649a5791dc"
+}

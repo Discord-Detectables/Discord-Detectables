@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "max payne 2 the fall of max payne/maxpayne2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b32ed1cf740b6c95804ba8c509f0990e",
+    "id": "1124353050086227968",
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "publishers": [
+        {
+            "id": "521816635749695508",
+            "name": "Remedy Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "12150",
+            "sku": "12150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5784482020d1d702a542d76afa76ed05a2c0eac9b5a78d9c480cdc3b4f071ab8"
+}

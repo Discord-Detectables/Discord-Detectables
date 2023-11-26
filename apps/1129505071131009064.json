@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "RPG Maker XP"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rpgxp/rpgxp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e3f99165568c411c66aa3e387bd2efc5",
+    "id": "1129505071131009064",
+    "name": "RPG Maker XP",
+    "publishers": [
+        {
+            "id": "1124354978614628422",
+            "name": "Gotcha Gotcha Games"
+        },
+        {
+            "id": "1124355118985392278",
+            "name": "KADOKAWA"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "235900",
+            "sku": "235900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7dd6cb6e80361310c448904240b5c7c8d79e8faf9336192e27676cb6efcc89a7"
+}

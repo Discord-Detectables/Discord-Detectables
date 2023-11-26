@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "praey for the gods/praey for the gods.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6c62c377b72a885fa2ac4b675f6f877",
+    "id": "1124355696150986863",
+    "name": "Praey for the Gods",
+    "publishers": [
+        {
+            "id": "524352922532708358",
+            "name": "No Matter Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "494430",
+            "sku": "494430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0748adc8ecafb2aa0b5bc5c669d0ee1a2ca7ab32de318e408641f94137f90be0"
+}

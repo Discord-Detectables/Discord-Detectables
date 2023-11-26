@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dreamland/dreamland.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1a393d3be847101d6f1992afa00c96b",
+    "id": "1124353270954078260",
+    "name": "Dreamland",
+    "publishers": [
+        {
+            "id": "1124353271449014302",
+            "name": "Dokiden"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2176560",
+            "sku": "2176560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "589727130018da4a01df7fd34e4f5323e37be6bf90903891062f4c060795ec09"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pa_ue4-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5008192e7d75a23978cf3298e3c60611",
+    "id": "1124358436885385316",
+    "name": "Paranormal Activity: The Lost Soul",
+    "publishers": [
+        {
+            "id": "1124358437363531949",
+            "name": "VRWERX"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "467660",
+            "sku": "467660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "da595b962490708ef948318a3bc655c0d7392ed7067a7a4a1bf5361812f6a4f5"
+}

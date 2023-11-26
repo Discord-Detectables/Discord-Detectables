@@ -1,0 +1,38 @@
+{
+    "description": "Wings of Vi is a platformer developed by Grynsoft.",
+    "developers": [
+        {
+            "id": "521816616028078090",
+            "name": "Grynsoft"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wings of vi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "93d38dcac8480f7348d74b7330a1b4b8",
+    "id": "504086961498226688",
+    "name": "Wings of Vi",
+    "publishers": [
+        {
+            "id": "521816616028078090",
+            "name": "Grynsoft"
+        }
+    ],
+    "splash": "0a76e674bcd481989e5ee32a2e8f316a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "318530",
+            "sku": "318530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8c9bba037837617420510fd6aa6d5e45c889ba371dd0035d04aafc869be679b5"
+}

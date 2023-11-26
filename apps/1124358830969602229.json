@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "demise of nations - rome/app_main.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7f0fc78296ca58943f9a84fb7caddb5d",
+    "id": "1124358830969602229",
+    "name": "Demise of Nations",
+    "publishers": [
+        {
+            "id": "560029069870235668",
+            "name": "Noble Master LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "338810",
+            "sku": "338810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cec3f70adf695e5d2b229783f2b4c1a50a5ccc4264af3b617e0183466d53e87b"
+}

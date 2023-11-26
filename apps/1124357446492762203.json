@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "xxx puzzle/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fe36618fb4c2213452bb7b408b2163cc",
+    "id": "1124357446492762203",
+    "name": "XXX Puzzle",
+    "publishers": [
+        {
+            "id": "1124352491715313684",
+            "name": "L. Stotch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "874650",
+            "sku": "874650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b3ce6f3d21e92b2b3019d22306064078a62c18830e26d46530d60ff2a18d6e75"
+}

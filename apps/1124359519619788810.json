@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "boreal blade/borealblade_64bit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6e9e33ce926756a5bb2b449fa928d12",
+    "id": "1124359519619788810",
+    "name": "Boreal Blade",
+    "publishers": [
+        {
+            "id": "521816505252446238",
+            "name": "Frozenbyte"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "598780",
+            "sku": "598780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "de17034b0ded821cd007fb770037df618426aa633205389969b94cd731988f8f"
+}

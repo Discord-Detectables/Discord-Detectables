@@ -1,0 +1,38 @@
+{
+    "description": "Future Wars is an independently developed turn based strategy game for the PC that is heavily inspired by the Advance Wars series.",
+    "developers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "futurewars.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d37189b2023daabfd23f045d4a84b66e",
+    "id": "425458408037285888",
+    "name": "Future Wars",
+    "publishers": [
+        {
+            "id": "521816623976415269",
+            "name": "Meridian4"
+        }
+    ],
+    "splash": "d0464581dbd2fe2798a9c2dd02a5b491",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "46440",
+            "sku": "46440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "25a238c11a5c9870d760e9acd4d925e49c63548e71547db5aa9aa647d855e240"
+}

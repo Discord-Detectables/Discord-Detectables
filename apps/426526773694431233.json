@@ -1,0 +1,41 @@
+{
+    "description": "Twin stick arena Rogue-Like from independent developer Panic Arts. Standard rogue-like with mechanics such as random items, potions, and arena layouts are present.  The game also features RPG style character progression through attribute and talent points with a skill tree.  The game currently consists of 4 acts, 4 playable characters, and 3 unlockable difficulties with Hardcore (permanent death) mode.",
+    "developers": [
+        {
+            "id": "521816730650017803",
+            "name": "Panic Arts"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hero_siege.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b276d99b37e11d3eb2b4e117dc040bac",
+    "id": "426526773694431233",
+    "name": "Hero Siege",
+    "publishers": [
+        {
+            "id": "521816730650017803",
+            "name": "Panic Arts"
+        },
+        {
+            "id": "521816730650017804",
+            "name": "Elias Viglione"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "269210",
+            "sku": "269210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3674d1f1ef10f4b44870eef92be9e4aebba9fbb81e1ab4febe0fb8fdb5aa2b95"
+}

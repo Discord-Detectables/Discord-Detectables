@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "South Park: The Stick of Truth",
+        "South Park™: The Stick of Truth™"
+    ],
+    "description": "An Obsidian-developed role-playing game based on the South Park animated TV series, in which players control a new kid in the eponymous town of South Park and takes part in an epic pretend-fantasy story that threatens the entire town.",
+    "developers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "south park - the stick of truth.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40ac5c9055e5f58fbd1587f62801f660",
+    "id": "425457961574596608",
+    "name": "South Park The Stick of Truth",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "splash": "ed6932ba8607a3faa5fbdc9d30db0fbe",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "213670",
+            "sku": "213670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03ae0ea2c184c4130fb9bc5351e972f358c1ac5813b3c8a96990e98ac22ad86f"
+}

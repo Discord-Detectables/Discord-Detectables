@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tachyon The Fringe"
+    ],
+    "description": "Experience the life of Jake Logan, a rough-and-tumble privateer voiced by Bruce Campbell. Sent to the fringe of Human civilization for a crime he didn't commit, players must either thwart or assist the efforts of a major corporation to conquer an important sector of space. ",
+    "developers": [
+        {
+            "id": "521816672248791067",
+            "name": "NovaLogic, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tachyon the fringe/tachyon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "522b58f888c3e1c27bac8c4c1403932c",
+    "id": "425456735050924032",
+    "name": "Tachyon: The Fringe",
+    "publishers": [
+        {
+            "id": "521816548059643905",
+            "name": "1C Company"
+        }
+    ],
+    "splash": "0bddb81ddf317ac169e9d39c76ec4e09",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "32760",
+            "sku": "32760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "902f0af430c485718cf4bc5b0db461e2b2a9cc472892e9f4dfd475c0903c786d"
+}

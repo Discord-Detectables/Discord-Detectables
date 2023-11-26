@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tastemaker/tastemaker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a95538d7c747b84fb30f5620a18a2120",
+    "id": "1124356845239287878",
+    "name": "Tastemaker",
+    "publishers": [
+        {
+            "id": "1124356845730017382",
+            "name": "Jelle Booij"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1289340",
+            "sku": "1289340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b6a6a689b8da59519a80691b10862869b3665880babcf119e3172954340a5019"
+}

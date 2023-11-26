@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/aue_engine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1124360029068349450",
+    "name": "Симулятор Прыгания по Гаражам",
+    "publishers": [
+        {
+            "id": "1124360029508747454",
+            "name": "Sovietpunk 1991"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1529710",
+            "sku": "1529710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d984804b276f7602b00f65a33420083033b4fafb44f864457bf2b74fd7bb9c6e"
+}

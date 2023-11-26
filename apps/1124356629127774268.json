@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cube racer 2/cuberacer2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d9839633342539a735eda0e30ceaaca4",
+    "id": "1124356629127774268",
+    "name": "Cube Racer 2",
+    "publishers": [
+        {
+            "id": "1124356629572366468",
+            "name": "Creactstudios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1468160",
+            "sku": "1468160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "888dcb3bcc6e3c391ddab4813b896b99970975806078dd24572a6f9f0d7fc8f9"
+}

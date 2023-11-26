@@ -1,0 +1,46 @@
+{
+    "cover_image": "e8453a470ecf7761ec1070a290bd8028",
+    "description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. Do you have what it takes to survive?",
+    "developers": [
+        {
+            "id": "521816498541428770",
+            "name": "Frictional Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amnesia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "608260170660708352",
+    "hook": true,
+    "icon": "e5106b6d5f12bbd36a79b1c1bcd8eb5e",
+    "id": "425749626671595520",
+    "name": "Amnesia: The Dark Descent",
+    "primary_sku_id": "489229235509002261",
+    "publishers": [
+        {
+            "id": "521816498541428770",
+            "name": "Frictional Games"
+        }
+    ],
+    "slug": "amnesia-the-dark-descent",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489229235509002261",
+            "sku": "489229235509002261"
+        },
+        {
+            "distributor": "steam",
+            "id": "57300",
+            "sku": "57300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2d3fede30ac29d892d56f35d4513af186bf59cbb61d0961abace96a7b6436230"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Movavi Video Suite 17"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "movavi video suite/suite.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e228c8ea21a2d24b243ce4354d4ab72a",
+    "id": "1129505141666631802",
+    "name": "Movavi Video Suite",
+    "publishers": [
+        {
+            "id": "1129505142375464970",
+            "name": "Movavi"
+        },
+        {
+            "id": "1124358801391370400",
+            "name": "Movavi Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "795630",
+            "sku": "795630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2476475bc3e6a936448748fbf4685860a5fde59be6daad533e3e6bbcb65468c3"
+}

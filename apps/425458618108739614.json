@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Soulcraft"
+    ],
+    "description": "A hack and slash RPG",
+    "developers": [
+        {
+            "id": "521816792352555028",
+            "name": "MobileBits GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "soulcraft.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6aebb812d2ec63bddd0db2a56edee57",
+    "id": "425458618108739614",
+    "name": "SoulCraft",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "0fb563e8ddf84a5e5b868248eabd32de",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "369180",
+            "sku": "369180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b4da86fd13bb449722e22b1ba1bd169e91df0430712e8de85bc0087a04ab56bf"
+}

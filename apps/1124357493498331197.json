@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win/nebuchadnezzar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6d83baa09cecf58054abf75db782657",
+    "id": "1124357493498331197",
+    "name": "Nebuchadnezzar",
+    "publishers": [
+        {
+            "id": "1124357494026809444",
+            "name": "Nepos Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1157220",
+            "sku": "1157220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "05918329e935789773b0e13189f327eec2899a0bfd242f61be69c2a7e4fd726d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lonely mountains downhill - demo/lmd_demo_win_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ca3bae088645dfb32570cf485038d7c7",
+    "id": "1124358297487687800",
+    "name": "Lonely Mountains: Downhill Demo",
+    "publishers": [
+        {
+            "id": "1124356607397081221",
+            "name": "Megagon Industries"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1264380",
+            "sku": "1264380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b82f52a7852b8502a6a449b57d9c1014cbc6a7dff69e82450a2619f0bd03076c"
+}

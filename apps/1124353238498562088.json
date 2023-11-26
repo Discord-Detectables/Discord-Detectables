@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "check it out!/check it out!.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "341227a3a26e993ff056e60137a40f15",
+    "id": "1124353238498562088",
+    "name": "Check it Out!",
+    "publishers": [
+        {
+            "id": "1124353238951542805",
+            "name": "Open Alpha"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1928430",
+            "sku": "1928430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f59eada7a737d13a1d432d9876ea7a04a4462fb43c8a5adc8baddafda1f4b33b"
+}

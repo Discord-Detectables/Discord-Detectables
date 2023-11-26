@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fear & hunger/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bfd7eb0981da7eadf73f9dd7c2f21340",
+    "id": "1124354086163198112",
+    "name": "Fear & Hunger",
+    "publishers": [
+        {
+            "id": "1124354086653939912",
+            "name": "Miro Haverinen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1002300",
+            "sku": "1002300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6bbbdead40ccd3ec0aee91eaef7b48ea6daee2b204ebdd759b43155f22947898"
+}

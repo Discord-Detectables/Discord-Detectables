@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "broken sword shadow of the templars/bs1dc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "51a169fda7f94898e15237474d721653",
+    "id": "1124359423326957628",
+    "name": "Broken Sword 1 - Shadow of the Templars: Director's Cut",
+    "publishers": [
+        {
+            "id": "1124359423842865162",
+            "name": "Revolution Software Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "57640",
+            "sku": "57640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "38b0b85150d723cfc275169965de076f6e4003ca0bb40b3491d94944095714c8"
+}

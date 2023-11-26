@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "HELLDIVERS"
+    ],
+    "description": "Up to 4 players shoot aliens (and possibly each other) with some help from above in this downloadable shooter for PS3, PS4, Vita and PC.",
+    "developers": [
+        {
+            "id": "521816662723526658",
+            "name": "Arrowhead Game Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "helldivers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c174acef65c9d0de3546773cd7646e1f",
+    "id": "451541695771967508",
+    "name": "HELLDIVERS™",
+    "publishers": [
+        {
+            "id": "521816525410402312",
+            "name": "Sony Interactive Entertainment America"
+        },
+        {
+            "id": "521816662723526658",
+            "name": "Arrowhead Game Studios"
+        }
+    ],
+    "splash": "7d21a0f47b37d3cabdf68168b9dc6d64",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "394510",
+            "sku": "394510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9e125666272735bb4e37050641bee39bd79bebb1ef4ba67669622d025298f5a5"
+}

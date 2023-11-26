@@ -1,0 +1,38 @@
+{
+    "description": "Montaro",
+    "developers": [
+        {
+            "id": "521816530866929707",
+            "name": "JCKSLAP"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "montaro/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cdd0f2e1172170cde429389f736dd0a0",
+    "id": "467286012104671232",
+    "name": "Montaro",
+    "publishers": [
+        {
+            "id": "521816530866929707",
+            "name": "JCKSLAP"
+        }
+    ],
+    "splash": "82eb91564a3433af6a12eac805bbfabe",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "495890",
+            "sku": "495890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bea39522546cef9226c9dd790a3d9e2d2356b590ba926850351b1114ccc026bf"
+}

@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "FINAL FANTASY XIV - A Realm Reborn"
+    ],
+    "description": "Stormblood is the second expansion to Final Fantasy XIV",
+    "developers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "final fantasy xiv.app",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "ffxiv_dx11.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ffxiv.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8fbbc6725f295195c8dd4f390ccd8611",
+    "id": "356889262362329098",
+    "name": "FINAL FANTASY XIV",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "c99384f8b68bf43672bdb79d0a3833ea",
+    "summary": "",
+    "type": 1,
+    "verify_key": "d8a9e36c73ab90b257f3694b1778f63b391142f9980b71b4adade1a6fd433faa"
+}

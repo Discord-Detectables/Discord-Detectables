@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blasterbeat/blasterbeat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "afb4a1b4e5d8874b871c2f7ea37387dc",
+    "id": "1176779112875032657",
+    "name": "BlasterBeat",
+    "publishers": [
+        {
+            "id": "1176779118189219881",
+            "name": "Muted Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1575680",
+            "sku": "1575680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54c8e3c74b9537080ab32ab7d993bc47680e3ed891406d6b012c2fe267d786e4"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/starlitseason-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8f3b2d4f94aa480f428818a9a0e537e1",
+    "id": "1124360039436660736",
+    "name": "アイドルマスター スターリットシーズン",
+    "publishers": [
+        {
+            "id": "1124360039902236733",
+            "name": "ILCA,Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1046480",
+            "sku": "1046480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2b4f477e950e910f6fb2f5f9179945f9a5e7599e8b7093f51b99b0be46ecca2a"
+}

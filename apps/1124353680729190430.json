@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/detective-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa14ff7b800c2d4f98d1db3cd23dcd07",
+    "id": "1124353680729190430",
+    "name": "Backbone: Prologue",
+    "publishers": [
+        {
+            "id": "1124353681224126524",
+            "name": "EggNut"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "992310",
+            "sku": "992310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c39cbfe6a62d60cec48537e3602b82fd335176921e575989e245749d2a7c34ba"
+}

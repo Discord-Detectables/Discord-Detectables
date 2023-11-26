@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "alba/alba.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2e0ff77b5c523540e8648f3fe7e9384",
+    "id": "1124356664053739563",
+    "name": "Alba: A Wildlife Adventure",
+    "publishers": [
+        {
+            "id": "1124354920154419210",
+            "name": "ustwo games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1337010",
+            "sku": "1337010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f5cffeada63cce28c963a5979bf08bf2be3cb81e83e0b49d2b2272b3c2c82207"
+}

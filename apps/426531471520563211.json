@@ -1,0 +1,37 @@
+{
+    "description": "A game where one player can see the bomb, and must listen to their friends who have the instructions on how to defuse it.",
+    "developers": [
+        {
+            "id": "521816581924192298",
+            "name": "Steel Crate Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ktane.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d7f56eba5073835b346ce534408ada38",
+    "id": "426531471520563211",
+    "name": "Keep Talking and Nobody Explodes",
+    "publishers": [
+        {
+            "id": "521816581924192298",
+            "name": "Steel Crate Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "341800",
+            "sku": "341800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "104d6700696090341c4e08b3ebb0f8baeb504ff4fc40c6b01d2946cbc1dda2dc"
+}

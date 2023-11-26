@@ -1,0 +1,42 @@
+{
+    "description": "The second installment in the Car Mechanic Simulator franchise.",
+    "developers": [
+        {
+            "id": "521816512512786456",
+            "name": "Red Dot Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cms2015.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "19f4ee852e5c187f0d0498e67524b42e",
+    "id": "450273108859813888",
+    "name": "Car Mechanic Simulator 2015",
+    "publishers": [
+        {
+            "id": "521816512512786456",
+            "name": "Red Dot Games"
+        },
+        {
+            "id": "521816512516980736",
+            "name": "PlayWay"
+        }
+    ],
+    "splash": "c99045cb7463f53182aa52fe78e3da60",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "320300",
+            "sku": "320300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e455850e7b01e5d63fb2953098fc0d5c87ba0ef031f80b78de5aa03b697ef34"
+}

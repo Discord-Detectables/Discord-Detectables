@@ -1,0 +1,32 @@
+{
+    "description": "We Were Here",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "we were here.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff3b46c20910effad46996016db91fab",
+    "id": "406646387875250186",
+    "name": "We Were Here",
+    "publishers": [
+        {
+            "id": "521816654095843328",
+            "name": "Total Mayhem Games"
+        }
+    ],
+    "splash": "87ccfc29e444471ef50f08326d75b9c3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "582500",
+            "sku": "582500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74c45c119ae3f55de40e3d98ddfc0f2ef6b76d6632e22d40cc40fb42a066393b"
+}

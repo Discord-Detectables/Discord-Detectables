@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "snowdrop escape/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "46701cd43d07c99d4aa0958b2aeda078",
+    "id": "1124358753232375828",
+    "name": "Snowdrop Escape",
+    "publishers": [
+        {
+            "id": "1124358753727299687",
+            "name": "SnowDropEscape development team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1117390",
+            "sku": "1117390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb55b82dfe5c829d89be720c115ed939720babc152b6a0080fb522938f90411f"
+}

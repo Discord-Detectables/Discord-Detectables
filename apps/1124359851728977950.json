@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "isekai front line/isekai frontline.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5ee5fb7da24e5b2db6e2941b08ee0382",
+    "id": "1124359851728977950",
+    "name": "ISEKAI FRONTLINE",
+    "publishers": [
+        {
+            "id": "1124359852177764422",
+            "name": "Studio Ginkgo"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1924140",
+            "sku": "1924140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7a61f7074eb03fd63e27ee16e0d6e62ec3cb4543047881e519518531c6eee54"
+}

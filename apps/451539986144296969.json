@@ -1,0 +1,47 @@
+{
+    "description": "The last installment of the Modern Warfare trilogy brings World War 3 to the world of Call of Duty. While the U.S., British, and French armed forces try to push back the Russian invasion, the disavowed Task Force 141 begin their hunt for international terrorist Vladimir Makarov.",
+    "developers": [
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "iw5mp.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "iw5sp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a3bc00611f0b6dc7a993fb8865914f80",
+    "id": "451539986144296969",
+    "name": "Call of Duty: Modern Warfare 3",
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        },
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        }
+    ],
+    "splash": "00170ee33cf1ab51d55f5c8d795f40af",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "42680",
+            "sku": "42680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b8e0e3fb500573b1fee68e2c5c0ad35dc35137bed3d5f4c11759956e9de4bb64"
+}

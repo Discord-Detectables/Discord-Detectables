@@ -1,0 +1,48 @@
+{
+    "description": "A Sci-Fi Action-RPG from co-creators of Diablo and Torchlight, featuring heavy sandbox elements and large-scale ship battles.",
+    "developers": [
+        {
+            "id": "521816630808805391",
+            "name": "Double Damage Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rebelgalaxysteam.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "rebelgalaxygog.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "442c043208bcfb227c9a3d6b7b677456",
+    "id": "425441408242155530",
+    "name": "Rebel Galaxy",
+    "publishers": [
+        {
+            "id": "521816630808805391",
+            "name": "Double Damage Games"
+        }
+    ],
+    "splash": "51a2f4f6ab205a58c6d69d6faccdd1c1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "290300",
+            "sku": "290300"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e24ab43bf027057a9e6c5cf3c1088cf06ed949bff7c68c7c2de9a171ed9b425"
+}

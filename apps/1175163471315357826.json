@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "i'm on observation duty 6/i'm on observation duty 6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d12cd81c8c82ee204d3ef278aadf844a",
+    "id": "1175163471315357826",
+    "name": "I'm on Observation Duty 6",
+    "publishers": [
+        {
+            "id": "1124353418849435679",
+            "name": "Notovia"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2137700",
+            "sku": "2137700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ef7fcfc33460eb3bafdb9e7abb4f6d6d74b73baf003855d2fa04a305db85daba"
+}

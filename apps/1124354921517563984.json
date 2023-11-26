@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "divide by sheep/dividebysheep.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba1d77539cbb0065e7dacf8f2af732ac",
+    "id": "1124354921517563984",
+    "name": "Divide by Sheep",
+    "publishers": [
+        {
+            "id": "1124354922041847808",
+            "name": "Victor Solodilov"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252130",
+            "sku": "252130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f77f3ca90a4722c8181516c2d1b2564ec23516f707d5cb78d5507fd05207afb7"
+}

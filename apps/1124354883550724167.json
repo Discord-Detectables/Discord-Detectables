@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "little misfortune demo/little misfortune demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3841dc655d22ca066fc26a54e88838d",
+    "id": "1124354883550724167",
+    "name": "Little Misfortune Demo",
+    "publishers": [
+        {
+            "id": "521816559031812096",
+            "name": "Killmonday Games AB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1065300",
+            "sku": "1065300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "48977707f25273c37cb74782d24c71cfd3ea4871dd62489935be37907793b5d2"
+}

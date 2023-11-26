@@ -1,0 +1,32 @@
+{
+    "description": "World of Tanks is a free-to-play (F2P) massively multiplayer online (MMO) team based action game featuring WWII era tank combat.",
+    "developers": [
+        {
+            "id": "521816588601786401",
+            "name": "Wargaming.net"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "worldoftanks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "502101454253981697",
+    "hook": true,
+    "icon": "b8c3c5e2bb400a1154bad072f139f592",
+    "id": "356888961353908224",
+    "name": "World of Tanks",
+    "publishers": [
+        {
+            "id": "521816588601786401",
+            "name": "Wargaming.net"
+        }
+    ],
+    "splash": "b125c7b6bd1ea27c2cef8b50b09c8c19",
+    "summary": "",
+    "type": 1,
+    "verify_key": "9122ace842b0bc80b0b66bc3361cf255724431b011c5cf4b6d816a6ae2959dc3"
+}

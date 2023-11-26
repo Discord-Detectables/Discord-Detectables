@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "The Dungeon Of Naheulbeuk: The Amulet Of Chaos"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the dungeon of naheulbeuk the amulet of chaos/naheulbeuk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad43b92e078fd18383a82a65d859e9f9",
+    "id": "1129505223170342932",
+    "name": "Le Donjon de Naheulbeuk : L'Amulette du Désordre",
+    "publishers": [
+        {
+            "id": "524352024339415089",
+            "name": "Artefacts Studio"
+        },
+        {
+            "id": "524352024339415089",
+            "name": "Artefacts Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "970830",
+            "sku": "970830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3ee649cb973694f47200586317a3555ef4909d37bf5cfa8315eb685dc5e1c448"
+}

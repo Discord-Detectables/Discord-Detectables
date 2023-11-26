@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "winkeltje/shopkeeper.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9b76246c66cb300884b4e35001556557",
+    "id": "1124357591590523032",
+    "name": "Winkeltje: The Little Shop",
+    "publishers": [
+        {
+            "id": "524352582500483121",
+            "name": "Sassybot"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "949290",
+            "sku": "949290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f5eccdc04d240b4383804fefaf8f314943cd6e61c5aaf13e6964d36e9d0de4c"
+}

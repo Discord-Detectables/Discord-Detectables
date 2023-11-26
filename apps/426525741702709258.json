@@ -1,0 +1,37 @@
+{
+    "description": "Superflight is a wing-suit flying game.",
+    "developers": [
+        {
+            "id": "521816712211857410",
+            "name": "Grizzly Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "superflight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6c7ddf3e32c7d506073fb7c401f4e526",
+    "id": "426525741702709258",
+    "name": "Superflight",
+    "publishers": [
+        {
+            "id": "521816712211857409",
+            "name": "GrizzlyGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "732430",
+            "sku": "732430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "955dd82cd667f0fb4eee3ff7a4c298db1ecf068e384acd9313733faf4378357f"
+}

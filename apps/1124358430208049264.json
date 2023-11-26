@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "creeper world/creeperworld.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1dbc308b0b1240c10f0fc5dc4a117cc0",
+    "id": "1124358430208049264",
+    "name": "Creeper World Anniversary Edition",
+    "publishers": [
+        {
+            "id": "521816577876951046",
+            "name": "Knuckle Cracker"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "422910",
+            "sku": "422910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9a18ad7fd176acf2944a1aebe80e235190070dd8a90222a9f838ba438eec9738"
+}

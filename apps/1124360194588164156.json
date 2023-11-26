@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a webbing journey demo/a webbing journey.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e194f8ce8d2d5b430a22537349d2df21",
+    "id": "1124360194588164156",
+    "name": "A Webbing Journey Demo",
+    "publishers": [
+        {
+            "id": "1124360195074699364",
+            "name": "Fire Totem Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2093150",
+            "sku": "2093150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c330e8fad9d3835c31a43e84417263b85b115e36ea9c410d2bf75dd52be987e7"
+}

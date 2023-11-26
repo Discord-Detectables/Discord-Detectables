@@ -1,0 +1,38 @@
+{
+    "description": "A free-to-play interactive database of firearms with interactive teardowns and reassembly. Has DLC/ microtransactions.",
+    "developers": [
+        {
+            "id": "521816777039151107",
+            "name": "Noble Empire Corp."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wog/disasm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d96f2675da85174c8d87e0f321ec8b9d",
+    "id": "443159499512086539",
+    "name": "World of Guns: Gun Disassembly",
+    "publishers": [
+        {
+            "id": "521816777039151107",
+            "name": "Noble Empire Corp."
+        }
+    ],
+    "splash": "fda91516c16ebae49123e92cff900a69",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "262410",
+            "sku": "262410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cfbb86c1915640462f9d4856461f9d32653f2a871bf83c093d3f93997b1e320a"
+}

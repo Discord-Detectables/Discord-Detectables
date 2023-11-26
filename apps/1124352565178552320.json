@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "curse of the dead gods/curse of the dead gods.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1a2ccf5e73a13d0f8d30b4b6493d2302",
+    "id": "1124352565178552320",
+    "name": "Curse of the Dead Gods",
+    "publishers": [
+        {
+            "id": "521816541763993601",
+            "name": "Passtech Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1123770",
+            "sku": "1123770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "66eaac756dc072dece64984499c9b8c38488c4d5401e7245fec19e191519df24"
+}

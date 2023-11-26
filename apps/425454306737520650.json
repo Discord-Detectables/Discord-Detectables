@@ -1,0 +1,38 @@
+{
+    "description": "Full Spectrum Warrior is based on a game commissioned by the US Army to train light infantry troops in urban combat situations. The game places soldiers in a tense, hostile, and claustrophobic environment where they must complete a variety of military objectives.",
+    "developers": [
+        {
+            "id": "521816651793039390",
+            "name": "Pandemic Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "full spectrum warrior/launcher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3b939a3a8b8e6b2c930615821299928",
+    "id": "425454306737520650",
+    "name": "Full Spectrum Warrior",
+    "publishers": [
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        }
+    ],
+    "splash": "a64881f78aa7e23b6f0c5bef5ec8d5f9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4520",
+            "sku": "4520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c94cb82c0e8af526df8ed6332f6578d2fe013de0cc5c891a9c441d2c9a5ce85d"
+}

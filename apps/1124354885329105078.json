@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/driftland-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59d907db30c3aa37766f8f54bc7aa546",
+    "id": "1124354885329105078",
+    "name": "Driftland: The Magic Revival",
+    "publishers": [
+        {
+            "id": "524352807856242721",
+            "name": "Star Drifters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "718650",
+            "sku": "718650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7706add4b290165e3238e657776ebe04127b2db95365719e1ed228e1ec6ba3ee"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "space commander war and trade/spacecommander.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b59054f20c03bac6489eeb1eabe2c865",
+    "id": "1124358817950486689",
+    "name": "Space Commander: War and Trade",
+    "publishers": [
+        {
+            "id": "1124353081677721710",
+            "name": "Home Net Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1449750",
+            "sku": "1449750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4049663af2f98559607365e6041e0160d3945f0316bbaa38f6500147152acb8a"
+}

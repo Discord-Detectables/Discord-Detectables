@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "osmos/osmos.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d86d1d2dce6989b3e7aee90a21caa381",
+    "id": "1124358850166915092",
+    "name": "Osmos",
+    "publishers": [
+        {
+            "id": "524352039271006209",
+            "name": "Hemisphere Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "29180",
+            "sku": "29180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "27f2e097066b1504ac69d7eb2d67c1d6a416e0673e9fb373575f1b7a72ed6f57"
+}

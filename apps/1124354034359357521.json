@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ixion/ixion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1025a0113a81f1f62fd2a8b56e01c31d",
+    "id": "1124354034359357521",
+    "name": "IXION",
+    "publishers": [
+        {
+            "id": "524352372823162886",
+            "name": "Bulwark Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1113120",
+            "sku": "1113120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a0bb1ac096629336bed3781b137f43ba50598e90de2d98432c53ee333b6c8c33"
+}

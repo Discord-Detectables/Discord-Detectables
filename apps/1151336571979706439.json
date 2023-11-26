@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "urbo dream one/urbo dream one.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b549fb6ee2de9e9cbf9f340720926aa5",
+    "id": "1151336571979706439",
+    "name": "URBO: Dream One",
+    "publishers": [
+        {
+            "id": "1124353342299189248",
+            "name": "Door 407"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2529130",
+            "sku": "2529130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "910ff24f7c21af760194730ab23fb3e86c97d7da8c0807368f9d119975641ae0"
+}

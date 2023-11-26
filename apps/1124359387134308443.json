@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stars end/stars end.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "51583ef8df4df0a3c5953a236658792f",
+    "id": "1124359387134308443",
+    "name": "Stars End",
+    "publishers": [
+        {
+            "id": "524352160805158934",
+            "name": "Reverie World Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "623340",
+            "sku": "623340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e124b657def79b09325b83c75da1aaea47805d3574df45cc8dba97575ec02d1a"
+}

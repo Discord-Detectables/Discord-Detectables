@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "egypt old kingdom/egypt old kingdom.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df687859e3a209facafac8ecbbf74823",
+    "id": "1124359281668534445",
+    "name": "Egypt: Old Kingdom",
+    "publishers": [
+        {
+            "id": "524352426241949697",
+            "name": "Clarus Victoria"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "646500",
+            "sku": "646500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ee549da75165b8dd77489be1c369eca2f3e6d6667c79ba3fe80055c595f92e41"
+}

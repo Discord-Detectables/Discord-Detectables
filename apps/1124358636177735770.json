@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a good snowman is hard to build/snowman.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fb1004d376a815984fe89ba6d384546f",
+    "id": "1124358636177735770",
+    "name": "A Good Snowman Is Hard To Build",
+    "publishers": [
+        {
+            "id": "524352532575813645",
+            "name": "Alan Hazelden"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316610",
+            "sku": "316610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb854e53b6c15b94ec0ff3847e09fd68d1e61568c0a12f7d29e46c3b8681da63"
+}

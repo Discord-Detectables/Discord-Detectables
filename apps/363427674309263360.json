@@ -1,0 +1,27 @@
+{
+    "description": "Sven Co-Op was originally a half-life mod allowing players to play through the Half-Life campaign and a selection of custom maps cooperatively. On July 16th, 2013 it was announced that it would be coming to Steam with Valve's blessing as a stand alone game.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "svencoop.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "170051548284583937",
+    "hook": true,
+    "icon": "8c3a3bcf6fdbbc99bf830fb934a1ac04",
+    "id": "363427674309263360",
+    "name": "Sven Co-op",
+    "splash": "dfc813614965b0ce655851f0c2eecb9f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "225840",
+            "sku": "225840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2a36b97579520407119c5814d46a78eb4c32f8eb30ea3d09102edb27543ccb40"
+}

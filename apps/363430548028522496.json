@@ -1,0 +1,38 @@
+{
+    "description": "Take on the role of Gordon Freeman as he escapes the disastrous aftermath of an experiment gone wrong in the Black Mesa Research Facility.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16fa1dfcd0282e4d13c97c928f163b7d",
+    "id": "363430548028522496",
+    "name": "Half-Life",
+    "publishers": [
+        {
+            "id": "521816549666062336",
+            "name": "Sierra"
+        }
+    ],
+    "splash": "149210e7069943518df545565dbb8f7f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "70",
+            "sku": "70"
+        }
+    ],
+    "type": 1,
+    "verify_key": "88edcb0fe3c3e00d20fe7b574dabac9e83582ec72282449914d8d64174f72fdc"
+}

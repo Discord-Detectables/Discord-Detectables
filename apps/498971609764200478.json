@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Neo Scavenger"
+    ],
+    "description": "Neo Scavenger is a post apocalyptic turn-based roleplaying survial game.",
+    "developers": [
+        {
+            "id": "521816576010223617",
+            "name": "Blue Bottle Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neoscavenger.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "06bbe97fba1302d1ae2c6ebfde60e835",
+    "id": "498971609764200478",
+    "name": "NEO Scavenger",
+    "publishers": [
+        {
+            "id": "521816576010223617",
+            "name": "Blue Bottle Games"
+        }
+    ],
+    "splash": "63efbda0692db08d3b0b44f501009f42",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "248860",
+            "sku": "248860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e5dfb5c30eb2fa9466c67e66a0c8f6bb7053780696c411e01a53ebb2bd567866"
+}

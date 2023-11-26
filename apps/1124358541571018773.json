@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "train mechanic simulator 2017/tms.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "691e12c1efbc6208d3bc8698de6a51f8",
+    "id": "1124358541571018773",
+    "name": "Train Mechanic Simulator 2017",
+    "publishers": [
+        {
+            "id": "1124358542023999579",
+            "name": "Si7 Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "538810",
+            "sku": "538810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "788327a328bb2b07fdfa9c3c8abe96b6cf7acaaa5adc9b110b2455acf3ca370a"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Like the title suggests, Moon takes place on the moon where explorers discover a hatch that leads them to a startling discovery.",
+    "developers": [
+        {
+            "id": "521816527918333964",
+            "name": "Renegade Kid"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "to the moon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d03ba27c6d92f389d8959d7c5770358c",
+    "id": "462829880615370762",
+    "name": "To the Moon",
+    "publishers": [
+        {
+            "id": "521816527918333963",
+            "name": "Mastiff, LLC"
+        }
+    ],
+    "splash": "21f8ce23714e07fe6aaea060901c7f12",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "206440",
+            "sku": "206440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "04eb52d42990e1810adab69813ddc0db90e3b63be046a6689f6a26b05033a841"
+}

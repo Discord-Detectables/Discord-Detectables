@@ -1,0 +1,52 @@
+{
+    "description": "Touted as \"a hardcore restaurant sim\", this game will have you buying, preparing, and serving food to make your restaurant succeed.",
+    "developers": [
+        {
+            "id": "521816627767934976",
+            "name": "Vertigo Gaming Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "csdsteambuild.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "csdgogbuild.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eda6211393a99262a6093d102dd91f64",
+    "id": "496558661041127444",
+    "name": "Cook, Serve, Delicious!",
+    "publishers": [
+        {
+            "id": "521816627767934976",
+            "name": "Vertigo Gaming Inc."
+        },
+        {
+            "id": "521816642762833922",
+            "name": "Vertigo Gaming"
+        }
+    ],
+    "splash": "4d744ccf0a15788c846190f0fd7922ca",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "247020",
+            "sku": "247020"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "62c3da9bb58b9ec7b96eeb661241f488b4ced7cf7b2f7622182241f42303223f"
+}

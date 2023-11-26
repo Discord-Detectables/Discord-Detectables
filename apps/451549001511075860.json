@@ -1,0 +1,61 @@
+{
+    "aliases": [
+        "S.K.I.L.L. - Special Force 2 ",
+        "Special Force 2 SEA"
+    ],
+    "description": "Fast paced first-person shooter from Gameforge 4D GmbH.",
+    "developers": [
+        {
+            "id": "521816736891273218",
+            "name": "Dragonfly Game Design, LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "skill/dfufg.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "games/specialforce2/binaries/win32/sf2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "skill/dfubg.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "s.k.i.l.l/binaries/win32/sf2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "81aae327b845ac6ee8e95901f8fd751a",
+    "id": "451549001511075860",
+    "name": "S.K.I.L.L. - Special Force 2",
+    "publishers": [
+        {
+            "id": "521816736891273216",
+            "name": "Dragonfly GF Co., LTD"
+        },
+        {
+            "id": "521816498541428766",
+            "name": "GameForge"
+        }
+    ],
+    "splash": "b6a994e3ad39dd9b95b13dcb9b9bf1ce",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "286940",
+            "sku": "286940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "67826e1952447e0d19b5726bb9cd4f96ffe27d4bd1fc6570c5ad3c77d3e36cfb"
+}

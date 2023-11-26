@@ -1,0 +1,38 @@
+{
+    "description": "A wave-based survival FPS with a '90s fever dream' aesthetic.",
+    "developers": [
+        {
+            "id": "521816659519078410",
+            "name": "Sorath"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "devildaggers/dd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d30b9c2d0f30e9c9f5aa272b5b02cb25",
+    "id": "496571420579463168",
+    "name": "Devil Daggers",
+    "publishers": [
+        {
+            "id": "521816659519078410",
+            "name": "Sorath"
+        }
+    ],
+    "splash": "c795426d9f573af960fd4928aab7929d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "422970",
+            "sku": "422970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f90dc8fbce95d78b90958afedbd6ad55076e539abbbdedc2b669d36f8048bef5"
+}

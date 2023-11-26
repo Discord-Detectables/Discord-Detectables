@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/surgeonvr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00246a44aa69c5c82d66da27eb20b35a",
+    "id": "1124353209205542942",
+    "name": "Surgeon Simulator VR: Meet The Medic",
+    "publishers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "457420",
+            "sku": "457420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5f858e4ea5baae71684cc27902b0a92bdce9842c3f5703c5b28d715c993a28e3"
+}

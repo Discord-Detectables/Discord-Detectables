@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the coma 2 vicious sisters/thecoma2vicioussisters.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "75b687b5e4e88db52d0d2d17b0cba0ef",
+    "id": "1124359125799813130",
+    "name": "The Coma 2: Vicious Sisters",
+    "publishers": [
+        {
+            "id": "524352454221889570",
+            "name": "Devespresso Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1045720",
+            "sku": "1045720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "04b3a2e158fe7e411c8b0a384963c98f0d6dcb138a515b4a763de54257531571"
+}

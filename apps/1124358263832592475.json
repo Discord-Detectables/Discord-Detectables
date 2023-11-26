@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/mxgp6-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "919af31503e8c147457b0bb361604690",
+    "id": "1124358263832592475",
+    "name": "MXGP 2020 - The Official Motocross Videogame",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1259800",
+            "sku": "1259800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7a487ddf962295128876cacc5a3a5853b7cda5ce7a596c5e958f29e93f316062"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bomb bots arena/bomb bots arena.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab71e18aa0ffded15ab54bc8d4fdea1d",
+    "id": "1124353661867405533",
+    "name": "Bomb Bots Arena",
+    "publishers": [
+        {
+            "id": "1124353662332981308",
+            "name": "Tiny Roar"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "754050",
+            "sku": "754050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "efe0609e8b08060876dd8f42e952a1c26b1f2dab98452fdff88ccf27d5e344b7"
+}

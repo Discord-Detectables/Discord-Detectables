@@ -1,0 +1,32 @@
+{
+    "description": "MMORPG set in ancient China.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "9dragons/rfstl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e70e4e6205ba9e56870cc6ebaaad0842",
+    "id": "504399459426369587",
+    "name": "9Dragons",
+    "publishers": [
+        {
+            "id": "521816780826607616",
+            "name": "JoongWon Games"
+        }
+    ],
+    "splash": "de96caa88e1fe3fa499be8513efb847a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "390100",
+            "sku": "390100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "35d4d38d89d5a9a245359830afbcd8b3b4f4101befb73ca90b735de97af1573a"
+}

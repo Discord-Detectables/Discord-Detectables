@@ -1,0 +1,38 @@
+{
+    "description": "A PS3-exclusive free-roaming RPG developed by Compile Heart. It is unrelated to MUGEN, the popular open source fighting game engine.",
+    "developers": [
+        {
+            "id": "521816535304503320",
+            "name": "Compile Heart, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mugensouls.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0e3c140da242d31add971ff41985a7e7",
+    "id": "498943830582755368",
+    "name": "Mugen Souls",
+    "publishers": [
+        {
+            "id": "521816535304503320",
+            "name": "Compile Heart, Inc."
+        }
+    ],
+    "splash": "ac3a9910f7e4fde0a9359cecc811c728",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "389870",
+            "sku": "389870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "273cee62e0f0413e945af6ba11ac58fdffe77339cdd2b9465ffb569a4e3936fc"
+}

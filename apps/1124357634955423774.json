@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the stillness of the wind/stillnesswin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "33a20ca7d1f3e32866f9eccf5105e9d4",
+    "id": "1124357634955423774",
+    "name": "The Stillness of the Wind",
+    "publishers": [
+        {
+            "id": "1124357635504885851",
+            "name": "Memory of God / Lambic Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "828900",
+            "sku": "828900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d3692ce8c83823e58a5f1f8ce2843731a070ef4b972169a86698904b2db38287"
+}

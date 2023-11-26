@@ -1,0 +1,52 @@
+{
+    "aliases": [
+        "Watch Dogs"
+    ],
+    "description": "A third-person open-world game from Ubisoft, set in a dark alternate version of the US where corporations track and catalog all online behavior over a vast data network. A vigilante group called the Watch_Dogs hacks into this data, using it to hunt criminals.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "watch_dogs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cdc7537877210500b250c849478329f2",
+    "id": "425440319509626881",
+    "name": "Watch_Dogs",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816510730338325",
+            "name": "Ubisoft"
+        }
+    ],
+    "splash": "d58d47807f14a17fce011e04de7f8283",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "uplay",
+            "id": "274",
+            "sku": "274"
+        },
+        {
+            "distributor": "steam",
+            "id": "243470",
+            "sku": "243470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cc5d3304bb7ee399254886718ef15654ff7a77da54fbbae77edc348f7581f9b9"
+}

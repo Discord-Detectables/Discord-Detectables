@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "exe/cotm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "facff0eafacc33fecd0bb37b0b090776",
+    "id": "1124354190488121365",
+    "name": "Bloodstained: Curse of the Moon",
+    "publishers": [
+        {
+            "id": "521816667756560387",
+            "name": "Inti Creates Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "838310",
+            "sku": "838310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2babf4ed17c91de0d6a6a5507854f16f65e06823956aabbe7c06773fa76d7a5b"
+}

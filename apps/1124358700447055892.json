@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/ghostsoftabor-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8fed89586f705791a685afdd2dbc18b4",
+    "id": "1124358700447055892",
+    "name": "Ghosts Of Tabor",
+    "publishers": [
+        {
+            "id": "1124358700958756945",
+            "name": "Combat Waffle Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1957780",
+            "sku": "1957780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "66d1ecdfba69defb3d2d1d6ac003e54bed69baaf5f18a1c1824e3b2b09b2c761"
+}

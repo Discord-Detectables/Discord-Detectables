@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yolomouse/yolomouse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff4b13c7f203f097a69e65da2d54dcdb",
+    "id": "1124356272565796945",
+    "name": "YoloMouse",
+    "publishers": [
+        {
+            "id": "1124356273060720670",
+            "name": "Dragonrise Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1283970",
+            "sku": "1283970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "605202e8f44f152b73d24c538f298bf416d72bf5428b2df30a68f9f8ccbbb099"
+}

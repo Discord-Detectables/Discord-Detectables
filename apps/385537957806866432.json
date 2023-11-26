@@ -1,0 +1,38 @@
+{
+    "description": "Coffee Stain Studios' sequel to Sanctum. First-person tower defense in space, now on consoles.",
+    "developers": [
+        {
+            "id": "521816595153158147",
+            "name": "Coffee Stain Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sanctumgame-win32-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7251bf5330014ca4eb46d3a5ced3a237",
+    "id": "385537957806866432",
+    "name": "Sanctum 2",
+    "publishers": [
+        {
+            "id": "521816595153158147",
+            "name": "Coffee Stain Studios"
+        }
+    ],
+    "splash": "653be3fc2bf2baee070d0a70094efe10",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "210770",
+            "sku": "210770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3f8bb0c9b204a50a2fe3941f86f0c725b050ca5a37490e0f3a662db7375d4ce1"
+}

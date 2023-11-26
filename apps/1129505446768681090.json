@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "TYRONE vs COPS"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tyrone vs cops/tyronevscops.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2e9879f09dfb9cbac60debdcce6dcd7d",
+    "id": "1129505446768681090",
+    "name": "Tyrone vs Cops",
+    "publishers": [
+        {
+            "id": "1124357256474013836",
+            "name": "Team SNEED"
+        },
+        {
+            "id": "1124357256474013836",
+            "name": "Team SNEED"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1853200",
+            "sku": "1853200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b6157357a5a36630fd9e6331f4c1cb1f3eb7644b3842bd4442dd96ad7043fab7"
+}

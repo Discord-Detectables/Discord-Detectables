@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "My Free Zoo"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "myfreezoo/myfreezoo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fefb18ab244caffdce0c2864de2d5827",
+    "id": "1129504994027126845",
+    "name": "My Free Zoo",
+    "publishers": [
+        {
+            "id": "524352980460503050",
+            "name": "upjers"
+        },
+        {
+            "id": "521816710106447875",
+            "name": "KING Art"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "694130",
+            "sku": "694130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7b88c7c3284dee61203df973adaf5a83e08adb9f5b445700240473c3539c58a6"
+}

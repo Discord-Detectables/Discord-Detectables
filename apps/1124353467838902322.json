@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "use your words/uyw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eafe30489dadc30bd0350ba9aaaf00f5",
+    "id": "1124353467838902322",
+    "name": "Use Your Words",
+    "publishers": [
+        {
+            "id": "1124353468304478308",
+            "name": "Smiling Buddha Games, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "521350",
+            "sku": "521350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8913b0006db57f5ec6a9a8c963f0fa148fe0d2720cc10cbca24e2d98bf401f0"
+}

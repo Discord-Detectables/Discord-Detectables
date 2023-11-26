@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "th16tr/th16.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b10fd6a7d9ebbcdef5e7fbaf05313d7c",
+    "id": "1124360510826098868",
+    "name": "東方天空璋 ～ Hidden Star in Four Seasons. Demo",
+    "publishers": [
+        {
+            "id": "1124357607310770266",
+            "name": "上海アリス幻樂団"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "752490",
+            "sku": "752490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e76bfb1f649fa20a48de9d053e209c7c6adf3183750009656f235e588c192cd4"
+}

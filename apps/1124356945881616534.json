@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kingspray graffiti/kingspray.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc205c3d58a7ac52043999529384c4c4",
+    "id": "1124356945881616534",
+    "name": "Kingspray Graffiti",
+    "publishers": [
+        {
+            "id": "1124356946376540191",
+            "name": "Andrew Bates"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "471660",
+            "sku": "471660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7955cbb10a54ae180273c352777a88cb05352137a2cf8ebac60290371101eea9"
+}

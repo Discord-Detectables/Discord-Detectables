@@ -1,0 +1,38 @@
+{
+    "description": "Sakura Spirit is a visual novel game published by Sekai Project.",
+    "developers": [
+        {
+            "id": "521816532288798741",
+            "name": "Winged Cloud"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sakura spirit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0e1e3afdd03163abb77e14c5c87d7a89",
+    "id": "504030205481058304",
+    "name": "Sakura Spirit",
+    "publishers": [
+        {
+            "id": "521816532288798739",
+            "name": "Sekai Project"
+        }
+    ],
+    "splash": "efb8dd9a44eb212ba63ad52f6a6cc229",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "313740",
+            "sku": "313740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ccdbd02f87763e66dde2b246c512a6ba2784014e3c258d1324ffe111de03fd82"
+}

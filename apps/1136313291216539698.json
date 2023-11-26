@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "drive21/drive 21.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f52f676ccbe3d78826f09cc8d30159f4",
+    "id": "1136313291216539698",
+    "name": "Drive 21",
+    "publishers": [
+        {
+            "id": "1124356040176185424",
+            "name": "Quadfix Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1416520",
+            "sku": "1416520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9fd34df026ab062f4b3df309215a30bc81feae4e69268770b4c1fe393cd37017"
+}

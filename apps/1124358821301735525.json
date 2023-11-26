@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rune factory 5/rune factory 5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bbecc2164991986e32351fd6034911de",
+    "id": "1124358821301735525",
+    "name": "Rune Factory 5",
+    "publishers": [
+        {
+            "id": "1124354203360444596",
+            "name": "Marvelous Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1702330",
+            "sku": "1702330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0b957453993daa942eee303cb79193c0988236c3e23f020a4d682c45120932f7"
+}

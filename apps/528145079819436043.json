@@ -1,0 +1,48 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "02d30a18c27cd6965211ac2edd0fd954",
+    "description": "Join 35+ million players in Paladins, the free-to-play fantasy team-based shooter sensation. Wield guns and magic as a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play.",
+    "developers": [
+        {
+            "id": "562713786377568260",
+            "name": "Evil Mojo Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "paladinseac.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "paladins.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "551143380948746251",
+    "hook": true,
+    "icon": "02d30a18c27cd6965211ac2edd0fd954",
+    "id": "528145079819436043",
+    "name": "Paladins",
+    "primary_sku_id": "528145079819436043",
+    "publishers": [
+        {
+            "id": "521816544939081737",
+            "name": "Hi-Rez Studios"
+        }
+    ],
+    "slug": "paladins",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "444090",
+            "sku": "444090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "12c6ea36414fae641edb3aaeffe1818e932c9c00a771cf4ab9f53d2f70280f66"
+}

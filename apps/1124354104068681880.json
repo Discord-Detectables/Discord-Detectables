@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hylics/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "122581a36a34f5900a8f7c6d87360d6a",
+    "id": "1124354104068681880",
+    "name": "Hylics",
+    "publishers": [
+        {
+            "id": "524352468453294101",
+            "name": "Mason Lindroth"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "397740",
+            "sku": "397740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d7c67df9e5c1c03c58322f0b7318745dfef9fa1fbdb06cd887ef60d29456d278"
+}

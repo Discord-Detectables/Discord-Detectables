@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/peekaboo-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "960d743f33e22b78f4385a58259fa870",
+    "id": "1124352534438490193",
+    "name": "Peekaboo",
+    "publishers": [
+        {
+            "id": "1124352534941814866",
+            "name": "Redaster Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1048100",
+            "sku": "1048100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2dc0813ebcd745566b5127d937e142acd5a370018a92046dfab1d00a990f6166"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gladiator guild manager prologue/gladiator manager.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "22cd29e721dd2ad1238995e59083ce3c",
+    "id": "1124356491869171772",
+    "name": "Gladiator Guild Manager: Prologue",
+    "publishers": [
+        {
+            "id": "1124355425647742976",
+            "name": "Entertainment Forge"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1332470",
+            "sku": "1332470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c4a82527e66b35854401fab16e684b8ae0a9bc291e0b2bcc6378bc16ebf8b567"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idle research/idle research.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b83f7b0341899f42722e74515ee81418",
+    "id": "1124353774673211402",
+    "name": "Idle Research",
+    "publishers": [
+        {
+            "id": "1124353775214284810",
+            "name": "CryptoGrounds Games LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1482860",
+            "sku": "1482860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "739abfb1d8ead552b357a0bc2b5a323b8b708c76ec297f69f96d794f0928733f"
+}

@@ -1,0 +1,47 @@
+{
+    "aliases": [
+        "RollerCoaster Tycoon 2"
+    ],
+    "description": "Stretch your imagination further to build bigger parks and higher coasters!",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "openrct2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "rct2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac387a288927b3af8b478ce352146158",
+    "id": "467979045179752448",
+    "name": "RollerCoaster Tycoon 2: Triple Thrill Pack",
+    "primary_sku_id": "489157993385033788",
+    "publishers": [
+        {
+            "id": "521816550596935691",
+            "name": "Atari Interactive, Inc."
+        }
+    ],
+    "slug": "rollercoaster-tycoon-2-triple-thrill-pack",
+    "splash": "ffc1daaa7357e6bf4af422af6e77930a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285330",
+            "sku": "285330"
+        },
+        {
+            "distributor": "discord",
+            "id": "489157993385033788",
+            "sku": "489157993385033788"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2081e62d4fe693ec4c46259e1428059cdc574f91b6b70854f3843367eab3b7b9"
+}

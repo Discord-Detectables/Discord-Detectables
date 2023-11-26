@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/remothered-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7023ab8ccba94b3b752f5546c24605c4",
+    "id": "1124359517728161902",
+    "name": "Remothered: Tormented Fathers",
+    "publishers": [
+        {
+            "id": "524352770661416982",
+            "name": "Stormind Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "633360",
+            "sku": "633360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "243314640ea46931a9e4e598fb0fd9fcf2bdbbe8e45239f83325b28bba3713bd"
+}

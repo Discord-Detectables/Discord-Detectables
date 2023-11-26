@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hand of fate 2/hand of fate 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad73226124730ffcd6a672eb89a44a2c",
+    "id": "1124353137625546762",
+    "name": "Hand of Fate 2",
+    "publishers": [
+        {
+            "id": "521816763839545354",
+            "name": "Defiant Development"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "456670",
+            "sku": "456670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ae4f2dfda4a206c8c969ba5911918293e774b4c344fbf44f8a3f7917a217e747"
+}

@@ -1,0 +1,42 @@
+{
+    "aliases": [
+        "LEGO - The Hobbit",
+        "LEGO? The Hobbit?"
+    ],
+    "description": "LEGO returns to Middle-earth with this video game adaptation of the first two Hobbit movies.",
+    "developers": [
+        {
+            "id": "521816611506880523",
+            "name": "TT Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legohobbit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "17fd88e98fa215635d3f4e79b8de7773",
+    "id": "425439134551900190",
+    "name": "LEGO® The Hobbit™",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "ba120bbdbee29e925c6d78bc31355a51",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285160",
+            "sku": "285160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "339c5c0553777ef0f5a481b1abdb6d2b0f94b72ac2f7ca0e8b915378eb2f45a0"
+}

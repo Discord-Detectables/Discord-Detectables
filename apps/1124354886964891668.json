@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "isle of ewe/isle of ewe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "977fa54cf5e5fea756533f92a1ab2c79",
+    "id": "1124354886964891668",
+    "name": "Isle of Ewe",
+    "publishers": [
+        {
+            "id": "1124354887426261033",
+            "name": "Miles Peter Hatcliff"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1231590",
+            "sku": "1231590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e42987d9058a40541bdb8761dff02ffb8978a424a0b77b622dc107b43868f41b"
+}

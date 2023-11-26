@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sound slide/soundslide.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4cebefa0f93a0ebf93002724d9d424b6",
+    "id": "1124355155039629382",
+    "name": "Sound Slide",
+    "publishers": [
+        {
+            "id": "1124355155492622436",
+            "name": "Sound Slide Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "994190",
+            "sku": "994190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d17f1a8c725efe828fee7d6d2c00824991661a44da8074a14b35234aa1b56b12"
+}

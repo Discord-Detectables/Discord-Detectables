@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spiderheck demo/spiderheck_demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f15f74c10fd2087001365bc3336d42e7",
+    "id": "1124357644371640320",
+    "name": "SpiderHeck Demo",
+    "publishers": [
+        {
+            "id": "1124352934226968586",
+            "name": "Neverjam"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1740350",
+            "sku": "1740350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d3f09181e70ad6910a5a84503c838397bfcff548c0fa8f931cc51d007e1fc674"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "isle of arrows/isle of arrows.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f65635b723fe1a7ee867dc6d90ed8e99",
+    "id": "1124359685877805116",
+    "name": "Isle of Arrows",
+    "publishers": [
+        {
+            "id": "1124359686334992594",
+            "name": "Gridpop"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1946970",
+            "sku": "1946970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f898422d557d014b5bafbf5d16bb3e74f503bfc6b4992efb75aec5f9ee090b82"
+}

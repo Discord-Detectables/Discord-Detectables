@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blast zone! tournament/bz.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2f5a62de49c05b7cb87eba71d1cc4f7",
+    "id": "1124357412124639282",
+    "name": "Blast Zone! Tournament",
+    "publishers": [
+        {
+            "id": "524353226670342144",
+            "name": "Victory Lap Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "649190",
+            "sku": "649190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5132eb4d18cbf20d7ba969f7a2878e64111013be94c9652350b5446a0e08e29e"
+}

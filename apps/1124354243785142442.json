@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "american theft 80s prologue/american theft 80s prologue.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6be733dd0a35296fb5a0b85d8827326",
+    "id": "1124354243785142442",
+    "name": "American Theft 80s: Prologue",
+    "publishers": [
+        {
+            "id": "524353151290048521",
+            "name": "Noble Muffins"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1868300",
+            "sku": "1868300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1872943431ac61346c10f04dfc216ad57cf63d02bdeea8809737dd5821d1c09"
+}

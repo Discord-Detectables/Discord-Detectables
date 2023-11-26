@@ -1,0 +1,38 @@
+{
+    "description": "Dead Rising 2 is a third-person action-adventure survival horror game that takes place five years after the end of the original Dead Rising, moving its zombie apocalypse setting into the glamorous Fortune City.",
+    "developers": [
+        {
+            "id": "521816574512857089",
+            "name": "Capcom Game Studios Vancouver"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadrising2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c8ff8939c9b1d695a624c2d887c38d6b",
+    "id": "481570202988052490",
+    "name": "Dead Rising 2",
+    "publishers": [
+        {
+            "id": "521816574512857088",
+            "name": "Capcom"
+        }
+    ],
+    "splash": "17c5c6d51c192873f7cb18cae6006983",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "45740",
+            "sku": "45740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "77c922af8c52bb3e04b5fbfd92ae92d39ade7177a7128f6a7599c7ca0ad7e1bb"
+}

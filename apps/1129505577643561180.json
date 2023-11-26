@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Trader Life Simulator"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/traderlifesimulator-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0cca39ac32dc0859b6487019845bdc3",
+    "id": "1129505577643561180",
+    "name": "TRADER LIFE SIMULATOR",
+    "publishers": [
+        {
+            "id": "1129505578247536835",
+            "name": "DNA ARMY GAMING"
+        },
+        {
+            "id": "1129505580684419183",
+            "name": "Mohammed Qasrawi"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1415660",
+            "sku": "1415660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "261fd88adb99ec1e177347243d0d1d922e47d7564e75a725b5ba49af22c2f3cd"
+}

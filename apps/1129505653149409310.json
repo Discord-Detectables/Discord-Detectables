@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coffee talk episode 2 hibiscus & butterfly/cthb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "18ac3f836a4965b4bbd993d384451a1d",
+    "id": "1129505653149409310",
+    "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "publishers": [
+        {
+            "id": "524352299816976398",
+            "name": "Toge Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1663220",
+            "sku": "1663220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2ccd82c00cf4f61b36b87e29f7de7f597295a75aeedcd71f80ad619617a68122"
+}

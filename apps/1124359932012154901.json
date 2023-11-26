@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the house of da vinci 2/thodv2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dc1f4da6d01a61845a1539f761a9877c",
+    "id": "1124359932012154901",
+    "name": "The House of Da Vinci 2",
+    "publishers": [
+        {
+            "id": "1124355323252199434",
+            "name": "Blue Brain Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1259840",
+            "sku": "1259840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "288b389b7df55ce470f312bc069d6fe63339d26147d21da95917014db5a70c2c"
+}

@@ -1,0 +1,47 @@
+{
+    "cover_image": "43ee6a5a76785337d380b9d6f45ce31c",
+    "description": "Descenders Discord App",
+    "developers": [
+        {
+            "id": "521816688073637898",
+            "name": "RageSquid"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "descenders.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "336514640202956800",
+    "hook": true,
+    "icon": "a4e443ee63b2a247a413da82ace6dbdf",
+    "id": "375540160571637760",
+    "name": "Descenders",
+    "primary_sku_id": "489420695454089217",
+    "publishers": [
+        {
+            "id": "521816652745277461",
+            "name": "No More Robots"
+        }
+    ],
+    "slug": "descenders",
+    "splash": "a1f005782e332c925c4c3fee4bf25295",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "681280",
+            "sku": "681280"
+        },
+        {
+            "distributor": "discord",
+            "id": "489420695454089217",
+            "sku": "489420695454089217"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c8595b05bd749284d3ec2f8efe28b5f0fcd35ae8075179126fac9af7d0dc63c0"
+}

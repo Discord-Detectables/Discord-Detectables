@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "desktop ricardo/desktopricardo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee8ba168578bc7759a04961d6cdb58ab",
+    "id": "1124359551416815707",
+    "name": "Desktop Dаnce",
+    "publishers": [
+        {
+            "id": "1124359551886573578",
+            "name": "Ricardo Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1333850",
+            "sku": "1333850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e688c03252cabf1eee31b5d1e3176a10efdeef774a6ef7bbb1dc4e44c3e1ff9"
+}

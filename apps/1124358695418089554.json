@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hard truck apocalypse/hta.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2d6d254e6966d3427f3e571115d34229",
+    "id": "1124358695418089554",
+    "name": "Hard Truck Apocalypse / Ex Machina",
+    "publishers": [
+        {
+            "id": "521816790083567631",
+            "name": "Targem Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285500",
+            "sku": "285500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "acf6f0d856c33babf4b287c373006409d6b9b1eb85d4f0d257bd4730f78f6f79"
+}

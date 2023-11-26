@@ -1,0 +1,42 @@
+{
+    "description": "A freeware top-down co-operative shooter where a squad of marines must investigate and prevent the spread of a rampant alien infestation. It was originally a total conversion for Unreal Tournament 2004 before its team, hired by Valve for other projects, completed it as a side-project.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "alien swarm/swarm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7d33eb629124122694f4bf19077f8b4a",
+    "id": "449531408730423296",
+    "name": "Alien Swarm",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        },
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "splash": "bff03d3b394eaa40e600c0f212dd5b4e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "630",
+            "sku": "630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "096e1dbefb43a947c649a0869951a234a07000542c80dc38229e9c17babb937d"
+}

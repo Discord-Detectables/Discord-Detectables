@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dead rising/deadrising.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5754375aac98534a95f0ff19133bf5a",
+    "id": "1124353108483518634",
+    "name": "Dead Rising",
+    "publishers": [
+        {
+            "id": "521816574512857088",
+            "name": "Capcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "427190",
+            "sku": "427190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1224da20f3e113dd9c63225f936fc69478f5fcd8aaac93a7788edf9675fadeb"
+}

@@ -1,0 +1,62 @@
+{
+    "aliases": [
+        "Old School RuneScape",
+        "RuneScape 3",
+        "RuneScape Launcher 2.2.4"
+    ],
+    "description": "RuneScape is a popular browser based MMORPG with large amounts of content for both free-to-play and pay-to-play users.",
+    "developers": [
+        {
+            "id": "521816499950714881",
+            "name": "Jagex Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jagexcache/jagexlauncher/bin/jagexlauncher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "osbuddy64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "runescape.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "swiftkit-rs.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "osbuddy.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "runescape.app",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "303835144073248770",
+    "hook": true,
+    "icon": "337ce51307d4580001d1ab60706dda8a",
+    "id": "357606832899883008",
+    "name": "RuneScape",
+    "publishers": [
+        {
+            "id": "521816499950714881",
+            "name": "Jagex Ltd."
+        }
+    ],
+    "splash": "96854ff580d60286a9009e55dbea9cc2",
+    "summary": "",
+    "type": 1,
+    "verify_key": "5b8193ed96035d044f205f1a7ea4c6cecdef90672505b856c1bca4a211c26d8b"
+}

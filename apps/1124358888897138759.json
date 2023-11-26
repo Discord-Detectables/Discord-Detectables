@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kings bounty armored princess/kb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "956c3c37a82f800ad9b199350404045c",
+    "id": "1124358888897138759",
+    "name": "King's Bounty: Armored Princess",
+    "publishers": [
+        {
+            "id": "524351993586778124",
+            "name": "Katauri Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "3170",
+            "sku": "3170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73c641ec468631b495eb63e9c9692b58c76b256a59682170bf963fffa8d63c57"
+}

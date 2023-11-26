@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zero idle/zeroidle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6d98a12904e937fcb981d16a750f093",
+    "id": "1124356985278705748",
+    "name": "Zero IDLE",
+    "publishers": [
+        {
+            "id": "1124356985748475984",
+            "name": "ZeroWorldwide"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1236240",
+            "sku": "1236240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "83f599494150be56b703097c42f0c237872b427a7e29c30f00b4c2fe584da6be"
+}

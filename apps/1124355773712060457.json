@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "retrograde arena/retrograde arena.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff8b62947d6aa6f945f67025395bca6c",
+    "id": "1124355773712060457",
+    "name": "Retrograde Arena",
+    "publishers": [
+        {
+            "id": "626341625383354368",
+            "name": "Freemergency"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1055210",
+            "sku": "1055210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "031044a755363ce9d1e924f7e02b97c40aef920fd4296c53617817bcd6f11d71"
+}

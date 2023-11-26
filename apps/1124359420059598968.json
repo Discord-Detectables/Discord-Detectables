@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "isis simulator/isis.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0aacd004ac37270393eabb1714e5d0f",
+    "id": "1124359420059598968",
+    "name": "ISIS Simulator",
+    "publishers": [
+        {
+            "id": "1124359420525162628",
+            "name": "BunchOD00dz"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "705600",
+            "sku": "705600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bffea7f7e0efa4cd727a4fb3f6335d1dd0e220f21e674b3a1556128b8729b93d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hitman sniper challenge/hmsc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "82c5583e59609296d191538a838c9fb6",
+    "id": "1124354057788739594",
+    "name": "Hitman: Sniper Challenge",
+    "publishers": [
+        {
+            "id": "521816647678558211",
+            "name": "IO Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "205930",
+            "sku": "205930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7bacd405aad9bca5d8ad65ef23611081650aa8b84011fbd14b152c8011a88b4b"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "take me to the dungeon!!/take me to the dungeon!!.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1bb250266ec3999e171b2ca332367db",
+    "id": "1136161916092424272",
+    "name": "Take Me To The Dungeon!!",
+    "publishers": [
+        {
+            "id": "1136161917786931311",
+            "name": "Hanabi Fuusen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1793250",
+            "sku": "1793250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9641e7376b8123e631d527c71c4132d91fccfb930e21a0f5999bff921dd4c34f"
+}

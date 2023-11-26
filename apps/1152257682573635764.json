@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "we were here expeditions - the friendship/we were here expeditions the friendship.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "97d1e55860fc4fe2eafb8a2a25416874",
+    "id": "1152257682573635764",
+    "name": "We Were Here Expeditions: The FriendShip",
+    "publishers": [
+        {
+            "id": "521816654095843328",
+            "name": "Total Mayhem Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2296990",
+            "sku": "2296990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0c12ae5a9df73b6541bf114b9380ca44a7435d36e96e2303b645603709005e89"
+}

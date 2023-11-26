@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the lego movie 2 videogame/lego the lego movie 2_dx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79d26a39446eeb8962142df899ad2930",
+    "id": "1124357495159279746",
+    "name": "The LEGO® Movie 2 - Videogame",
+    "publishers": [
+        {
+            "id": "521816611506880523",
+            "name": "TT Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "881320",
+            "sku": "881320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dad3a629e0486728d055ad191b284cd93416a2ae8465dcb1cf54dae5a9cf438b"
+}

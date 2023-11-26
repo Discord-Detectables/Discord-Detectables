@@ -1,0 +1,38 @@
+{
+    "description": "Sprint Vector is a first-person racing platformer for VR.",
+    "developers": [
+        {
+            "id": "521816667232403457",
+            "name": "Survios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sprintvector-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3dd82b193758a7ec9fc48ef2689ffb4c",
+    "id": "504050983400374292",
+    "name": "Sprint Vector",
+    "publishers": [
+        {
+            "id": "521816667232403457",
+            "name": "Survios"
+        }
+    ],
+    "splash": "e602327f78c48b5149b2c0438669b26d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "590690",
+            "sku": "590690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d364436376fad3ae153e3c1cfacd074443486b7ab3e3b84f6269bd1d45b85436"
+}

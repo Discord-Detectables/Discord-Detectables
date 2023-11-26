@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "IvAc - IVAO vATC"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ivac.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e27cdeeaced4f2dcc7454922d47473b5",
+    "id": "505139956017266688",
+    "name": "IvAc",
+    "publishers": [
+        {
+            "id": "521816700153495554",
+            "name": "IVAO"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "9ba6d7e006ab5f1bad99356b153488c5456c84419c4b08a4e1305ed8ab59ea68"
+}

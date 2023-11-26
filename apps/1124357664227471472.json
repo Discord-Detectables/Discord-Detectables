@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "360 no scope arena/360noscopearena.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "445bda735dec4048c0badef4c29655be",
+    "id": "1124357664227471472",
+    "name": "360 No Scope Arena",
+    "publishers": [
+        {
+            "id": "1124357664701435945",
+            "name": "Tasty Delicious Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "883100",
+            "sku": "883100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c5d18d110e849e41704cf7db05363075348c0beb9375f4492d363dd25cecf365"
+}

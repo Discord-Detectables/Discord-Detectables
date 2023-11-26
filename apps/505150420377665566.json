@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Offspring Fling"
+    ],
+    "description": "A forest creature must rescue all of her children in this indie puzzle-platformer.",
+    "developers": [
+        {
+            "id": "521816793644531722",
+            "name": "Kyle Pulver"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "offspring fling.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a50dd52a193c1526f3451fe5ba4d27de",
+    "id": "505150420377665566",
+    "name": "Offspring Fling!",
+    "publishers": [
+        {
+            "id": "521816793644531722",
+            "name": "Kyle Pulver"
+        }
+    ],
+    "splash": "a1c4016e6e5324bc321ab3626b4edfd8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "211360",
+            "sku": "211360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "97ae56f5c2cf46f5c45aebfdb02a86a41e8bea89c04268625349eba3cad6464b"
+}

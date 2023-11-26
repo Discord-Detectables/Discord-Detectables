@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mining mechs/mining mechs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7eb9e87fff7e87c538016bb908038775",
+    "id": "1175178569807315056",
+    "name": "Mining Mechs",
+    "publishers": [
+        {
+            "id": "1175178575759032341",
+            "name": "Delayed Victory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1603180",
+            "sku": "1603180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "82bef3ad09a5098ae965e91dfe639a714d6f36ecda99e610bfe7ae23b28921f2"
+}

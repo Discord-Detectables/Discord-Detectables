@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/mxgp5-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "497da8d1f39f3b00550ee8dbfe4e2006",
+    "id": "1124356872036700210",
+    "name": "MXGP 2019 - The Official Motocross Videogame",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1018160",
+            "sku": "1018160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "113fdbdaebaec826b8a920dc34242f78329173384e62bec20fe1f3f8d77c4e4c"
+}

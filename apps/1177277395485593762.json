@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pumping simulator 2/pumping simulator 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e029207a4276d5a43e812acb9f3f9890",
+    "id": "1177277395485593762",
+    "name": "Pumping Simulator 2",
+    "publishers": [
+        {
+            "id": "1129505664096542870",
+            "name": "Lance Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2499470",
+            "sku": "2499470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a0d2d9a34a29899deb9aee4201e602887e1c8170f9f9476429ff8b57c182e391"
+}

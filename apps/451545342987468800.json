@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Rec Room"
+    ],
+    "description": "A collection of various competitive games built from the ground up for VR.",
+    "developers": [
+        {
+            "id": "521816514106621964",
+            "name": "Against Gravity"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "recroom/recroom.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "recroom_release.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8192a2b51d6c9a223fb62722b140cbf5",
+    "id": "451545342987468800",
+    "name": "Rec Room",
+    "publishers": [
+        {
+            "id": "521816514106621964",
+            "name": "Against Gravity"
+        },
+        {
+            "id": "1124352795303231559",
+            "name": "Rec Room"
+        }
+    ],
+    "splash": "6ef7389f18a8f6273b171d13b71ec791",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "471710",
+            "sku": "471710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "709cd0a581875b3c149e9be8ec24f523344dc82b8f07c1eb8ce9e76b3b32c18d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rage of car force/rageofcarforce.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a4bd60885f4633d011c2766ae56919b7",
+    "id": "1124354000679092324",
+    "name": "Rage of Car Force: Car Crashing Games",
+    "publishers": [
+        {
+            "id": "1124354001241124894",
+            "name": "Extreme Developers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "616700",
+            "sku": "616700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e84a7da8ddf1f6ba26fd6dc7daa0a293cd07c28a7857ade62c338aad5816ac40"
+}

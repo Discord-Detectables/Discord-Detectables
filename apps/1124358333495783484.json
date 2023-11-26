@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the test hypothesis rising/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "959f03bade856e656dec82d49f948c7c",
+    "id": "1124358333495783484",
+    "name": "The Test: Hypothesis Rising",
+    "publishers": [
+        {
+            "id": "1124354959492796497",
+            "name": "Randumb Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1282200",
+            "sku": "1282200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c0b8f633c416833906ab323f16e11f4efa50e159c18e9cac51f457b388693311"
+}

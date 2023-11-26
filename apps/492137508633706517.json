@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816522977574923",
+            "name": "LucasArts Entertainment Company LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dark forces/dosbox/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e82ab9b39e2ae6024748de2353aa18ca",
+    "id": "492137508633706517",
+    "name": "Star Wars: Dark Forces",
+    "primary_sku_id": "492428089725419523",
+    "publishers": [
+        {
+            "id": "570702595178627072",
+            "name": "Lucasfilm, Disney"
+        }
+    ],
+    "slug": "star-wars-dark-forces",
+    "splash": "9a175ad2c0900e015973f04f4afd5ca2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492428089725419523",
+            "sku": "492428089725419523"
+        },
+        {
+            "distributor": "steam",
+            "id": "32400",
+            "sku": "32400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "11fab2b6eb28f99a8672b4051c4a7fe3540a75359f00b219ee43cf7efbb5826c"
+}

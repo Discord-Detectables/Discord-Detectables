@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Call of Juarez: Gunslinger"
+    ],
+    "description": "The fourth entry in Techland's Call of Juarez franchise returns to an American Old West setting, telling the story of bounty hunter Silas Greaves.",
+    "developers": [
+        {
+            "id": "521816637956161558",
+            "name": "Techland Sp. z o.o."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cojgunslinger.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b9265ea70ece29deb173bab8397d785d",
+    "id": "425456506431995914",
+    "name": "Call of Juarez - Gunslinger",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "339427341e4b93dab9da79f49467b0f53ba2753cde57f4a81a320a9b8e7b198f"
+}

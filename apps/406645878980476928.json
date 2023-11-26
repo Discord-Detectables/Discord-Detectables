@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Plague Inc."
+    ],
+    "description": "A rebuilt version of the popular mobile game for PC/Mac/Xbox One with new features including 3D graphics, multiplayer, and content sharing.",
+    "developers": [
+        {
+            "id": "521816584076132352",
+            "name": "Ndemic Creations"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "plagueincevolved.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "62cc3a957e12ef559385ae541c32d93a",
+    "id": "406645878980476928",
+    "name": "Plague Inc: Evolved",
+    "publishers": [
+        {
+            "id": "521816584076132352",
+            "name": "Ndemic Creations"
+        }
+    ],
+    "splash": "2e4cfcf9282df03926e2d9bebe621074",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "246620",
+            "sku": "246620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2e4cb02d1c70671f5249f16fc99b92143a2f824c7e1e26ade63cdf2cb502315f"
+}

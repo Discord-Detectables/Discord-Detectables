@@ -1,0 +1,41 @@
+{
+    "description": "The 3rd installment in the Car Mechanic Simulator franchise, and the 1st to be released on consoles.",
+    "developers": [
+        {
+            "id": "521816512512786456",
+            "name": "Red Dot Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cms2018.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e57fa905f4583c227540516e56bbd1d3",
+    "id": "426526355564265479",
+    "name": "Car Mechanic Simulator 2018",
+    "publishers": [
+        {
+            "id": "521816512512786456",
+            "name": "Red Dot Games"
+        },
+        {
+            "id": "521816512516980736",
+            "name": "PlayWay"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "645630",
+            "sku": "645630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a784c82184f339248b4a8ea05e573473c1eb35f14c1f6de9e5007a8414d134bd"
+}

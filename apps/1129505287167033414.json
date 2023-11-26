@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the button/the button.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0e26fb8c459a60cd426153f4ba5946b",
+    "id": "1129505287167033414",
+    "name": "THE BUTTON",
+    "publishers": [
+        {
+            "id": "1129505292435083295",
+            "name": "Elendow"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1999740",
+            "sku": "1999740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a14c9a6b077fcb9c45aa5c2eb5a4397592e9a1ca92c9861e20323b308f417232"
+}

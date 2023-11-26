@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "edge of eternity/edgeofeternity.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "85d0c65bb3cf1224237af33d3141f70b",
+    "id": "1124354714423799878",
+    "name": "Edge Of Eternity",
+    "publishers": [
+        {
+            "id": "524352309573189643",
+            "name": "Midgar Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "269190",
+            "sku": "269190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a4ad1335ac03772e257ed6f628bd82b066a110d0c86ed38b2e296cf650f95e84"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "racing classics/racing classics.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b3d4bbb67e2394b980041faab9db81e",
+    "id": "1124354854689722398",
+    "name": "Racing Classics: Drag Race Simulator",
+    "publishers": [
+        {
+            "id": "1124354855180451910",
+            "name": "T-Bull"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1026110",
+            "sku": "1026110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "503bb472f030f23ad242b05dca7e59dbfeaece3348e16f35f94786e12ddf56fe"
+}

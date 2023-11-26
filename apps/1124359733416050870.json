@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/horror_game-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2d2bf1b9556b7235ca7226a1171a2cae",
+    "id": "1124359733416050870",
+    "name": "Arruyo",
+    "publishers": [
+        {
+            "id": "1124358521077649489",
+            "name": "DigiPen Europe-Bilbao"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1991570",
+            "sku": "1991570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f158a94b05a7e95738ec77faf57978e5e1b144f9b62b1d2ed86f4558aa460ef2"
+}

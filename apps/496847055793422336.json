@@ -1,0 +1,38 @@
+{
+    "description": "Legend of Dungeon is a roguelike beat 'em up with dynamic lighting. It also has up to 4 player local Co-Op.",
+    "developers": [
+        {
+            "id": "521816718956560417",
+            "name": "RobotLovesKitty"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legendofdungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc00c451d4b08609fbeaedc9bcb99a3a",
+    "id": "496847055793422336",
+    "name": "Legend of Dungeon",
+    "publishers": [
+        {
+            "id": "521816718956560416",
+            "name": "Robot Loves Kitty"
+        }
+    ],
+    "splash": "fe1fcbb37857d7fdd222db3e3e1f4ec1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "238280",
+            "sku": "238280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0f521f66f0ccf01e0e6fa0b770c0712c253a61874af9443e465940ef621a0441"
+}

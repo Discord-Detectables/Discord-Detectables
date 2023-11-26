@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/postalredux-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a50c4f83abda5de021868805efc8b192",
+    "id": "1124353804838654003",
+    "name": "POSTAL Redux",
+    "publishers": [
+        {
+            "id": "521816665168543755",
+            "name": "Running With Scissors"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "401680",
+            "sku": "401680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "371d7a8f3b2ad777e5464826ea864227ddeaca75d2eee1aaa06f6cab2e7e61a5"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "icelakes/icelakes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f463cfb0dfaf504103ae18e8c19010a7",
+    "id": "1124356618625232897",
+    "name": "Ice Lakes",
+    "publishers": [
+        {
+            "id": "524352542646206481",
+            "name": "Iceflake Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "393430",
+            "sku": "393430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "32717f38f920e7343baa92ff807a4124f4445667f0b81357b0a0cfbfee59d409"
+}

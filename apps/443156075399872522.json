@@ -1,0 +1,47 @@
+{
+    "description": "Aura Kingdom is a free to play MMO that brings lots of new things to the industry such as 100 floor sky towers, and a class system that focuses on weapon types and advances into multiple weapon types.",
+    "developers": [
+        {
+            "id": "521816701319249954",
+            "name": "X-Legend Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aura kingdom/launcher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "aura kingdom/_launcher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3b54d155942ebf8e097101ec94776f63",
+    "id": "443156075399872522",
+    "name": "Aura Kingdom",
+    "publishers": [
+        {
+            "id": "521816701319249952",
+            "name": "Aeria Games & Entertainment"
+        },
+        {
+            "id": "521816701319249953",
+            "name": "X-Legend"
+        }
+    ],
+    "splash": "0cb9af7d0c73a8f419d4783672d75e2e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "268420",
+            "sku": "268420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "71dee0f76676eec37b41d2d61e6ebbb9083e6b1ed1802b7b2db08261f72bf3a6"
+}

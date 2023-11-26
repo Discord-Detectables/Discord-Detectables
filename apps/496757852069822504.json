@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Final Fantasy XIII-2"
+    ],
+    "description": "Final Fantasy XIII-2 is a direct sequel to Final Fantasy XIII released by Square Enix in early 2012.",
+    "developers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ffxiii2img.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ffxiii2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c28c5ad15e5ba30bbdf95feffdf2f272",
+    "id": "496757852069822504",
+    "name": "FINAL FANTASY XIII-2",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "fa826b8fab639eb197fb860fb8220e8f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "292140",
+            "sku": "292140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "923b5452069ec197ea584b78c6e73e8d6588461ccdb3271389c68adb47353523"
+}

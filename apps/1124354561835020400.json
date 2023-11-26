@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "surgeon simulator experience reality/sser.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1edf3fa2f8f46a463bf5ee0c4619eb4a",
+    "id": "1124354561835020400",
+    "name": "Surgeon Simulator: Experience Reality",
+    "publishers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "518920",
+            "sku": "518920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a90f6e2c8fcd2532e240fd0022dc0b40a562d6ccff0a26090efc730cb0f3cfc0"
+}

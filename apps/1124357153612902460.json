@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/supercross-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7ed8019119d5919f0eef252dc523e2ce",
+    "id": "1124357153612902460",
+    "name": "Monster Energy Supercross - The Official Videogame",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "711750",
+            "sku": "711750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "856c121db0f69b838f988dad8d78665f9f5769f2171077815b8c5f5ba67a21db"
+}

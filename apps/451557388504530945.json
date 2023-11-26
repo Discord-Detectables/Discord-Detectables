@@ -1,0 +1,38 @@
+{
+    "description": "The Fallout series continues in a post-apocalyptic Boston, Massachusetts.",
+    "developers": [
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fallout4vr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5352166fca2f8e43c6ca863b5223e814",
+    "id": "451557388504530945",
+    "name": "Fallout 4 VR",
+    "publishers": [
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "90e77fb339fcc7845a92f6c0e2e328e7",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "611660",
+            "sku": "611660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fc63e9931475f26550bd20a2dd0a4adcc794ef030b6826593d6486a59229eeae"
+}

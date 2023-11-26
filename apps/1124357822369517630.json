@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "frigore/ateeee.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "65967eab822bec4abf20579e7970ae02",
+    "id": "1124357822369517630",
+    "name": "Frigore",
+    "publishers": [
+        {
+            "id": "1124357822856052796",
+            "name": "Filios Christou"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1836220",
+            "sku": "1836220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ed4aba1386e0b8daec74a5a354e8f8c1824fd88863850a2bab438199c815cdcf"
+}

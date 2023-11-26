@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kingdom rush vengeance/kingdom rush vengeance.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b22b3c253f040154e6ebbf6ea69649cc",
+    "id": "1124354306066362388",
+    "name": "Kingdom Rush Vengeance",
+    "publishers": [
+        {
+            "id": "524352191700402180",
+            "name": "Ironhide Game Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1367550",
+            "sku": "1367550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea843a35bbf5c733aaae0eb919011d67f170a5983f0f6103211045f71bf2836b"
+}

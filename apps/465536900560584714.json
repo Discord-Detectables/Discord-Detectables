@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Warhammer 40,000: Dawn of War - Dark Crusade"
+    ],
+    "description": "Dark Crusade is Relic's second expansion pack to Warhammer 40,000: Dawn of War, adding even more units and two new races to the game. The game itself is also available as a stand-alone game without needing the full game or the previous expansion.",
+    "developers": [
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dawn of war dark crusade/graphicsconfig.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dawn of war dark crusade/darkcrusade.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c8dde95768fa90de4e17143d66a43dbe",
+    "id": "465536900560584714",
+    "name": "Warhammer 40,000: Dawn of War - Dark Crusade",
+    "publishers": [
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        },
+        {
+            "id": "521816593798397970",
+            "name": "Relic Entertainment"
+        }
+    ],
+    "splash": "6b7554f5ed242f97d7ae8235f8cea732",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4580",
+            "sku": "4580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "86f6315187f9e72be8505d56b2fedc35f7fa09a8c8f251287a97711158937a73"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "killer frequency/killerfrequency.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9ed7e66d3226aa5e152e08083969484a",
+    "id": "1133821612760780831",
+    "name": "Killer Frequency",
+    "publishers": [
+        {
+            "id": "1124353118428221450",
+            "name": "Team17 Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1903620",
+            "sku": "1903620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a53df91ad625b65e5bfd2ca69d4d44ccd4e6d3d7c1327af68ddd0ea3b786f3e3"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gato roboto/gatoroboto.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dcf390bbd8efad5bdf928e87945242bc",
+    "id": "1124355230872653904",
+    "name": "Gato Roboto",
+    "publishers": [
+        {
+            "id": "524353273537232914",
+            "name": "Doinksoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "916730",
+            "sku": "916730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e4d3154adb69ec50342b941eb05fcfe9eb832626bc7e106f7518aaec0679288"
+}

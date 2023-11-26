@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pharaoh + cleopatra/pharaoh.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "199b060a4a4cc147f857b40c35344470",
+    "id": "1124353868369776680",
+    "name": "Pharaoh + Cleopatra",
+    "publishers": [
+        {
+            "id": "524351494976176128",
+            "name": "Impressions Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "564530",
+            "sku": "564530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e22f92deb9649eecef74ff51ba942c6fdbc7d7e7380cba4850b0e0033881144"
+}

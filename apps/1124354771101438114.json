@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bloody trapland 2/bloodytrapland2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0b6de3842478bbbc54ec5bc17ab7bdf",
+    "id": "1124354771101438114",
+    "name": "Bloody Trapland 2: Curiosity",
+    "publishers": [
+        {
+            "id": "521816752212934677",
+            "name": "2Play"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "579840",
+            "sku": "579840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7fb903c73b34e448ee1c7debf7c9d39b4c96410612a8c1a559fe9aca9265bcc4"
+}

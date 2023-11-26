@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Resident Evil Revelations 2"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rerev2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e197b6bdcc079d4efc8bfd8c7d4bf7cb",
+    "id": "489648352892289054",
+    "name": "Resident Evil Revelations 2 / Biohazard Revelations 2",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "splash": "730e24d96a4270e43bfc43bfbb6eb7e6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "287290",
+            "sku": "287290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8b3c5fb501537781e72b3be0a0443b1674d2caf6c6bc908a6192de4f3bec19ab"
+}

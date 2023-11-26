@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "desertlegend/desertlegend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0331ba0a2e2150c9b8e6d40fc341dc9c",
+    "id": "1124354070250012803",
+    "name": "Sands of Salzaar",
+    "publishers": [
+        {
+            "id": "1124354070799462420",
+            "name": "汉家松鼠Han-Squirrel Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1094520",
+            "sku": "1094520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a15fcc9e36e477f209d680461b9805c828bb940426e735ad5f5c51109df1dfc"
+}

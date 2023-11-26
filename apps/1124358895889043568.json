@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trails of cold steel/ed8.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4106da29e4675007b608b4d4cb040925",
+    "id": "1124358895889043568",
+    "name": "The Legend of Heroes: Trails of Cold Steel",
+    "publishers": [
+        {
+            "id": "521816761516163072",
+            "name": "Nihon Falcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "538680",
+            "sku": "538680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "759c829c7e6fb24ce8bbe2cc2ce7c09ba14bbb4704f3fb5c04072b67e2c2d5d8"
+}

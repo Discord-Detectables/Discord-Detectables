@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "flower girl 2/flower girl 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b8491a7ad0ca971b444b696993403bb",
+    "id": "1124359148172234782",
+    "name": "Flower girl 2",
+    "publishers": [
+        {
+            "id": "1124355820575019169",
+            "name": "ohiyosoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1860860",
+            "sku": "1860860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2648bf29b9bdb6e4b15a92175c79a00fb2b5080d856eb55f6ce829e0636f827"
+}

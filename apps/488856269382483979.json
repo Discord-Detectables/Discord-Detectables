@@ -1,0 +1,63 @@
+{
+    "aliases": [
+        "XCOM: Enemy Unknown"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816573485514765",
+            "name": "Firaxis Games"
+        }
+    ],
+    "eula_id": "542074049984200704",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "xcomew.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "win32/xcomgame.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "xcomgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "558efa50d4a7f10b42ce0ff60006b5fb",
+    "id": "488856269382483979",
+    "name": "XCOM Enemy Unknown",
+    "primary_sku_id": "491375713253982219",
+    "publishers": [
+        {
+            "id": "542107996516253761",
+            "name": "2K"
+        },
+        {
+            "id": "521816573485514765",
+            "name": "Firaxis Games"
+        }
+    ],
+    "slug": "xcom-enemy-unknown",
+    "splash": "94c3dc467facd35cb318aeb88eb1a84e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "491375713253982219",
+            "sku": "491375713253982219"
+        },
+        {
+            "distributor": "steam",
+            "id": "200510",
+            "sku": "200510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6d5f1154c7b8f42af2b4c400ccb8abfd5b3ce72b109657e1c3448afb1d57233f"
+}

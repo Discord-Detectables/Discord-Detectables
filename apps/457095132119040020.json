@@ -1,0 +1,38 @@
+{
+    "description": "A first-person action platformer centered around a grappling hook mechanic.",
+    "developers": [
+        {
+            "id": "521816684407947264",
+            "name": "Gone North Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "asamu-win32-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f48001592d070bc085f0c4acabcb441",
+    "id": "457095132119040020",
+    "name": "A Story About My Uncle",
+    "publishers": [
+        {
+            "id": "521816595153158147",
+            "name": "Coffee Stain Studios"
+        }
+    ],
+    "splash": "121c46796803a1e962726066e6c53a85",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "278360",
+            "sku": "278360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb7281efbc080db008036f0bdec8045d568d4faa9419d9be0a5182461619c6d9"
+}

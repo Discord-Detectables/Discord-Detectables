@@ -1,0 +1,55 @@
+{
+    "aliases": [
+        "Grand Theft Auto 4",
+        "Grand Theft Auto IV: The Complete Edition"
+    ],
+    "description": "Take on the role of Niko Bellic, a Serbian immigrant who comes to the US at his cousin Roman's request, to find a better life, search for \"that special someone\" and participate in lawless activities in an upgraded generation of Liberty City.",
+    "developers": [
+        {
+            "id": "521816560537567261",
+            "name": "Rockstar North"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gtaiv/playgtaiv.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "gtaiv.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6d6c02c19b0ae83f62265476634ff9d",
+    "id": "450005834672373760",
+    "name": "Grand Theft Auto IV",
+    "publishers": [
+        {
+            "id": "521816560537567257",
+            "name": "Rockstar Games"
+        },
+        {
+            "id": "521816560537567261",
+            "name": "Rockstar North"
+        },
+        {
+            "id": "521816560537567261",
+            "name": "Rockstar North"
+        }
+    ],
+    "splash": "df0e8cce8495b5c314f14e7bcebd3b6a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "12210",
+            "sku": "12210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2e332f9356177e8966628650e73b13b6fdade571b83e3c7a818b14d108696eb0"
+}

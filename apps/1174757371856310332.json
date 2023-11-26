@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Trials of Mana"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/trials of mana-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "78e9f1752d313e2e370a0ecc905478fc",
+    "id": "1174757371856310332",
+    "name": "Trials of Mana",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "924980",
+            "sku": "924980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "15c21a1ddb7f70df6b53d9d93155647ad1013af06a1e96d1156b187174eb99dd"
+}

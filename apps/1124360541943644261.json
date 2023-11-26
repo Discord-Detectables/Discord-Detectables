@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "conan the mighty pig/conan_the_mighty_pig1.0.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1916d106c40ff639a5b57ceeb9d7f6d8",
+    "id": "1124360541943644261",
+    "name": "Conan the mighty pig",
+    "publishers": [
+        {
+            "id": "1124360542425985044",
+            "name": "Mihai Morosanu"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "487700",
+            "sku": "487700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ccb2f012c0404c97a58c9d6960ec0314ace98f75a9fa10d9261dfe546ba198ff"
+}

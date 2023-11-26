@@ -1,0 +1,38 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "walkingdead4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c7ebaa15e85b3b29f8ed21fc6c83994",
+    "id": "492133608493023232",
+    "name": "The Walking Dead: The Final Season",
+    "publishers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "splash": "1bd4a0173614d50dc1e49d5109722566",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "866800",
+            "sku": "866800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fc1e1b80b585d32f614c0d78ca5e39cfa25571d0047d374099d98dca8be15d6d"
+}

@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Moonbase Alpha"
+    ],
+    "description": "Sponsored by the National Aeronautics and Space Administration, Moonbase Alpha tasks players with repairing the life support systems of the titular settlement. The game encourages teamwork and efficiency while showcasing the latest in NASA technology.",
+    "developers": [
+        {
+            "id": "521816781770457098",
+            "name": "U.S. Army"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "physx/physx_8.10.29_systemsoftware.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "moonbasealphagame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eadaf56af761b2456cf875114c1bcfec",
+    "id": "451541936872882186",
+    "name": "Moonbase Alpha",
+    "publishers": [
+        {
+            "id": "521816664199921687",
+            "name": "National Aeronautics and Space Administration"
+        },
+        {
+            "id": "524352067779821605",
+            "name": "Virtual Heroes"
+        }
+    ],
+    "splash": "4c841f492f3e7414937ae8de8296934a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "39000",
+            "sku": "39000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "40f02ea119ba2202f1bac659c1258a5da421e9c369250a4192aa946f962847d0"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x64/bosclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "019bdd34486cb8f30ab4068ea3c78579",
+    "id": "1124353439657377843",
+    "name": "Blood of Steel",
+    "publishers": [
+        {
+            "id": "1124353440101970081",
+            "name": "YC Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "567630",
+            "sku": "567630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1051dd29be8a4d6617cd03682defa5981f09f905f6143d30f0640f438ac3a3c5"
+}

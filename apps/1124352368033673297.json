@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scp nine-tailed fox/scp nine-tailed fox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d0cafb4d6f213791cc331f8789ec49b8",
+    "id": "1124352368033673297",
+    "name": "SCP: Nine-Tailed Fox",
+    "publishers": [
+        {
+            "id": "1124352368490860655",
+            "name": "Third Subdivision Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1304510",
+            "sku": "1304510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31ee81a871602f551d82983f7e69c75868b151f081b14f83dbf68bc5140995d3"
+}

@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816524403638275",
+            "name": "Pluto 13 GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "risen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "239681dc457e24ea496a44b02b661637",
+    "id": "425442503198769152",
+    "name": "Risen",
+    "primary_sku_id": "489217885093232641",
+    "publishers": [
+        {
+            "id": "521816524403638274",
+            "name": "Deep Silver"
+        }
+    ],
+    "slug": "risen",
+    "splash": "0a746e5fa66d6808a4e07bf33b08ca70",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489217885093232641",
+            "sku": "489217885093232641"
+        },
+        {
+            "distributor": "steam",
+            "id": "40300",
+            "sku": "40300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f022869a5d4805ec223cc4720b91fe69240073fd258967329c8bb4712ce670f"
+}

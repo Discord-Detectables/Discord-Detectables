@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "planes, bullets and vodka/planes, bullets and vodka.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8cc5c078fd09256fb32c4a1caa7644cd",
+    "id": "1124359847882805288",
+    "name": "Planes, Bullets and Vodka",
+    "publishers": [
+        {
+            "id": "1124357063527649330",
+            "name": "NukGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "562360",
+            "sku": "562360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c568e0682ff54b49cd111237ea821fd7a7d097f157485cd77cff1ba794a98035"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aidungeon/ai dungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf5f88e20854b2b0e1cc35215fe165c1",
+    "id": "1124357458593329272",
+    "name": "AI Dungeon",
+    "publishers": [
+        {
+            "id": "1124357459146985573",
+            "name": "Latitude"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1519310",
+            "sku": "1519310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5db92faa64bf3cea9ef51372696cbe36d7f4f08b6bd97a7bd206ab42c38ccb0c"
+}

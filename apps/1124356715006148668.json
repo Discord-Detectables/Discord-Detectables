@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/projectboundarysteam-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8f1551fb7e8b21291b54a1cf8462bc70",
+    "id": "1124356715006148668",
+    "name": "Boundary",
+    "publishers": [
+        {
+            "id": "1124356715484295270",
+            "name": "Studio Surgical Scalpels"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1364020",
+            "sku": "1364020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3ce03dd1c163a2e043fb601cb4a0f21d11c1d7f61214c59274b7e9220e4895fc"
+}

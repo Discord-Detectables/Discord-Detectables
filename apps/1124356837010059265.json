@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "river city ransom underground/rcru.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "722e43fccad99d433bacede1e0fdc717",
+    "id": "1124356837010059265",
+    "name": "River City Ransom: Underground",
+    "publishers": [
+        {
+            "id": "1124356837475635281",
+            "name": "Conatus Creative Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "422810",
+            "sku": "422810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4c86af7d6833cfcf75ccbd06d9003512d1f05b994d376164f9554c2fcd22adaa"
+}

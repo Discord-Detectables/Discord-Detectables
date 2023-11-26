@@ -1,0 +1,37 @@
+{
+    "description": "Post Scriptum is an upcoming realistic combined arms First Person Shooter which covers Operation Market Garden during World War II.",
+    "developers": [
+        {
+            "id": "524352770233335840",
+            "name": "Periscope Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "postscriptum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa364517e850c0139198407f7d0a59c1",
+    "id": "480560735521341440",
+    "name": "Post Scriptum",
+    "publishers": [
+        {
+            "id": "524755167288098837",
+            "name": "Offworld Industries"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "736220",
+            "sku": "736220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2bc7d71cda28b6b0e585319a5e680a7e917900f0f91d04143e5204f43b2c0d3b"
+}

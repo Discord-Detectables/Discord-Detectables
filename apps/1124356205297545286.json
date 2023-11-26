@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rocket bot royale/rocketbotroyale.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77a9dd9ef2c649f505f6861cf6a677c7",
+    "id": "1124356205297545286",
+    "name": "Rocket Bot Royale",
+    "publishers": [
+        {
+            "id": "1124356205813452870",
+            "name": "Winterpixel Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1748390",
+            "sku": "1748390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0269ce88bca0051ffeef2722833a54f72271bd94e06c7dac400b20591e803ec7"
+}

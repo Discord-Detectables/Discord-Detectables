@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "circle empires/circle empires.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a425fc24132773445fa3ca50fc1725b6",
+    "id": "1124353331603714068",
+    "name": "Circle Empires",
+    "publishers": [
+        {
+            "id": "524353198404927489",
+            "name": "Luminous"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "834740",
+            "sku": "834740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a68d37c84d9e7cbda9b06e960be29db5d0e901de3fec9635006b0fbf5aca78ba"
+}

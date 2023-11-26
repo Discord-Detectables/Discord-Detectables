@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Swing Dunk"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swing dunk/swing dunk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5c2a5ce649ee9123bdbd8c46fe8e669",
+    "id": "1129504799562407946",
+    "name": "Swing Dunk",
+    "publishers": [
+        {
+            "id": "1129504800610996314",
+            "name": "BucketPlay.inc"
+        },
+        {
+            "id": "1129504803043688508",
+            "name": "Bucketplay Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1477630",
+            "sku": "1477630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3f46a3638fb9d155c768fc20c2f1ee79d322be4b22216ce8dbc1ef37908388b5"
+}

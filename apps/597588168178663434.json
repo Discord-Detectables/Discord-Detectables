@@ -1,0 +1,86 @@
+{
+    "aliases": [
+        "PUBG Lite"
+    ],
+    "cover_image": "73239bbc0e0acb6c3c679fd0504f2f40",
+    "description": "PUBG LITE is a Battle Royale shooter that you can enjoy on your laptop and even low-end PCs.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pubglite/launcher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pubglite-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pubglite/launcher_updater.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "win64/pubglite-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pubglite.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pubglite/pubg lite.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "583165155454746654",
+    "hook": true,
+    "icon": "8ecc61c6b6ddbb017fe82342192054c0",
+    "id": "597588168178663434",
+    "name": "PUBG LITE",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816684407947265",
+            "name": "Bluehole, Inc."
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        },
+        {
+            "id": "521816684407947265",
+            "name": "Bluehole, Inc."
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        },
+        {
+            "id": "521816684407947266",
+            "name": "PUBG Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "578080",
+            "sku": "578080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b00bfc16183134902936b93e50d9891ea26a3d921590bb30e17016b50c6830d2"
+}

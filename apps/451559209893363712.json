@@ -1,0 +1,38 @@
+{
+    "description": "Inspired by Monster Hunter and Spelunky, Magicite features randomly generated dungeons, crafting, tons of items and resources, and multiplayer.",
+    "developers": [
+        {
+            "id": "521816574949326848",
+            "name": "SmashGames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "magicite.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f26967f48378b2ce2bce3aaa3910a8e9",
+    "id": "451559209893363712",
+    "name": "Magicite",
+    "publishers": [
+        {
+            "id": "521816574949326848",
+            "name": "SmashGames"
+        }
+    ],
+    "splash": "332365bc97c484f9939cf2516053df1d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "268750",
+            "sku": "268750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "33dac65f80afc5009d4e0ca1ac5078a8aefd8c1445ac32c9bca31d0f619af4da"
+}

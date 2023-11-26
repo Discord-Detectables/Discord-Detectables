@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "disgaea 5 complete/disgaea5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c12269f8d199f6c2f735d5e22d86cefc",
+    "id": "1124354078923837560",
+    "name": "Disgaea 5 Complete",
+    "publishers": [
+        {
+            "id": "521816533270396929",
+            "name": "Nippon Ichi Software, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "803600",
+            "sku": "803600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f55fa87c12e237dc29cfbf382d770063ab00741f7148efa0d32294f640ee6224"
+}

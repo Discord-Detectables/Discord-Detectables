@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "savage lands/savagelands.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b4cfeaee3dc801ec1c7eed149275925c",
+    "id": "1124355949671497778",
+    "name": "Savage Lands",
+    "publishers": [
+        {
+            "id": "1124355950233530478",
+            "name": "Last Bastion Studios LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "307880",
+            "sku": "307880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e89e09e1fee7cb73bf4ab70860728cfbc4b6ce2497cf990cb276ca8fc37fb483"
+}

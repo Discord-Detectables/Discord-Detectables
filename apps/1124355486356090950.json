@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "super chicken jumper/super chicken jumper.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1dba0a33b24772255936864fe32976e",
+    "id": "1124355486356090950",
+    "name": "SUPER CHICKEN JUMPER",
+    "publishers": [
+        {
+            "id": "1124355486834249861",
+            "name": "Sewer Cat"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "584640",
+            "sku": "584640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "68cfc6bfb9fc58851579d887a5d299f7ac29e09cc1f8f9474f08f9e6b343a684"
+}

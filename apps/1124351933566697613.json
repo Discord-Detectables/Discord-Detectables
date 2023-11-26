@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "football manager 2022/fm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1eaaeb6b5d53a208456b50d672ea4202",
+    "id": "1124351933566697613",
+    "name": "Football Manager 2022",
+    "publishers": [
+        {
+            "id": "521816521731735569",
+            "name": "Sports Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1569040",
+            "sku": "1569040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5b3a6f38ebb43b35200fe39aa4cb125521a4abf0c62ee27779883f17217a97cf"
+}

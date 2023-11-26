@@ -1,0 +1,38 @@
+{
+    "description": "A class-based, sci-fi arena shooter in a world where gravity has become distorted and the Law is waging a war on those who would break it. From the head designer of Unreal Tournament and development lead of Killzone.",
+    "developers": [
+        {
+            "id": "521816742675218462",
+            "name": "Boss Key Productions"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lawbreakers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6e879ef3a52875ae524089475029845",
+    "id": "467724362674470912",
+    "name": "LawBreakers",
+    "publishers": [
+        {
+            "id": "521816511610880011",
+            "name": "Nexon Corporation"
+        }
+    ],
+    "splash": "76ce1ca2a8b516d45e8e503e79e4f6aa",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "350280",
+            "sku": "350280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c3e67073c58321b7ac450a37224b99571e7cc4fba804efe10c5da1fd31948779"
+}

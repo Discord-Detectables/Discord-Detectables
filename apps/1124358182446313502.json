@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "transport inc/transportinc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1fbe5fe36db71dcc5656b6fc6b42560",
+    "id": "1124358182446313502",
+    "name": "Transport INC",
+    "publishers": [
+        {
+            "id": "1124358182932861118",
+            "name": "DIGIFOX"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "936500",
+            "sku": "936500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aa311e6e9615767275f154427987f3eddc80ae13f5cb0552f2bf7ab0dd065e98"
+}

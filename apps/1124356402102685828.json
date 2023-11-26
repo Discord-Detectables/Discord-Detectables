@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "minecraftlegends/minecraftlegends.windows.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b598b3eac8bf5827e188ee366212460f",
+    "id": "1124356402102685828",
+    "name": "Minecraft Legends",
+    "publishers": [
+        {
+            "id": "719904104369094687",
+            "name": "Mojang Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1928870",
+            "sku": "1928870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0b3ec5cb3a44992de3613b3c3cac0c66685adfdeb667478138023c1dc7ef427b"
+}

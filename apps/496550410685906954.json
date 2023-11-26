@@ -1,0 +1,42 @@
+{
+    "description": "Clannad is a visual novel developed by Key and released on April 2004 in Japan, first on the PC and later on the PS2 in 2006 and the PSP and Xbox 360 in 2008. With an acclaimed interactive narrative revolving around a family theme, it was adapted into an equally acclaimed anime series.",
+    "developers": [
+        {
+            "id": "521816689004904468",
+            "name": "Key"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clannad/realliveen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "766537e08f6cc1bc45c786c6983d5d94",
+    "id": "496550410685906954",
+    "name": "CLANNAD",
+    "publishers": [
+        {
+            "id": "521816632801361926",
+            "name": "VisualArts/Key"
+        },
+        {
+            "id": "521816688547856415",
+            "name": "Interchannel, Ltd."
+        }
+    ],
+    "splash": "13d4161a28095a12e52916b4adf38065",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "324160",
+            "sku": "324160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea918647a47a6061d8164dcd35ff2c15fdb2f6d54ac6dc914ca917041d24a87f"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "raidland/raidland.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5d8fa58bf0f37a1f5e43c848a874b99",
+    "id": "1124353603054874655",
+    "name": "RaidLand",
+    "publishers": [
+        {
+            "id": "1124353603788886117",
+            "name": "SideQuestNZ"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1255520",
+            "sku": "1255520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c98443e957f60b38a4e1f6cd7e359b33a100f5b51537e2ca51278e2ddf7805f2"
+}

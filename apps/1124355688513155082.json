@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "drakensang online/thinclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c91e01c454d1bc15ba87776bf8d41672",
+    "id": "1124355688513155082",
+    "name": "Drakensang Online",
+    "publishers": [
+        {
+            "id": "1124355689003896923",
+            "name": "Bigpoint GmbH"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2067850",
+            "sku": "2067850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ec90e90fceebedf00a7e635519a4a8e9f774c856cd1721201309add7a244b702"
+}

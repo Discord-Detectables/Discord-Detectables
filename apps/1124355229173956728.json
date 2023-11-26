@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ghost exorcism inc/ghost exorcism inc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f944f4a3fd29202a8ad259f53e289c88",
+    "id": "1124355229173956728",
+    "name": "Ghost Exorcism INC.",
+    "publishers": [
+        {
+            "id": "1124355229647908976",
+            "name": "StudioGoupil"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1618540",
+            "sku": "1618540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5c07000f3736a6980ef352d48dd82e115f7f0934247b3a25da88c47939876b2d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "medieval kingdom wars/mkw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e51a8f9200e8811e4bde062b0ed0358d",
+    "id": "1124355235821924492",
+    "name": "Medieval Kingdom Wars",
+    "publishers": [
+        {
+            "id": "524352160805158934",
+            "name": "Reverie World Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "499660",
+            "sku": "499660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d9676214b5081c4f6a2b7baa0aee3d57452871a237ce006ebe665e01257295e9"
+}

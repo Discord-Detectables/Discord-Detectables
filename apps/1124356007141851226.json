@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "minds of nations/minds of nations.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "56565d0b9071a4a30a45681b3ba20aa6",
+    "id": "1124356007141851226",
+    "name": "Minds of Nations",
+    "publishers": [
+        {
+            "id": "1124356007590637759",
+            "name": "Omnem"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1117160",
+            "sku": "1117160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eece6da3f10cd688a6ba542228d749cb5bddb22faa39286f83bacb390724ea31"
+}

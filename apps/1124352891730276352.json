@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hellish quart/hellish quart.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d7144d621827826dd3deb4385db9f4f4",
+    "id": "1124352891730276352",
+    "name": "Hellish Quart",
+    "publishers": [
+        {
+            "id": "1124352891730276353",
+            "name": "Kubold"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1000360",
+            "sku": "1000360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0acf04dddee083e3bbef2d512048812ba15a8ac694e6db51884ff02425072033"
+}

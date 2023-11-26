@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "emergency 4 deluxe/em4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77848b92bcc9b00975e21fc85f43d06a",
+    "id": "1124355767252832268",
+    "name": "EMERGENCY 4 Deluxe",
+    "publishers": [
+        {
+            "id": "524351592003010578",
+            "name": "Sixteen Tons Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "757210",
+            "sku": "757210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7832dfd536a31cf3ad6eb292bbea67690561919d8e2edadb7c4ed976361ff57f"
+}

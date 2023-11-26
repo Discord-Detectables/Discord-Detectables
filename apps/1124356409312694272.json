@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/tree-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a271389132c43dbceb031fc1b3c9d4ed",
+    "id": "1124356409312694272",
+    "name": "TREE",
+    "publishers": [
+        {
+            "id": "1124356409803423845",
+            "name": "The Strangers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "888090",
+            "sku": "888090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "db8f32069147a53f0e1ce09597134b95f56c209b29a89174e89da0d06f04149b"
+}

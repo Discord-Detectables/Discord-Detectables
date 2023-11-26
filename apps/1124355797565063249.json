@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the darkside detective/thedarksidedetective.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "309771465239726e2492901d49827b23",
+    "id": "1124355797565063249",
+    "name": "The Darkside Detective",
+    "publishers": [
+        {
+            "id": "524352810272292869",
+            "name": "Spooky Doorway"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "368390",
+            "sku": "368390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0e384ec0a31a1aa4acb150ffb0ee9b746542340f0170b1e7d89656e95da478fe"
+}

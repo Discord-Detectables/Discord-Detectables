@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/h5_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "05db0c183b1fc59f6c86f989180e8091",
+    "id": "1129505540641411212",
+    "name": "Heroes of Might & Magic V: Tribes of the East",
+    "publishers": [
+        {
+            "id": "521816529948639233",
+            "name": "Nival"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "15370",
+            "sku": "15370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4cbf61cb2cfa641e5bcd03c98d52622ec204a282cb88aeb0d011ed9b8b91dca0"
+}

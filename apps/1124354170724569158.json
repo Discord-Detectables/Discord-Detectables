@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "resident evil 6 benchmark tool/re6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7670575a8cbbf2692bb606e8d43d3565",
+    "id": "1124354170724569158",
+    "name": "Resident Evil 6 Benchmark Tool",
+    "publishers": [
+        {
+            "id": "521816574512857088",
+            "name": "Capcom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "229950",
+            "sku": "229950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "062f30777d596435e1f3b83043b416f2be40b12a0d06d67c8ee9f0eac239f702"
+}

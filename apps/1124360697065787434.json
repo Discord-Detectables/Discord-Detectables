@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "attack on toys/attack on toys.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7bd125980c2c07f6c9b526f7d174b13",
+    "id": "1124360697065787434",
+    "name": "Attack on Toys",
+    "publishers": [
+        {
+            "id": "1124360697527156746",
+            "name": "N7T-GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1269690",
+            "sku": "1269690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5df12ea28a8b47644f8593ed7a55d8bc17cf81d7deb8134769c8dea3788a92b7"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "raid world war ii/raid_win64_d3d9_release.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "40b016265a2b46e6ccd26ed58b1d8c39",
+    "id": "1124358024732098661",
+    "name": "RAID: World War II",
+    "publishers": [
+        {
+            "id": "1124358025206050906",
+            "name": "Lion game Lion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "414740",
+            "sku": "414740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f594791148b708227dd87dd8e7ca42db640d6737cd063242cfd5e501ec633dfb"
+}

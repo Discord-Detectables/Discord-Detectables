@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "common/tomb raider (i)/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9b3dc8c0e7babec2ed8c8454ec9d64b",
+    "id": "1124353034336612382",
+    "name": "Tomb Raider I",
+    "publishers": [
+        {
+            "id": "521816706268659713",
+            "name": "Core Design"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224960",
+            "sku": "224960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b91e8511dde66a6e0167c607e498e927e5c38d316630ec31fd2e02fa717eb5e7"
+}

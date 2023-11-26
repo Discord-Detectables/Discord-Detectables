@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "princess maker 2 refine/pm2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f588cc52dc2cbfe10d4fba81dcfef30d",
+    "id": "1124356323665006632",
+    "name": "Princess Maker 2 Refine",
+    "publishers": [
+        {
+            "id": "1124356324143153332",
+            "name": "CFK Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "523000",
+            "sku": "523000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b9566fa45391c011e050c26376e476faea628cb65031ca1fcdc687a2c0dd9289"
+}

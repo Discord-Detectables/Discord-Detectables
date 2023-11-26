@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Cosmic Break"
+    ],
+    "description": "A mech battle MMO from Japan",
+    "developers": [
+        {
+            "id": "521816514630778884",
+            "name": "CyberStep"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cosmic.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b318928941bd2d5c58efe4b874f38dd3",
+    "id": "504802978784346122",
+    "name": "CosmicBreak",
+    "publishers": [
+        {
+            "id": "521816514630778884",
+            "name": "CyberStep"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "13ed5bb64b2ea24286493f9e16442545fd8af553b60dc915b918f3a335ac311b"
+}

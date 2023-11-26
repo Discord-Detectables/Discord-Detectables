@@ -1,0 +1,38 @@
+{
+    "description": "Space-themed tower defence game.",
+    "developers": [
+        {
+            "id": "521816757044772876",
+            "name": "16bit Nights"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cosmic dust & rust/cosmic.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd6ed9795b016f0d5b91ef16731b2e6e",
+    "id": "504802641763762176",
+    "name": "Cosmic Dust & Rust",
+    "publishers": [
+        {
+            "id": "521816757044772875",
+            "name": "Back To Basics Gaming"
+        }
+    ],
+    "splash": "3c79fa026efe742e59c9c0e9b2b320f2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "473560",
+            "sku": "473560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59ebe98482641aebe14bc6df5903272cfb7072908140a9bdf9d7d4c965b4249f"
+}

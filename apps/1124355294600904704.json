@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gone home/gonehome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fee9c2277c4be79ec12f4005f34feb03",
+    "id": "1124355294600904704",
+    "name": "Gone Home",
+    "publishers": [
+        {
+            "id": "524352143629746189",
+            "name": "Fullbright"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "232430",
+            "sku": "232430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9fa4643f4376d8d1741f203c3245cb118086265d9675d40da5ccff08b14af2a1"
+}

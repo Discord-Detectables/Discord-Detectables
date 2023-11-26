@@ -1,0 +1,43 @@
+{
+    "description": "A \"strategic planetary defense simulation\" in a cold war setting, inspired by the original X-Com.",
+    "developers": [
+        {
+            "id": "521816509111336962",
+            "name": "Goldhawk Interactive"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "xenonauts.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d29b9292ff3927b280d54268f53db123",
+    "id": "504088140139462686",
+    "name": "Xenonauts",
+    "publishers": [
+        {
+            "id": "521816509111336962",
+            "name": "Goldhawk Interactive"
+        }
+    ],
+    "splash": "6f0a8a4d496639863a9513706025fb08",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "223830",
+            "sku": "223830"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "3e05e64b57ae710ce5a30cfb9af74322b63ff64c8c666b0a1287ba010ee07625"
+}

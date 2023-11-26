@@ -1,0 +1,43 @@
+{
+    "description": "A first-person puzzle game developed by Valve and graduates of DigiPen, Portal forces a human test subject to run a gauntlet of grueling spatial experiments administered by a malfunctioning, psychotic artificial intelligence named GLaDOS.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hl2p.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "portal/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "142643e3f81e8932fa94d5ac7aef697a",
+    "id": "363414173457186826",
+    "name": "Portal",
+    "publishers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "splash": "28816ac7dc002572cc4b668f31c9324a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400",
+            "sku": "400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c568331eea476cc3744bcdae44f4dac8e2e0fe8f921551be2d03c237ceb13006"
+}

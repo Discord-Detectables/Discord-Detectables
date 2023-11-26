@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "death trash/deathtrash.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6e54f45cb8107b6c4faa16850d6994f9",
+    "id": "1124355792674500718",
+    "name": "Death Trash",
+    "publishers": [
+        {
+            "id": "1124355777390461039",
+            "name": "Crafting Legends"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "941460",
+            "sku": "941460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a91bf4cc0a6a952894ff6bac421410359cbc3c0af76e2357e2362acdbf985b8d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "forgotton anne/forgottonanne.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2c0ae645f1dec96fdb8c239247cb472f",
+    "id": "1124359676306411583",
+    "name": "Forgotton Anne",
+    "publishers": [
+        {
+            "id": "524352650184097798",
+            "name": "ThroughLine Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "542050",
+            "sku": "542050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c690f46a7d2b660363f7b4fb3225387c87ad8dea804f2b007548a1abc945b9bc"
+}

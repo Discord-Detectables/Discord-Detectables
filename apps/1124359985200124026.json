@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "th18tr/th18.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e68bde7c62834e96d2430d4250f00ff3",
+    "id": "1124359985200124026",
+    "name": "東方虹龍洞 ～ Unconnected Marketeers. Demo",
+    "publishers": [
+        {
+            "id": "1124357607310770266",
+            "name": "上海アリス幻樂団"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1566420",
+            "sku": "1566420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "16b3d64af128e09543e195a424506db32b1f5dd7feed378defb080410e65146a"
+}

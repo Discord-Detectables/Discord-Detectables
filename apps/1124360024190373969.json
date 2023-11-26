@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/contrastgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2b03f6da19ed58a481e2943c42cc6886",
+    "id": "1124360024190373969",
+    "name": "Contrast",
+    "publishers": [
+        {
+            "id": "521816801537949718",
+            "name": "Compulsion Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224460",
+            "sku": "224460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "729db6ed5e1b66c1e4445a525b88521fa5f93258d900b734610bf054bf779232"
+}

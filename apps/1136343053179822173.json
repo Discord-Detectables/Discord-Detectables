@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "achievement printer part 1/basket.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "baee780db0c700e39646a3c6705b6f8b",
+    "id": "1136343053179822173",
+    "name": "Achievement printer",
+    "publishers": [
+        {
+            "id": "1124359276924776458",
+            "name": "Easy game"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "806140",
+            "sku": "806140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c669c36874cc5498ec2edd4f6273e2358797429baa5ad045f27de602bf0d29c4"
+}

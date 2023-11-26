@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "simulacra 2/simulacra2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3e08779d92c706b09249421559640e6",
+    "id": "1124357510376214628",
+    "name": "SIMULACRA 2",
+    "publishers": [
+        {
+            "id": "1124357510942441482",
+            "name": "Kaigan Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1011190",
+            "sku": "1011190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e1896528d5eb7d6251dc09e17c6f1458dfb5394d8cdcbe56873ad2f126981fd9"
+}

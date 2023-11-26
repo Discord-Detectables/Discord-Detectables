@@ -1,0 +1,38 @@
+{
+    "description": "Tekken 7 is the final chapter of the Mishima family's storyline.",
+    "developers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tekkengame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "05bcfb4ccf8af3b5d1c2156257bff953",
+    "id": "363414667797725184",
+    "name": "TEKKEN 7",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        }
+    ],
+    "splash": "84e1b8a37dd365f95da6b50c75b5bff2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "389730",
+            "sku": "389730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5de21a425885721df209956aaa62a7394589ba93ff7dd17fd3aae4f393ae71c9"
+}

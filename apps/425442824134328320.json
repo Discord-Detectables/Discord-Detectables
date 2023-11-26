@@ -1,0 +1,38 @@
+{
+    "description": "A speedrunning-focused game set in a heavy metal-inspired hellscape.",
+    "developers": [
+        {
+            "id": "521816656021028864",
+            "name": "Pine Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "seum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6ad13512430edcf89937c575961ffe8",
+    "id": "425442824134328320",
+    "name": "SEUM: Speedrunners from Hell",
+    "publishers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "splash": "f504a50ca8659b86ba6f22591c1ac780",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "457210",
+            "sku": "457210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "53b685cd9c1d8101f76b89d93a8cac58061f338288b3e2743d5c54e6feab2ef0"
+}

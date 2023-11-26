@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "infinifactory/infinifactory.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ea3d0a927e828c59168cb6a4925428f4",
+    "id": "1124355067311571039",
+    "name": "Infinifactory",
+    "publishers": [
+        {
+            "id": "521816562542313484",
+            "name": "Zachtronics"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "300570",
+            "sku": "300570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9a941da6a70af0f86d4559aa430d890a3249eae5420d6a8743ae66f493670bde"
+}

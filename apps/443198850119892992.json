@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pillarsofeternity.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f89146c539596cbc7dd704b274925f05",
+    "id": "443198850119892992",
+    "name": "Pillars of Eternity",
+    "primary_sku_id": "491747381621293086",
+    "publishers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        },
+        {
+            "id": "521816521249521702",
+            "name": "Paradox Interactive AB"
+        }
+    ],
+    "slug": "pillars-of-eternity",
+    "splash": "0256c10fbb75b17e604bc906cfbc5b59",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "491747381621293086",
+            "sku": "491747381621293086"
+        },
+        {
+            "distributor": "steam",
+            "id": "291650",
+            "sku": "291650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b30a6e3c7d2b2106e5661d39ff95630541a2f69868021b677649e8c2af260cf5"
+}

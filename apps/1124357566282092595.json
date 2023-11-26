@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "red wings/red wings aces of the sky.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b9d82cab5ee1353e8e3a48a47eda8a37",
+    "id": "1124357566282092595",
+    "name": "Red Wings",
+    "publishers": [
+        {
+            "id": "1124357566860902501",
+            "name": "All in! Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1140630",
+            "sku": "1140630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2b96657c7176e7bde6be947e0ebd521147f027d5ed50074e85e5ddf7d000e099"
+}

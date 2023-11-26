@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/blackthornprodjam-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1c216ac59f56fb556d25ef0128c546a1",
+    "id": "1124359831604703292",
+    "name": "Crow Story",
+    "publishers": [
+        {
+            "id": "1124359832070279339",
+            "name": "Vincent Prom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1792610",
+            "sku": "1792610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73ef86ac75e46aede0c67e623fd3fdbf5270fa058a14fca87adc483d7cd65730"
+}

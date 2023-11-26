@@ -1,0 +1,55 @@
+{
+    "aliases": [
+        "Neverwinter",
+        "Neverwinter Online"
+    ],
+    "description": "A free-to-play MMORPG inspired by R.A. Salvatore's Neverwinter Saga book trilogy.",
+    "developers": [
+        {
+            "id": "521816694352510976",
+            "name": "Cryptic Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neverwinter/live/gameclient.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "neverwinter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "26f3f28e76a22a6373382eb09ba0980a",
+    "id": "406645401437863936",
+    "name": "Neverwinter",
+    "publishers": [
+        {
+            "id": "521816509673242636",
+            "name": "Perfect World Entertainment"
+        },
+        {
+            "id": "521816694352510976",
+            "name": "Cryptic Studios"
+        },
+        {
+            "id": "521816694352510976",
+            "name": "Cryptic Studios"
+        }
+    ],
+    "splash": "039303b7b717c5a51a90101f21b67939",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "109600",
+            "sku": "109600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be22c04a4e1bf17e4d14038c205155953596c3f391db20bccf508ef165e583a0"
+}

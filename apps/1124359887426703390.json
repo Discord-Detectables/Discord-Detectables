@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bz2r/battlezone2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1011660c5df0bd5e90c497be2cb8a2c",
+    "id": "1124359887426703390",
+    "name": "Battlezone: Combat Commander",
+    "publishers": [
+        {
+            "id": "1124359887883878490",
+            "name": "Big Boat Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "624970",
+            "sku": "624970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95d94cf5628bff61b3fe2b5ca8857095c2399a5fa1ba94a551200921de3003cb"
+}

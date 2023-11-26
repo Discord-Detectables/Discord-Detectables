@@ -1,0 +1,62 @@
+{
+    "cover_image": "2a75a4151c553c882721101199cf6cac",
+    "description": "Flash Flash Revolution is a free online 4-key rhythm game, with over 2,000 songs to play using your keyboard.",
+    "developers": [
+        {
+            "id": "558138156952715266",
+            "name": "Jonathan White"
+        },
+        {
+            "id": "558138157346979861",
+            "name": "Max Proske"
+        },
+        {
+            "id": "558138157145784321",
+            "name": "arcnmx"
+        },
+        {
+            "id": "558138157305036800",
+            "name": "Adam Bryant"
+        },
+        {
+            "id": "558138157200048131",
+            "name": "James Webb"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ffr.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "r3air.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "196381154880782336",
+    "hook": true,
+    "icon": "a3fa0791374177c30878459d76b44a31",
+    "id": "505491268755914772",
+    "name": "Flash Flash Revolution",
+    "primary_sku_id": "505491268755914772",
+    "publishers": [
+        {
+            "id": "558138157246185472",
+            "name": "Flash Flash Revolution"
+        }
+    ],
+    "slug": "flash-flash-revolution",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "771630",
+            "sku": "771630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7862cdcb546327cac1aa94c595c879d15b4baaf0c944a1985e18710861554d60"
+}

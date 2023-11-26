@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pixel painter/pixel painter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "189822b4321f49b024b94030b9e89625",
+    "id": "1124353848253890660",
+    "name": "Pixel Painter",
+    "publishers": [
+        {
+            "id": "1124353848778174534",
+            "name": "Dio Alias Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "648120",
+            "sku": "648120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ab5f4853ca28f2e564ac2e294b7631e3a1ee7669cfb80bd59f05e4ab37c14328"
+}

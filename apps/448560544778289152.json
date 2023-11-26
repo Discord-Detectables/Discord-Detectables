@@ -1,0 +1,38 @@
+{
+    "description": "TerraTech is a physics-based vehicle construction and exploration sandbox game. You are an intergalactic prospector, it's your job to travel to alien worlds, gather resources and send them home to get paid.",
+    "developers": [
+        {
+            "id": "521816738807939113",
+            "name": "Payload Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "terratechwin32.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dab25c5db315d4fa4d2961cc9d12e53c",
+    "id": "448560544778289152",
+    "name": "TerraTech",
+    "publishers": [
+        {
+            "id": "521816738807939113",
+            "name": "Payload Studios"
+        }
+    ],
+    "splash": "59d5e59bcf875fd74b332f3963cbfb23",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285920",
+            "sku": "285920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e136a72158b0ec6d0b9d2fbd3b63d6a069139651e6acc35f6e16896f73b41cc0"
+}

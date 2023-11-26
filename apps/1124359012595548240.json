@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warhammer 40,000 regicide/warhammer 40k regicide.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59ebe41a0678cdef7d440fbea56eee45",
+    "id": "1124359012595548240",
+    "name": "Warhammer 40,000: Regicide",
+    "publishers": [
+        {
+            "id": "524352420252221440",
+            "name": "Hammerfall Publishing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "322910",
+            "sku": "322910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "82933c2db553d510a24ad14f34c0b63398becaf147e541d741b2d3c7319086a2"
+}

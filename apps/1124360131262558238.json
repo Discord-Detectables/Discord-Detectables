@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "meridian 59/meridian.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e183158f6293925da4c9ef5fbe5ec230",
+    "id": "1124360131262558238",
+    "name": "Meridian 59",
+    "publishers": [
+        {
+            "id": "1124360131761688658",
+            "name": "Archetype Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "893390",
+            "sku": "893390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4303c86ba01376c69f60e5582362e3b7dea65571140b55dc5282ec48dde579d7"
+}

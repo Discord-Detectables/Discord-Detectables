@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "Tom Clancy's Ghost Recon: Future Solider"
+    ],
+    "description": "Future Soldier is the first in Ubisoft's long-running Ghost Recon series of tactical shooters to take place in the near-future.",
+    "developers": [
+        {
+            "id": "521816562068488195",
+            "name": "Ubisoft Paris Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "future soldier dx11.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "future soldier.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dea53752ca272f87e4b25beeee27718b",
+    "id": "425440004983226378",
+    "name": "Tom Clancy's Ghost Recon Future Soldier",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "b788de0c2bbab4acfb3c620d92c5d047",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "212630",
+            "sku": "212630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e389dbb3f1d57583b5f6d9156269e98e7ec4c195cb2782cf3bebb5bf6c330dd"
+}

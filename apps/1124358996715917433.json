@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/h-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b90ad928e34869209abcb061da82fa5a",
+    "id": "1124358996715917433",
+    "name": "Project H",
+    "publishers": [
+        {
+            "id": "1124358997261172787",
+            "name": "HollowPixels"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1644720",
+            "sku": "1644720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9f9f8aa3dc8bbbb06bc3fc7c156d3afeb8d14518211cc635c3b6ffbd621f2c99"
+}

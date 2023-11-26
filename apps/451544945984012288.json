@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swordwithsauce-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab42bedca0d79c30aa979c0ca0669b5f",
+    "id": "451544945984012288",
+    "name": "Sword With Sauce: Alpha",
+    "publishers": [
+        {
+            "id": "521816567030218762",
+            "name": "Diatomic Games"
+        }
+    ],
+    "splash": "e823a9836863411a417df7111f4f2639",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "581630",
+            "sku": "581630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "241dbce078b747ba336ce2fdab5ae90ee6de072c083c653978b05a69ae12e1f7"
+}

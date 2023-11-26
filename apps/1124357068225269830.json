@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neurovoider/neurovoider.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5a7998529ec2b627ad27c4aa9bdcdb6",
+    "id": "1124357068225269830",
+    "name": "NeuroVoider",
+    "publishers": [
+        {
+            "id": "560015883812995083",
+            "name": "Flying Oak Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400450",
+            "sku": "400450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "30589d5a72d55062102919aa87f2a6f01e72a905ed59feb12e9909e72846ab95"
+}

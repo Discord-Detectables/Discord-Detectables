@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beyond two souls/beyondtwosouls_steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "856a23c473b776f419a569c4289f5f81",
+    "id": "1124352550511071232",
+    "name": "Beyond: Two Souls",
+    "publishers": [
+        {
+            "id": "524351608860049434",
+            "name": "Quantic Dream"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "960990",
+            "sku": "960990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ebc3226d3029cd5926ffd0a2ea4ee0b83eb25f24c2036947c4df818d838ef4d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "riseofindustry/rise of industry.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "81f08cad9923ae823038bd12b4c0d4c2",
+    "id": "1124352844435304448",
+    "name": "Rise of Industry",
+    "publishers": [
+        {
+            "id": "524352634694402081",
+            "name": "Dapper Penguin Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "671440",
+            "sku": "671440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c778ada4281ac860d6c35769c2ed18588ddb4bb457c230a6345c734392a7834c"
+}

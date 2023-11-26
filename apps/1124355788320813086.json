@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/theredstare-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f86ed3c8cb61e328cd8a128b799d809a",
+    "id": "1124355788320813086",
+    "name": "The Red Stare",
+    "publishers": [
+        {
+            "id": "1124355788903829556",
+            "name": "Play:D"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "625470",
+            "sku": "625470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "338d41db47f63946c5e03d86526a480863f390eae13f20c5f65c19fc46ffc662"
+}

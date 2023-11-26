@@ -1,0 +1,24 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zandronum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "504088311594483722",
+    "name": "Zandronum",
+    "publishers": [
+        {
+            "id": "521816539087896600",
+            "name": "Zandronum"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "db411e5b860d3566ef014f21931e28f9765b24f0c25287fe69be185c71de56c7"
+}

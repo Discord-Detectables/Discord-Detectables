@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "roof rage/roofrage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d181b8a2f319dcfc037cdf436a18726f",
+    "id": "1124359896008249394",
+    "name": "Roof Rage",
+    "publishers": [
+        {
+            "id": "1124359896478007416",
+            "name": "Early Melon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "724300",
+            "sku": "724300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dc97bbbe8efa9bd8c9e41215fcc80252e1180708d02dbd4ee7446258e3900b74"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "port royale 4/portroyale4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bed496b4c4211df2871de5989f16b8f0",
+    "id": "1124358435379622048",
+    "name": "Port Royale 4",
+    "publishers": [
+        {
+            "id": "524352060397977604",
+            "name": "Gaming Minds"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1024650",
+            "sku": "1024650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59cfe1b0e1ac0e8cb92790993e9b5ea34e064b4d754d79e1908bb39c3e33fd9c"
+}

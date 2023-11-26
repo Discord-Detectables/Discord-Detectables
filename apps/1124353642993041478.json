@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "at home alone/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6cdf9b88927a37f79367d6f78ecf632",
+    "id": "1124353642993041478",
+    "name": "At Home Alone",
+    "publishers": [
+        {
+            "id": "1124353643429244968",
+            "name": "阿正不经"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "964350",
+            "sku": "964350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5addf94a05e566124eaa23f609e4f7c56daec024a1798e9207f669fcd0e35f72"
+}

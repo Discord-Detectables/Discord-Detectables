@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rogue legacy 2/rogue legacy 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "643bdfcf5bf4941545bced55e9ca65c7",
+    "id": "1124352069940301924",
+    "name": "Rogue Legacy 2",
+    "publishers": [
+        {
+            "id": "521816517071994890",
+            "name": "Cellar Door Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1253920",
+            "sku": "1253920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "696e0cbb35a55807d82981de35733f8ff3fc697a81b37457cd85c7dd83ca17d4"
+}

@@ -1,0 +1,58 @@
+{
+    "aliases": [
+        "Tooth & Tail"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "4084ed34b591aee1bd257306e671d9a9",
+    "description": "Lead the revolution with an army of flamethrowing Boars, mustard gas-lobbing Skunks, and paratrooper-puking Owls. Tooth and Tail is a Real-Time-Strategy game featuring Single Player, Online Competitive Play, Split Screen, Replays, and more. Build a base, lead your army, eat your enemies!",
+    "developers": [
+        {
+            "id": "521816531324370965",
+            "name": "Pocketwatch Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "toothandtail.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "99240110486192128",
+    "hook": true,
+    "icon": "4df1e485e3e436321073b020f2632675",
+    "id": "360541292578471937",
+    "name": "Tooth and Tail",
+    "overlay": true,
+    "primary_sku_id": "491666405100617728",
+    "publishers": [
+        {
+            "id": "521816531324370965",
+            "name": "Pocketwatch Games"
+        }
+    ],
+    "slug": "tooth-and-tail",
+    "splash": "f4cab3cf5d48c707782f4091f15bc4ac",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": null,
+            "sku": null
+        },
+        {
+            "distributor": "steam",
+            "id": "286000",
+            "sku": "286000"
+        },
+        {
+            "distributor": "discord",
+            "id": "491666405100617728",
+            "sku": "491666405100617728"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a5cbd230af66eb5a54a68678fc907526d461dc996ec695317312d3765389850f"
+}

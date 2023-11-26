@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fate extella/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e8169642975ad5bed28e6942aa1b9aea",
+    "id": "1124356187299786823",
+    "name": "Fate/EXTELLA",
+    "publishers": [
+        {
+            "id": "1124354203360444596",
+            "name": "Marvelous Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "511680",
+            "sku": "511680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "89e4512417b7d8b1c70ce40310b1a0ae7162a57dc5ab65f60d29f2575b946ab3"
+}

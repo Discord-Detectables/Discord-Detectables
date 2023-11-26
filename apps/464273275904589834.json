@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Nekopara Vol. 1"
+    ],
+    "description": "A visual novel which removes player choice and instead uses an entirely linear story to let players interact with catgirls.",
+    "developers": [
+        {
+            "id": "521816576895352838",
+            "name": "NEKO WORKs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nekopara_vol1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7822d5f861c79e485bf18e9ef64808e",
+    "id": "464273275904589834",
+    "name": "NEKOPARA Vol. 1",
+    "publishers": [
+        {
+            "id": "521816532288798739",
+            "name": "Sekai Project"
+        }
+    ],
+    "splash": "5192b7aba1a1ccc0984dae9c63c9a142",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "333600",
+            "sku": "333600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f6cd5489c74dd19bf6d7b5ddb81157035b80ab4aa3a06d6bed2d2db015e47ad"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "greak memories of azur/greak memories of azur.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d9818a037e8a4670f47a3b6b16b510b6",
+    "id": "1124360502911455334",
+    "name": "Greak: Memories of Azur",
+    "publishers": [
+        {
+            "id": "1124360503397990480",
+            "name": "Navegante Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1311070",
+            "sku": "1311070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "df78c779497903cdb4a0f908858ce9e7bc99e0acf582d7ec6a399300a6ea916e"
+}

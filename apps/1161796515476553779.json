@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Life is Strange 2"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/lis2-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "219de140feb1ddb55e856dd2f5a18209",
+    "id": "1161796515476553779",
+    "name": "Life is Strange 2",
+    "publishers": [
+        {
+            "id": "521816549057626131",
+            "name": "DONTNOD Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "532210",
+            "sku": "532210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eb5d909287113b4332b1824ecafd9fc846e64bc813abbc14c8f274fe9c849b08"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kagura_survivors-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab73c34b31c4bb12c9a4face08a56934",
+    "id": "1124360153664335993",
+    "name": "Kagura Survivors: Endless Night",
+    "publishers": [
+        {
+            "id": "1124360154155077713",
+            "name": "Kagura Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2348120",
+            "sku": "2348120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "349757f1e47cf701933d7acf21934f57fe9ad743a138a8f18503569d583c7494"
+}

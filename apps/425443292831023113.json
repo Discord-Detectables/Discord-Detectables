@@ -1,0 +1,42 @@
+{
+    "description": "The third game in the open world crime series. Mafia III follows Vietnam veteran, mixed-race Lincoln Clay in 1960s New Bordeaux, when racism is blooming, as he aspires for revenge against those who have harmed his family.",
+    "developers": [
+        {
+            "id": "521816515557851147",
+            "name": "Hangar 13"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mafia3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0ebf3a88ac30d26d36bcee7ff0e68c0",
+    "id": "425443292831023113",
+    "name": "Mafia III",
+    "publishers": [
+        {
+            "id": "521816515557851147",
+            "name": "Hangar 13"
+        },
+        {
+            "id": "521816504392482816",
+            "name": "2K Games"
+        }
+    ],
+    "splash": "c651e1c87a314b507ccc5c308c7f4095",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "360430",
+            "sku": "360430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5b377bb29af39568887c1c42e55cff523615f9cc7b5dfed187d60120a8c15dd0"
+}

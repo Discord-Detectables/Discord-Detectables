@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "breadsticks/breadsticks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d550b7471678cd02db0ebfe2bc18077e",
+    "id": "1124358250746363934",
+    "name": "Breadsticks",
+    "publishers": [
+        {
+            "id": "1124358251220316160",
+            "name": "Cosmic Dad"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2173570",
+            "sku": "2173570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "000e431332c2759f4efcc9707392bb78f340e117da6d028f6b42743db3e5e019"
+}

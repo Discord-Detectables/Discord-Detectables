@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "quasimorphosis captivus/quasimorph.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9699682067a254013209f71f091d70b",
+    "id": "1124357875922383040",
+    "name": "Quasimorph: End of Dream",
+    "publishers": [
+        {
+            "id": "1124357876400541826",
+            "name": "Magnum Scriptum"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2347110",
+            "sku": "2347110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3f93f62de96882ff7c54f12884483b372c229cf1ade0ea0e0660ebc03793c8a5"
+}

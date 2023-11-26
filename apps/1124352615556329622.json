@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vecter/vecter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7693411ca5c7b9aa1a8e0a792d5be55a",
+    "id": "1124352615556329622",
+    "name": "Vecter",
+    "publishers": [
+        {
+            "id": "624126866831179776",
+            "name": "Taranasus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1175140",
+            "sku": "1175140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f42e1f272abc0d4997fc6719fc23a29b24182d1d25c90a3aa342e127aa391baf"
+}

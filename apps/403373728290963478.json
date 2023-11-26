@@ -1,0 +1,32 @@
+{
+    "description": "Red Crucible®: Firestorm",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "red crucible firestorm/red crucible.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c40327a9683308bf95155b2405f09b98",
+    "id": "403373728290963478",
+    "name": "Red Crucible: Firestorm",
+    "publishers": [
+        {
+            "id": "521816584612872202",
+            "name": "Rocketeer Games Studio, LLC "
+        }
+    ],
+    "splash": "68a31c8a6a1014e6436e8787d96b901f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "298240",
+            "sku": "298240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7afd6991e156ce61df31d55bb26d0bc94192f490a31e07115cd1df0beb400e52"
+}

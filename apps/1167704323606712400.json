@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/dont_scream-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f728b13125681ecb279b371ca81374c9",
+    "id": "1167704323606712400",
+    "name": "DON'T SCREAM",
+    "publishers": [
+        {
+            "id": "1167704326228164609",
+            "name": "Joure &amp; Joe"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2497900",
+            "sku": "2497900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1212895eba6bf82208541b679628a076c98b5a49a86485334939f1ea94a860d7"
+}

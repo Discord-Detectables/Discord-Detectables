@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "LEGO? MARVEL's Avengers"
+    ],
+    "description": "Lego Avengers is a Lego game based on the Marvel Cinematic Universe.",
+    "developers": [
+        {
+            "id": "521816542707449856",
+            "name": "Traveller's Tales Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "legomarvelavengers.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "legomarvelavengers_dx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5b466b30681853483f7163c77d9255a",
+    "id": "425449323346657290",
+    "name": "LEGO® MARVEL's Avengers",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "7d214dc93efdab5d64bf9dea411d8861",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "405310",
+            "sku": "405310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "da55a2ac5ab37e774ef969d6ac5a52e3b3cf61ae38285c5607fcc09bce25a01e"
+}

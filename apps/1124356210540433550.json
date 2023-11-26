@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "capcom arcade 2nd stadium/capcomarcade2ndstadium.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7e7c2b71f3e43eed928e625239e05267",
+    "id": "1124356210540433550",
+    "name": "Capcom Arcade 2nd Stadium",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1755910",
+            "sku": "1755910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ed1ba05d510c48f15530f51653f7008229b892a64a176cd376f78b4bc7323ec8"
+}

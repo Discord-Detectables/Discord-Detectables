@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "heretic shadow of the serpent riders/base/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eec04da8df8908fc9f6bd508c68429e0",
+    "id": "1124357526163566684",
+    "name": "Heretic: Shadow of the Serpent Riders",
+    "publishers": [
+        {
+            "id": "521816668196831240",
+            "name": "Raven Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2390",
+            "sku": "2390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9575f1a744dd467b9e36c2b96f65a5e06d012b5bea6aa39bbeb2573a8d65f691"
+}

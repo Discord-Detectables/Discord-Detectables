@@ -1,0 +1,40 @@
+{
+    "cover_image": "6cdb4aa7c56e6b92f226888ebfe32a17",
+    "description": "Holodrive is a super fast-paced collectable 2D multiplayer shooter. Create your robot, customize it and jetpack your way to victory!",
+    "developers": [
+        {
+            "id": "521816558562181147",
+            "name": "BitCake Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "holodrive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "104787628976549888",
+    "hook": true,
+    "icon": "24fd930bd5f53b79270da42770676087",
+    "id": "346729383693778944",
+    "name": "Holodrive",
+    "publishers": [
+        {
+            "id": "521816558562181147",
+            "name": "BitCake Studio"
+        }
+    ],
+    "splash": "5b8a5da9d946e0ba4c7c7c6e6486e4d5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "370770",
+            "sku": "370770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac15417a22830cb5db3d0f45ff738cc34897638d254c08884ffd020f945a0fad"
+}

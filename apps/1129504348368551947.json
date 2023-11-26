@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "SMASH LEGENDS"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "smash legends/smash_legends.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3dff036156a8c393229e1deee51c4d3c",
+    "id": "1129504348368551947",
+    "name": "SMASH LEGENDS",
+    "publishers": [
+        {
+            "id": "1129504349375176856",
+            "name": "5minlab Corp."
+        },
+        {
+            "id": "1129504356534866113",
+            "name": "5minlab"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1352080",
+            "sku": "1352080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "694b5fa6a8649a38330e4ea705fa6396aa949c4013c60fad5a3a9d30b831bde1"
+}

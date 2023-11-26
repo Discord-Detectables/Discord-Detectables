@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ja2_wildfire/wf6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5e944b3681656a297e5aae1117a545d",
+    "id": "1124358222141206528",
+    "name": "Jagged Alliance 2 - Wildfire",
+    "publishers": [
+        {
+            "id": "1124358222606782566",
+            "name": "I-deal Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "215930",
+            "sku": "215930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5c490c4d4a79007f4573e7939bbc14ef87a0bcb64a71812e3a832efc743b73d7"
+}

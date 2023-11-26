@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "flatout/flatout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6b7333753a460a2e7c63a1d36207675",
+    "id": "1124354227519631502",
+    "name": "FlatOut",
+    "publishers": [
+        {
+            "id": "1124354228035538954",
+            "name": "Bugbear Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "6220",
+            "sku": "6220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59c63e0baafb2f7f4da64db313ad4ff927a60111055e936691a0017e92d3cde4"
+}

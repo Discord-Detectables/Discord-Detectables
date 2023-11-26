@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "glitch/glitch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f53283cead4c3ce8c1bf8491ef9d5c86",
+    "id": "1124357656614817832",
+    "name": "Glitch",
+    "publishers": [
+        {
+            "id": "1124357657793413160",
+            "name": "Ekrcoaster"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "890920",
+            "sku": "890920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0ee14a8fdfd43c375959c7a39fa4dfe1e7600a4f0c9ff395c16213e5a850e318"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "museswipr/museswipr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00e4a22e8fc0a3c6b5cfce6e92526d2e",
+    "id": "1124356950524702821",
+    "name": "MuseSwipr",
+    "publishers": [
+        {
+            "id": "1124356951007056004",
+            "name": "Kartsu"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1879340",
+            "sku": "1879340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "467cf1af42d2f1614f69c41bff9dfaab7d6e6d6df414d60000d6938716ea41b5"
+}

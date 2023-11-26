@@ -1,0 +1,42 @@
+{
+    "aliases": [
+        "Banner Saga"
+    ],
+    "description": "The Sun has stopped in the middle of the sky, the Gods have died and human settlements are being invaded by the Dredge, a race of stone beings. There can be no doubt about it, the world is coming to an end. In this turn-based tactics game, borrowing elements from Norse myth, your clan's continued survival is the only thing that truly matters. Will its banner be stomped into the the ground or fly high and bring back hope to those who have lost it in this desolate cold world?",
+    "developers": [
+        {
+            "id": "521816799411568641",
+            "name": "Stoic"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the banner saga.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "306957465407324171",
+    "hook": true,
+    "icon": "58b942a62d5136e715921ede2f418ce4",
+    "id": "425471698284970020",
+    "name": "The Banner Saga",
+    "publishers": [
+        {
+            "id": "521816799411568641",
+            "name": "Stoic"
+        }
+    ],
+    "splash": "1dfb91b3b41a821342c13493184294f3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237990",
+            "sku": "237990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4b497b7bd6273fc7e2078330c2848315881e142d00db6e94838b269654efd11"
+}

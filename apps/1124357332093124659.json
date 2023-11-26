@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/netneutrality-win32-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "84001e1fd9c3f6a4fd1d16a0c2538ae1",
+    "id": "1124357332093124659",
+    "name": "404Sight",
+    "publishers": [
+        {
+            "id": "524352532131348492",
+            "name": "Retro Yeti Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "361630",
+            "sku": "361630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d5d53ff6e37856fd41fdbf7fab4674d5e023bbdc090cd4f7663ca044c6358a93"
+}

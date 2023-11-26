@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the planet crafter/planet crafter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f1c532fb4965439589c0096456fd2806",
+    "id": "1124352310764650607",
+    "name": "The Planet Crafter",
+    "publishers": [
+        {
+            "id": "1124352311259574303",
+            "name": "Miju Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1284190",
+            "sku": "1284190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "04998819ab533d4ca6ba104dee3f1f4507e8ae9b6ea1db8aca7cadd1334d2534"
+}

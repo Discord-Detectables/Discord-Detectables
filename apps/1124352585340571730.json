@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deceiveinc/deceiveinc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b5aa1734c7605b1b450c4cbfb9d21516",
+    "id": "1124352585340571730",
+    "name": "Deceive Inc.",
+    "publishers": [
+        {
+            "id": "1124352585848078366",
+            "name": "Sweet Bandits Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "820520",
+            "sku": "820520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "adecfc37c5a1c66d373dda26bbcbe2dd70f12433278a124568b9303d54869731"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pool panic/poolpanic.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "218eef6e326ec634d7b4df2a3a5b3822",
+    "id": "1124359833202737223",
+    "name": "Pool Panic",
+    "publishers": [
+        {
+            "id": "524353163671633936",
+            "name": "Rekim"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "522240",
+            "sku": "522240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "854b430aa90923bff8c73476e8447bbdba8c4ab0dadd768e007e008115bec280"
+}

@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Battlefield Hardline"
+    ],
+    "description": "This Battlefield spin-off, developed by Visceral Games, focuses on the neverending battle between criminals and police officers, rather than the series' standard military setting.",
+    "developers": [
+        {
+            "id": "521816624546709507",
+            "name": "Visceral Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bfh.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1848934a7643e5cf0d0a0db4fc52336",
+    "id": "452296074762256393",
+    "name": "Battlefield™ Hardline",
+    "publishers": [
+        {
+            "id": "521816538202767363",
+            "name": "EA Games"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "6e50618a526f9ccfae194b4354a407be711b2536c0295e7c0c7a5f0e74db95fb"
+}

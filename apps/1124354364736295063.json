@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "aiartimpostor/aiartimpostor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6c82c9a5b8e0caa2cf864c8c2195f63a",
+    "id": "1124354364736295063",
+    "name": "AIアートインポスター",
+    "publishers": [
+        {
+            "id": "1124354364736295064",
+            "name": "Pocketpair"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2154230",
+            "sku": "2154230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b4d53e2c71811f1434ba2f0910c585b4a18ceacabc3e511092ddce6f0311abd2"
+}

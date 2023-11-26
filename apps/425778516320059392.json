@@ -1,0 +1,37 @@
+{
+    "description": "Poly Bridge puts the player in charge of building structurally sound bridges, by making use of a variety of materials such as Wood, Steel, Hydraulic Pistons and more.",
+    "developers": [
+        {
+            "id": "521816622344699914",
+            "name": "Dry Cactus"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "polybridge.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f4049411b2bc9507f2781c0ed6d4a5cb",
+    "id": "425778516320059392",
+    "name": "Poly Bridge",
+    "publishers": [
+        {
+            "id": "521816622344699914",
+            "name": "Dry Cactus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "367450",
+            "sku": "367450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f7261cb2dece9e85662286e6a9570e3a05b430e13d0a101486b5a7d90652bc00"
+}

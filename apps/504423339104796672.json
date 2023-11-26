@@ -1,0 +1,38 @@
+{
+    "description": "When famous novelist Alan Wake goes on vacation with his wife Alice, he has no idea that the idyllic town of Bright Falls will soon be the site of a terrible battle between light and dark that could threaten everything, even Wake's own sanity.",
+    "developers": [
+        {
+            "id": "521816609518518282",
+            "name": "Remedy Entertainment Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "alanwake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "273bfc2d59f648f5185783dd9eedad84",
+    "id": "504423339104796672",
+    "name": "Alan Wake",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "splash": "fa5b0f2dc5d37d0b97118af8a871dd03",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "108710",
+            "sku": "108710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8917abeee57929e8095f49cecaeff5b4f45aff90ef5f6d9a6cf56827cbcf93b8"
+}

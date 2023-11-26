@@ -1,0 +1,38 @@
+{
+    "description": "The sequel to Audiosurf, formerly known as Audiosurf Air.",
+    "developers": [
+        {
+            "id": "521816751038791691",
+            "name": "Dylan Fitterer"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "audiosurf2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "39fc09d42af3f2794e9d1fa63e54659f",
+    "id": "462407650941075456",
+    "name": "Audiosurf 2",
+    "publishers": [
+        {
+            "id": "521816751038791691",
+            "name": "Dylan Fitterer"
+        }
+    ],
+    "splash": "6ae97250db896dd60f97a90243e89045",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "235800",
+            "sku": "235800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f8d762849e6c09d6588448b701a669d8cde46224a0cc7093d628447391f9cdec"
+}

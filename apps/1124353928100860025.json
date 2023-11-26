@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fake lay/fakelay.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd16fac08b2f947d2c87aa959243651a",
+    "id": "1124353928100860025",
+    "name": "Fake Lay",
+    "publishers": [
+        {
+            "id": "1124353928579006564",
+            "name": "Timeless SP"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1191420",
+            "sku": "1191420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e588d91829440b3d905e5855aa6eaf86aae02b8be1914de4270550cedab5ef5"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tom Clancy's Rainbow Six: Vegas 2"
+    ],
+    "description": "The sequel to Rainbow Six: Vegas returns with a brand new story of terrorist attacks and the Rainbow squad's attempt to stop them.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "r6vegas2_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e4674af017a072559477c6f5d226d2da",
+    "id": "425470018130673664",
+    "name": "Tom Clancy's Rainbow Six Vegas II",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "8cbe15d03f6d26975e6f7fcd52b71a5c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "15120",
+            "sku": "15120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "22be44455b2151cab7a8373175c3cb9cec64d97aac8060f06c5e5bf8b5ba704c"
+}

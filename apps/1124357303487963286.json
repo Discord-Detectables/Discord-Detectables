@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/oasis-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c61ecddf864df3f8771c30987bec658e",
+    "id": "1124357303487963286",
+    "name": "Ready Player One: OASIS beta",
+    "publishers": [
+        {
+            "id": "524352677014929432",
+            "name": "Directive Games Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "779650",
+            "sku": "779650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d00734a51179ab142f2ee99f74db389a9ab1013da2e94e58009646f4587ef892"
+}

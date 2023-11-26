@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "snakeybus/snakeybus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0e73af6489f21f7fe77a6c95882456a",
+    "id": "1124353969523806308",
+    "name": "Snakeybus",
+    "publishers": [
+        {
+            "id": "1124353969989370036",
+            "name": "Stovetop, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1012560",
+            "sku": "1012560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "46e325210cf73b6eb0d90155b7267d3aad9f5382caeaacd60e953422f5d8251a"
+}

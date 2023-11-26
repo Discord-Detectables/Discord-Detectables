@@ -1,0 +1,38 @@
+{
+    "description": "'Bully: Scholarship Edition' takes place at the fictional New England boarding school Bullworth Academy, and tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl.",
+    "developers": [
+        {
+            "id": "521816766784077836",
+            "name": "Rockstar Toronto"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bully scholarship edition/bully.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1fe2c101970e26a6347364a9a2de6c7e",
+    "id": "451560105008431124",
+    "name": "Bully: Scholarship Edition",
+    "publishers": [
+        {
+            "id": "521816560537567257",
+            "name": "Rockstar Games"
+        }
+    ],
+    "splash": "322212e5ff305861b9e7d6d9e2b4ef2d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "12200",
+            "sku": "12200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0409248f8079ea67b19646892b78c933c485051262231fe622f53c7c0b5d8a33"
+}

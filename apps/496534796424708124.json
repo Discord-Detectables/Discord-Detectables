@@ -1,0 +1,33 @@
+{
+    "description": "Battle Squares is a competitive multiplayer online virtual board game.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battlesquares.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "143159883095736320",
+    "hook": true,
+    "icon": "15566a6f8088ce238c5f7f7219c0526c",
+    "id": "496534796424708124",
+    "name": "Battle Squares",
+    "publishers": [
+        {
+            "id": "521816553679749143",
+            "name": "Caleb Chalmers"
+        }
+    ],
+    "splash": "31737c3042f4c536e6d33a2d978952fd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "681990",
+            "sku": "681990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "253f21064e376c1955122204022ccb5faa1ac429dba4aad8d9a8267a6654b555"
+}

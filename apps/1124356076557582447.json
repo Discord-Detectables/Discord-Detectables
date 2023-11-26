@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "as far as the eye/as far as the eye.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5b454ec73b2cd73a5534f4aeae9005e2",
+    "id": "1124356076557582447",
+    "name": "As Far As The Eye",
+    "publishers": [
+        {
+            "id": "1124356077006368788",
+            "name": "Unexpected"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1119700",
+            "sku": "1119700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "52c537e20f81b54009575fcafe450287f05baca3f0f2bad02747ddc175860de3"
+}

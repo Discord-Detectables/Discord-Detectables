@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vr hot/vr hot.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cbccef4093cf4545370ff7f089fc1e32",
+    "id": "1124358686811369552",
+    "name": "VR HOT",
+    "publishers": [
+        {
+            "id": "1124358687289528401",
+            "name": "VR HOT"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1571340",
+            "sku": "1571340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "50ed237a35950629895a17b044edba1314c0f5f1bfceb97bfaddcb3b2a7b0836"
+}

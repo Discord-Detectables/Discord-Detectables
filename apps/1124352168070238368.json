@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wobbly life/wobbly life.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e399288c539cba08875762b592b0a7b4",
+    "id": "1124352168070238368",
+    "name": "Wobbly Life",
+    "publishers": [
+        {
+            "id": "1124352168569356400",
+            "name": "RubberBandGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1211020",
+            "sku": "1211020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d4b6394ec4321a19ffb3dbffff11a7bc9366e7b2a8c6d3496e66b8abc64dbb2d"
+}

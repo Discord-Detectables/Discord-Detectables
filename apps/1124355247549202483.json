@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "knights of pen and paper/knightspp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "65a67f2568446a8dd6e296b7dff59c01",
+    "id": "1124355247549202483",
+    "name": "Knights of Pen and Paper +1",
+    "publishers": [
+        {
+            "id": "524352203926929420",
+            "name": "Behold Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "231740",
+            "sku": "231740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e4dcd01354ef2ec11c6e542e79c783d92784e69ddd943cb0df4423f15524e4e1"
+}

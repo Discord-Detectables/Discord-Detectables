@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spark the electric jester 3/spark the electric jester 3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c27902791d3221f6ddc3aaf09a7a8b19",
+    "id": "1124360036261580830",
+    "name": "Spark the Electric Jester 3",
+    "publishers": [
+        {
+            "id": "1124358416152936588",
+            "name": "Feperd Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1629530",
+            "sku": "1629530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "595d33fe67f6e62ea4a86ed0d74a1d80175bcefb9593f9a42d033c1d7abf7a9a"
+}

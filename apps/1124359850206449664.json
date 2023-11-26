@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sid meier's colonization/dosbox_windows/dosbox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd6d72a39834973b35ddbce77f1eaa58",
+    "id": "1124359850206449664",
+    "name": "Sid Meier's Colonization (Classic)",
+    "publishers": [
+        {
+            "id": "1124354971807268934",
+            "name": "MicroProse Software, Inc"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "327400",
+            "sku": "327400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "30b12390d05b06b7aa3a76afc1ad6ec3469f8d487129a941bb1daa98321a5d33"
+}

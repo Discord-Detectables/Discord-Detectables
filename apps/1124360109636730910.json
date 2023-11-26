@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cfac8e96d21a5c84e1f8176350f76be0",
+    "id": "1124360109636730910",
+    "name": "Bloodbath Kavkaz",
+    "publishers": [
+        {
+            "id": "524352917734555655",
+            "name": "Dagestan Technology"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "348020",
+            "sku": "348020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a83593be09d0ccde65b8d47f36e8eaa96da7e912782a52293027614a33089a9d"
+}

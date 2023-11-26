@@ -1,0 +1,38 @@
+{
+    "description": "An Elite style Space combat Trading Game with superior graphics but a more 2-Dimensional space combat system.",
+    "developers": [
+        {
+            "id": "521816714317660196",
+            "name": "Intense! Interactive, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nomad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f280c2680f2db0c5a4a9aac1b275a284",
+    "id": "458780333601587200",
+    "name": "Nomad",
+    "publishers": [
+        {
+            "id": "521816714317660195",
+            "name": "GameTek, Inc."
+        }
+    ],
+    "splash": "fbc6e14cc41fe6dd0a4e8d22dcca0474",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "378370",
+            "sku": "378370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cb860c396a63b44f0858c38ade0fad21d84c872e45fa38f8d3cc7e91dd94feb9"
+}

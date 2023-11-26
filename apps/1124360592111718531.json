@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kingsbounty2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6acf0dd593424a2c37e6106913c7681",
+    "id": "1124360592111718531",
+    "name": "King's Bounty II",
+    "publishers": [
+        {
+            "id": "566258190891876363",
+            "name": "1C Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1135300",
+            "sku": "1135300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "171e24e69ce192f9db015c89e6dfe9c9dc523018eb717c9007c84c1f31a7c30f"
+}

@@ -1,0 +1,36 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": false,
+    "cover_image": "7635391528d2dfb957bad37e2558f9eb",
+    "description": "A hide-and-seek shooter in the dark where light is your enemy, as 4 players compete in a deathmatch to be the best!",
+    "developers": [
+        {
+            "id": "570456043440570378",
+            "name": "Mild Beast"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "378297822728028161",
+    "hook": true,
+    "icon": "7635391528d2dfb957bad37e2558f9eb",
+    "id": "379732021385232385",
+    "name": "AT SUNDOWN: SitD",
+    "primary_sku_id": "487031053454802946",
+    "publishers": [
+        {
+            "id": "521816509111336966",
+            "name": "Versus Evil"
+        }
+    ],
+    "slug": "at-sundown-sitd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "487031053454802946",
+            "sku": "487031053454802946"
+        }
+    ],
+    "type": 1,
+    "verify_key": "63fd304841798954601774b07bec8bc9b617de71d2d11b640c3a9da97ea7b5b8"
+}

@@ -1,0 +1,30 @@
+{
+    "description": "A notable early MMORPG and the chief rival to EverQuest prior to the release of World of Warcraft.",
+    "developers": [
+        {
+            "id": "521816685502791730",
+            "name": "Turbine, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "acclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b5cfe70a63954ab5a1e6bd9baabfc7cd",
+    "id": "504021888805240914",
+    "name": "Asheron's Call",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "cdb2d53de27e0c3eb75c0853fe1e00300d32ee0c1ab4ff6567cd9063904332a7"
+}

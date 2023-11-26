@@ -1,0 +1,38 @@
+{
+    "description": "The 6th mainline entry in the acclaimed 4X series.",
+    "developers": [
+        {
+            "id": "521816573485514765",
+            "name": "Firaxis Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "civilizationvi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "898cdf97668109199473d5cdc160fa98",
+    "id": "363413834301571072",
+    "name": "Sid Meier's Civilization VI",
+    "publishers": [
+        {
+            "id": "521816504392482816",
+            "name": "2K Games"
+        }
+    ],
+    "splash": "8eda4b54761775a6a4759a26811d66de",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "289070",
+            "sku": "289070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5cf236ee517a3e89e8573959bd8f241401833ead808ca9f88bb5d00d09bfc8f9"
+}

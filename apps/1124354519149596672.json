@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "get to the orange door/get to the orange door.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "06362639d0bf8025fae61ff5c5dfcba2",
+    "id": "1124354519149596672",
+    "name": "Get To The Orange Door",
+    "publishers": [
+        {
+            "id": "573301979963719691",
+            "name": "Andrew Smith"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "541200",
+            "sku": "541200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b0af38bbdb86fec934655676d53edd94288cb69c9a1aa5f6256d624209f9ea11"
+}

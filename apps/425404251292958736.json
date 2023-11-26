@@ -1,0 +1,43 @@
+{
+    "description": "Bastion is a story about a Kid, his hammer, and a world gone all kinds of wrong.",
+    "developers": [
+        {
+            "id": "521816498017271833",
+            "name": "Supergiant Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bastion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4ce40fa2051dec0ea99eafecbf388bde",
+    "id": "425404251292958736",
+    "name": "Bastion",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "4c5c5fa0840cbdcc60732b0a44ed3bb3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "107100",
+            "sku": "107100"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "ba5f5df7c47937b41897540135343e0624835468d766518ad7ea7b17bce4c8ca"
+}

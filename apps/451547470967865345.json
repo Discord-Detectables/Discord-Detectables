@@ -1,0 +1,39 @@
+{
+    "description": "A 2D platforming action-adventure developed by D-pad Studios for PC.",
+    "developers": [
+        {
+            "id": "521816627344441345",
+            "name": "D-pad Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "owlboy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "242640695117086721",
+    "hook": true,
+    "icon": "51aa1cfa6176f41cba7444f6efc2aab3",
+    "id": "451547470967865345",
+    "name": "Owlboy",
+    "publishers": [
+        {
+            "id": "521816627344441345",
+            "name": "D-pad Studio"
+        }
+    ],
+    "splash": "dffbeb40e87863105c483ac7c6563882",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "115800",
+            "sku": "115800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9a382ca4cb62706bbc2a318f10a25ef7db5e6a74703a08ee6a6ee0f6fea3c760"
+}

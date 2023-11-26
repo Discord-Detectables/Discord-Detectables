@@ -1,0 +1,31 @@
+{
+    "description": "Codename CURE is a first person, co-operative zombie game by Hoobalugalar_X.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "codename cure/cure.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db619a023d6d9bcca2b6284cdd52b965",
+    "id": "425748063416483870",
+    "name": "Codename CURE",
+    "publishers": [
+        {
+            "id": "521816584071938058",
+            "name": "Hoobalugalar_X"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "355180",
+            "sku": "355180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "142203c6bbdc48037de6da2b2a8ac0826cc574559b5ad222b2c097a763b6cfd7"
+}

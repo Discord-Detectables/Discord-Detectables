@@ -1,0 +1,38 @@
+{
+    "description": "id Software's Rage combines first-person shooting, vehicular action, and \"open but directed\" exploration to tell the story of Earth's wretched civilization after a cataclysmic meteor strike. Militaristic authority figures, freedom-fighting rebels, criminal raiders, and twisted mutants battle each other for control of the barren wasteland Earth has become.",
+    "developers": [
+        {
+            "id": "521816563024920606",
+            "name": "id Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "43c6c4588353a89419e9e6ae9486bb73",
+    "id": "479735703140433940",
+    "name": "RAGE",
+    "publishers": [
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "724e6d737d37219ef2e4bec3680511d6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9200",
+            "sku": "9200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94ed0f7cb711dc8e22d2b20c989ee6a2356a0328a28fbbaf39f94857a67d82ff"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dinoscape/dinoscape.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1742c471aab8d8ca5c6df2acb34ec10e",
+    "id": "1124356284934799370",
+    "name": "DinoScape",
+    "publishers": [
+        {
+            "id": "1124356285383585852",
+            "name": "Tomary"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1384290",
+            "sku": "1384290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f138ffe221cabf54c97fc8c517e70553f41d4e3953bf560511849bf006d340f5"
+}

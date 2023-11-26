@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vega conflict/vegaconflict.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "efd5459f47503b3f2ed5b47de8efc3af",
+    "id": "1124353744507781180",
+    "name": "VEGA Conflict",
+    "publishers": [
+        {
+            "id": "524352155012956177",
+            "name": "Kixeye"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "339600",
+            "sku": "339600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "34a2d282168b5d91d95a60b14146ea7f94675f8316613fc3943d87ac49c761de"
+}

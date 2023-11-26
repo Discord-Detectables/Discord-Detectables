@@ -1,0 +1,28 @@
+{
+    "aliases": [
+        "Rogue Company"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/roguecompany.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "737391147659558963",
+    "name": "Rogue Company",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "872200",
+            "sku": "872200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2986b62a6e5965ec6520bf501f2446807563ae6bc416ecbed6e8543c9e5202ef"
+}

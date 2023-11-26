@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pineapple on pizza/pineapple on pizza.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a9bf369523f6fd2d6a0657db8de0a9a5",
+    "id": "1124352429236957276",
+    "name": "Pineapple on pizza",
+    "publishers": [
+        {
+            "id": "524352733017538576",
+            "name": "Majorariatto"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2263010",
+            "sku": "2263010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c523a190cd3fe5e53467df0a566d6ad1391288e6bc57859e6ab91f0a1aa220a2"
+}

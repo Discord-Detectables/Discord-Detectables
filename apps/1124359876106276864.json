@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "love wish 2/love wish 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6679310b2ecaae5a82aee4e699cd4574",
+    "id": "1124359876106276864",
+    "name": "Love Wish 2",
+    "publishers": [
+        {
+            "id": "1124354522286928014",
+            "name": "Double W"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1174690",
+            "sku": "1174690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5d299207bce496328342e5760cca500a1456c9f0ca47b33be880899c745076c7"
+}

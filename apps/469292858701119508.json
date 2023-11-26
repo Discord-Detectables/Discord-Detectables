@@ -1,0 +1,40 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metronomicon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "330171429649645588",
+    "hook": true,
+    "icon": "4b7cd385da48444d28dbf943b18efe72",
+    "id": "469292858701119508",
+    "name": "The Metronomicon: Slay The Dance Floor",
+    "primary_sku_id": "471028348039069737",
+    "publishers": [
+        {
+            "id": "524352796632416310",
+            "name": "Akupara Games"
+        }
+    ],
+    "slug": "the-metronomicon-slay-the-dance-floor",
+    "splash": "798b58029adde88b9429342d90914f0f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471028348039069737",
+            "sku": "471028348039069737"
+        },
+        {
+            "distributor": "steam",
+            "id": "416790",
+            "sku": "416790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8d8829ecbbb1b9ebd4b49c1de16ec53b6a4a3db16d8259ad8b68efdac4ca5b69"
+}

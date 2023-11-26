@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "construct2-win64/construct2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d82d5df78382f8b47263c82c719a0d74",
+    "id": "1124358195507376158",
+    "name": "Construct 2 Free",
+    "publishers": [
+        {
+            "id": "1124358195951980625",
+            "name": "Scirra"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "227240",
+            "sku": "227240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fe2ee63731e2605478d3d434fb2f237548a960938a269e4043cce66772bf95db"
+}

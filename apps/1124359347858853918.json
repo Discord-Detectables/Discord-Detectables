@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "media/lostjudgment.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5aa0c3e0831bee4d4956440b7414c4ae",
+    "id": "1124359347858853918",
+    "name": "Lost Judgment",
+    "publishers": [
+        {
+            "id": "521816684957270028",
+            "name": "Ryu ga Gotoku Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2058190",
+            "sku": "2058190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91d21f9017f5efecb3a45bca75922add5105b8cc341d5d5849f3305ac3f5735d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rhq/rhq.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "796f266fbc7843b4898001ef1147710f",
+    "id": "1124357482022715453",
+    "name": "Rescue HQ - The Tycoon",
+    "publishers": [
+        {
+            "id": "524352333501562916",
+            "name": "stillalive studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "809720",
+            "sku": "809720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8bd1a90deaeb6b2848d07d4421f3334a67c1d6fb5c4986cba91ca29102419bf7"
+}

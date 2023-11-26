@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/siren-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e95e274079f3a9548898dc98bff2dc2d",
+    "id": "1124352949800423474",
+    "name": "Life is Strange: True Colors",
+    "publishers": [
+        {
+            "id": "1124352950261792788",
+            "name": "Deck Nine"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "936790",
+            "sku": "936790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d59488975389e75c9efbf9287df9410221090d00e22871e545b7f7495f1a9084"
+}

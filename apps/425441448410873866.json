@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Fractured Space ?"
+    ],
+    "description": "Multiplayer space combat game.",
+    "developers": [
+        {
+            "id": "521816731715502082",
+            "name": "Edge Case Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fractured space.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "spacegame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3bfa7ac4abb97fd2cce7eb72fb86bf7",
+    "id": "425441448410873866",
+    "name": "Fractured Space",
+    "publishers": [
+        {
+            "id": "521816731715502080",
+            "name": "Edge Case Games Ltd."
+        },
+        {
+            "id": "521816731715502082",
+            "name": "Edge Case Games"
+        }
+    ],
+    "splash": "8effeaf44cf04cf4b8c6146748f34823",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "310380",
+            "sku": "310380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e4315b0bc0af62b4f6833646879916c88ba0f5cde9f9a644b9eb37496f517d67"
+}

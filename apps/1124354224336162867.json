@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/archeblade.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "980a654df10d90733f51a92beaefd474",
+    "id": "1124354224336162867",
+    "name": "Archeblade",
+    "publishers": [
+        {
+            "id": "524352230145392660",
+            "name": "CodeBrush Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "207230",
+            "sku": "207230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74f74f263f513cc7c6495961b441b1a592f062f4ce7f0747596c3851a4c90137"
+}

@@ -1,0 +1,57 @@
+{
+    "description": "The long-awaited sequel to the class-based first-person shooter Team Fortress Classic sports a unique cartoony visual style, more accessible gameplay, and a very large amount of updates and new features since its original release.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "arguments": "-game tf",
+            "is_launcher": false,
+            "name": ">hl2.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game tf",
+            "is_launcher": false,
+            "name": "hl2tf.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game tf",
+            "is_launcher": false,
+            "name": ">hl2_osx",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "132349439506382848",
+    "hook": true,
+    "icon": "dfc652a5b75879148779dc2865270f87",
+    "id": "356888577310851072",
+    "name": "Team Fortress 2",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        },
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "splash": "a109376e705e71ab44e7d2d966cecc35",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "440",
+            "sku": "440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d71f5732225b9c63d63515af12ea23a774c734840ee2f625b8bdf84966bef919"
+}

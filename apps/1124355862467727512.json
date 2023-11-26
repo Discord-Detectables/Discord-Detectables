@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/thedevilinme-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b134596f9af55c60e0ba2195456ba9c4",
+    "id": "1124355862467727512",
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "publishers": [
+        {
+            "id": "524352074759012356",
+            "name": "Supermassive Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1567020",
+            "sku": "1567020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "92ef63418b3fdcc57c55d60ce59653ee1bb7b0af6b7311e2e45fae0eb6ceda62"
+}

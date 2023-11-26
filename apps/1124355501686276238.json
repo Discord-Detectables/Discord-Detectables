@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scrutinized/scrutinized.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00672abcf4fd5abdc7d0be496a50ab79",
+    "id": "1124355501686276238",
+    "name": "Scrutinized",
+    "publishers": [
+        {
+            "id": "524352630512680980",
+            "name": "Reflect Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1384770",
+            "sku": "1384770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e512a0f138acdcdfdade1eb1c767ab2b4b4344916f7a21046ec7f91510ef684"
+}

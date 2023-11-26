@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fish tycoon 2 virtual aquarium/virtual fish tycoon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9da79fcd38f34936d685e9b037e3c8f",
+    "id": "1124358508717035590",
+    "name": "Fish Tycoon 2: Virtual Aquarium",
+    "publishers": [
+        {
+            "id": "524351806151589889",
+            "name": "Last Day of Work"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "845250",
+            "sku": "845250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "00179b6ac4cdaa6ec9361cf519a924faee2da4a0e582b2370b7911e36b5cad31"
+}

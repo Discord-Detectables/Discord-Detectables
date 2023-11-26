@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "construction simulator 2 us - pocket edition/consim2uspe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5e42d1f8097e4ed404c09fc4911b1e65",
+    "id": "1124359928505712721",
+    "name": "Construction Simulator 2 US - Pocket Edition",
+    "publishers": [
+        {
+            "id": "521816758462578700",
+            "name": "weltenbauer. Software Entwicklung GmbH"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "787740",
+            "sku": "787740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e16665bca85ef15a4504e1b60272de5f4dd6dd4a1f5ddf9415cf0c6c028d938"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Fast-paced Arena-FPS with old-school gameplay and modern graphics",
+    "developers": [
+        {
+            "id": "521816658981945371",
+            "name": "Reakktor Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "toxikk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1042b8fa4ba6edd2b00ce69e86e37ea9",
+    "id": "454731115027103759",
+    "name": "TOXIKK",
+    "publishers": [
+        {
+            "id": "521816658981945371",
+            "name": "Reakktor Studios"
+        }
+    ],
+    "splash": "b51d3dfc0e5eba089c0a9362eeac6588",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "324810",
+            "sku": "324810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c618344c86a6872c006c8ac88624958570627878ec4a917dd71c0582ccdfbeb0"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "executable/ducktales.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "059220f3c5a0aad12654ec5af875f8a9",
+    "id": "1124353387484430526",
+    "name": "DuckTales Remastered",
+    "publishers": [
+        {
+            "id": "521816607408914448",
+            "name": "WayForward"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237630",
+            "sku": "237630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "369c0690f6a82c86ae1d251bfc6b11ed635f8be5e2f740bedbec8287ac2f9944"
+}

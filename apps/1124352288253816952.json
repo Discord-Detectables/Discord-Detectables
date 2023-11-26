@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kindergarten/kindergarten.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc878d89c08063ce550c21865f114ae1",
+    "id": "1124352288253816952",
+    "name": "Kindergarten",
+    "publishers": [
+        {
+            "id": "1124352288715198554",
+            "name": "Con Man Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "589590",
+            "sku": "589590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5a716adc7acb5d76f74201044fa70337cba24218e2ed881f5940672e802ac9dc"
+}

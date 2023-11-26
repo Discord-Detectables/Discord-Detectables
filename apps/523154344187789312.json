@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Far Cry New Dawn"
+    ],
+    "cover_image": "ea473e6c8dfff113b6d725a82f3a86f1",
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farcrynewdawn.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ea473e6c8dfff113b6d725a82f3a86f1",
+    "id": "523154344187789312",
+    "name": "Far Cry New Dawn",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "939960",
+            "sku": "939960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8e33efa771cfdb7a78b6cd677d8102274e39e33659651ede1edfe8828c4ce1c5"
+}

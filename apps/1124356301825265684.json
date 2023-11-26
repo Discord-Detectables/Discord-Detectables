@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "leafling online/leafling client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc00e88f1a06c53e025eafaaf0db340a",
+    "id": "1124356301825265684",
+    "name": "Leafling Online",
+    "publishers": [
+        {
+            "id": "1124356302307606559",
+            "name": "Celtaria Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1457150",
+            "sku": "1457150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5f6e4577aa65880b6f88424d624ea4ade25ab53e444e4b30aec07a8faf7b078e"
+}

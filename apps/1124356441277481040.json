@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blade assault/bladeassault.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "da52b3537c73dc70c7470ad13bd63919",
+    "id": "1124356441277481040",
+    "name": "Blade Assault",
+    "publishers": [
+        {
+            "id": "1124356441755627691",
+            "name": "TeamSuneat"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1367300",
+            "sku": "1367300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4df1d3319a30187a32ae89be7d1b6d561856f5b1e4407ea71e148fe0e7e0f14f"
+}

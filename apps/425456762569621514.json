@@ -1,0 +1,45 @@
+{
+    "description": "A prequel to The Book of Unwritten Tales. Details how Nate Bonnett and Critter first met.",
+    "developers": [
+        {
+            "id": "521816646768263170",
+            "name": "King Art Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "critterchronicles.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "115b39f0a6e1abc66de6320bea4eb038",
+    "id": "425456762569621514",
+    "name": "The Book of Unwritten Tales: The Critter Chronicles",
+    "primary_sku_id": "489215994674413569",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "slug": "the-book-of-unwritten-tales-the-critter-chronicles",
+    "splash": "1d1adb2bb11d24226cc2f1335162c4a4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489215994674413569",
+            "sku": "489215994674413569"
+        },
+        {
+            "distributor": "steam",
+            "id": "221830",
+            "sku": "221830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "63f9fc2443fa543dab2f3202b63fca500501f8112859c08143cb464e588f7adb"
+}

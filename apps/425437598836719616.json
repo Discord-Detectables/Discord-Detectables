@@ -1,0 +1,37 @@
+{
+    "description": "Project Origin is the direct sequel to Monolith's spooky first-person shooter, F.E.A.R.",
+    "developers": [
+        {
+            "id": "521816711532511245",
+            "name": "Monolith Productions, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fear2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "49270d65bda8df8d132a683dbbc0b746",
+    "id": "425437598836719616",
+    "name": "F.E.A.R. 2: Project Origin",
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "16450",
+            "sku": "16450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1095ca556d11df4c0a9715bf700f323502a7c03aa54a28e32df940b4dc24fd88"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "A simulation game from Bohemia Interactive",
+    "developers": [
+        {
+            "id": "521816510172233760",
+            "name": "Bohemia Interactive Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tkom.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2626976801cd0d150793365367fd8976",
+    "id": "504057417194143754",
+    "name": "Take On Mars",
+    "publishers": [
+        {
+            "id": "521816510172233760",
+            "name": "Bohemia Interactive Studio"
+        }
+    ],
+    "splash": "42bfb519941ad322feb4c817400a9436",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "244030",
+            "sku": "244030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "27e6a5eb07eca495ff2ea3faf1e5fdb29f2821f2b97535aa5a4212322791f8d8"
+}

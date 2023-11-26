@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "miss neko 2/miss neko 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b52d3af6b68f5d7c1ba312d1e04c28a0",
+    "id": "1124357610271953007",
+    "name": "Miss Neko 2",
+    "publishers": [
+        {
+            "id": "1124354522286928014",
+            "name": "Double W"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1203420",
+            "sku": "1203420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a75182d62345dfd4fa9e4905d4364a58a2e39674273d0b533e21601a7ae22588"
+}

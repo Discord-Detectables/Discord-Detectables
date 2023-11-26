@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "atomzombiesmasher/atomzombiesmasher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1124358276130295828",
+    "name": "Atom Zombie Smasher",
+    "publishers": [
+        {
+            "id": "524352060397977610",
+            "name": "Blendo Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "55040",
+            "sku": "55040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "62f76363cea37606f3e314f16b0b45de041cddcacc29b5ab880253ca6f4c98fb"
+}

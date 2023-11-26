@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/puzzlegame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed512bd762026aae46b0ceb2f201ea5f",
+    "id": "1129505904014934146",
+    "name": "ParanormalHK",
+    "publishers": [
+        {
+            "id": "1129505910776143982",
+            "name": "Ghostpie Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1178490",
+            "sku": "1178490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ccb9b334cb1df61416ab613ce05cb940cba29372643c361ade880fc20a393aa"
+}

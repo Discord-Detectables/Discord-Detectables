@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "GROUND BRANCH"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/groundbranch-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0eab03f185b4e6ca54ab9082c80c344",
+    "id": "1163889399273111664",
+    "name": "GROUND BRANCH",
+    "publishers": [
+        {
+            "id": "524352067779821602",
+            "name": "BlackFoot Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "16900",
+            "sku": "16900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "adbdce7592164c89caa2b6e25a8de701e9461ab4c05c4f29abb53ee597fc7f14"
+}

@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sfm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e5060782c4985fc1917688af9c0b5064",
+    "id": "425778288661757952",
+    "name": "Source Filmmaker",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1840",
+            "sku": "1840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2f35892a1651aefd25a7b9a80f5ba2845a354e3134e92fc207aab244008ab0c8"
+}

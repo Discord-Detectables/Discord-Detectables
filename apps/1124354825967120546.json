@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "haunted gas station/haunted gas station.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d8744ce82cb101cd27d1392d17a68fc2",
+    "id": "1124354825967120546",
+    "name": "Haunted Gas Station",
+    "publishers": [
+        {
+            "id": "1124354826491416656",
+            "name": "JubleLemonSeed"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1164390",
+            "sku": "1164390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "262df6af48a67e1ef927262e8a120b3a7d8b77afc900d3f5cb4ea6723aaf3bc9"
+}

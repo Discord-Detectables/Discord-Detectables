@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "simutrans/simpreloader.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f67236015ccb091b88eb8ba5dd5d8698",
+    "id": "1124357813951541318",
+    "name": "Simutrans",
+    "publishers": [
+        {
+            "id": "1124357814475837471",
+            "name": "The Simutrans Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "434520",
+            "sku": "434520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb97032afd1af2c9e1e49b22020d5b53244a215609cd1dd9571f165535ac8441"
+}

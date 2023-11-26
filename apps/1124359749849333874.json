@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/survivalgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0b1e6dd0b01f64b88ca5379a4f889d56",
+    "id": "1124359749849333874",
+    "name": "Outpost Zero",
+    "publishers": [
+        {
+            "id": "1124359750310703195",
+            "name": "Symmetric Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "677480",
+            "sku": "677480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "325ad4940a11c58cd1db3717b6beaaa5441ef84b626dbd20879d4daa566d9c9e"
+}

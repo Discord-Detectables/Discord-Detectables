@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "decent icons/decenticonswpf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bec8be547073c05d69f6e91ecda0e04e",
+    "id": "1124358173915103262",
+    "name": "Decent Icons",
+    "publishers": [
+        {
+            "id": "1124358174393249932",
+            "name": "Decent Software LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "395760",
+            "sku": "395760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a89aab8c6cf716a3376d493aa960f81c0e2490a34dcd981f686cbb127e8704d0"
+}

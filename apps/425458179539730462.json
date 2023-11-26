@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "SuperPower 2 Steam Edition"
+    ],
+    "description": "Take control of any country in the world in this Geo Political Simulator.",
+    "developers": [
+        {
+            "id": "521816601691947039",
+            "name": "GolemLabs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "joshua.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1f4505e12546ab337b56d01e9a48c31",
+    "id": "425458179539730462",
+    "name": "SuperPower 2",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "2e727e992693292abf9c9c17bd770d0fd14419727756fd7bd5b48c88c0f0022a"
+}

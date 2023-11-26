@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the riflemen/the riflemen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e55c82adc8bb93e3e2020fa44e56354f",
+    "id": "1156409931159842826",
+    "name": "The Riflemen",
+    "publishers": [
+        {
+            "id": "1124355882780737656",
+            "name": "Normogames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2022330",
+            "sku": "2022330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c9f730afe9c4eaa7727aeaefe5db0bcf1fa63aed5a4e4069972aa0a5f449fd4"
+}

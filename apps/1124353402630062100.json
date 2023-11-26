@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "uncharted legacy of thieves collection/u4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "20b6dd866b203e0d7b963f87f322a45e",
+    "id": "1124353402630062100",
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "publishers": [
+        {
+            "id": "1124353403104014438",
+            "name": "Naughty Dog LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1659420",
+            "sku": "1659420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "741dd3e680fefe20fc7f39e86b29164217303902268b4fb5e75fd2f725413402"
+}

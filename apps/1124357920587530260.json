@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tower of time/toweroftime.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e03b4bdf3cb2672d34e967af5bd8d8ee",
+    "id": "1124357920587530260",
+    "name": "Tower of Time",
+    "publishers": [
+        {
+            "id": "524351599200698369",
+            "name": "Event Horizon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "617480",
+            "sku": "617480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "350452a42f0d691c5533b3278eadb9f058d44333c0c322169af1189567a371f2"
+}

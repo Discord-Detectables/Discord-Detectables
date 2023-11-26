@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "westerado/westeradodb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "77ef5ccf9be24d759199d98815baa227",
+    "id": "1124356466917257247",
+    "name": "Westerado: Double Barreled",
+    "publishers": [
+        {
+            "id": "524352192145260566",
+            "name": "Ostrich Banditos"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "275200",
+            "sku": "275200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "14a7534f76030c92a58b56e3eaf05688e52bf3a5b2fd5a242ab3265d46ccf020"
+}

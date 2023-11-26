@@ -1,0 +1,38 @@
+{
+    "description": "When Lara Croft accidentally releases the Egyptian god Set, she must quickly find a way to entomb him once again before he unleashes the apocalypse.",
+    "developers": [
+        {
+            "id": "521816511178997818",
+            "name": "Core Design Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tomb4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "170fb0e803327bf324e1911d3508b825",
+    "id": "504081066848681984",
+    "name": "Tomb Raider: The Last Revelation",
+    "publishers": [
+        {
+            "id": "521816609518518283",
+            "name": "Sold Out Sales & Marketing Ltd."
+        }
+    ],
+    "splash": "f0dc15384ab0daa2a40b6434eaf2b5f0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224980",
+            "sku": "224980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ab9f4c5a7372aaccd0177150f8ecf087ead6f1751354650d20cf2a1d6b7c692"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Knights of Pen & Paper II"
+    ],
+    "description": "Sequel to Knights of Pen and Paper, a turn-based, pixel-art game.",
+    "developers": [
+        {
+            "id": "521816630355951628",
+            "name": "Kyy Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kopp2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "26cc63cf0febe28c9660e4726c82a137",
+    "id": "505141441388085298",
+    "name": "Knights of Pen and Paper 2",
+    "publishers": [
+        {
+            "id": "521816521249521702",
+            "name": "Paradox Interactive AB"
+        }
+    ],
+    "splash": "ffe53833f953d364b46cee05faf5e6d6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "310060",
+            "sku": "310060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1155b70ffa81f1f57a322662cd8994ae28eb379e4b57876e6048809b77fe9811"
+}

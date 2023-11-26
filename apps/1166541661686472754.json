@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mgs1/metal gear solid.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "112d1bf0becd1c3ddad2251b9bddb644",
+    "id": "1166541661686472754",
+    "name": "METAL GEAR SOLID - Master Collection Version",
+    "publishers": [
+        {
+            "id": "521816513074692111",
+            "name": "Konami"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2131630",
+            "sku": "2131630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e62919d9ded1518f56dc1fe437a87be2f0f6496f17a04b3996eddeaeda74e01f"
+}

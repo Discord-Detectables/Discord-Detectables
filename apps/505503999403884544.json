@@ -1,0 +1,38 @@
+{
+    "description": "Last Remnant is a Square Enix-developed RPG with a new and unique combat system that invites the gamers to an exciting experience.",
+    "developers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tlr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c4d4f1255a41213e1c5f0cf699ecc71b",
+    "id": "505503999403884544",
+    "name": "The Last Remnant",
+    "publishers": [
+        {
+            "id": "521816526920351761",
+            "name": "Square Enix"
+        }
+    ],
+    "splash": "7a7b202bef6029c2d2a196758bc174db",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "23310",
+            "sku": "23310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a818152b2c8be3605d81125feaeddf3f467f5492ed45826a250487f240495e27"
+}

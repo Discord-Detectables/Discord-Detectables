@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/ride4-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b6c255d82a91d661cc83efb43fb6035c",
+    "id": "1124352932066897960",
+    "name": "RIDE 4",
+    "publishers": [
+        {
+            "id": "524351544951439360",
+            "name": "Milestone s.r.l."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1259980",
+            "sku": "1259980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e69d3b3b80696098c47830a873f84c043a15c57984d33188756e64dc9c3ce47"
+}

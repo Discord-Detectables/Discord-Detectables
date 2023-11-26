@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "turbo pug/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b63924d1a0d7de4947a7a7935f663bb",
+    "id": "1124356796325314722",
+    "name": "Turbo Pug",
+    "publishers": [
+        {
+            "id": "524352724460896257",
+            "name": "Space Cat Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "418070",
+            "sku": "418070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b603f00d9e1ef0c097c71306a66e26a6bccc35cf1d81baf226e7c08373307ed1"
+}

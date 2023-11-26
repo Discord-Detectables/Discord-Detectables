@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the banner saga 3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "306957465407324171",
+    "hook": true,
+    "icon": "d7150a86209a1798dd9c9212bd73e50d",
+    "id": "472228397020479488",
+    "name": "Banner Saga 3",
+    "primary_sku_id": "472483394085715979",
+    "slug": "banner-saga-3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "472483394085715979",
+            "sku": "472483394085715979"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "8526e4a286c782f7822018a1331f8e85c27579109a3ff53a545d83894c4b3732"
+}

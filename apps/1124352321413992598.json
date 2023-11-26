@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neon beats/neon beats.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cef4e0cdba0c948cf42870e5f60065b6",
+    "id": "1124352321413992598",
+    "name": "Neon Beats",
+    "publishers": [
+        {
+            "id": "1124352321908916275",
+            "name": "OKYO GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1064610",
+            "sku": "1064610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ece1ee5cab43b8244222aefadf6bbf9531a3ad73df0a7a41bb32ade9c222a9dd"
+}

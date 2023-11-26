@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bussimulator21-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f42fe7a30c9a6e23d029e8d2799aab84",
+    "id": "1124354245391569096",
+    "name": "Bus Simulator 21",
+    "publishers": [
+        {
+            "id": "524352333501562916",
+            "name": "stillalive studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "976590",
+            "sku": "976590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "457b19ea3b660e23b35c0474fbc83a6060b13d50332f44d242c307f26d1d1056"
+}

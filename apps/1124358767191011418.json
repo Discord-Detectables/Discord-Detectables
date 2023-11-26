@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hardwest2/hardwest2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "23e6c7fc6cf051da447ba7e67a439f73",
+    "id": "1124358767191011418",
+    "name": "Hard West 2",
+    "publishers": [
+        {
+            "id": "524353140330594334",
+            "name": "Ice Code Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1282410",
+            "sku": "1282410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2e6223943e26a06e591a9e627a8ecc5f6f7736387043c81616707d180d4cbd3b"
+}

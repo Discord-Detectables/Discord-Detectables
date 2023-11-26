@@ -1,0 +1,53 @@
+{
+    "description": "A sci-fi MMORPG developed by Cryptic Studios and Perpetual Entertainment which allows players to fight amongst the ranks of Starfleet, join the Klingon Empire, or rebuild a Romulan homeworld.",
+    "developers": [
+        {
+            "id": "521816694352510976",
+            "name": "Cryptic Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star trek online/live/gameclient.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "star trek online.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "star trek online/live/x64/gameclient.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "star trek online/live/x86/gameclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4b3bfeedad2d43b64dcee75b625539b4",
+    "id": "448384255131779073",
+    "name": "Star Trek Online",
+    "publishers": [
+        {
+            "id": "521816509673242636",
+            "name": "Perfect World Entertainment"
+        }
+    ],
+    "splash": "0d19bd6538d773e6113c157607cef913",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "9900",
+            "sku": "9900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1dc343bde93eb886cb8fbf3b9962f9df6864cbf1b0897b60c3ce919693131028"
+}

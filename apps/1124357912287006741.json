@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warlords/civ4warlords.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "479523d676f894607c413df285dc7f94",
+    "id": "1124357912287006741",
+    "name": "Sid Meier's Civilization IV: Warlords",
+    "publishers": [
+        {
+            "id": "521816573485514765",
+            "name": "Firaxis Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "3990",
+            "sku": "3990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0d9d67ba5b561d19fb1664b164ad4881d84eb36bed549e2c856789d7f56e80a9"
+}

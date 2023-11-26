@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "awol/awol.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "085a9b010045993cecee7ae903b87ad6",
+    "id": "1124356726431432815",
+    "name": "A.W.O.L.",
+    "publishers": [
+        {
+            "id": "1124356726972493935",
+            "name": "Shotspark Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1740150",
+            "sku": "1740150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d7bc3eb1a1aa34b6dba73f558c573154f510ede25271fd865638f11534968a6"
+}

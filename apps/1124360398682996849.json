@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "leap of faith/leapoffaith.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2f9eb5d79acb5d88cff08ed4aae5dea6",
+    "id": "1124360398682996849",
+    "name": "Leap of Faith",
+    "publishers": [
+        {
+            "id": "1124360399173726360",
+            "name": "DriftyGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1768640",
+            "sku": "1768640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3dd19cca0a6e893b15c8bf7562b9e35e37975c3f04616236764b4337fe9c4c66"
+}

@@ -1,0 +1,32 @@
+{
+    "description": "A simulation game where players create and sell their own paintings.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "passpartout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c61c56d4597406e6e7aa5a2b926d8113",
+    "id": "453677781511831572",
+    "name": "Passpartout: The Starving Artist",
+    "publishers": [
+        {
+            "id": "521816619115085827",
+            "name": "Flamebait Games"
+        }
+    ],
+    "splash": "08c4507e581fa2989481a3e6fdf3b422",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "582550",
+            "sku": "582550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bfc949fd06181c502ed93be9bd8975654cb42d6127a348173bb04b5f48ac1f02"
+}

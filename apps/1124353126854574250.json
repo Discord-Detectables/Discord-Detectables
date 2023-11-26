@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/boltgun-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6e3b5ead381402e11446552594e0981d",
+    "id": "1124353126854574250",
+    "name": "Warhammer 40,000: Boltgun",
+    "publishers": [
+        {
+            "id": "524352486010781728",
+            "name": "Auroch Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2005010",
+            "sku": "2005010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea40158bfd96dc3d9be00c7c62c9ffe60b14638ef0600a950db5cff7c2296a07"
+}

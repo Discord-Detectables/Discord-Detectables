@@ -1,0 +1,46 @@
+{
+    "description": "This sequel to Dragon Age: Origins features faster combat, a new art style, and a brand new, fully voiced main character named Hawke.",
+    "developers": [
+        {
+            "id": "521816589570408449",
+            "name": "BioWare"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dragonage2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8a584b9df9affb2251de9dc3d5e190fd",
+    "id": "496576882540806154",
+    "name": "Dragon Age II",
+    "publishers": [
+        {
+            "id": "521816589570408449",
+            "name": "BioWare"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "47900",
+            "sku": "47900"
+        },
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "31220b47420dcbe06751ece8d5e435b5ca787985dffc1037f6bd14d8274cb73f"
+}

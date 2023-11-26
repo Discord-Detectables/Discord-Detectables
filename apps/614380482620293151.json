@@ -1,0 +1,60 @@
+{
+    "aliases": [
+        "Bloons TD 6"
+    ],
+    "cover_image": "ba35fab3925cc6cee14d84791930ba58",
+    "description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+    "developers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bloonstd6/bloonstd6.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bloonstd6.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "cleaner/cleaner-btd6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "964bba45cea807405b9919863052277c",
+    "id": "614380482620293151",
+    "name": "Bloons TD 6",
+    "publishers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        },
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "google_play",
+            "id": "com.ninjakiwi.bloonstd6",
+            "sku": "com.ninjakiwi.bloonstd6"
+        },
+        {
+            "distributor": "steam",
+            "id": "960090",
+            "sku": "960090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f33f299680a4d2b300c9e0d42c841466f1798bff9e764adc82d452819839d134"
+}

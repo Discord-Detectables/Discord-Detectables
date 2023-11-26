@@ -1,0 +1,37 @@
+{
+    "description": "An adventure game from The Astronauts – a development team comprised of People Can Fly veterans.",
+    "developers": [
+        {
+            "id": "521816694352510978",
+            "name": "The Astronauts"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "astronautsgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "338a1d4724bbbe18f1b66892245b1084",
+    "id": "504078553445302330",
+    "name": "The Vanishing of Ethan Carter",
+    "publishers": [
+        {
+            "id": "521816694352510978",
+            "name": "The Astronauts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "258520",
+            "sku": "258520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a34be85e3d08260c5e5b539f9bb2d6c1eb4880f064493061e7af2453a2879258"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Aliens, robots, and futuristic cowboys collide in this MOBA-inspired 2D arena platformer inspired by late-80s and early-90s cartoons.",
+    "developers": [
+        {
+            "id": "521816503960600576",
+            "name": "Ronimo Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "awesomenauts.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3c186528a69ef8af5dc659e6b008283",
+    "id": "447488337519968257",
+    "name": "Awesomenauts",
+    "publishers": [
+        {
+            "id": "521816503465803791",
+            "name": "dtp entertainment AG"
+        }
+    ],
+    "splash": "bfe38c27606fe8da6bba2b610c98bc60",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "204300",
+            "sku": "204300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a933ba34f7157fa29cf9c344b9c60bc8060b567f7ba89b46752888d484d115b"
+}

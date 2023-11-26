@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "OlliOlli2"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "olliolli2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dc1a45790aa5b6ec57555634050c7898",
+    "id": "505150905696649216",
+    "name": "OlliOlli2: Welcome to Olliwood",
+    "publishers": [
+        {
+            "id": "521816670004576270",
+            "name": "Roll7"
+        }
+    ],
+    "splash": "e289a97ff19acc2327cf3bee515ffddb",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "365660",
+            "sku": "365660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e27cd81c0eb1d13049203e9e70ad8ebf3bd425e8e4e93926f6867645dbdd9c3c"
+}

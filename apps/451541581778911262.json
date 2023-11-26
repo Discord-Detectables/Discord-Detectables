@@ -1,0 +1,52 @@
+{
+    "aliases": [
+        "Limbo"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816599607508999",
+            "name": "Playdead"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "limbo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7a51b58c0881e4b9c6d887f65cef85ea",
+    "id": "451541581778911262",
+    "name": "LIMBO",
+    "primary_sku_id": "489928194208825365",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        },
+        {
+            "id": "521816599607508999",
+            "name": "Playdead"
+        }
+    ],
+    "slug": "limbo",
+    "splash": "780c83b00428c919799b20343459805d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489928194208825365",
+            "sku": "489928194208825365"
+        },
+        {
+            "distributor": "steam",
+            "id": "48000",
+            "sku": "48000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f0fb781a296874c6332af0ffdb939ddfbb23ddb4ad011d9cedaa407b4f68153c"
+}

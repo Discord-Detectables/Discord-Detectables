@@ -1,0 +1,38 @@
+{
+    "description": "Gold Rush: The Game is a realistic gold mining simulator set in Alaska.",
+    "developers": [
+        {
+            "id": "521816636177776643",
+            "name": "Code Horizon"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "goldrushthegame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7a5b40bb6385d4becd8029000296c782",
+    "id": "451564928868941824",
+    "name": "Gold Rush: The Game",
+    "publishers": [
+        {
+            "id": "521816512516980736",
+            "name": "PlayWay"
+        }
+    ],
+    "splash": "fecfe099cd2e39c26ae4ccadc8e7e3b6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "451340",
+            "sku": "451340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7627ce4a84712edee5c7d5ec9eb6b49acb142a34bc5c4ff154645bffe97345ae"
+}

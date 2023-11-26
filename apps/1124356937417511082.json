@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "convoy/convoy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d79128a70f54bd10e033f79ac9654c1c",
+    "id": "1124356937417511082",
+    "name": "Convoy",
+    "publishers": [
+        {
+            "id": "524352420747411476",
+            "name": "Convoy Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "318230",
+            "sku": "318230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0563ec2d2fb9b4e7a4c87fb2d4db08f0c2dcb20c91f9fc932736e57071b36edd"
+}

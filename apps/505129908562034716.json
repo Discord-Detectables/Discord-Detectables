@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "E.Y.E.: Divine Cybermancy"
+    ],
+    "description": "Based on the roleplaying board game, A.V.A, E.Y.E: Divine Cybermancy is an FPS-RPG set in a \"dark cyberpunk world.\"",
+    "developers": [
+        {
+            "id": "521816672248791063",
+            "name": "Streum On Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eye.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1b1bd0582f849e739bd0917635c79b49",
+    "id": "505129908562034716",
+    "name": "E.Y.E: Divine Cybermancy",
+    "publishers": [
+        {
+            "id": "521816672248791063",
+            "name": "Streum On Studio"
+        }
+    ],
+    "splash": "5d78ef0615122b1a6c7897dbe23163b4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "91700",
+            "sku": "91700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2216c4a36c76518b1335fb081ec181c28729c362373d915b66e028ec4c9e433e"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pixel piracy/pixelpiracy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed30ef42ed6466d47300f8d89faa7de4",
+    "id": "1124354312940834826",
+    "name": "Pixel Piracy",
+    "publishers": [
+        {
+            "id": "1124354313414787113",
+            "name": "Vitali Kirpu"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "264140",
+            "sku": "264140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "556e9c95599780497434f429d28e191ea101e74298cc9f520033b654bc088deb"
+}

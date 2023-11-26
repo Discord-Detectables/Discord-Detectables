@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "touhou mystia izakaya/touhou mystia izakaya.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb17f5e89788090e4cad37e3ebd1a130",
+    "id": "1124357917496328313",
+    "name": "Touhou Mystia's Izakaya",
+    "publishers": [
+        {
+            "id": "1124357917961891870",
+            "name": "二色幽紫蝶"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1584090",
+            "sku": "1584090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8255459f6749eda399045998f2075087552bda375cdcc988e5608832012250e1"
+}

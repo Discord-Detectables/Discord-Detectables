@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "encased/encased.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1fa6a4461847b15436b767cdc15280af",
+    "id": "1124355699678396527",
+    "name": "Encased",
+    "publishers": [
+        {
+            "id": "524353159892828169",
+            "name": "Dark Crystal Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "921800",
+            "sku": "921800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5fdfb2b1829e20a1d2205a5541ca531bac2fbb7703351e5cfd5eeb7edbda63c2"
+}

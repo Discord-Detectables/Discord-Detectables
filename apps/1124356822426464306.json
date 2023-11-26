@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lakeburg legacies demo/lakeburg legacies.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b8926d9866f8b1a9aef405b12ce2ca34",
+    "id": "1124356822426464306",
+    "name": "Lakeburg Legacies Demo",
+    "publishers": [
+        {
+            "id": "1124353041945079861",
+            "name": "Ishtar Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2249840",
+            "sku": "2249840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5bcf75a3c92be09852a3c53511e16a2702bb095a7f5507429ef1eca0c6ed7461"
+}

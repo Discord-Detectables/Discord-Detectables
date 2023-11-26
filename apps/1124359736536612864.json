@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the pit/thepit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a162f903a9a261572a74f773e2f34802",
+    "id": "1124359736536612864",
+    "name": "Sword of the Stars: The Pit",
+    "publishers": [
+        {
+            "id": "524352338908020788",
+            "name": "Kerberos Productions Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "233700",
+            "sku": "233700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31231f0d1d25d118c60f688c1b9f60ec813b78b90f333e74f8bb800df07bf6ab"
+}

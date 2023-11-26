@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "project warlock arctic attack/pw_aa_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9e7b18c3bd259a3429316e1960b47e3c",
+    "id": "1124360234652151908",
+    "name": "Project Warlock Arctic Attack",
+    "publishers": [
+        {
+            "id": "524353173767454723",
+            "name": "Buckshot Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "907740",
+            "sku": "907740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fda1a377ebb8b696b956b41b51f0582c5b02e114d7fb9a823b2a5ecb39f4ca20"
+}

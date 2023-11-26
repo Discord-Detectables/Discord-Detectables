@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Perpetuum Online"
+    ],
+    "description": "A Sci-Fi Mech MMORPG, currently in Beta. The game mimics  many of the aspects of Eve, though being ground based with Mech combat differentiates it from other MMOs currently available. ",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "perpetuum.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "66a2a4d1e66eac19e10f215fc66b4b78",
+    "id": "505151662151958530",
+    "name": "Perpetuum",
+    "publishers": [
+        {
+            "id": "521816611980705795",
+            "name": "Avatar Creations"
+        }
+    ],
+    "splash": "7eb08d2c2c49e8c6c4a59a3d5e1f0d7a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "223410",
+            "sku": "223410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ae12733a4d1e045b3a91c330ce324f41e259802da9784abee21e44094d3c3091"
+}

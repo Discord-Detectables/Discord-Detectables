@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the horus heresy legions/horusheresylegions.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9e9608d8524d4e279f65b6a838dbeb7",
+    "id": "1124354861820035144",
+    "name": "The Horus Heresy: Legions",
+    "publishers": [
+        {
+            "id": "1124354862293987491",
+            "name": "Everguild Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1031140",
+            "sku": "1031140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aa7dc8fda6525bc2796a27ead8fe3f5a426725db5664fab27a6e31d2f15b9269"
+}

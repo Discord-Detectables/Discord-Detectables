@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stronghold definitive edition/stronghold 1 definitive edition.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "93fec034c0fc650d22b691225d0cee01",
+    "id": "1171766117610569750",
+    "name": "Stronghold: Definitive Edition",
+    "publishers": [
+        {
+            "id": "521816602132611105",
+            "name": "Firefly Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2140020",
+            "sku": "2140020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e73fb084999fc789a2cbdcff91c4ff46cd744025a7d207a77e006b7acedf3ad3"
+}

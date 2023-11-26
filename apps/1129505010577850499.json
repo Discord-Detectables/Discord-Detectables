@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Just Die Already"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/jdgame-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bce63c6e431f88e1b055b04e4db2d1aa",
+    "id": "1129505010577850499",
+    "name": "Just Die Already",
+    "publishers": [
+        {
+            "id": "1129505012553359500",
+            "name": "DoubleMoose"
+        },
+        {
+            "id": "524352823396139019",
+            "name": "DoubleMoose Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "979070",
+            "sku": "979070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0ec74a1e060804074a3c093966640245c25212c477682104ba335092d06031e7"
+}

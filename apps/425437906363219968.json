@@ -1,0 +1,38 @@
+{
+    "description": "Far Cry is a first-person shooter PC game developed by Crytek Germany. Meet Jack Carver, who is having a rough day - they blew up his boat, they chased him into the jungle, and now they're shooting at him. Too bad they don't know Jack.",
+    "developers": [
+        {
+            "id": "521816652262670336",
+            "name": "Crytek GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farcry.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4cb92e4aaa6b2a94c57b81a600f0eaae",
+    "id": "425437906363219968",
+    "name": "Far Cry",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "7e0f032b1ee992cea47c76db11c455cd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "13520",
+            "sku": "13520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "20b9cdc173cc27e3793e6b265d0551fd5a5879895fb5689f797f0c9226ce204b"
+}

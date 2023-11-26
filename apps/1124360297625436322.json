@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fight knight/fightknight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "82e4baee6c2a5125b6979ea3a4fc9dc9",
+    "id": "1124360297625436322",
+    "name": "FIGHT KNIGHT",
+    "publishers": [
+        {
+            "id": "524353093890998295",
+            "name": "Team Sorcerobe"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "792120",
+            "sku": "792120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6b5a188f65e1534c88cf2b188a2905a6a8b6655d5ff84c4347065f64a9d9fc93"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "runningwithriflesdemo/rwr_config.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f12a5b97a8e3c80b65506ea58b8dc875",
+    "id": "1124356716780343327",
+    "name": "RUNNING WITH RIFLES Demo",
+    "publishers": [
+        {
+            "id": "1124356634290962442",
+            "name": "Osumia Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "288330",
+            "sku": "288330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "33d32592fbd9d9a86615cf055336e04aa6c3b3e61cf4136a559ef5d2f5252f89"
+}

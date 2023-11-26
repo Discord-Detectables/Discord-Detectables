@@ -1,0 +1,38 @@
+{
+    "description": "Beholder is a totalitarian themed spying game.",
+    "developers": [
+        {
+            "id": "521816702321819667",
+            "name": "Warm Lamp Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "beholder.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5110534a50f32df766ed5e4ff29a0de0",
+    "id": "475039384358617098",
+    "name": "Beholder",
+    "publishers": [
+        {
+            "id": "521816702321819663",
+            "name": "Alawar Entertainment, Inc."
+        }
+    ],
+    "splash": "44de6d27407885d887411b8e56be1130",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "475550",
+            "sku": "475550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7a2b2e565e58141aca25190e15e4082640cca7d1814a73bc94befcb39d58f1b4"
+}

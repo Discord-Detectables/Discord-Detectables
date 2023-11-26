@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wrc 6/wrc6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "37fd4b991f0b462c8054d2b3cd47744a",
+    "id": "1124359818505900196",
+    "name": "WRC 6",
+    "publishers": [
+        {
+            "id": "1124353520053801030",
+            "name": "KT Racing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "458770",
+            "sku": "458770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73da77cb7ed4fcce9531a537cf4437ef16a49e4cc0f40df9174758bdb8b94d4a"
+}

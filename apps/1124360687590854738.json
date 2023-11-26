@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sky force reloaded/sky force reloaded.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3505ac2e0e6db84395945fdb07360e7",
+    "id": "1124360687590854738",
+    "name": "Sky Force Reloaded",
+    "publishers": [
+        {
+            "id": "524351952176283652",
+            "name": "Infinite Dreams"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "667600",
+            "sku": "667600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ba1e8281dfc6b9978c2ddc0fa5db0f1ef2f1012b99dc33a55ce0df9d1875d366"
+}

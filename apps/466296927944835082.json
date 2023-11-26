@@ -1,0 +1,38 @@
+{
+    "description": "Heavy Metal Machines is an action driving real time strategy game. Where your driving skills using WASD controllers are paired with your team's strategy to destroy your enemy towers and base!",
+    "developers": [
+        {
+            "id": "521816682684088332",
+            "name": "Hoplon Infotainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "heavy metal machines/hmm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f97bc78f843e208f1af9c72288b64db6",
+    "id": "466296927944835082",
+    "name": "Heavy Metal Machines",
+    "publishers": [
+        {
+            "id": "521816682684088332",
+            "name": "Hoplon Infotainment"
+        }
+    ],
+    "splash": "0efa3a48515d61954e9247f2d69d5da2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "331360",
+            "sku": "331360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "338a8565a1df010518287a1b698978cf9bc6168d32049d9ddea5923032dbb55b"
+}

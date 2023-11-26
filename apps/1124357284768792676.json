@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "q remastered/q.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "89c86e5556971a8803e91efb1d33bfc6",
+    "id": "1124357284768792676",
+    "name": "Q  REMASTERED",
+    "publishers": [
+        {
+            "id": "1124357285255327864",
+            "name": "LIICA INC."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2246110",
+            "sku": "2246110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c1e160cfa8299f1b7535ca0e7e72f1a5f3017197e5180284871beee894a25bd7"
+}

@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fortify.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2564f5dbd90a96e5324f017be19e1700",
+    "id": "451563408794320906",
+    "name": "FORTIFY",
+    "publishers": [
+        {
+            "id": "521816516593975296",
+            "name": "RTK Entertainment"
+        }
+    ],
+    "splash": "03cfd34a2d7e133e55bdb776b5e86195",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "505040",
+            "sku": "505040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "470a25246cc8ca5d70058c3fc909e08809c55fa74c52b9d377f1494a0d26e078"
+}

@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816509673242635",
+            "name": "Runic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hob.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5b49e6e578e73d674b432c31db0f8027",
+    "id": "372440317493903380",
+    "name": "Hob",
+    "primary_sku_id": "491747177518071818",
+    "publishers": [
+        {
+            "id": "521816509673242635",
+            "name": "Runic Games"
+        }
+    ],
+    "slug": "hob",
+    "splash": "a3475a84262ab066f46b6233fbfc7d5f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "404680",
+            "sku": "404680"
+        },
+        {
+            "distributor": "discord",
+            "id": "491747177518071818",
+            "sku": "491747177518071818"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e6d49c5e67f90272e18f70fb223f9bd5dde33a09f1e29267b85430b302fcc62d"
+}

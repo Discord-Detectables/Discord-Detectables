@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "senran kagura estival versus/skestivalversus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "12c1054f65041455b461ee3aed200432",
+    "id": "1124354424618365090",
+    "name": "SENRAN KAGURA ESTIVAL VERSUS",
+    "publishers": [
+        {
+            "id": "1124354425075552296",
+            "name": "Tamsoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "502800",
+            "sku": "502800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b96dd3ea7f250e6ab3e256ee6fc28c29d2ed87b5deeeb26ce4b207d36bfcb0f0"
+}

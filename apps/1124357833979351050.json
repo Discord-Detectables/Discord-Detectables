@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thedishwashervampiresmile/vampiresmile.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "292136b7f939a0896ecc7fa714cc1051",
+    "id": "1124357833979351050",
+    "name": "The Dishwasher: Vampire Smile",
+    "publishers": [
+        {
+            "id": "1124355108252172349",
+            "name": "Ska Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "268990",
+            "sku": "268990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "491d40a5838dbb4a5f0866f09927ac30136303b8c99308f3a3974fa9d049ab56"
+}

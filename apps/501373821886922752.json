@@ -1,0 +1,38 @@
+{
+    "description": "The 2018 release from 2k's simulation franchise",
+    "developers": [
+        {
+            "id": "521816587586633731",
+            "name": "Visual Concepts"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nba2k19.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "09a9eb230dc7dbf9ffc3afbcd7988afc",
+    "id": "501373821886922752",
+    "name": "NBA 2K19",
+    "publishers": [
+        {
+            "id": "521816531324370967",
+            "name": "2K Sports"
+        }
+    ],
+    "splash": "50e1bf7fabd5ea7ec73e1be8e6896b39",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "841370",
+            "sku": "841370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ec237c897c5f39dd05ea167dee6cd2a9af3458400cd77a6cbbe30659c95b0843"
+}

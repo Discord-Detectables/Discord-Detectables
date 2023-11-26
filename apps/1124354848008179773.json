@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rival stars horse racing/rivalstarshorseracing.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c7535e0c20c8c86faac602e7b4239441",
+    "id": "1124354848008179773",
+    "name": "Rival Stars Horse Racing",
+    "publishers": [
+        {
+            "id": "524352046791393293",
+            "name": "PikPok"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1166860",
+            "sku": "1166860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6116f80d5e1bd831277ea3bf53b9b7cfbee45cf8818fb8b8ee029d2a16970757"
+}

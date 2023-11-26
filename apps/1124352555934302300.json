@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/zerocaliber-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "544a9c558291113723d0c528597dbd33",
+    "id": "1124352555934302300",
+    "name": "Zero Caliber VR",
+    "publishers": [
+        {
+            "id": "1124352556383088770",
+            "name": "XREAL Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "877200",
+            "sku": "877200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51810043e6bb1e12707ed89e33d9ee3b0525f53711705c1026782b20845c4f84"
+}

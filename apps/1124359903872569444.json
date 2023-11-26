@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tin can/tin can.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "43294d8f0a70e238c8012a377c552980",
+    "id": "1124359903872569444",
+    "name": "Tin Can",
+    "publishers": [
+        {
+            "id": "1124359904392659117",
+            "name": "Tin Can Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1315980",
+            "sku": "1315980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb25c9b5a431beac56c6d24303e1c096b15c10ff9ce44c4d732a82d9f6b70509"
+}

@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Tom Clancy's Splinter Cell: Blacklist"
+    ],
+    "description": "The sixth installment of the Tom Clancy's Splinter Cell series and follows the events after Splinter Cell: Conviction.",
+    "developers": [
+        {
+            "id": "521816631782014982",
+            "name": "Ubisoft Toronto Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blacklist_dx11_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d175707cb04eeaa0832d8f6ec571dc6e",
+    "id": "425440144829448192",
+    "name": "Tom Clancy's Splinter Cell Blacklist",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "ca0a3a1106e82d8ae37568bc332e02d8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "235600",
+            "sku": "235600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8bdeb7839c0498992277031fb7fedb6ad9570f1430e78b77b08ef681b91cfa6e"
+}

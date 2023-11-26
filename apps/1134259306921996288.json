@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vacuum warrior/vacuumwarrior.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab5ae0bc8544e079bc61de8ac423b621",
+    "id": "1134259306921996288",
+    "name": "Vacuum Warrior",
+    "publishers": [
+        {
+            "id": "1134259307618242591",
+            "name": "Benjamin Staugaard"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2302990",
+            "sku": "2302990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7d405353de568f5cd66d07a7e301e260c273d8f800a8d503816d0ebd4a4264ab"
+}

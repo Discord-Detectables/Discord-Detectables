@@ -1,0 +1,42 @@
+{
+    "description": "The sixteenth mainline entry in the long-running Tales action-RPG series, following the exploits of a pirate named Velvet.",
+    "developers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tales of berseria.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "28112a96abd2b80f45a6dce1ddeaa3ad",
+    "id": "451548231223214080",
+    "name": "Tales of Berseria",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        },
+        {
+            "id": "521816782479163394",
+            "name": "BANDAI NAMCO Studios Inc."
+        }
+    ],
+    "splash": "4e7aa1074043e48e5ba0ec9dc01cdee7",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "429660",
+            "sku": "429660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d79693ee628c2dc23220a3fec9981ef07579dd11d33f2654859fca0e15315ebc"
+}

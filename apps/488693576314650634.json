@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816738199896096",
+            "name": "Landfall West"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stickfight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9ca796e31254d56a71c4ae3ebb0e51c5",
+    "id": "488693576314650634",
+    "name": "Stick Fight: The Game",
+    "primary_sku_id": "492081050760249374",
+    "publishers": [
+        {
+            "id": "521816737738653727",
+            "name": "Landfall Games"
+        }
+    ],
+    "slug": "stick-fight-the-game",
+    "splash": "569d516313c9535527d7a88314f56686",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "674940",
+            "sku": "674940"
+        },
+        {
+            "distributor": "discord",
+            "id": "492081050760249374",
+            "sku": "492081050760249374"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4619b5dbb552a12c39ce3877f3f85fae34b2d3e5a0465215cc11f653cf871fc3"
+}

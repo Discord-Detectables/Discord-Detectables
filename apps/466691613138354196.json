@@ -1,0 +1,38 @@
+{
+    "description": "A visual novel from shinachiku-castella.",
+    "developers": [
+        {
+            "id": "521816525846478850",
+            "name": "shinachiku-castella"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amorous.game.windows.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eb374a82c5fe2bce1582f61da4587e25",
+    "id": "466691613138354196",
+    "name": "Amorous",
+    "publishers": [
+        {
+            "id": "521816525846478848",
+            "name": "Team Amorous"
+        }
+    ],
+    "splash": "dd6f19b1a799df24f1e1ec41cc26f815",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "778700",
+            "sku": "778700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "70b80414540abe3ccc95c608d2a50c7d3abd650daade8d341f8d4a17ea2e3058"
+}

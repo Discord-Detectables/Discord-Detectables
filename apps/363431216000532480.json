@@ -1,0 +1,38 @@
+{
+    "description": "Set fifteen years after the end of the first game, Dishonored 2 allows players to continue the story as either original protagonist Corvo Attano or his daughter and apprentice, the now-deposed Empress Emily Kaldwin.",
+    "developers": [
+        {
+            "id": "521816500974256128",
+            "name": "Arkane Studios SA"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dishonored2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "48baef37dbbb52d7a56c551be070397f",
+    "id": "363431216000532480",
+    "name": "Dishonored 2",
+    "publishers": [
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "ad4909a4b673367082f0d1facee51f02",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "403640",
+            "sku": "403640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0312c0672924c0a38a151c54a2f3859f8bd64fbf80bd24a2e2fa81c70eedec5e"
+}

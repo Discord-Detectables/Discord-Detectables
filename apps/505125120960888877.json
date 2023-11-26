@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dqxgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e636c0810de07fbd394f70bde87086af",
+    "id": "505125120960888877",
+    "name": "ドラゴンクエストＸ　いにしえの竜の伝承　オンライン",
+    "publishers": [
+        {
+            "id": "521816626203459608",
+            "name": "SQUARE ENIX CO., LTD."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "0567169292b949548e5f6d96277401ac2d6f6d070ed6e3a97559ac092047e3a4"
+}

@@ -1,0 +1,42 @@
+{
+    "description": "Kickstarter funded turn based Strategy game inspired by classics such as Battle Isle, Advance Wars, and Panzer General developed by KING Art Games.",
+    "developers": [
+        {
+            "id": "521816646768263170",
+            "name": "King Art Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battleworldskronos.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d513a1421f35b58cc88b6feabb824c7e",
+    "id": "425458030537211904",
+    "name": "Battle Worlds: Kronos",
+    "publishers": [
+        {
+            "id": "521816710106447873",
+            "name": "KING Art Games"
+        },
+        {
+            "id": "521816710106447875",
+            "name": "KING Art"
+        }
+    ],
+    "splash": "5c4c263564685c5a96d366535f8046a6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237470",
+            "sku": "237470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "554aada2036e4652ac2204b1022ce9d5e85e028f2de017af94bc89cdb7de20d3"
+}

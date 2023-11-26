@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/inheat-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6596011d405c749535f860b529c8333",
+    "id": "1124355614047481987",
+    "name": "IN HEAT: Lustful Nights Demo",
+    "publishers": [
+        {
+            "id": "1124355614483697774",
+            "name": "MonsterBox"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2000660",
+            "sku": "2000660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a6d9fed07511438cb65b356fdc513bfb197affba0c2d40468bfeb3277b70c439"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "samurai gunn 2/samuraigunn2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "43c937f685d8153b4747177ace0b96ba",
+    "id": "1124358968865730750",
+    "name": "Samurai Gunn 2",
+    "publishers": [
+        {
+            "id": "1124358969385832469",
+            "name": "Beau Blyth"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1397790",
+            "sku": "1397790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "046a72b891464eed95a9bdc9855aefef11f46fec6265ff9e68fe4f91eb48b46d"
+}

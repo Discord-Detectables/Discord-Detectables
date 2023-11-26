@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thief_2/thief2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "af26f2bc09b068b44eff1bfc0f4ccbce",
+    "id": "1124356627387142284",
+    "name": "Thief 2",
+    "publishers": [
+        {
+            "id": "570358003165822992",
+            "name": "Looking Glass Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "211740",
+            "sku": "211740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4012679b235c42a799094ee515d48d797e5ac3111c86ce1b0ecce222cc359eda"
+}

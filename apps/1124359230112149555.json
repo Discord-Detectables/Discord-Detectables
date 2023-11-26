@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fishing adventure/fishing adventure.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9c6f78d1b5233631d5948143a1795f04",
+    "id": "1124359230112149555",
+    "name": "Fishing Adventure",
+    "publishers": [
+        {
+            "id": "1124359230560948305",
+            "name": "MasterCode"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1101140",
+            "sku": "1101140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f487fa0cb7aae3287f86cff0dc1594aeddf93651377a77b10439815cc03e9b29"
+}

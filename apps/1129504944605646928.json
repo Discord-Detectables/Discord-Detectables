@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Tank Mechanic Simulator"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tankmechanicsimulator/tankmechanicsimulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b776d1525572576ee8081668a9cb3492",
+    "id": "1129504944605646928",
+    "name": "Tank Mechanic Simulator",
+    "publishers": [
+        {
+            "id": "1129504945494835293",
+            "name": "DeGenerals S.A."
+        },
+        {
+            "id": "1129504947344515123",
+            "name": "DeGenerals"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "407130",
+            "sku": "407130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1ca036924315759659a255a43bf8b9a48bc5eae45eaf08f307995a50d367e34e"
+}

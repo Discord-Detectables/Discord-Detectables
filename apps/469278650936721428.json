@@ -1,0 +1,46 @@
+{
+    "description": "Omensight is an action murder mystery game. In order to prevent the apocalypse, you are fated to repeat the last day of the world until it can be saved. Investigate clues, fight enemies, and solve the murder of the Godless-Priestess.",
+    "developers": [
+        {
+            "id": "521816671434833942",
+            "name": "Spearhead Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "omensight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "432543817414082562",
+    "hook": true,
+    "icon": "51ab3828dbebd592978ac956847616c5",
+    "id": "469278650936721428",
+    "name": "Omensight",
+    "primary_sku_id": "469679019701567528",
+    "publishers": [
+        {
+            "id": "521816671434833942",
+            "name": "Spearhead Games"
+        }
+    ],
+    "slug": "omensight",
+    "splash": "1ea3ad0906d9e1ede73a84aceb6815a4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "469679019701567528",
+            "sku": "469679019701567528"
+        },
+        {
+            "distributor": "steam",
+            "id": "455820",
+            "sku": "455820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9133916b550aca702f67811f5222f9b22beb7462280b8ff4774d0800d1df5079"
+}

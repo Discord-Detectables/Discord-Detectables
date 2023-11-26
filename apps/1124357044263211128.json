@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "not a hero/not a hero.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0ab47b08f478eedabb39819ed653297",
+    "id": "1124357044263211128",
+    "name": "NOT A HERO",
+    "publishers": [
+        {
+            "id": "521816670004576270",
+            "name": "Roll7"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "274270",
+            "sku": "274270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d4fae601ac41a7d52bb7166664203bd77e9d36b8f9547fdbede642003eb9db8c"
+}

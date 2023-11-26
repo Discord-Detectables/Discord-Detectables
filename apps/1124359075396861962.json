@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nancy drew curse of blackmoor manor/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba62fa232b62c37be9e084a66d5f8fa9",
+    "id": "1124359075396861962",
+    "name": "Nancy Drew: Curse of Blackmoor Manor",
+    "publishers": [
+        {
+            "id": "1124359075916951644",
+            "name": "HeR Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "31830",
+            "sku": "31830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ee657ea20e4891d462fc217a00394659898039d8266eec4b3ae3fe879d6437b"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jet set radio/jsrsetup.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6a57ec7e148d987d12bb38c981a8cccb",
+    "id": "1124352416935071824",
+    "name": "Jet Set Radio",
+    "publishers": [
+        {
+            "id": "1124352417417412668",
+            "name": "Blit Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "205950",
+            "sku": "205950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4a43034de510ffa33abbe27c52454c6d0cdf0d8e2f6227261af837e2a2439ce0"
+}

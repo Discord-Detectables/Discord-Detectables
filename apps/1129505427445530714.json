@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "College Kings 2: Act 1"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "college kings 2/collegekings2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd7686e28f4836d2dd413ea1c2397390",
+    "id": "1129505427445530714",
+    "name": "College Kings 2 - Episode 1",
+    "publishers": [
+        {
+            "id": "1129504322833633310",
+            "name": "Undergrad Steve"
+        },
+        {
+            "id": "1129504322833633310",
+            "name": "Undergrad Steve"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1924480",
+            "sku": "1924480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "838e17c2f36cbf440eeb8ffc680e39707853c5f1a091389d6ccbaa87279d7358"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadly days/deadly days.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f382b099f932ef198248629fab213428",
+    "id": "1124358055086280744",
+    "name": "Deadly Days",
+    "publishers": [
+        {
+            "id": "524352835492511745",
+            "name": "Pixelsplit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "740080",
+            "sku": "740080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "de786abc92a2158fc5e075b959d88742569be48cf1c68fe8dec9259d21671018"
+}

@@ -1,0 +1,41 @@
+{
+    "description": "DICE's large-scale multiplayer shooter moves to the present day in this acclaimed sequel, whose online community has remained active for nearly a decade.",
+    "developers": [
+        {
+            "id": "521816661788065794",
+            "name": "DICE Canada"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bf2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "775cbed4b779a5dc8fe82e152bc9af28",
+    "id": "496534962200248373",
+    "name": "Battlefield 2",
+    "publishers": [
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "24860",
+            "sku": "24860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "669754de23edc86fbda29afa34fed5fa3305798b7c9967bc72cf3f483783cbba"
+}

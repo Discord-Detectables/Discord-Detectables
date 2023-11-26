@@ -1,0 +1,50 @@
+{
+    "description": "A terminal-based hacking game, following the story of a recently deceased hacker named Bit.",
+    "developers": [
+        {
+            "id": "521816590673641485",
+            "name": "Team Fractal Alligator"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hacknet.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "307359835815411712",
+    "hook": true,
+    "icon": "9b126b01c85bf9572c09d0c0819ac9b1",
+    "id": "449639683740270612",
+    "name": "Hacknet",
+    "primary_sku_id": "449639683740270612",
+    "publishers": [
+        {
+            "id": "521816590673641485",
+            "name": "Team Fractal Alligator"
+        },
+        {
+            "id": "521816591139078164",
+            "name": "Surprise Attack Games"
+        }
+    ],
+    "slug": "hacknet",
+    "splash": "99bfe1c9cda59672e26e7d53a220cf2d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "449639683740270612",
+            "sku": "449639683740270612"
+        },
+        {
+            "distributor": "steam",
+            "id": "365450",
+            "sku": "365450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1cd79e77caac931a2bfac01b05e46943b78d4357d0bd21b611b50aaf0be74ab6"
+}

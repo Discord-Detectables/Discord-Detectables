@@ -1,0 +1,38 @@
+{
+    "description": "An adult RPG where you fight Monster Girls. If you lose, your hero will be raped to death.",
+    "developers": [
+        {
+            "id": "521816642762833921",
+            "name": "Toro Toro Resistance"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monmusu/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b0b00556f4e804635050f0dc757d8416",
+    "id": "455713051794997249",
+    "name": "MONMUSU",
+    "publishers": [
+        {
+            "id": "521816642762833920",
+            "name": "Tentacle Games"
+        }
+    ],
+    "splash": "5bc8220047783bbfefda1b543c95ab7b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "533540",
+            "sku": "533540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91bd63e3af50d1f6d0b2b73f6fa405c631d7c034a3bcf331505307e0db96cb6e"
+}

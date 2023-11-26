@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rabi-ribi/rabiribi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f166f9985b5181403a389cbcccb91338",
+    "id": "1124353563343212605",
+    "name": "Rabi-Ribi",
+    "publishers": [
+        {
+            "id": "1124353563884273725",
+            "name": "CreSpirit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "400910",
+            "sku": "400910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2c9f28acdf6cd0f9a8dc8e47480092085ae13162a1336dcb045d91ed61b22343"
+}

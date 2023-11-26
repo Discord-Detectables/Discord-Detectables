@@ -1,0 +1,37 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "90955e9b393ded86dc6d3a71726b9733",
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "badnorth.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "261683801372098560",
+    "hook": true,
+    "icon": "ae6ecbd993f1ff0325a906cbcafac60d",
+    "id": "487564993236172802",
+    "name": "Bad North",
+    "primary_sku_id": "488422292137836574",
+    "slug": "bad-north",
+    "splash": "98627cf8959e296ab93e2bfb9db6b67f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "688420",
+            "sku": "688420"
+        },
+        {
+            "distributor": "discord",
+            "id": "488422292137836574",
+            "sku": "488422292137836574"
+        }
+    ],
+    "type": 1,
+    "verify_key": "43c999d73038ccd0210f33e42f7270305df2ba7add9a2a5f327884f3ded39f9b"
+}

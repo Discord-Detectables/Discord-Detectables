@@ -1,0 +1,42 @@
+{
+    "description": "The new entry in the Might and Magic: Heroes franchise. Taking inspiration from Heroes of Might and Magic III and Heroes of Might and Magic V and developed by Limbic Entertainment, developers of Might and Magic X.",
+    "developers": [
+        {
+            "id": "521816585602859008",
+            "name": "Limbic Entertainment GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mmh7game-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "43b1da256e053970e5d80dabb601db84",
+    "id": "498942455903944704",
+    "name": "Might & Magic Heroes VII",
+    "publishers": [
+        {
+            "id": "521816583585136660",
+            "name": "Ubisoft S.A."
+        },
+        {
+            "id": "521816585132834835",
+            "name": "Limbic Entertainment"
+        }
+    ],
+    "splash": "5555829327422f0357ad96b700e029dc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "321960",
+            "sku": "321960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3b8ad0f0f270251504a2c29b2b66e01ebf6504fe4a510a39ce28ca07f3f5de57"
+}

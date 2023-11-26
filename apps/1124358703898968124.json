@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "setsuna/setsuna.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "83e8a80afd3fd5f94f12b7e39ee6842d",
+    "id": "1124358703898968124",
+    "name": "I am Setsuna",
+    "publishers": [
+        {
+            "id": "524352435183943715",
+            "name": "Tokyo RPG Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "441830",
+            "sku": "441830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c11642f7ae90792b2811fe74582b9022fc5d45759dac92423db4be9c8773bf5"
+}

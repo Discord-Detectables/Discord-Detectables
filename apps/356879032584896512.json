@@ -1,0 +1,80 @@
+{
+    "aliases": [
+        "Garry's Mod"
+    ],
+    "description": "Build stuff. Destroy stuff. Spawn so many dominoes that the server crashes with a \"no free edicts\" error. Such is life in Garry's Mod.",
+    "developers": [
+        {
+            "id": "521816535304503316",
+            "name": "Facepunch Studios"
+        }
+    ],
+    "executables": [
+        {
+            "arguments": "-game garrysmod",
+            "is_launcher": false,
+            "name": "garrysmod/hl2.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game garrysmod",
+            "is_launcher": false,
+            "name": "hl2.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game garrysmod",
+            "is_launcher": false,
+            "name": ">hl2.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game garrysmod",
+            "is_launcher": false,
+            "name": ">hl2_osx",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "win64/gmod.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bin/gmad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "565105920414318602",
+    "hook": true,
+    "icon": "ade1008d735a1a134693b15ce02d79a8",
+    "id": "356879032584896512",
+    "name": "Garry's Mod",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816535304503316",
+            "name": "Facepunch Studios"
+        },
+        {
+            "id": "521816535304503316",
+            "name": "Facepunch Studios"
+        },
+        {
+            "id": "521816535304503316",
+            "name": "Facepunch Studios"
+        }
+    ],
+    "splash": "df179a691e75ad59389974454187e7fe",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4000",
+            "sku": "4000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "57b3c88891e96d67ddb9b44c4416f95737948242c70136ba4b14f3ecb8459dde"
+}

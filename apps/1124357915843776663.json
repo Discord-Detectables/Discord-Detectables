@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "atom rpg trudograd/trudograd_win64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f013f8f007181852ae9cd28218fb9713",
+    "id": "1124357915843776663",
+    "name": "ATOM RPG Trudograd",
+    "publishers": [
+        {
+            "id": "648237572186701855",
+            "name": "AtomTeam"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1139940",
+            "sku": "1139940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "da3e8ff543b132a5bd87cfb93b1e00e294d4bdc309210193957630f6baf61c1f"
+}

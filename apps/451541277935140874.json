@@ -1,0 +1,42 @@
+{
+    "description": "Follow the exploits of Captain Cole Anderson as he tries to stop a bio-weapon being unleashed.",
+    "developers": [
+        {
+            "id": "521816677101600814",
+            "name": "CI Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sniperghostwarrior2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5da42d6e496ba234b9f0d267af0dc1ae",
+    "id": "451541277935140874",
+    "name": "Sniper Ghost Warrior 2",
+    "publishers": [
+        {
+            "id": "521816677101600814",
+            "name": "CI Games"
+        },
+        {
+            "id": "521816677105795083",
+            "name": "City Interactive"
+        }
+    ],
+    "splash": "d51344a3b69e8837b5772da97aa76db9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "34870",
+            "sku": "34870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cbb036301491ce87f12a24336bab4554f9a687abb6d86390c84a6013b289f69d"
+}

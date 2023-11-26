@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spacehaven/spacehaven.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "42ae10d7eb4ffd7282b2ba7d373c9c79",
+    "id": "1124352600238735400",
+    "name": "Space Haven",
+    "publishers": [
+        {
+            "id": "1124352600691716117",
+            "name": "Bugbyte Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "979110",
+            "sku": "979110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "05a8650fa2bf8ec889d4f0afe7c59d6d12adb225941778ea1df67f5e7fdd94e9"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star wars the clone wars/republic heroes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b18336079bcefa35668dff0de5465fc7",
+    "id": "1124358606201040947",
+    "name": "STAR WARS™: The Clone Wars - Republic Heroes™",
+    "publishers": [
+        {
+            "id": "1124355174941605898",
+            "name": "Krome Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "32420",
+            "sku": "32420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "14fd3ce205110217cfaf54e68696ce4e87c6be44a2b998463ee8101d5763ca0b"
+}

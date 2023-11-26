@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gnosia/gnosia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed0f06d3613397fe2a6b8628257441b9",
+    "id": "1124359431388418059",
+    "name": "GNOSIA",
+    "publishers": [
+        {
+            "id": "524352322940174342",
+            "name": "Petit Depotto"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1608290",
+            "sku": "1608290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1b98bba7bcc2b3c77757501af23207200dda08214a581d6def832bffa946be6f"
+}

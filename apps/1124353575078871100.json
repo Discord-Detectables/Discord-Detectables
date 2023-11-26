@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dead rising 2 off the record/deadrising2otr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ddb8747f72280efab038f716cf2b2da2",
+    "id": "1124353575078871100",
+    "name": "Dead Rising 2: Off the Record",
+    "publishers": [
+        {
+            "id": "1124353575552823347",
+            "name": "Capcom Vancouver"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "45770",
+            "sku": "45770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0d6391bb95ec3ec9bfcc170503efa5d6fe17b3a37b9b6c0137080c4389ab237d"
+}

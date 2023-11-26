@@ -1,0 +1,38 @@
+{
+    "description": "3-5 minute strategy battles in turn-based, hex grid tactics within a world comprised of monsters.",
+    "developers": [
+        {
+            "id": "521816786832982050",
+            "name": "Camex"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tactical monsters.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9a91b8ad0b44caff47757ef1609a2725",
+    "id": "451545859830710272",
+    "name": "Tactical Monsters Rumble Arena",
+    "publishers": [
+        {
+            "id": "521816786832982050",
+            "name": "Camex"
+        }
+    ],
+    "splash": "e3d0f450e4b57668fc42739925a5b5ba",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "705220",
+            "sku": "705220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "654ecf8aae0448a26b2a0d2785b8a7710d67a1626dbb5a29f186e96ce3034348"
+}

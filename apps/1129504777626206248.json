@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Regions Of Ruin"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "regions of ruin/regions of ruin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bbde0bbaff923620946f3a21e9c90d00",
+    "id": "1129504777626206248",
+    "name": "Regions Of Ruin",
+    "publishers": [
+        {
+            "id": "1129504778351812688",
+            "name": "Vox Games"
+        },
+        {
+            "id": "1129504781933760662",
+            "name": "Gameclaw Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "680360",
+            "sku": "680360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5975edf34bf0932434c07c5b10e4903c94cfcbda5bff728520ab055a92597208"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "demolish & build 2018/demolish.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6e3f3fb553a4ecaa7483dd86a65570d",
+    "id": "1124354858154213386",
+    "name": "Demolish & Build 2018",
+    "publishers": [
+        {
+            "id": "524353151290048521",
+            "name": "Noble Muffins"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "577670",
+            "sku": "577670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c944458199dd228736249aa5362595cdb098931b80c65f6076b4e9be6e9ee558"
+}

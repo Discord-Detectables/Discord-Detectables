@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "8bit fiesta steam/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d1baae726249022f0d551d378a1b5668",
+    "id": "1124355602185990286",
+    "name": "8Bit Fiesta",
+    "publishers": [
+        {
+            "id": "1124355602664149062",
+            "name": "Linus Fredriksson"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "382260",
+            "sku": "382260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "201b93d44ecc24c92f844663b7a9d8f345080eb66071714807ad1706c754aa64"
+}

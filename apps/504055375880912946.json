@@ -1,0 +1,38 @@
+{
+    "description": "A stealth and infiltration game, with elements of RPG. The game is a spin-off from Cyanide Studio's Of Orcs and Men featuring the goblin protagonist Styx.",
+    "developers": [
+        {
+            "id": "521816537653444608",
+            "name": "Cyanide Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "styxgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9680245ef769f87136887c4e3ca27d98",
+    "id": "504055375880912946",
+    "name": "Styx: Master of Shadows",
+    "publishers": [
+        {
+            "id": "521816537192202247",
+            "name": "Focus Home Interactive"
+        }
+    ],
+    "splash": "c552d4d4f3c5b9e5762c5d9896ef6964",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "242640",
+            "sku": "242640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "413033f84010c50648760bfacd9994855a3d8b7f139f5a2cd203f19b4d67df2a"
+}

@@ -1,0 +1,42 @@
+{
+    "description": "Co-op survival game for up to 8 players.",
+    "developers": [
+        {
+            "id": "521816772534337538",
+            "name": "Ironward"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the red solstice/bin/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "227fdd1d2f436983cab5cbc0fb8fc784",
+    "id": "451565617162747904",
+    "name": "The Red Solstice",
+    "publishers": [
+        {
+            "id": "521816772534337538",
+            "name": "Ironward"
+        },
+        {
+            "id": "521816772534337539",
+            "name": "Nkidu Games"
+        }
+    ],
+    "splash": "382988b98c38a5d0e47a01c5b0ca15fa",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "265590",
+            "sku": "265590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c78f113e780e1e937f101950ac2b655ec5738b25818670292128fb4fa140b725"
+}

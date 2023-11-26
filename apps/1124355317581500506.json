@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/witches_x_warlocks-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dcec545b646d78103d4149b3670b5c58",
+    "id": "1124355317581500506",
+    "name": "Witches x Warlocks",
+    "publishers": [
+        {
+            "id": "1124355318030286908",
+            "name": "Nifty Visuals"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1422380",
+            "sku": "1422380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3895853bd1d485959ff634f6369424663b75f2c7d0fdc97c15dbd400d2ae3b97"
+}

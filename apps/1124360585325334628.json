@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "burn me twice/burn me twice.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dda63f75d92ea0f9c61d99e514b66745",
+    "id": "1124360585325334628",
+    "name": "Burn Me Twice",
+    "publishers": [
+        {
+            "id": "1124360585845424198",
+            "name": "Null Reference Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1283140",
+            "sku": "1283140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3502e2b075ab3666e12cdba4ee7aa294ded9e26a71c01e5c7feaead095e906d5"
+}

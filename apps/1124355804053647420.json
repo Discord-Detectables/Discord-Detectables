@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mycatgirlmaidcomplete-1.0-pc/mycatgirlmaidcomplete.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6d356cde1d87632657563eb2ff541000",
+    "id": "1124355804053647420",
+    "name": "My Catgirl Maid Thinks She Runs the Place",
+    "publishers": [
+        {
+            "id": "1124355804489863309",
+            "name": "Uncle Artie"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1582890",
+            "sku": "1582890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74dc2c4b5889a26ef77f9788fa9e33d51e96c129a86c697e0dbc514b2c918ba2"
+}

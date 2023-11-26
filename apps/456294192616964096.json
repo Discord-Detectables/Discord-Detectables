@@ -1,0 +1,43 @@
+{
+    "description": "Defiance is a free-to-play MMO-shooter that coincides with events in a television series of the same name, depicting humans and aliens working together on a ravaged, mutated Earth. The game is multi-platform, but does not support cross-platform play.",
+    "developers": [
+        {
+            "id": "521816577876951040",
+            "name": "Trion Worlds"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "defiance.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "defiance/glyphclientapp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b580a85d26f1eda2eee613c99a4efc72",
+    "id": "456294192616964096",
+    "name": "Defiance",
+    "publishers": [
+        {
+            "id": "521816577876951040",
+            "name": "Trion Worlds"
+        }
+    ],
+    "splash": "bc9226505934ba5b710eccdd6646951e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224600",
+            "sku": "224600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "97d38d667f1ae5731cbd12c9569d6d53aed5c52dbcedf6ea22bb9e805086376c"
+}

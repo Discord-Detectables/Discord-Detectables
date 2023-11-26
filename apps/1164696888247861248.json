@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "F1® 22"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "f1 22/f1_22.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9e771006d7a5956f38d9afbffcbb083",
+    "id": "1164696888247861248",
+    "name": "F1® 22",
+    "publishers": [
+        {
+            "id": "521816499464306688",
+            "name": "Codemasters"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1692250",
+            "sku": "1692250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3e480e1d9230182433cde84784a838d4bc32fc0a6ff95f6f5fe039f25482d963"
+}

@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "SUPERHOT"
+    ],
+    "description": "SUPERHOT is a puzzling first-person shooter where time progresses as the player moves.",
+    "developers": [
+        {
+            "id": "521816517512265757",
+            "name": "SUPERHOT Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "superhot/sh.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "superhot.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "385450774949396480",
+    "hook": true,
+    "icon": "0ac7e843e9f0d408a4419a29caceccce",
+    "id": "425458238595661854",
+    "name": "Superhot",
+    "publishers": [
+        {
+            "id": "521816517512265757",
+            "name": "SUPERHOT Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "322500",
+            "sku": "322500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b447daed526e024d41a676bdfe93ba5cc0eb24eff82a5698c193c35697bde8a"
+}

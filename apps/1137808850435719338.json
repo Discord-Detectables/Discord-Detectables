@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Conqueror's Blade"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "client/proven_ground_client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "177994b882e33e7c012d6bca0d8e1c84",
+    "id": "1137808850435719338",
+    "name": "Conqueror's Blade",
+    "publishers": [
+        {
+            "id": "1137808852323151913",
+            "name": "Booming Games"
+        },
+        {
+            "id": "1137808852323151913",
+            "name": "Booming Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "905370",
+            "sku": "905370"
+        },
+        {
+            "distributor": "steam",
+            "id": "835570",
+            "sku": "835570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4527a3fc37019cf66e71f7ff8e24b5030fbc965cc0b29cc5283eeed4fd94a0e1"
+}

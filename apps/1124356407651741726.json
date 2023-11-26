@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ub/ub.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f736bfe30c0ae1fc4413b32827ccc3bc",
+    "id": "1124356407651741726",
+    "name": "The Ultimatest Battle",
+    "publishers": [
+        {
+            "id": "524352798045896728",
+            "name": "Ediogames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "669580",
+            "sku": "669580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a4e9abafe7d8d5ab1dadfc1bee0f3daab96d169eb98380ef3fb539a925e076fe"
+}

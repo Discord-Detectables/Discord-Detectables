@@ -1,0 +1,46 @@
+{
+    "description": "DCS World is a free-to-play military aircraft simulator.",
+    "developers": [
+        {
+            "id": "521816631782014993",
+            "name": "Eagle Dynamics"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dcs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6ea8f740edf619e4b38423963915b86c",
+    "id": "496568071713062928",
+    "name": "DCS World",
+    "publishers": [
+        {
+            "id": "521816631782014993",
+            "name": "Eagle Dynamics"
+        },
+        {
+            "id": "521816632285200384",
+            "name": "The Fighter Collection"
+        },
+        {
+            "id": "521816632285200385",
+            "name": "Eagle Dynamics SA"
+        }
+    ],
+    "splash": "3bbb1812e110e3e12ebe8a837ffcd4e2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "223750",
+            "sku": "223750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c13421b19ead0a80d904a9d5cab698cc610c124ec31cb36de2e72662936baa0b"
+}

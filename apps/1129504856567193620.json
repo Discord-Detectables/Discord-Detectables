@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "button pusher/button pusher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0e26fb8c459a60cd426153f4ba5946b",
+    "id": "1129504856567193620",
+    "name": "THE BUTTON",
+    "publishers": [
+        {
+            "id": "1129504857376706611",
+            "name": "Brendan Bell"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1808120",
+            "sku": "1808120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7d1cad5781a9b0cf7a98ebfff0e50df4cf9b22e90f70164df1dd4a3348393966"
+}

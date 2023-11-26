@@ -1,0 +1,49 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": false,
+    "cover_image": "b6016680ead9cd491c2c871e262e7419",
+    "description": "Minion Masters is a fast-paced online 1 vs 1 and 2 vs 2 Minion Battler.",
+    "developers": [
+        {
+            "id": "521816739286351893",
+            "name": "BetaDwarf"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "minionmasters.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "255388470762143745",
+    "hook": true,
+    "icon": "dd42ada1fbac33582f3c947c5ae6f0be",
+    "id": "448417850466762753",
+    "name": "Minion Masters",
+    "primary_sku_id": "488607666231443456",
+    "publishers": [
+        {
+            "id": "521816739286351893",
+            "name": "BetaDwarf"
+        }
+    ],
+    "slug": "minion-masters",
+    "splash": "9da25a5233db55a3a3bb292b76f33f6f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "489520",
+            "sku": "489520"
+        },
+        {
+            "distributor": "discord",
+            "id": "488607666231443456",
+            "sku": "488607666231443456"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb52fea7468a28f71baba019c792496ec30fae0db7fcf32a1d3380e7f8688436"
+}

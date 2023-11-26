@@ -1,0 +1,42 @@
+{
+    "description": "DeadCore is a first-person platforming game with an emphasis on movement. Players attempt to reach the top of a futuristic tower using their abilities and weapons to traverse environmental hazards and robotic enemies.",
+    "developers": [
+        {
+            "id": "521816769078231040",
+            "name": "5 Bits Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadcore.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ef296867ebe535a633bd6140e484a7d8",
+    "id": "496569001405841439",
+    "name": "DeadCore",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        },
+        {
+            "id": "521816769078231040",
+            "name": "5 Bits Games"
+        }
+    ],
+    "splash": "f0f0c2bce81cdda8aa17623859dd5d21",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "284460",
+            "sku": "284460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "15e051dde46fb40e294f40ceeebaf77bdd24ea864e72a279304bcd3c0b0390eb"
+}

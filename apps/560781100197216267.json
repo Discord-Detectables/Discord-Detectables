@@ -1,0 +1,51 @@
+{
+    "aliases": [
+        "Mutant Year Zero: Road to Eden"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "28b68b11a117db6a9cd2ee436b10bad2",
+    "description": "A tactical game combining the turn-based combat of XCOM with story, exploration, stealth, and strategy. Take control of a team of Mutants navigating a post-human Earth. Created by a team including former HITMAN leads and the designer of PAYDAY.",
+    "developers": [
+        {
+            "id": "600373288446984202",
+            "name": "The Bearded Ladies"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/zoneue4-win64-shipping.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "zoneue4-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "603552792266932264",
+    "hook": true,
+    "icon": "f8e8d0310bfcff96b794041752966816",
+    "id": "560781100197216267",
+    "name": "Mutant Year Zero: Road to Eden",
+    "primary_sku_id": "560781100197216267",
+    "publishers": [
+        {
+            "id": "521816606318264330",
+            "name": "Funcom"
+        }
+    ],
+    "slug": "mutant-year-zero-road-to-eden",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "760060",
+            "sku": "760060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d4f14a60e38f724c890429b2eb31952bbab11fee80f008a76bd53edef547e545"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tools up!/tools up.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0c0870b4e43c34854109fad64e76000c",
+    "id": "1124355642669416479",
+    "name": "Tools Up!",
+    "publishers": [
+        {
+            "id": "524353145959350276",
+            "name": "The Knights of Unity"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1004490",
+            "sku": "1004490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b30d193643258aca84b651b7d7ae9f0f380cd80bb982fe628792d04ffa4a114f"
+}

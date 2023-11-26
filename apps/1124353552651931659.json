@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "exit the gungeon/xtg.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f2136ebac5fb0ca19486f13e725e7e82",
+    "id": "1124353552651931659",
+    "name": "Exit the Gungeon",
+    "publishers": [
+        {
+            "id": "521816643245047840",
+            "name": "Dodge Roll"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1209490",
+            "sku": "1209490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a7f90724df2986ae4ea4d60ea54eb2261bb58abb38540c554ef84c38dc8b8a78"
+}

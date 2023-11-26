@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tavern master/tavern master.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f29f8fb241916479b372ce6d66c85bba",
+    "id": "1124353294916145193",
+    "name": "Tavern Master",
+    "publishers": [
+        {
+            "id": "1124353295427846174",
+            "name": "Untitled Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1525700",
+            "sku": "1525700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d42a1315d5703ed1c84fd930b4061abb235b280ccabc3ebfb7401c83d2147a5a"
+}

@@ -1,0 +1,34 @@
+{
+    "aliases": [
+        "Age of Empires II: Definitive Edition"
+    ],
+    "cover_image": "479d98514a15ead4dcf0ca3290ba8b83",
+    "description": "Age of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever with stunning 4K Ultra HD graphics, a new and fully remastered soundtrack, and brand-new content, “The Last Khans” with 3 new campaigns and 4 new civilizations.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "age of empires ii definitive edition/aoe2de_s.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "aoe2de_s.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2217db08e18c9f5cb546ba1dd444f843",
+    "id": "720771660768084008",
+    "name": "Age of Empires II: Definitive Edition",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": null,
+            "sku": null
+        }
+    ],
+    "type": 1,
+    "verify_key": "cd2771a5da3d759afdba1b25741c6b6e2b58b0495893e82b3eb29e6717387e38"
+}

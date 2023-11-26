@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sorcery!/sorcery!.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "afc83b70c61db24b4435b7d5f1e10d09",
+    "id": "1124357872785051658",
+    "name": "Sorcery! Parts 1 & 2",
+    "publishers": [
+        {
+            "id": "1124357391803236475",
+            "name": "inkle Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "411000",
+            "sku": "411000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cbf697f442ae0c732470b2962add099f917433aba6cb2ea180ce5ff8252bc819"
+}

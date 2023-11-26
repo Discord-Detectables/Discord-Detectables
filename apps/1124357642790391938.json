@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "super naughty maid 2/supernaughtymaid!2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2cfb7f9f828bb09e23aa48d03dd9f745",
+    "id": "1124357642790391938",
+    "name": "Super Naughty Maid 2",
+    "publishers": [
+        {
+            "id": "1124357642790391939",
+            "name": "KENZsoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1097880",
+            "sku": "1097880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2b01fa5191b919ec5cabfa64d50f9af473e26b5f5a190d0d6dab90df54855a0"
+}

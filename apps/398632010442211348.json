@@ -1,0 +1,49 @@
+{
+    "description": "A VR program that integrates body tracking to place users into virtual multiplayer environments. Within these worlds players can play games, chat, and create their own content.",
+    "developers": [
+        {
+            "id": "521816695397023748",
+            "name": "VRChat Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vrchat/vrchat.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "vrchat/start_protected_game.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": true,
+            "name": "vrchat/launch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "189511567539306508",
+    "hook": true,
+    "icon": "a87dfe64fa914769f1c6cf37daa0a3d1",
+    "id": "398632010442211348",
+    "name": "VRChat",
+    "publishers": [
+        {
+            "id": "521816695397023748",
+            "name": "VRChat Inc."
+        }
+    ],
+    "splash": "a93eb36a39f180dcab448a053c3bfee9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "438100",
+            "sku": "438100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eddf058033f59ef2e91ffff19401d040943a83971aad036a295767cd51afaa82"
+}

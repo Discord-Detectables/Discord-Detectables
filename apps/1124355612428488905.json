@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tap wizard 2/tap wizard 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "96e11ad3583c7acb61e43330d85d6f4c",
+    "id": "1124355612428488905",
+    "name": "Tap Wizard 2",
+    "publishers": [
+        {
+            "id": "1124355612881469471",
+            "name": "TopCog LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1836550",
+            "sku": "1836550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d8de96cc3f18c0f74a829b417d75fb1ee9204560b880f32dd54b5e812342780c"
+}

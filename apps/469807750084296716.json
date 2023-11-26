@@ -1,0 +1,49 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "423d04bf6d0d9c959df2a8933889466b",
+    "description": "Endless running arena shooter. Hotrod styled robots. Highspeed physics-based brawl. Online multiplayer.",
+    "developers": [
+        {
+            "id": "521816502500982843",
+            "name": "Hero Blocks ApS"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "madmachines.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "375629633590132737",
+    "hook": true,
+    "icon": "1e2fd96e2e5e7c7678d65a85c0644f7f",
+    "id": "469807750084296716",
+    "name": "MAD MACHINES",
+    "primary_sku_id": "487272772393762826",
+    "publishers": [
+        {
+            "id": "521816502500982843",
+            "name": "Hero Blocks ApS"
+        }
+    ],
+    "slug": "mad-machines",
+    "splash": "bfd1df8f821e511f5d40f97ca054bd10",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "487272772393762826",
+            "sku": "487272772393762826"
+        },
+        {
+            "distributor": "steam",
+            "id": "611260",
+            "sku": "611260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "acc2b361ca15d68935a690d1f6dc830b40339d72494697b3d69f348c033f1aba"
+}

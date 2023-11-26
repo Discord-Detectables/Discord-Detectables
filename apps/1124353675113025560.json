@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "airships conquer the skies/airships.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "833e88a6e9acacdb24facfca46c926ca",
+    "id": "1124353675113025560",
+    "name": "Airships: Conquer the Skies",
+    "publishers": [
+        {
+            "id": "524352403634520097",
+            "name": "David Stark"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "342560",
+            "sku": "342560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6814bfc46630ad212d0172d368904cd9b9bea08e383e47ebddf18e4dc21458f4"
+}

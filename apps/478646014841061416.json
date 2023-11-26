@@ -1,0 +1,38 @@
+{
+    "description": "Co-op beat'm up game with random dungeons.",
+    "developers": [
+        {
+            "id": "521816583585136662",
+            "name": "Rake in Grass"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rampage_knights.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b1bb76ac42a6014fd9200ac01a398c24",
+    "id": "478646014841061416",
+    "name": "Rampage Knights",
+    "publishers": [
+        {
+            "id": "521816583585136662",
+            "name": "Rake in Grass"
+        }
+    ],
+    "splash": "28e27d196f3a88db2003a9948c19ae93",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "314410",
+            "sku": "314410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "30189fe6c1d2f59019f3fad1e7a1446312f83f34158aa964968180f6358ac8d2"
+}

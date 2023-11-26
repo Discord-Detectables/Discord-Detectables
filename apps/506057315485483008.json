@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sao_hr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3119cfda751acbd4c17acc1957a77a70",
+    "id": "506057315485483008",
+    "name": "Sword Art Online: Hollow Realization Deluxe Edition",
+    "publishers": [
+        {
+            "id": "521816753920016386",
+            "name": "AQURIA"
+        }
+    ],
+    "splash": "e6963cd7cd555f790f67cce2948db4d5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "607890",
+            "sku": "607890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d7cd9d1c3109eccdae1ccb6742ee9a77ad6774dddf88b3f9b223696d59a83928"
+}

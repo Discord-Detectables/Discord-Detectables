@@ -1,0 +1,38 @@
+{
+    "description": "The third entry in the Learn to Fly series.",
+    "developers": [
+        {
+            "id": "521816546499362820",
+            "name": "Light Bringer Games inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "learn to fly 3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7639a13d342af4ddc33888f9139edfdd",
+    "id": "447743861549432833",
+    "name": "Learn to Fly 3",
+    "publishers": [
+        {
+            "id": "521816546499362820",
+            "name": "Light Bringer Games inc."
+        }
+    ],
+    "splash": "1a941b015e4758e0906751f74136b457",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "589870",
+            "sku": "589870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5a30b49c2428f45f70208ecf341c6ffa77dfa839c871ae7b2884114516ed1f46"
+}

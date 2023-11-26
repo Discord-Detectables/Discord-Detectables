@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/lostember-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3921af813ce4453b211edc6cc1020d35",
+    "id": "1124354443115245710",
+    "name": "Lost Ember",
+    "publishers": [
+        {
+            "id": "1124354443614375976",
+            "name": "Mooneye Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "563840",
+            "sku": "563840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2921d56c219d619d3d0c96188b7b558fae71651c02f5801601395c04e8d0fd0d"
+}

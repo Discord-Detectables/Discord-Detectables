@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "BIOHAZARD RE:4 Chainsaw Demo"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "resident evil 4  biohazard re4 chainsaw demo/re4demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "af05ffbba0a1ded018bc6c4a7721d206",
+    "id": "1129504219423068241",
+    "name": "Resident Evil 4 Chainsaw Demo",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        },
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2231770",
+            "sku": "2231770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "58100fc01150bc546a6ca55a3f8b82be6679c42840be3784203ccfc2fbddd109"
+}

@@ -1,0 +1,32 @@
+{
+    "description": "A VR/Non-VR \"escape the room\" game.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "talesofescape.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a300705e3d2fdf5ce6b6ca5f767249dc",
+    "id": "499330427455012874",
+    "name": "Tales of Escape",
+    "publishers": [
+        {
+            "id": "521816660584169472",
+            "name": "OnSkull Games"
+        }
+    ],
+    "splash": "2580073fed3cb98f7348648a04728653",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587860",
+            "sku": "587860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8c06d27f73f1aa7b182241b8e095d066adecaa142fd0997e123f4ffa75a15d68"
+}

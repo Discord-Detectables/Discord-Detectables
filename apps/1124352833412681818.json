@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/alicemadnessreturns.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d082a3dbc7457aebe94b27f3f52495f4",
+    "id": "1124352833412681818",
+    "name": "Alice: Madness Returns",
+    "publishers": [
+        {
+            "id": "1124352833911799908",
+            "name": "Spicy Horse Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "19680",
+            "sku": "19680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0302d3c60a46299e01dae02f8dc45a3b4fc61e6684d1cec25d89d0ed5e5e01ff"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "door kickers - action squad/actionsquad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7b3c3783fc4cfd9cb9bdf4ec2f3ea1d",
+    "id": "1124352889834459286",
+    "name": "Door Kickers: Action Squad",
+    "publishers": [
+        {
+            "id": "1124352890383908874",
+            "name": "PixelShard"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "686200",
+            "sku": "686200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b86ab46fe4448625cfe8ab7cb2c098d6e4523ce3dfc70e9b6c0d4e399423334f"
+}

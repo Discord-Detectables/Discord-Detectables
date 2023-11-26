@@ -1,0 +1,55 @@
+{
+    "aliases": [
+        "Trails in the Sky FC"
+    ],
+    "description": "The first game in the Legend of Heroes VI Sora no Kiseki trilogy. Follow Estelle and Joshua Bright on their journey to become Senior Bracers.",
+    "developers": [
+        {
+            "id": "521816761516163073",
+            "name": "Nihon Falcom Corp."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ed6_win.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ed6_win_dx9.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e7034bf67d84e3bf51fa242a1fb58ceb",
+    "id": "505519194146603009",
+    "name": "The Legend of Heroes: Trails in the Sky",
+    "publishers": [
+        {
+            "id": "521816761516163072",
+            "name": "Nihon Falcom"
+        },
+        {
+            "id": "521816761516163073",
+            "name": "Nihon Falcom Corp."
+        }
+    ],
+    "splash": "8e502db9c894a456ff364577a8311ae3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "251150",
+            "sku": "251150"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "3031d264459b7cc93e102a67aad3385ed781d985e693a09a9ef9593f420dd2db"
+}

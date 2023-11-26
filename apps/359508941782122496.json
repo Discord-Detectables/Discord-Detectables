@@ -1,0 +1,39 @@
+{
+    "description": "Portal 2 is the sequel to the acclaimed first-person puzzle game, carrying forward its love of mind-bending problems and its reckless disregard for the space-time continuum.",
+    "developers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "portal2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "80c416fd6e0d3104e5eab72f9077d72d",
+    "id": "359508941782122496",
+    "name": "Portal 2",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        }
+    ],
+    "splash": "53dac0d5521cdf069da1d513e5b66725",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "620",
+            "sku": "620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5fece293fbdaa787ec1699cb8628930025db02bd01401e7dffbbd7bad29d8f7c"
+}

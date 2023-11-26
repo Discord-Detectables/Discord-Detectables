@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blackthefall/blackthefall.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "39ce87b29ab3e752da7567cec48b5c1c",
+    "id": "1124359179507871774",
+    "name": "Black The Fall",
+    "publishers": [
+        {
+            "id": "524352583385612302",
+            "name": "Sand Sailor Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "308060",
+            "sku": "308060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a2ef6da72fff1ab83c5460facdba5a91cfdf9df753c8f5822fccad791ce03f1d"
+}

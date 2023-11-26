@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Hex: Shards of Fate"
+    ],
+    "description": "Cryptozoic Entertainment, makers of the World of Warcraft Trading Card Game, have entered the world of video games with their upcoming free-to-play MMOTCG, HEX: Shards of Fate.",
+    "developers": [
+        {
+            "id": "521816645774082051",
+            "name": "Cryptozoic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hex.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4cd9dcac5dac5133172827abc157dbd7",
+    "id": "496778870104653824",
+    "name": "HEX: Shards of Fate",
+    "publishers": [
+        {
+            "id": "521816645774082051",
+            "name": "Cryptozoic Entertainment"
+        }
+    ],
+    "splash": "e699624be3dc8d4e5abdc5fd473fb37c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "410380",
+            "sku": "410380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f14586507cd1ff994cd5b74a4d7caf8d0830cfeae1cf059f573d24d6cc1acb9e"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "car for sale simulator 2023/car for sale simulator 2023.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0b0d8b4a6262c3cc9e99f0d991db10c",
+    "id": "1124354356569976872",
+    "name": "Car For Sale Simulator 2023",
+    "publishers": [
+        {
+            "id": "1124354357018775663",
+            "name": "Red Axe Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2248760",
+            "sku": "2248760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5dfa9432bcdbc42aae8fc65e4f9e11819fea86830057abed06fcbbfc553f2f59"
+}

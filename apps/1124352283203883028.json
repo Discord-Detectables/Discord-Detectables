@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the timeless child/the timeless child prologue.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d40831b0e9e372fb12a91e27db8f224d",
+    "id": "1124352283203883028",
+    "name": "The Timeless Child",
+    "publishers": [
+        {
+            "id": "1124352283723972649",
+            "name": "Timeless Tale"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1792010",
+            "sku": "1792010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e16641f40543d5a9f6b16b0dce9c2d0077561c6e2a09eccee395aa266649b241"
+}

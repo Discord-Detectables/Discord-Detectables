@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/playcraft.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba71ea5412c0d52da411667b7f985ece",
+    "id": "1124354208968233060",
+    "name": "Playcraft",
+    "publishers": [
+        {
+            "id": "1124354209479934012",
+            "name": "Bebop Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "805270",
+            "sku": "805270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4248929feff9100b0cedc36af518da008a0e6c7811c2b9337851aa8f988bc5af"
+}

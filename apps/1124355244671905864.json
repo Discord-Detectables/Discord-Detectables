@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "enchain demo/enchain.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aae93d36297f14e5f2ca442943a2771d",
+    "id": "1124355244671905864",
+    "name": "ENCHAIN Demo",
+    "publishers": [
+        {
+            "id": "1124355245141676032",
+            "name": "mattlawr"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1396900",
+            "sku": "1396900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "87f7158176773d5295cff2b24e4c4a0be8bce4e344408757e79e3cbaa15a7f6a"
+}

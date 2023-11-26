@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Ao no Kanata no Four Rhythm"
+    ],
+    "description": "Ao no Kanata no Four Rhythm is a visual novel developed by Japanese developer sprite for the PC, PlayStation Vita, PS4 and Switch. The story follows Hinata Masaya who, as a child, loved the sky sport Flying Circus but after suffering a terrible defeat he loses all motivation for it. Years later he regains his passion after meeting a new transfer student whom he agrees to train in Flying Circus.",
+    "developers": [
+        {
+            "id": "521816556720619544",
+            "name": "sprite"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "蒼の彼方のフォーリズム.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac6f4828ebbd41f5971f8ebf2846ac37",
+    "id": "504764773167136768",
+    "name": "蒼の彼方のフォーリズム",
+    "publishers": [
+        {
+            "id": "521816556720619544",
+            "name": "sprite"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "1b470d5877ae580ff928e7cb7d9fb6008ed1428fa0aa23cf1ed4d7c20d3a1c1b"
+}

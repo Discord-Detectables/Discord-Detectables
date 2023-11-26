@@ -1,0 +1,47 @@
+{
+    "cover_image": "e19f46fbeb46c4eee8a215a7f71a2306",
+    "description": "",
+    "developers": [
+        {
+            "id": "521816783196258334",
+            "name": "Ironclad Games Corporation"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sins of a solar empire rebellion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "266693357093257216",
+    "hook": true,
+    "icon": "5c5e3c049133447cb3695baee7328441",
+    "id": "451543958611427328",
+    "name": "Sins of a Solar Empire: Rebellion",
+    "primary_sku_id": "489926101083226123",
+    "publishers": [
+        {
+            "id": "521816676157751316",
+            "name": "Stardock Corporation"
+        }
+    ],
+    "slug": "sins-of-a-solar-empire-rebellion",
+    "splash": "0a2bb039c2f04e0fa81feb8bf9a1c2f1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489926101083226123",
+            "sku": "489926101083226123"
+        },
+        {
+            "distributor": "steam",
+            "id": "204880",
+            "sku": "204880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f9ea31bdf6dca310afcf21d9fa4119c8a6f13f02c658288059f169b754b6c4ac"
+}

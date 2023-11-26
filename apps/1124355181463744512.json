@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "journeys in middle-earth/jime.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "12170c58c2366cb5213170dc541b054f",
+    "id": "1124355181463744512",
+    "name": "The Lord of the Rings: Journeys in Middle-earth",
+    "publishers": [
+        {
+            "id": "524352273904828426",
+            "name": "Fantasy Flight Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1003400",
+            "sku": "1003400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aa8e4d89082c0b3a342fe751b589c5a170a41b0206ca0869f60dcefe8c6e1e3e"
+}

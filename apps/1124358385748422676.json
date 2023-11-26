@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hacktag/hacktag.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e4c8b943c8754a5e3558eb0566ee7baa",
+    "id": "1124358385748422676",
+    "name": "Hacktag",
+    "publishers": [
+        {
+            "id": "1124358386239164476",
+            "name": "Piece of Cake studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "622770",
+            "sku": "622770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c2d614b0717b288d7e9e8364b567fdd09dc283e8a8daa3026254522df083f30"
+}

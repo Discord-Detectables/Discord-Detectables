@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "BLEACH Brave Souls - Action 3D"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bleach brave souls/bleachbravesouls.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "96c3520fe812c6818e0d53f66a2df1c5",
+    "id": "1129504248925802528",
+    "name": "BLEACH Brave Souls - 3D Action",
+    "publishers": [
+        {
+            "id": "524352329110126616",
+            "name": "KLab Inc."
+        },
+        {
+            "id": "524352329110126616",
+            "name": "KLab Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1201240",
+            "sku": "1201240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26bb84295de00e5ac3e53755b9906fc0ff86c90dee09b1e6d4e89b5a81c2f034"
+}

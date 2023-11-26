@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "wwe2k18"
+    ],
+    "description": "This latest entry in 2k Sports WWE series boasts a next generation graphics engine, the largest roster of any WWE game before it with the rosters updated gimmick sets and show stylings to closely resembles the current TV product, and the first WWE 2k only be released on current generation hardware.  \n\nSeth Rollins was revealed to be the cover star, and the game's slogan is \"Be Like No One.\"",
+    "developers": [
+        {
+            "id": "521816685938868244",
+            "name": "Yuke's Co. Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wwe2k18_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8606483793cbb061eb022498cfd64b34",
+    "id": "425443442181537792",
+    "name": "WWE 2K18",
+    "publishers": [
+        {
+            "id": "521816531324370967",
+            "name": "2K Sports"
+        }
+    ],
+    "splash": "12f5efd3f0826fe1f3115c23229f6886",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "664430",
+            "sku": "664430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "71346d4d9e3e5f6c8a491b9a8a542b328910830bd888415331cc2ad8135ac84a"
+}

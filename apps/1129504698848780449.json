@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Terraforming Mars"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "terraforming mars/terraformingmars.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2e05b11f077f0ec6e201f40566cfd6b",
+    "id": "1129504698848780449",
+    "name": "Terraforming Mars",
+    "publishers": [
+        {
+            "id": "521816794068025358",
+            "name": "Asmodee Digital"
+        },
+        {
+            "id": "524353145959350274",
+            "name": "LuckyHammers"
+        },
+        {
+            "id": "1129504702879518820",
+            "name": "Twin Sails Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "800270",
+            "sku": "800270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e7b3ef7f21985b5dc2429806628cfc5637beb7a4f1337f5bb5d69644b06de434"
+}

@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "DeoVR Video Player"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deovr video player/deovr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "adf1c8e19c205553d0ae04dfed9a7eca",
+    "id": "1129504867690496101",
+    "name": "DeoVR Video Player",
+    "publishers": [
+        {
+            "id": "1129504868583874640",
+            "name": "InfoMediji LTD"
+        },
+        {
+            "id": "1129504875634507836",
+            "name": "VRFavs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "837380",
+            "sku": "837380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a15c26e2c23e32ce8c6e8aadd61956498d61181195c3bdc780e69c11d14e423b"
+}

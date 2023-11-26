@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "Battlefield 2042"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battlefield 2042/bf2042.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d779a9d9e479c04f27d977bc6c88fe18",
+    "id": "1162076274622222346",
+    "name": "Battlefield 2042",
+    "publishers": [
+        {
+            "id": "542075586886107157",
+            "name": "Electronic Arts, Inc."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "ca6bd108b02287da905501f82c19f22dc2493147ef51327c5ffd694f5cbdf6f6"
+}

@@ -1,0 +1,31 @@
+{
+    "description": "A downloadable game inspired by classic RPGs with turn-based combat from the creative director of Far Cry 3, made using the UbiArt engine powering the most recent Rayman games.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "childoflight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3584cbbce6935f0aed46ebfbbbf10aff",
+    "id": "425728327505018921",
+    "name": "Child of Light",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "4ab48967094c1b6aca68479b6cb654be",
+    "summary": "",
+    "type": 1,
+    "verify_key": "b5b9b1955f48a9d95a5e4fca5560808ccca0d9f843050562616e7de4404b3014"
+}

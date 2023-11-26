@@ -1,0 +1,38 @@
+{
+    "description": "Creativerse is a sandbox voxel adventure game. It features an RPG crafting system, layered biomes and is persistently online.",
+    "developers": [
+        {
+            "id": "521816506171129880",
+            "name": "Playful Corp"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "creativerse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dd87838fb60ae8e22edc551134aa66e5",
+    "id": "363428103919239168",
+    "name": "Creativerse",
+    "publishers": [
+        {
+            "id": "521816506171129880",
+            "name": "Playful Corp"
+        }
+    ],
+    "splash": "b5a87069debd59fb399fc67df872a301",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "280790",
+            "sku": "280790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "47c5108604e62bd60d05717eec54180ae22f4da46859d1016d90e2442159a5de"
+}

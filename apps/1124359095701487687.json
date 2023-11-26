@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/gamemasterengine-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "11bd94a7a5950cda0eb056fd67fe4129",
+    "id": "1124359095701487687",
+    "name": "Game Master Engine",
+    "publishers": [
+        {
+            "id": "1124359096183828550",
+            "name": "Game Master Studios LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1451680",
+            "sku": "1451680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "300a16c1c878ebcb857af98d6e58134302d20e0b8bd9dd866558f8d2f5382589"
+}

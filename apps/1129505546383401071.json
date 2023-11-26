@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Farm Manager 2021"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farm manager 2021/farmmanager21.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00642ac365c1dccf028c23c2e2279936",
+    "id": "1129505546383401071",
+    "name": "Farm Manager 2021",
+    "publishers": [
+        {
+            "id": "1124356082412830800",
+            "name": "Cleversan Software"
+        },
+        {
+            "id": "1129505150537572424",
+            "name": "Cleversan Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1123830",
+            "sku": "1123830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c0ec7ea2ef37bb56e15d4d14bf43cf808954792afba72cbcb2f52eea6993ab8"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metro exodus enhanced edition/metroexodus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1de6a995de00fc964280c1100db7ad7e",
+    "id": "1124352162890264686",
+    "name": "Metro Exodus Enhanced Edition",
+    "publishers": [
+        {
+            "id": "521816528417718311",
+            "name": "4A Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1449560",
+            "sku": "1449560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "adb822d8ea0b23166444f2d5ada3691ca68e2f62a92ba0e93ef0e4e4d798cece"
+}

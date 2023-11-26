@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "War For the Overworld"
+    ],
+    "description": "War for the Overworld is an RTS god game where players command a dungeon. It was inspired by games like Dungeon Keeper, Overlord, StarCraft and Evil Genius.",
+    "developers": [
+        {
+            "id": "521816688073637899",
+            "name": "Subterranean Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wftogame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "69b033f8abfe5f35dbcca650ba21a6e0",
+    "id": "504085687155425286",
+    "name": "War for the Overworld",
+    "publishers": [
+        {
+            "id": "521816688073637899",
+            "name": "Subterranean Games"
+        }
+    ],
+    "splash": "fdba269f18cfa6d9a6390a49099ec2ff",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "230190",
+            "sku": "230190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1aa3a373471ee32fba9b56a34b3a8acc7f90b2d5a11837645c7a53160cb473fe"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "battle grounds iii/bg3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ec58ba3eb9aeb37eaa4b900626263fad",
+    "id": "1124352687463485570",
+    "name": "Battle Grounds III",
+    "publishers": [
+        {
+            "id": "1124352687966797874",
+            "name": "The Battle Grounds Game Development Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1057700",
+            "sku": "1057700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e097179ac4945949036c7479efee2d3a240769ee0e278d448890231ae61bbf7d"
+}

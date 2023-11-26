@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/clos2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "217f0d179ac3c719690991e0df25ac7c",
+    "id": "1124354798712533032",
+    "name": "Castlevania: Lords of Shadow 2",
+    "publishers": [
+        {
+            "id": "1124354247660679198",
+            "name": "MercurySteam"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239250",
+            "sku": "239250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2140e6d80eaf1b6c74bc60d659d7d2e635fa7137d0a47c559b9c8a3a7540acdd"
+}

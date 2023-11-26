@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "INSIDE"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816599607508999",
+            "name": "Playdead"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "inside/inside.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5d362c0f7ab6d7ec360ee4218280901f",
+    "id": "425456795683913750",
+    "name": "Inside",
+    "primary_sku_id": "489929019895316481",
+    "publishers": [
+        {
+            "id": "521816599607508999",
+            "name": "Playdead"
+        }
+    ],
+    "slug": "inside",
+    "splash": "c21db5e37b63f441f29455b01e588320",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489929019895316481",
+            "sku": "489929019895316481"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e78bac5572196d709f50abb5491cc032a2060504ebc7594216fbb0de53e2d520"
+}

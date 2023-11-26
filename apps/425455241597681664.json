@@ -1,0 +1,38 @@
+{
+    "description": "Crazy Machines 3 is a physics based puzzle game from FAKT Software.",
+    "developers": [
+        {
+            "id": "521816635326201861",
+            "name": "FAKT Software GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cm3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "22fffa02b01c51d02c24b820c29a798c",
+    "id": "425455241597681664",
+    "name": "Crazy Machines 3",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "splash": "39bc8028a6ec8f853cabf282072c292b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "351920",
+            "sku": "351920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a453092f686b3d7cb6d60507eeb2c6bd90fbf50e3f849305a87c6994309311d5"
+}

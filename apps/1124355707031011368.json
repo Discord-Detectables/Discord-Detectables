@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "system/risen2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd244d3cab520af3c70435f45317e1c6",
+    "id": "1124355707031011368",
+    "name": "Risen 2 - Dark Waters",
+    "publishers": [
+        {
+            "id": "1124352667574096033",
+            "name": "Piranha Bytes"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "40390",
+            "sku": "40390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "379d2e1625245899f54abbe43e46844dc77b9fefd6d97911776a67d89e1e249d"
+}

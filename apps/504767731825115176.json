@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "BlackShot SEA",
+        "Blackshot SEA"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blackshot.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0332603516e59e5a7260fd241e6a3fc0",
+    "id": "504767731825115176",
+    "name": "BlackShot: Mercenary Warfare FPS",
+    "publishers": [
+        {
+            "id": "521816725793275925",
+            "name": "Vertigo Games America"
+        }
+    ],
+    "splash": "5cbc125c4c454c7165b92c4cbacc20aa",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "433350",
+            "sku": "433350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e3d4cdf6f71bf5433c00c533921737d8c17d95c2c4ba3b2728377fb0c2d413d"
+}

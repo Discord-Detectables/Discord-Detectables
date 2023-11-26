@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/thetrolleyproblem-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "38dfd8ea2a2672fde3d69853ad79414a",
+    "id": "1124358795880054876",
+    "name": "Trolley Problem, Inc.",
+    "publishers": [
+        {
+            "id": "1124358795880054877",
+            "name": "Read Graves"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1582680",
+            "sku": "1582680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c2d4a0923297d58782248b43a17b5c04b3cb2cb7a53bace24bc152a428bbde8b"
+}

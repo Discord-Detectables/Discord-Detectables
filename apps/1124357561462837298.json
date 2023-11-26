@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/thhdgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "06aa92cd4cd657780c7e4e1f66903fd7",
+    "id": "1124357561462837298",
+    "name": "Tony Hawk's Pro Skater HD",
+    "publishers": [
+        {
+            "id": "524351981620428804",
+            "name": "Robomodo"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "207210",
+            "sku": "207210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cabe6624617d8d4d5732aec874cad31ea07244dcfc17a92470b6d364b43b1a11"
+}

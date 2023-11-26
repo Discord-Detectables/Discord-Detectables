@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "th15e.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "th15.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a557691839bdb8a7b5a6b5d13ec5a228",
+    "id": "505515966289936393",
+    "name": "Touhou 15: Legacy of Lunatic Kingdom",
+    "publishers": [
+        {
+            "id": "521816534205857807",
+            "name": "Touhou-Online"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "1af889a0ff18e943b6a4262fc87c5997f94e8023c89265c4cc1f65eebe8660ba"
+}

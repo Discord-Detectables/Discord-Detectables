@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sniper strike  special ops/sniper strike.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9afc59958fb5537cbe4691dc0afe9e17",
+    "id": "1124360644074946673",
+    "name": "Sniper Strike : Special Ops",
+    "publishers": [
+        {
+            "id": "1124360644569870457",
+            "name": "Eight Pixels Square"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "848500",
+            "sku": "848500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1f28c581413e520e504a607ab143e36405063de27334ddec6f82d8ea8d025b05"
+}

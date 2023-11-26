@@ -1,0 +1,31 @@
+{
+    "description": "A multiplayer-focused spin-off of the 1998 first-person shooter Unreal, bringing a new assortment of gameplay options, weaponry, arenas, and playable characters.",
+    "developers": [
+        {
+            "id": "521816615457783818",
+            "name": "Epic Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "unrealtournament.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "109891165154738176",
+    "hook": true,
+    "icon": "3b530bfa987a9bf6834fca0112df054c",
+    "id": "504084447797313537",
+    "name": "Unreal Tournament",
+    "publishers": [
+        {
+            "id": "521816543777128455",
+            "name": "GT Interactive Software Corp."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "e3bab92bbbe5d13aa1c4d659a6e64b9899976739de216963e59dff4cf8236dbf"
+}

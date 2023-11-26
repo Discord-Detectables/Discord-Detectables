@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "paranauticalactivity/paranautical activity.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a2746414f66e1f2825181ace2cd860f7",
+    "id": "1131602050430550086",
+    "name": "Paranautical Activity: Deluxe Atonement Edition",
+    "publishers": [
+        {
+            "id": "521816546943828000",
+            "name": "Digerati Distribution"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "250580",
+            "sku": "250580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "021bac9d96e3b8a77ab76a178f919f8cbd5c8e9a591fafb0f5789b3b41cd68f7"
+}

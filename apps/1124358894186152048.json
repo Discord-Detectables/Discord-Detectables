@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mor/mor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c78edcbdf12addaccece2ff8816fb729",
+    "id": "1124358894186152048",
+    "name": "Museum of Other Realities",
+    "publishers": [
+        {
+            "id": "1124358894685270016",
+            "name": "MOR Museum Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "613900",
+            "sku": "613900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4676efa48c740fb9f062d355468ae9e5a8b4b7966bd02b86029c3e83f34038c4"
+}

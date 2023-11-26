@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hoa/hoa.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9692914a22c54e65bec07856afd2faf9",
+    "id": "1129505859429474365",
+    "name": "Hoa",
+    "publishers": [
+        {
+            "id": "1129505860754886788",
+            "name": "Skrollcat Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1484900",
+            "sku": "1484900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "61498009a2965f21c964dbadbbf9c48a358f69896679e2b0de54a7b2594697cf"
+}

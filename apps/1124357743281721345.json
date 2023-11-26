@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "life of a pizza/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad325c4682fd1a86a38860abef0063e5",
+    "id": "1124357743281721345",
+    "name": "Life On A Pizza",
+    "publishers": [
+        {
+            "id": "1124354923673436191",
+            "name": "Euphoric Brothers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1598560",
+            "sku": "1598560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c19692ae041f7d7a720e1606ed82ca96b8d4436e34628898799cf50b4cb8ab6"
+}

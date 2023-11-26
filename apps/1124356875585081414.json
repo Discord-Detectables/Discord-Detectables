@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eldritch/eldritch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a8b9c213395629b1786b7ea494ca8aa9",
+    "id": "1124356875585081414",
+    "name": "Eldritch",
+    "publishers": [
+        {
+            "id": "524352252215820292",
+            "name": "Minor Key Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252630",
+            "sku": "252630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b7fea5160807519620c0e7b8d150b60894ca073a1f3d0d4d0ce97f4b622ffc2c"
+}

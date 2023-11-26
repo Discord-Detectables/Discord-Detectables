@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "ニューダンガンロンパV3 みんなのコロシアイ新学期"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "danganronpa v3 killing harmony/dangan3win.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "64666e4beb89b5bc1aa39c5e8f77dee1",
+    "id": "1129504315137085523",
+    "name": "Danganronpa V3: Killing Harmony",
+    "publishers": [
+        {
+            "id": "1124353083560968352",
+            "name": "Spike Chunsoft Co., Ltd."
+        },
+        {
+            "id": "1124353083560968352",
+            "name": "Spike Chunsoft Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "567640",
+            "sku": "567640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e4c24bbbe258efa009d736d30f769c6b908bb96d90f0a385d5453a690e714ed"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cyber hook demo/cyberhook.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5510ca58959b43220de8a65c7a16a78b",
+    "id": "1124356660870271037",
+    "name": "Cyber Hook Demo",
+    "publishers": [
+        {
+            "id": "1124355052295958579",
+            "name": "Blazing Stick"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1307970",
+            "sku": "1307970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0f97ebae2c0f32b87e16c47c0fc4b7b922c8f413ec47d0f415ee9596b109ac11"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "srw30/srw30.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "847acd4590e56cc09d9e472e05358d8c",
+    "id": "1124358804805537853",
+    "name": "Super Robot Wars 30",
+    "publishers": [
+        {
+            "id": "1124358805266907176",
+            "name": "B.B.STUDIO CO.,LTD."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "898750",
+            "sku": "898750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cfc0484179e64384c71d3eb928694a75f1884d440cfc10e2ee698d48bb7ecedf"
+}

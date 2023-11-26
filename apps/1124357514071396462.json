@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hats and hand grenades/corridor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1918e4a5387723a235d8fbef8a11f88e",
+    "id": "1124357514071396462",
+    "name": "Hats and Hand Grenades",
+    "publishers": [
+        {
+            "id": "1124357514591486073",
+            "name": "Paul Bischoff"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1257800",
+            "sku": "1257800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cb079d42c5fe6fe0045eac623107806194cda3cb36685d2032cdc56b43a8ed9e"
+}

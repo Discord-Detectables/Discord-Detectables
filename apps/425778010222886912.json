@@ -1,0 +1,86 @@
+{
+    "aliases": [
+        "Assetto Corsa"
+    ],
+    "description": "A racing sim by Italian developers Kunos Simulazioni, makers of netKar Pro.",
+    "developers": [
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "assettocorsa.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "editor/kseditor.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "assettocorsa/acs.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "assettocorsa/content manager.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "assettocorsa/jsgme.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "assettocorsa/acshowroom.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "server/acservermanager.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0e176cf5cd3db5a923c22f076ea52b54",
+    "id": "425778010222886912",
+    "name": "Assetto Corsa",
+    "publishers": [
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        },
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        },
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        },
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        },
+        {
+            "id": "521816525846478852",
+            "name": "Kunos Simulazioni"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "244210",
+            "sku": "244210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d11c543ea6f9d33a6573b83b87538761e1259323aa45b26ff1d31d1b8b950dbb"
+}

@@ -1,0 +1,32 @@
+{
+    "description": "House Party",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "houseparty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fb23e3fec6a49eafeac5f2ba43aee482",
+    "id": "451546699177918464",
+    "name": "House Party",
+    "publishers": [
+        {
+            "id": "521816767941836802",
+            "name": "Eek! Games"
+        }
+    ],
+    "splash": "a714eac9efacd951d46855cc5241af7c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "611790",
+            "sku": "611790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5c41fb94ef0d3a8ea87c8b64e7f1a846733838c6d59cb4940c80ebaa26ee123e"
+}

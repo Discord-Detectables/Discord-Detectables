@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crypto miner tycoon simulator starter edition/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa1c0e42e78242ff7752c8fb68a01bef",
+    "id": "1124354815774961774",
+    "name": "Crypto Miner Tycoon Simulator Starter Edition",
+    "publishers": [
+        {
+            "id": "1124354816223760435",
+            "name": "Bigosaur"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2304990",
+            "sku": "2304990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9939b3da4ad634062339855e1326ce077bb0ad4efd8c5580d90c18a0852c20a8"
+}

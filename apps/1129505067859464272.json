@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Guts and Glory"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "guts and glory/guts and glory.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e71ea3ae8433867cfa8d803e8db2df5b",
+    "id": "1129505067859464272",
+    "name": "Guts and Glory",
+    "publishers": [
+        {
+            "id": "524352699290877973",
+            "name": "HakJak"
+        },
+        {
+            "id": "1129505070652866641",
+            "name": "HakJak Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "537340",
+            "sku": "537340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6be17f9a3f31317e05ad7e2e385842c672b4c55a27d21b48c1febc4275457c71"
+}

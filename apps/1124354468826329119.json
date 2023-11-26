@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/chess2-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5f06265a8b87ada08087fdacec8571b6",
+    "id": "1124354468826329119",
+    "name": "Chess Ultra",
+    "publishers": [
+        {
+            "id": "524352173346390033",
+            "name": "Ripstone"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "518060",
+            "sku": "518060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a62ec4aab3d4edef8f4aba8b7ec37dc4361b6d6b73c218142fcf3c8b2da8d13c"
+}

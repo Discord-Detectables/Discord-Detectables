@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/contractors_ue4_22_steam-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e2bda8929c7b2062eaf26fdb9e2422e2",
+    "id": "1124354274311290890",
+    "name": "Contractors VR",
+    "publishers": [
+        {
+            "id": "1124354274789437541",
+            "name": "Caveman Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "963930",
+            "sku": "963930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6c58bcb92cf84d2f7163673784f13cb6379e56c69547eba82ccade0773888dbc"
+}

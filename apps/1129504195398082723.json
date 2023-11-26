@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Prop and Seek"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/propandseekclient-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7217170acbf8dfb799063fb8b7bcdc78",
+    "id": "1129504195398082723",
+    "name": "Prop and Seek",
+    "publishers": [
+        {
+            "id": "1129504196215984138",
+            "name": "Vidibidi Games®"
+        },
+        {
+            "id": "1129504202335469639",
+            "name": "Twerk Games®"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1131720",
+            "sku": "1131720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8fcc8cf853fc979a2bab6a73a7856b1f9dd3afc4b414feeabf95eedcad3d923f"
+}

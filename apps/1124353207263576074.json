@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/arid-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9099e8392538d742c9a20c3ce66d732",
+    "id": "1124353207263576074",
+    "name": "Arid",
+    "publishers": [
+        {
+            "id": "1124353207792054423",
+            "name": "Sad Viscacha Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1463730",
+            "sku": "1463730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "50fe5ba633a77dc10a57c38eff742ee981cb49690355a5d0fa53d14ba752a1a6"
+}

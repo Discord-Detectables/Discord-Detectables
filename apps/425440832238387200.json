@@ -1,0 +1,45 @@
+{
+    "description": "The Guild 3 is a Middle Ages simulator from GolemLabs and THQ Nordic.",
+    "developers": [
+        {
+            "id": "521816601691947039",
+            "name": "GolemLabs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "guild3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ef98d1369c31a40dc864f919a9bdc419",
+    "id": "425440832238387200",
+    "name": "The Guild 3",
+    "primary_sku_id": "489872977685381120",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "slug": "the-guild-3",
+    "splash": "d66aeef3d7f62fa9a1218a2597e7aa1b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489872977685381120",
+            "sku": "489872977685381120"
+        },
+        {
+            "distributor": "steam",
+            "id": "311260",
+            "sku": "311260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c05adead66b35cc4833174482ea300ea94d259029e08792a10359d6090b333c"
+}

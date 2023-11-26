@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/mlbss-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fea09519b33a0e9bfd3efb5690af5f75",
+    "id": "1124357739926278214",
+    "name": "My Little Blacksmith Shop",
+    "publishers": [
+        {
+            "id": "524353162791092226",
+            "name": "Dasius"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "980940",
+            "sku": "980940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8105ff34591aefe7bdd264cac8bca0c502e160f322d32b921b21636f5b0598fc"
+}

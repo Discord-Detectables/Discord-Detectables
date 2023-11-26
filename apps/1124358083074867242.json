@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shiningresonancerefrain/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cd267ef15b258778dd7b6913878650d1",
+    "id": "1124358083074867242",
+    "name": "Shining Resonance Refrain",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "809890",
+            "sku": "809890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2ae0be34406decfa4a13993edc6b55483e5da41de4e59d9eb35fb14fd9edf36f"
+}

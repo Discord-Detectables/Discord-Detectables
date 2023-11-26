@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "The King Of Fighters 2002 Unlimited Match",
+        "The King of Fighters 2002 Unlimited Match"
+    ],
+    "description": "The King of Fighters 2002 Unlimited Match is an enhanced remake of the original KOF2002 that includes every character from the \"NESTS Saga.\"",
+    "developers": [
+        {
+            "id": "521816564564230163",
+            "name": "SNK"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kingoffighters2002um.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "777d9cc0fb17b3548d451e87626fd8e3",
+    "id": "504075299877683230",
+    "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+    "publishers": [
+        {
+            "id": "521816564564230159",
+            "name": "PLAZA"
+        },
+        {
+            "id": "521816564564230163",
+            "name": "SNK"
+        }
+    ],
+    "splash": "7ff5c381f260fd10f60188dab4e551e0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "222440",
+            "sku": "222440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7c6124a9b727382f6b76ba57ea7c0bf07896a259b4345231657383dad34a1994"
+}

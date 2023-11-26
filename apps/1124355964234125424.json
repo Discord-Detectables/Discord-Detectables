@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "system/t3main.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "55c856105544c2eb02997b12f624087a",
+    "id": "1124355964234125424",
+    "name": "Thief: Deadly Shadows",
+    "publishers": [
+        {
+            "id": "521816777039151111",
+            "name": "Ion Storm"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "6980",
+            "sku": "6980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7512b70c1c6f2fc03a4040b40570ab58449a23c5630991d960aa3f90f21156d6"
+}

@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "otwd-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e63b7fdf632ca20da778a7e9cf6ffc45",
+    "id": "503632655137374219",
+    "name": "OVERKILL's The Walking Dead - BETA",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "952440",
+            "sku": "952440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ffb55b777a5c28573c37936bc61a2c60e4c0368bd61c82ac8c03b33de94ddfc3"
+}

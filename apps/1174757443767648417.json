@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Trials Rising"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "datapack/trialsrising.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "403423d1964fac8da51c4871d979cb17",
+    "id": "1174757443767648417",
+    "name": "Trials Rising",
+    "publishers": [
+        {
+            "id": "1174757445650894869",
+            "name": "RedLynx"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "641080",
+            "sku": "641080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "af9ad2f4f51b594f7b77e5ffd9a56e89ec137015ff4f0848f0b1d2f04b4632da"
+}

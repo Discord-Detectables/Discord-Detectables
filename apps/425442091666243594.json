@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Dead Island Riptide"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deadislandriptidegame.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "deadislandgame_x86_rwdi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c9975f18cfe6924d175bbce5e4c10f2",
+    "id": "425442091666243594",
+    "name": "Dead Island Riptide Definitive Edition",
+    "publishers": [
+        {
+            "id": "521816514106621962",
+            "name": "Techland"
+        }
+    ],
+    "splash": "42cee9da4631b4c8ad06149e8bebde49",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "383180",
+            "sku": "383180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ec338ae67450f59ae0229fc2c677b3801382a25b02147720828af08e3542ef1"
+}

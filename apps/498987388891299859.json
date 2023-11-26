@@ -1,0 +1,38 @@
+{
+    "description": "In Proteus, the player awakens in the sea off the shore of a peaceful island, and simply explores the island in different seasons, enjoying the procedurally-generated sights, the way their surroundings shape the low-key soundtrack, and the simple graphical style.",
+    "developers": [
+        {
+            "id": "521816692511211520",
+            "name": "Ed Key"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "proteus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab9810888368c63a917442c3b609a148",
+    "id": "498987388891299859",
+    "name": "Proteus",
+    "publishers": [
+        {
+            "id": "521816692079329283",
+            "name": "Curve Digital"
+        }
+    ],
+    "splash": "9ca320692de9d926d5a5ed268efc3fc8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "219680",
+            "sku": "219680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c3dfb5c52ecb666dd548fae19ab3c7b482acbeb5af9176b8e2e8a3ec749e581f"
+}

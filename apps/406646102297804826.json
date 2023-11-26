@@ -1,0 +1,38 @@
+{
+    "description": "By the year 2027, the North Koreans have managed to unify Korea, annex Japan, and also invade the western half of the United States. As an American rebel fighter, it is the player's duty to help push the NPA out of the United States and end the citizens' suffering.",
+    "developers": [
+        {
+            "id": "521816604640542740",
+            "name": "Kaos Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "homefront.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a344b4d20fd11ef81a524b2b7e9e2e50",
+    "id": "406646102297804826",
+    "name": "Homefront",
+    "publishers": [
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        }
+    ],
+    "splash": "763fd4c32a6372cf869c897d11c09b52",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "55100",
+            "sku": "55100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74dc3dac8c12d32d3c71793ae92c538edbc2a66ef424152ed6bc50fa6554f0cd"
+}

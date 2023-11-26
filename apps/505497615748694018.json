@@ -1,0 +1,24 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "retroarch.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff37b238154c434a541680844d74459b",
+    "id": "505497615748694018",
+    "name": "RetroArch",
+    "publishers": [
+        {
+            "id": "521816677625757713",
+            "name": "libretro"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "c163d6595970c33057281b6609e4e896445fda4efe420b534378c764c359571d"
+}

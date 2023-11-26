@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "empires apart/autorun.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e3c2be4ac6788b1aab41c747c345f726",
+    "id": "1124352763028062298",
+    "name": "Empires Apart",
+    "publishers": [
+        {
+            "id": "1124352763464265809",
+            "name": "DESTINYbit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "530630",
+            "sku": "530630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d53a2d69273aa4ee95fe513aeb0d58792dbb87870fd40fed034868ab3bb57186"
+}

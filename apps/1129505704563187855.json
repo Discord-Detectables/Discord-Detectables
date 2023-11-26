@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wylde flowers/wyldeflowers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3cee140acf2d54ccf37f4dc2578abce8",
+    "id": "1129505704563187855",
+    "name": "Wylde Flowers",
+    "publishers": [
+        {
+            "id": "1129505705540472982",
+            "name": "Studio Drydock Pty Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1896700",
+            "sku": "1896700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b7387d08cfc221a558a9bde7b254acb42c12e4524a2991ab041e03cde0250eb"
+}

@@ -1,0 +1,39 @@
+{
+    "description": "ATLAS is a survival MMO from Studio Wildcard.",
+    "developers": [
+        {
+            "id": "521816690540019737",
+            "name": "Studio Wildcard"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "atlasgame_be.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "519203887492890627",
+    "hook": true,
+    "icon": "edffe5a84ac41f10b01f7d696d4d92e0",
+    "id": "526489929631531009",
+    "name": "ATLAS",
+    "publishers": [
+        {
+            "id": "521816690540019737",
+            "name": "Studio Wildcard"
+        }
+    ],
+    "splash": "300b8b001b6f928d5161df263cb6cbf5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "834910",
+            "sku": "834910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "365e8debad69ea3fdbcc400a8dfac8d5dab5bcb81e962f603463aaa5dc5570c7"
+}

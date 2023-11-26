@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "phobies/phobies.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8bc89a21de3e254cbed3aea79247f65c",
+    "id": "1124355899876716664",
+    "name": "Phobies",
+    "publishers": [
+        {
+            "id": "524352041049653252",
+            "name": "Smoking Gun Interactive Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1254130",
+            "sku": "1254130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "157f269cd899ed4487750bfa79ee27bdcc5dadb6788a77bdf770d8dc3efa406f"
+}

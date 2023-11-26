@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Paint Warfare"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "paint warfare/paint warfare.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3302008aa611fdccf3d739090566b61",
+    "id": "1129504901723082862",
+    "name": "Paint Warfare",
+    "publishers": [
+        {
+            "id": "1129504902863929464",
+            "name": "bananadev."
+        },
+        {
+            "id": "1129504906500382872",
+            "name": "alexl (bananadev.)"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1190150",
+            "sku": "1190150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f44fb104933117efca5611b0ff88c9a8fb54ea244d280e0bac8e3e972e3f2988"
+}

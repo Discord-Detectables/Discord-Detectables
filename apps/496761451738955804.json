@@ -1,0 +1,43 @@
+{
+    "description": "A story driven psychological horror point and click adventure game.",
+    "developers": [
+        {
+            "id": "521816559031812098",
+            "name": "Killmonday Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fran bow.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "edc5d5ee05f8e9c03cb20938be56c351",
+    "id": "496761451738955804",
+    "name": "Fran Bow",
+    "publishers": [
+        {
+            "id": "521816559031812096",
+            "name": "Killmonday Games AB"
+        }
+    ],
+    "splash": "46f2362cd827b9147aefe60438ece7ef",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "362680",
+            "sku": "362680"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "921e087e8c17226ee4d5195b65fc76e01b5675539d59231c7d7dfaff369e51f8"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kona-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6a4e8e653a3ea6dabbb7c1c1b264fd8",
+    "id": "1124357308483391548",
+    "name": "Trials on Tatooine",
+    "publishers": [
+        {
+            "id": "1124355928548978769",
+            "name": "ILMxLAB"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "381940",
+            "sku": "381940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a35f7cbcb22d2564392b22bf7aafee677f7e9da170103b888275b77be745b173"
+}

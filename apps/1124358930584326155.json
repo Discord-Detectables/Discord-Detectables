@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "landlord's super/landlordssuper.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f1fab18335e0e0fc1c3cfcc5129385b3",
+    "id": "1124358930584326155",
+    "name": "Landlord's Super",
+    "publishers": [
+        {
+            "id": "1124358931028918272",
+            "name": "Minskworks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1127840",
+            "sku": "1127840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ce40e53b8d8fc70e411ad4e4c8397cdf609ea36cea6a552dceb0b2fe2c1fe71"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cart racer/cart_racer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c86f8a130d7f214c00e9a522c963581d",
+    "id": "1124358267221594192",
+    "name": "Cart Racer",
+    "publishers": [
+        {
+            "id": "521816572994519040",
+            "name": "HFM Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587420",
+            "sku": "587420"
+        }
+    ],
+    "type": 1,
+    "verify_key": "147628a7649956a0b9bc61a22e7a1a285e37d50606942634c12f1a6843ba9eca"
+}

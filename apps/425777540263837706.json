@@ -1,0 +1,42 @@
+{
+    "description": "2D MOBA game",
+    "developers": [
+        {
+            "id": "521816638895423489",
+            "name": "CWAVESOFT, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hyperuniverse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "266269091801595906",
+    "hook": true,
+    "icon": "ed25b821d100b92c8bb64e8992ed16f0",
+    "id": "425777540263837706",
+    "name": "Hyper Universe",
+    "publishers": [
+        {
+            "id": "521816638895423489",
+            "name": "CWAVESOFT, Inc."
+        },
+        {
+            "id": "521816511610880011",
+            "name": "Nexon Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "591530",
+            "sku": "591530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b394ef6031c61b6b2e2699ba4e52a4930837cfc999ea186c1734ddf96dc606dc"
+}

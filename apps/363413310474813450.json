@@ -1,0 +1,37 @@
+{
+    "description": "Wizard101 is a card-based fantasy MMO developed by KingIsle Entertainment.",
+    "developers": [
+        {
+            "id": "521816498541428768",
+            "name": "KingsIsle Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wizardgraphicalclient.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wizard101.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "559db46c522e2f7df3fa52766b22dadb",
+    "id": "363413310474813450",
+    "name": "Wizard101",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816498541428766",
+            "name": "GameForge"
+        }
+    ],
+    "splash": "5003a939f33b47bd0fd70e2ad4c53a5a",
+    "summary": "",
+    "type": 1,
+    "verify_key": "6040de7eec67f727a70695e98038dd61cbc773ba9aa3e8c203c355d1fbaa2575"
+}

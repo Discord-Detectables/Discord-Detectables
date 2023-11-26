@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816753920016384",
+            "name": "bitHuffel"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zenzizenzic/zenzizenzic.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "af13f6fdab66e91bae0a224ddb1a6cd6",
+    "id": "512789427462995988",
+    "name": "Zenzizenzic",
+    "primary_sku_id": "512789427462995988",
+    "publishers": [
+        {
+            "id": "521816520267923475",
+            "name": "Adult Swim Games"
+        }
+    ],
+    "slug": "zenzizenzic",
+    "splash": "761368f9db4b424418c80a2b3d3ea6f5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "327500",
+            "sku": "327500"
+        },
+        {
+            "distributor": "discord",
+            "id": "512789427462995988",
+            "sku": "512789427462995988"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f6e1b7c46a6daf3d2d8e1ab07a3ebfefd22ea1c01f37afef1db1669b6eec7cde"
+}

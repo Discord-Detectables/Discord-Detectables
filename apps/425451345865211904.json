@@ -1,0 +1,30 @@
+{
+    "aliases": [
+        "Deadlight"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lotdgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8e7f8bc9a2514364f9ab117a49b20963",
+    "id": "425451345865211904",
+    "name": "Deadlight: Director's Cut",
+    "primary_sku_id": "489167144408317953",
+    "slug": "deadlight-director-s-cut",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "489167144408317953",
+            "sku": "489167144408317953"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5cd57f3de6be459ad2a24c13c98df94b4a1c4d3a91f385474e05cd8feeb83ebc"
+}

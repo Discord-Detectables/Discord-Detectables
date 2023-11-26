@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "intravenous/intravenous.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9d2d54f970d8830be36003d9580c270",
+    "id": "1124359716299096174",
+    "name": "Intravenous",
+    "publishers": [
+        {
+            "id": "1124359716831768616",
+            "name": "Explosive Squat Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1486630",
+            "sku": "1486630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8ef862cd89d103e6ff1a97132157eaaea873df170c38273df55f66410221edff"
+}

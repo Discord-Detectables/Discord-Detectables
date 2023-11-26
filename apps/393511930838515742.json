@@ -1,0 +1,38 @@
+{
+    "description": "Guns N’ Boxes is a top-down multiplayer shooter from LightArrow Games. It is currently available on Steam Early Access.",
+    "developers": [
+        {
+            "id": "521816755988070410",
+            "name": "Krealit"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gunsnboxes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "febf8b97c4f09b673dfe8f41a00e5b8f",
+    "id": "393511930838515742",
+    "name": "Guns N' Boxes",
+    "publishers": [
+        {
+            "id": "521816755988070410",
+            "name": "Krealit"
+        }
+    ],
+    "splash": "d8b488f691f6d9f70c4c667c4bb66515",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "483850",
+            "sku": "483850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ae744983ce8238dd8de989c4f15570008f8bbd5adc55f65a625f9bb26ca25ce"
+}

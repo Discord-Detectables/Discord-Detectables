@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "overcooked! all you can eat/overcooked all you can eat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1dfba61a48bcfb0594f5ed6b015c1e9",
+    "id": "1124353117954257036",
+    "name": "Overcooked! All You Can Eat",
+    "publishers": [
+        {
+            "id": "1124353118428221450",
+            "name": "Team17 Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1243830",
+            "sku": "1243830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f5d34507e8986b9cccafd8e2b600a31e30b8038861e8abda67cd4b97c2b73af4"
+}

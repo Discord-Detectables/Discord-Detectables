@@ -1,0 +1,38 @@
+{
+    "description": "Bloodlines is a first person action-RPG built on Source engine and based on the World of Darkness setting from White Wolf.",
+    "developers": [
+        {
+            "id": "521816667756560395",
+            "name": "Troika Games L.L.C."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vampire.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5c0861e1f2791b160aabc18a3cbeccf",
+    "id": "464956888656773150",
+    "name": "Vampire: The Masquerade - Bloodlines",
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        }
+    ],
+    "splash": "dd1a28bec2f1f1c79e19f4dffc07e1e8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2600",
+            "sku": "2600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aeb2eeb8fc8b94636ca8154a1a6f717828824fe126e15aa9fccb4720e16f502e"
+}

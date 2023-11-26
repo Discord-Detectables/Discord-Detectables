@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "ZSNES"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zsnesw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "afcb71922b6a00633cd9aa299748cb18",
+    "id": "505521162042736657",
+    "name": "ZSNESw",
+    "publishers": [
+        {
+            "id": "521816695397023746",
+            "name": "ZSNESw"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "3713de03877fbb25cb98c756f1855fc9a0bba9c89a15568cbc2cc8c00d256444"
+}

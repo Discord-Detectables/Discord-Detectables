@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hand simulator survival/hand simulator survival.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b9f72283e70ab76432e04ac5dc1c2bb6",
+    "id": "1124351763433144330",
+    "name": "Hand Simulator: Survival",
+    "publishers": [
+        {
+            "id": "521816572994519040",
+            "name": "HFM Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "924140",
+            "sku": "924140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c3aac9c39d082221b77df6286c460980d75ea6436a8158e4efbb7068fc5a3700"
+}

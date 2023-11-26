@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blind trust/blindtrust.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b19f5658f89f9d92e3ceb68a0fd33177",
+    "id": "1124355383125885009",
+    "name": "Blind Trust",
+    "publishers": [
+        {
+            "id": "1124355383625003148",
+            "name": "Viswanath Atlu"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "468560",
+            "sku": "468560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb63c86b7ec04732e50e76f2d540bb192d3a4096fe84e61214640d80c8a45794"
+}

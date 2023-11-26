@@ -1,0 +1,57 @@
+{
+    "aliases": [
+        "DayZ"
+    ],
+    "description": "Beginning as a mod for ArmA II, the online zombie survival shooter DayZ is now a standalone game. It is currently in alpha, but is available as an Early Access game on Steam.",
+    "developers": [
+        {
+            "id": "521816510172233760",
+            "name": "Bohemia Interactive Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dayz.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dayz/dayzuninstaller.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dayz_x64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cff0c274f3a4cf2c1280dab58268ce9d",
+    "id": "385538724592746496",
+    "name": "DayZ",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816510172233760",
+            "name": "Bohemia Interactive Studio"
+        },
+        {
+            "id": "521816659519078412",
+            "name": "Bohemia Interactive"
+        }
+    ],
+    "splash": "c94c6673d3bf8514f3f6a25b9e925c77",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "221100",
+            "sku": "221100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1e14bc1362f2655462c8fc120293a1a3576458a1864811332a4f5afc487074f2"
+}

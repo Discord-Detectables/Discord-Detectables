@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "alien shooter 2 - reloaded/alienshooter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c61cec099e50e82459442ae890d9acaa",
+    "id": "1124357386602295296",
+    "name": "Alien Shooter 2: Reloaded",
+    "publishers": [
+        {
+            "id": "1124355469201391797",
+            "name": "Sigma Team Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "33120",
+            "sku": "33120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "421793d6f83268d72b07dd55f997ba63380f600fb6471b8703565ed5702ccf98"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/mistofthedark.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bdbfdd5097fadd8aafea606df1ddaed3",
+    "id": "1124359902182260816",
+    "name": "Mist of the Dark",
+    "publishers": [
+        {
+            "id": "1124359902769459450",
+            "name": "Visualistic Studios, LLC."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "884550",
+            "sku": "884550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5a657f556893f4233410f8544307a1849de35b9911abfaa060fa17a18882da24"
+}

@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "冰与火之舞 A Dance of Fire and Ice",
+        "冰與火之舞 A Dance of Fire and Ice"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a dance of fire and ice/a dance of fire and ice.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4aef30599ed414fd961a321bc7274aa2",
+    "id": "1129504116796837939",
+    "name": "A Dance of Fire and Ice",
+    "publishers": [
+        {
+            "id": "524353094830653444",
+            "name": "7th Beat Games"
+        },
+        {
+            "id": "524353094830653444",
+            "name": "7th Beat Games"
+        },
+        {
+            "id": "524353094830653444",
+            "name": "7th Beat Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "977950",
+            "sku": "977950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d23caa5132e9da7d397a32ce146f7cb178e015598243407d2f05efd4be540399"
+}

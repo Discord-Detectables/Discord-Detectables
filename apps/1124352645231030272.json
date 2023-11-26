@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/veiledexperts-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f9fd66f0cdec4b2d1be2489530238d09",
+    "id": "1124352645231030272",
+    "name": "VEILED EXPERTS",
+    "publishers": [
+        {
+            "id": "1124352645725966357",
+            "name": "NEXON Games Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1934780",
+            "sku": "1934780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a86dc144fe6dfaf8e7d5ba7ac6145b71dec8e79a0ebb2412bb17f483fd430649"
+}

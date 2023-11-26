@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/sakuyaizayoigivesyouadviceanddabs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79832fb819f1923a980932dad3899f8c",
+    "id": "1124358980895002715",
+    "name": "Sakuya Izayoi Gives You Advice And Dabs",
+    "publishers": [
+        {
+            "id": "1124358981368955000",
+            "name": "Sigyaad Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1232180",
+            "sku": "1232180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b8e740f6c1483745fea5af290d248ee99a236012d4b4cb702d9bfed8c63a30de"
+}

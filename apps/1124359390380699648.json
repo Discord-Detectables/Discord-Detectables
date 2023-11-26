@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "conan chop chop/conan chop chop.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0ff7db74b1f4fd7eb5fa390dd8cb47af",
+    "id": "1124359390380699648",
+    "name": "Conan Chop Chop",
+    "publishers": [
+        {
+            "id": "1124359390863052820",
+            "name": "Mighty Kingdom"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1061880",
+            "sku": "1061880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3fc847c4f2d2796f1eb1795645e2b32f933b3c9b63c7467bc41ac8bf75876440"
+}

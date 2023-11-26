@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "half-life 2 year long alarm/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7cb6bc3ead1dde77add5c8f16f7927c4",
+    "id": "1124357316444172438",
+    "name": "Half-Life 2: Year Long Alarm",
+    "publishers": [
+        {
+            "id": "1124357316943302757",
+            "name": "Chuck Wilson"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "747250",
+            "sku": "747250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c41898fcb8830c3fd8e18dd8f712951b37791e8a11377f2442a502fa7e79a48"
+}

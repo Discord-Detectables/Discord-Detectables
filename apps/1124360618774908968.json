@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ohmstudio/ohm_studio_net_mp_host.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9fb754a7c3b93897ca22dbb727f02767",
+    "id": "1124360618774908968",
+    "name": "Ohm Studio",
+    "publishers": [
+        {
+            "id": "1124360619261444227",
+            "name": "GRAOUMF"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "241660",
+            "sku": "241660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e3a7b48468f363c4c38472097b9820220f6bb2faf101a65a5c108db1805825dc"
+}

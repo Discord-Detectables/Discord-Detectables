@@ -1,0 +1,37 @@
+{
+    "description": "A free-to-play, open world winter sports game.",
+    "developers": [
+        {
+            "id": "521816604175106051",
+            "name": "Poppermost Productions"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "playsnow.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad8016215d9f7910a1e1e4c541bbf428",
+    "id": "426527534268809226",
+    "name": "SNOW",
+    "publishers": [
+        {
+            "id": "521816604175106051",
+            "name": "Poppermost Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "244930",
+            "sku": "244930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "445dd0036eea3d9d5c0f0ff84552e6f1b862f969edc0227f069fe3a455ff995a"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "The full-fledged follow-up to Destiny, streamlining much of the previous game's mechanics while featuring larger worlds and new abilities.",
+    "developers": [
+        {
+            "id": "521816529453449247",
+            "name": "Bungie"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "destiny2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79744dd00a9bd47c06fa1078e6c705fe",
+    "id": "372438022647578634",
+    "name": "Destiny 2",
+    "publishers": [
+        {
+            "id": "521816529453449247",
+            "name": "Bungie"
+        }
+    ],
+    "splash": "2d646423539ce9fa89f06a5c1ae8cfcc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "battlenet",
+            "id": null,
+            "sku": null
+        }
+    ],
+    "type": 1,
+    "verify_key": "794b1c4bb1b74e20dd619d1980b3ce15d02c344582c1ca95afb895322af824fc"
+}

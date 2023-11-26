@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warlord britannia/warlord britannia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e24a1ac9966a643fbf5f8fdc83e87995",
+    "id": "1124358089303404655",
+    "name": "Warlord: Britannia",
+    "publishers": [
+        {
+            "id": "1124358089798340658",
+            "name": "Darkmatter Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1970980",
+            "sku": "1970980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "010abd6b0c7d52ceb6556a3b70dc26b9c44d008ee706af61fd7fdad9e97536d9"
+}

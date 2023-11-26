@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Slapshot"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "slapshot/slapshot.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed0162ee73b6dfd4280bb6dd6ca9444c",
+    "id": "1129504667479580722",
+    "name": "Slapshot",
+    "publishers": [
+        {
+            "id": "857581102155169822",
+            "name": "Oddshot Games"
+        },
+        {
+            "id": "682750766263435299",
+            "name": "Erveon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "707680",
+            "sku": "707680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1d2f0bd78bd80ed95e393ace21b2d7d2159f8558fe095bb01c8aa536d9e33b39"
+}

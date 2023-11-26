@@ -1,0 +1,32 @@
+{
+    "description": "Click on cute girls.",
+    "developers": [
+        {
+            "id": "521816603671920663",
+            "name": "Sad Panda Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crushcrush.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "189a8107521edcf2e5d06cd74cb63046",
+    "id": "363431341599096842",
+    "name": "Crush Crush",
+    "splash": "2557b170eb62878253669109d1fc909b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "459820",
+            "sku": "459820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "da9f3cc823d097b2950d9fdbb3145fcbb8f0b84d200dfe0686b05062b618132d"
+}

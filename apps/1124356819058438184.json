@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/nbaplaygrounds-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "882c849c7eb3791532333f863a1fcd29",
+    "id": "1124356819058438184",
+    "name": "NBA Playgrounds",
+    "publishers": [
+        {
+            "id": "521816571581038634",
+            "name": "Saber Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "545270",
+            "sku": "545270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "155bc5876e28712d4d515b55d1a711c99c430a01adf5058699f3342f1babb0b8"
+}

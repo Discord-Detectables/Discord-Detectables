@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "car detailing simulator prologue/car detailing simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a67fb7554968ab676354188954324efc",
+    "id": "1124354054680756355",
+    "name": "Car Detailing Simulator: Prologue",
+    "publishers": [
+        {
+            "id": "1124353614052339803",
+            "name": "Games Incubator"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1661270",
+            "sku": "1661270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c909ca7628ca5f2c146112aece3311a7cde8d68363626960d44d8ccfb9b817b5"
+}

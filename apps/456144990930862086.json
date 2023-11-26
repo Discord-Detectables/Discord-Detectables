@@ -1,0 +1,42 @@
+{
+    "description": "A dinosaur park simulator.",
+    "developers": [
+        {
+            "id": "521816604175106063",
+            "name": "Frontier Developments Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "jwe.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3497531e38870a8c2c0e1e6645365e71",
+    "id": "456144990930862086",
+    "name": "Jurassic World Evolution",
+    "publishers": [
+        {
+            "id": "521816604175106059",
+            "name": "Frontier Developments"
+        },
+        {
+            "id": "521816604175106063",
+            "name": "Frontier Developments Ltd."
+        }
+    ],
+    "splash": "0c83cb1f674be9287534d0462dc3904e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "648350",
+            "sku": "648350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8afbdcc95305948542428b44e86faabc40b8b3ca7ce2c9f7d1b5bae65a6bb615"
+}

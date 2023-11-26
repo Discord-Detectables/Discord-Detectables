@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "keo/keo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d63034273c3216e6b4ce71cdc11973d5",
+    "id": "1124357776567713802",
+    "name": "KEO",
+    "publishers": [
+        {
+            "id": "1124357777075216475",
+            "name": "Redcatpig Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1424910",
+            "sku": "1424910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a720733faa123b67753b17a04a6d49193ce79e45f8811cad53ca97108e2a22e7"
+}

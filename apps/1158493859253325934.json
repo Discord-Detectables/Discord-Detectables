@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/shooter-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "081200d3cabde5f983d1c3513e2a5b5d",
+    "id": "1158493859253325934",
+    "name": "Goobies",
+    "publishers": [
+        {
+            "id": "1158493866358489088",
+            "name": "Knifes"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2294130",
+            "sku": "2294130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7f661f23c4cc6f97b692b523fff96913a18db0c5d096c815386227c3c66c1cb2"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "soulstone survivors prologue/soulstone survivors.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b7c307ca260bdc550647c786aa123bbf",
+    "id": "1124352981203173507",
+    "name": "Soulstone Survivors: Prologue",
+    "publishers": [
+        {
+            "id": "1124352427836063804",
+            "name": "Game Smithing Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2113430",
+            "sku": "2113430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "185bedebae43a0771d2a4d2b94586f85d60f2c13839cdde8a7b2827b9922cc5b"
+}

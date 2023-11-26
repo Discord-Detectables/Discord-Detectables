@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "barony/barony.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3c529754052f063e291ea922b8e86963",
+    "id": "1124352329169256518",
+    "name": "Barony",
+    "publishers": [
+        {
+            "id": "1124352329680957500",
+            "name": "Turning Wheel LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "371970",
+            "sku": "371970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "85d368783b4519e0b39e49d6302770f11511704abbd46918428ea94bce7e0636"
+}

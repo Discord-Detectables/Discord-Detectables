@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "turbodismount/turbodismount.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4af523e9040a4d15a7d9816d411dc2de",
+    "id": "1124352829805580348",
+    "name": "Turbo Dismount",
+    "publishers": [
+        {
+            "id": "1124352830279532775",
+            "name": "Secret Exit Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "263760",
+            "sku": "263760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7307a3e98019b37ae137134cceb261127b3090c4be0b78632143d88d1264b155"
+}

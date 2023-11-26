@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "LineageII"
+    ],
+    "description": "A Lineage II game for mobile devices.",
+    "developers": [
+        {
+            "id": "521816684957270026",
+            "name": "Netmarble"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lineageii.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "l2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f2f9b337a57454eb9cfa59f7c041247a",
+    "id": "457300834393391104",
+    "name": "Lineage II",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816611036856320",
+            "name": "Innova Systems"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "23c7bf66a5637a24ca978ca9ca2f53d6929a55e0339ec3193652a737c665a994"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dead or alive 6/doa6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5bcc448af8d8e4e3390a4d84aae7281",
+    "id": "1124353211097170002",
+    "name": "DEAD OR ALIVE 6",
+    "publishers": [
+        {
+            "id": "521816779509465099",
+            "name": "KOEI TECMO GAMES CO., LTD."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "838380",
+            "sku": "838380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "42c80efb7e6a227ab55585027ca662665af5ec9a006393bcdee792f279357ffb"
+}

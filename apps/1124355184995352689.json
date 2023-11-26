@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farmd/farmd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "18f801fd98fcb38223e63f73a2c44d21",
+    "id": "1124355184995352689",
+    "name": "FarmD",
+    "publishers": [
+        {
+            "id": "1124355185507053719",
+            "name": "Softscale"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1814630",
+            "sku": "1814630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6b8ee1987e7f5dd736985772f7bb2b5cc0179657c9f1d841ea8963a1d3ca8414"
+}

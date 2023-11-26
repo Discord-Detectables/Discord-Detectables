@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "world's dawn/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b7e2a96e99ecec6f82ab5ad2f19b56c3",
+    "id": "1124358905716293672",
+    "name": "World's Dawn",
+    "publishers": [
+        {
+            "id": "1124358906152497242",
+            "name": "Wayward Prophet"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "432010",
+            "sku": "432010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0a370278e347e448c84e96ecbf0d417ae2bf740847b001f791a846e79126c916"
+}

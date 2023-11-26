@@ -1,0 +1,44 @@
+{
+    "description": "A supercharged mini-golf game set in outer space.",
+    "developers": [
+        {
+            "id": "521816512512786452",
+            "name": "Rightstick Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wonder wickets.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wonderwickets-release.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "272207804297773068",
+    "hook": true,
+    "icon": "dcb35c42f5e9c1fbe2126d80c82e2f57",
+    "id": "504087681635188766",
+    "name": "Wonder Wickets",
+    "publishers": [
+        {
+            "id": "521816512512786448",
+            "name": "ANIM•ACE"
+        }
+    ],
+    "splash": "aa2752f7c642fc133ae595354a2ca63f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "598640",
+            "sku": "598640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "627f4e92bcbd58e691385d172ddd90c495898fb52baf0718ac42f0e2b6332e78"
+}

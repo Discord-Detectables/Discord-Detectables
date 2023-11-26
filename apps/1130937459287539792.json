@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cats hidden in paris/cats hidden in paris.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c0aafb50563b8d42c69e432c3d54076d",
+    "id": "1130937459287539792",
+    "name": "Cats Hidden in Paris",
+    "publishers": [
+        {
+            "id": "1130937460550009003",
+            "name": "Travellin Cats"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2313250",
+            "sku": "2313250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4a4f5eadfd6f6cce91385397d180954cee70e654bf70075a53ce33d0c0384f9b"
+}

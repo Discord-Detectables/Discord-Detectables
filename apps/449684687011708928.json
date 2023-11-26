@@ -1,0 +1,38 @@
+{
+    "description": "Iron Snout is a single-screen endless beat 'em up game from developer SnoutUp.",
+    "developers": [
+        {
+            "id": "521816533270396930",
+            "name": "SnoutUP"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ironsnout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b532978ed0d0641a2d1d6baf33fce4a1",
+    "id": "449684687011708928",
+    "name": "Iron Snout",
+    "publishers": [
+        {
+            "id": "521816533270396930",
+            "name": "SnoutUP"
+        }
+    ],
+    "splash": "010ed4765fc4f4776f50309877012437",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "424280",
+            "sku": "424280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "653ac53bd2949cc296e2dc16689d4a285399ecf20627bc8c83f79027e72c105e"
+}

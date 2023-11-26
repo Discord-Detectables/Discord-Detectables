@@ -1,0 +1,37 @@
+{
+    "description": "Create your own story amidst the dusty wastelands of the Wild West. Found cities, become a master hunter, or create your own mansion... experience the Frontier how it was supposed to be,,,",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "frontier/client.jar",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "frontier.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5a9287a8c4391c8386bb8550f330b2fa",
+    "id": "496762504291155998",
+    "name": "Frontier",
+    "publishers": [
+        {
+            "id": "521816775977861120",
+            "name": "Lacuna Corporation"
+        }
+    ],
+    "splash": "5dff5cc19569d5cb0f2da6c9ccba37b2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "439950",
+            "sku": "439950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "45a6eb9b287a467cd9f7a34503bb2b10ff5847d8c0db66c8f5e4fe8e77c081ce"
+}

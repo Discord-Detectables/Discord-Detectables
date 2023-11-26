@@ -1,0 +1,40 @@
+{
+    "cover_image": "30e50d475a085e4ba167a9a8741e3a23",
+    "description": "Hellion is a first person multiplayer space survival game. It is a fusion of survival and space simulation genres that pits players against the deadly environment and one another. Survive the hard vacuum, extreme temperatures, deadly radiation and scavenge for basic resources like air, water, and other items necessary for survival.",
+    "developers": [
+        {
+            "id": "521816721603035156",
+            "name": "Zero Gravity Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hellion.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "283927435030822914",
+    "hook": true,
+    "icon": "de17672f52c4bf0534f312c8c77ecaf4",
+    "id": "349114016968474626",
+    "name": "Hellion",
+    "publishers": [
+        {
+            "id": "521816721603035156",
+            "name": "Zero Gravity Entertainment"
+        }
+    ],
+    "splash": "dbdd0eb305217ba6b7885165099227f6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "588210",
+            "sku": "588210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3d562a6d50d74679ac72e24803ffea40347d49dba7b6412f5fca874329a99e57"
+}

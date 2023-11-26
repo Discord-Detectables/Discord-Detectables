@@ -1,0 +1,49 @@
+{
+    "aliases": [
+        "Shadow Tactics Blades of the Shogun"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816687612395521",
+            "name": "Mimimi Productions"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shadow tactics.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "294373853990486016",
+    "hook": true,
+    "icon": "2e96abb193d403db3dc7036f9ede1da6",
+    "id": "425443548079456285",
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "primary_sku_id": "492420089233014795",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "slug": "shadow-tactics-blades-of-the-shogun",
+    "splash": "dfc029df7df019c73476000618b64852",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "418240",
+            "sku": "418240"
+        },
+        {
+            "distributor": "discord",
+            "id": "492420089233014795",
+            "sku": "492420089233014795"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c1fe041faa8acfed5a9c4cc5284af258a47856baa44a72ae17d542a93f523c13"
+}

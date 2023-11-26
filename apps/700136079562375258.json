@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "VALORANT"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/valorant-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "679875946597056683",
+    "hook": true,
+    "icon": "e55fc8259df1548328f977d302779ab7",
+    "id": "700136079562375258",
+    "name": "VALORANT",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816780168232961",
+            "name": "Riot Games, Inc"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "9c0c5c972af9029b85743a3d1c756ef6286058699029c63fbc22dc7d28607748"
+}

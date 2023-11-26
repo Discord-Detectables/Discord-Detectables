@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the black watchmen/tbw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee11d623242248c57b53146464b07131",
+    "id": "1124359965453336698",
+    "name": "The Black Watchmen",
+    "publishers": [
+        {
+            "id": "1124358462336413766",
+            "name": "Alice &amp; Smith"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "349220",
+            "sku": "349220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "288fda7a3d5720193eb9188c8d58758f016c9c7413073c8196c8a11be23d8d64"
+}

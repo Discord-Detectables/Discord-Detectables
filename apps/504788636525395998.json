@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Chaos Code: New Sign of Catastrophe"
+    ],
+    "description": "An updated version of Chaos Code featuring a number of balance tweaks and additional characters.",
+    "developers": [
+        {
+            "id": "521816676644159500",
+            "name": "FK Digital"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "chaoscode_nsoc/chaoscode.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "04a7ff062dc7b92f06219c6d9fc1fb62",
+    "id": "504788636525395998",
+    "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+    "publishers": [
+        {
+            "id": "521816676644159500",
+            "name": "FK Digital"
+        }
+    ],
+    "splash": "71de7546f3b04aeec45d8525114125c8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "536560",
+            "sku": "536560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f9407d759b2a5492eeb1c3fb1d06b2ada1defd6c4a346764fc144bd295d53b95"
+}

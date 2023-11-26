@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "ISEKAI QUEST"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "isekai quest/isekai quest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a7cf51fb08954712fdfe04a0ce5ad93a",
+    "id": "1129505097479635037",
+    "name": "ISEKAI QUEST",
+    "publishers": [
+        {
+            "id": "1124359852177764422",
+            "name": "Studio Ginkgo"
+        },
+        {
+            "id": "1129505100482748547",
+            "name": "Ginkgo Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1268110",
+            "sku": "1268110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4ee0bb67493a90a07434525ac8445e4e5bf01b9dc244edef926b349d98070347"
+}

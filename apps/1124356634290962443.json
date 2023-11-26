@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "minigolf mania/minigolfmania.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e8c51d9a1b215994326d88cbb5c4ebfa",
+    "id": "1124356634290962443",
+    "name": "MiniGolf Mania",
+    "publishers": [
+        {
+            "id": "1124356634970435605",
+            "name": "Road Turtle Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "453680",
+            "sku": "453680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e432844519d612f125161c60d26e995fbd158f52699a0b77df1ff3019c466da0"
+}

@@ -1,0 +1,76 @@
+{
+    "aliases": [
+        "Fallout 3 - Game of the Year Edition",
+        "Fallout 3 GOTY edition"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fallout 3 goty/games for windows live disabler.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fallout3.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fallout 3 goty/4gb_patch.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fallout 3 goty/fose_loader.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fallout 3 goty/fallout3 - garden of eden creation kit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "04e90a72f1567b8f55165ae0cecf0c03",
+    "id": "451545729253638144",
+    "name": "Fallout 3",
+    "publishers": [
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        },
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        },
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        },
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        },
+        {
+            "id": "521816519768932355",
+            "name": "Bethesda Game Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "22300",
+            "sku": "22300"
+        },
+        {
+            "distributor": "steam",
+            "id": "22370",
+            "sku": "22370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e70d4ddd0f35a7c3f175191d97f3382c607afc0d21393a2ae4bea50679e2e7ab"
+}

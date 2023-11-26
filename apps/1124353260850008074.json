@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "root/root.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f881be6a1a6ae8e8124698d79baeed67",
+    "id": "1124353260850008074",
+    "name": "Root",
+    "publishers": [
+        {
+            "id": "1124353261323960431",
+            "name": "Dire Wolf"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "965580",
+            "sku": "965580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ca496f654da73f01f5858693f014e2336b5c21fa5d3d9edea2ce16dcf94469f0"
+}

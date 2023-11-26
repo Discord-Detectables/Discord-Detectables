@@ -1,0 +1,38 @@
+{
+    "description": "An action strategy PVP game .",
+    "developers": [
+        {
+            "id": "521816734844583947",
+            "name": "NetDragon"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tiger knight/bin/frontend.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "037ec53e45e1f4090ec0f774ec82477f",
+    "id": "452944801952694282",
+    "name": "Tiger Knight",
+    "publishers": [
+        {
+            "id": "521816734844583947",
+            "name": "NetDragon"
+        }
+    ],
+    "splash": "6677d07eb0dbcbd293eb0372f1961d2e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "415660",
+            "sku": "415660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6b747c6ec606be37fdbcd02487a757d3e7520ce2b8e4758a7a00b36783f39ce5"
+}

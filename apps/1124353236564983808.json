@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "counterside/counterside.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f515bbc9dc8dae5dd5791e12c12a6621",
+    "id": "1124353236564983808",
+    "name": "CounterSide",
+    "publishers": [
+        {
+            "id": "1124353237064101898",
+            "name": "Studiobside Co.,Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1976440",
+            "sku": "1976440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a98a36d9f1d6c705ebfb279f19061af5f970ff9055f0c660590c11342cc37221"
+}

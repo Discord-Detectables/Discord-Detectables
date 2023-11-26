@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "placid plastic duck simulator/placid plastic duck simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "51accc3624fbedae68cf35c243270cf9",
+    "id": "1124352920033443920",
+    "name": "Placid Plastic Duck Simulator",
+    "publishers": [
+        {
+            "id": "1124352920507396166",
+            "name": "turbolento games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1999360",
+            "sku": "1999360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "075465c0fc5c3d05471f378bbf7cad478704941929b05916096ce1fb316a46a4"
+}

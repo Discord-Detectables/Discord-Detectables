@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Grisaia no Kajitsu"
+    ],
+    "description": "A visual novel about a boy who becomes the first male student at Mihama Academy, a private school aimed at helping youths who have trouble fitting into society.",
+    "developers": [
+        {
+            "id": "521816679785824268",
+            "name": "Front Wing"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grisaia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa28b2f9ecb0421004bb14c0347f219d",
+    "id": "505136406109356032",
+    "name": "The Fruit of Grisaia",
+    "publishers": [
+        {
+            "id": "521816679785824267",
+            "name": "Prototype"
+        }
+    ],
+    "splash": "cdf7aefc6fa3f75fd57916b57512780f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "345610",
+            "sku": "345610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cb89538f810fda6241ee0dc82b23e9bd2d89cd395e0956bc2be29ddcaa844a76"
+}

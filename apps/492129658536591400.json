@@ -1,0 +1,47 @@
+{
+    "cover_image": "cb2e174cddf8400e70b14c199e62a1d1",
+    "description": "Stranger is a bounty hunter that never much cared for guns... Use an array of critters and his trusty crossbow to hunt down a bunch of outlaws so that Stranger can get the moolah he needs and right the wrongs of Mongo Valley.",
+    "developers": [
+        {
+            "id": "521816747477827596",
+            "name": "Oddworld Inhabitants"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stranger.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "293291256736382976",
+    "hook": true,
+    "icon": "4e3e3904fcf8006491261328dc79999c",
+    "id": "492129658536591400",
+    "name": "Oddworld: Stranger's Wrath",
+    "primary_sku_id": "492148799783829504",
+    "publishers": [
+        {
+            "id": "521816747477827596",
+            "name": "Oddworld Inhabitants"
+        }
+    ],
+    "slug": "oddworld-stranger-s-wrath",
+    "splash": "09f66787d3a971b2cba444e534f6f522",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492148799783829504",
+            "sku": "492148799783829504"
+        },
+        {
+            "distributor": "steam",
+            "id": "15750",
+            "sku": "15750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cd157f5c9d7f94f50157aa3e8be6a8814d5fd4166ea0ec538d32465b2387c11d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentai arena  battle royale/hentai arena.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f1fa461d56827ab007d4d95e77ba4822",
+    "id": "1124356108509786252",
+    "name": "Hentai Arena | Battle Royale",
+    "publishers": [
+        {
+            "id": "1124356109017305108",
+            "name": "LoveAnime"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1084400",
+            "sku": "1084400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "afdb9b0aa1a9f5b7980ef4ebcbefaa1e8bd9460a098043c68ec32d69d30911d7"
+}

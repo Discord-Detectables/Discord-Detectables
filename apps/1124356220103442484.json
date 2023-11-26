@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hidden/hidden.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2cd61baa2c701d5d09446a629dbd5cc",
+    "id": "1124356220103442484",
+    "name": "Hidden Through Time",
+    "publishers": [
+        {
+            "id": "1124356220585783467",
+            "name": "Rogueside"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "524910",
+            "sku": "524910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "059e231587fe10ce7ce74eeeb35d4c1a4e100b6a5739b822a67c2db1b4c3cd80"
+}

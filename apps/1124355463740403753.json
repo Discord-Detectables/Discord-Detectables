@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fling to the finish/fling to the finish.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa801789ea11bb8fd0ee6fb44acfa30a",
+    "id": "1124355463740403753",
+    "name": "Fling to the Finish",
+    "publishers": [
+        {
+            "id": "1124355464197591060",
+            "name": "SplitSide Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1054430",
+            "sku": "1054430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "19e38cc854b4bb14cda6ff3c4e0348fbbb3033534a23aeb6fff110bc2d9996e0"
+}

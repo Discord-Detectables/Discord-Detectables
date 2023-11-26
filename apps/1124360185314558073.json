@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blackhole/bh.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5e23ff579d988ee09af48c6cf93cd229",
+    "id": "1124360185314558073",
+    "name": "BLACKHOLE",
+    "publishers": [
+        {
+            "id": "524352361460924448",
+            "name": "FiolaSoft Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "322680",
+            "sku": "322680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ef209deb1ff7e8ac7848579c8e188399115f78b714a12586901e9861edba3d09"
+}

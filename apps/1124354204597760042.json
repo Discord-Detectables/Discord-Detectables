@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "moving out demo/movingout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fe61add34cbb4ddee07350f9b2ad72ca",
+    "id": "1124354204597760042",
+    "name": "Moving Out Demo",
+    "publishers": [
+        {
+            "id": "524352346436927488",
+            "name": "SMG Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1207270",
+            "sku": "1207270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "598d5ad22badcbe924494fa0c0ecbe5832e2cb54df9e2dbe27440c15c79db73d"
+}

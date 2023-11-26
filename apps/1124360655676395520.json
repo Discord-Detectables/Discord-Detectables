@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zup! zero 2/zup! zero 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f0b0bcf19e11e85fca3d26000878f7c6",
+    "id": "1124360655676395520",
+    "name": "Zup! Zero 2",
+    "publishers": [
+        {
+            "id": "1124352226966650920",
+            "name": "Quiet River"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "658550",
+            "sku": "658550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d6fdf358ad446d88e6a31cd77fa948f170d90c21ba6c99991864f123a8b0dea"
+}

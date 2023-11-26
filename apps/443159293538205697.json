@@ -1,0 +1,44 @@
+{
+    "description": "Inspired by the bloody Battle of Verdun that took place in 1916 between German and French forces, Verdun is a squad-based multiplayer shooter set in World War I.",
+    "developers": [
+        {
+            "id": "521816636995534860",
+            "name": "Blackmill Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "1914-1918 series.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "verdun.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "294408040902295552",
+    "hook": true,
+    "icon": "43bfc1ffc3efd605fa654591ff18896e",
+    "id": "443159293538205697",
+    "name": "Verdun",
+    "publishers": [
+        {
+            "id": "521816636995534859",
+            "name": "M2H"
+        }
+    ],
+    "splash": "b4d9d0e03c2a79b5fa84b973e6e05ea5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "242860",
+            "sku": "242860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95168ca1d178d1c497357045f6287f6891508017441ac2a7017349497298688a"
+}

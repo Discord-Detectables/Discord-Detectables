@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/postal4-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b2e20a94b300017fd5f872dfeaef65f2",
+    "id": "1124353229384339626",
+    "name": "POSTAL 4: No Regerts",
+    "publishers": [
+        {
+            "id": "521816665168543755",
+            "name": "Running With Scissors"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "707030",
+            "sku": "707030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5e453bd8f150714d574805eaefa59c532b3c3956b6db4cfb20bb867d8eb54c0a"
+}

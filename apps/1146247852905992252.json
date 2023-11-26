@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "release/heartwood online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e80e03f3426b65873c53d006f57141b7",
+    "id": "1146247852905992252",
+    "name": "Heartwood Online",
+    "publishers": [
+        {
+            "id": "1146247853560307812",
+            "name": "E Bros"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2180600",
+            "sku": "2180600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d8c8a130040b37c8a08510531d03cb6534fef8fdb8a1fddfea4843ee2b98822a"
+}

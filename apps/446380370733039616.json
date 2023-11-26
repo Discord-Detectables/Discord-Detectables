@@ -1,0 +1,42 @@
+{
+    "description": "The sequel to the racing simulator Project CARS",
+    "developers": [
+        {
+            "id": "521816652745277463",
+            "name": "Slightly Mad Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pcars2avx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fe620094c42ba04931eaa27c8e88d5a6",
+    "id": "446380370733039616",
+    "name": "Project CARS 2",
+    "publishers": [
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        },
+        {
+            "id": "521816652745277463",
+            "name": "Slightly Mad Studios"
+        }
+    ],
+    "splash": "7038bce6cf56320ee4867723dfcdd4c5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "378860",
+            "sku": "378860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0dcbf1ef9f911328d6984ee99157ea4c3311aff675d214fe8a52cba73bace7ec"
+}

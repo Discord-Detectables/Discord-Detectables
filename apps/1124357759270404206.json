@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rakuen/engine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "653ee794b941cfb31175de7ae092bda9",
+    "id": "1124357759270404206",
+    "name": "Rakuen",
+    "publishers": [
+        {
+            "id": "1124357759744356372",
+            "name": "Laura Shigihara"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "559210",
+            "sku": "559210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "637ed432bacef171b148d3e128033ef99efb0bf1323038bd71859b9158e01187"
+}

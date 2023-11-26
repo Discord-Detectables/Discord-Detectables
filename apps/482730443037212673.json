@@ -1,0 +1,38 @@
+{
+    "description": "A first person parkour game set in a number of different distinct worlds with lava on the floor.",
+    "developers": [
+        {
+            "id": "521816520817639454",
+            "name": "Klei Entertainment Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hotlava.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "82a3802670f6d31a5879ec72c24a3b71",
+    "id": "482730443037212673",
+    "name": "Hot Lava",
+    "publishers": [
+        {
+            "id": "521816520817639454",
+            "name": "Klei Entertainment Inc."
+        }
+    ],
+    "splash": "2b943bd0f575c32f9d88c89be9078bda",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "382560",
+            "sku": "382560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f52bfe3fc25091be5e5c7156aacd5eaedd90dc1bae10960bf1afaf09e169ca5a"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "digger/digger.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa1f6966cc2a0bd66dfababa2a1e4e59",
+    "id": "1124358749566554203",
+    "name": "Копатель Онлайн",
+    "publishers": [
+        {
+            "id": "1124358750212472872",
+            "name": "Дмитриев Максим Константинович"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "278970",
+            "sku": "278970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3ddea3330032596fcb14773077c53b8486842ce6daa204c02ebe94e2599be6ea"
+}

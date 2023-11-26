@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the political process/thepoliticalprocess.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e58ac634e96bf4ce0807e33add253544",
+    "id": "1124357024973606973",
+    "name": "The Political Process",
+    "publishers": [
+        {
+            "id": "1124357025497890835",
+            "name": "Verlumino Studios LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1184770",
+            "sku": "1184770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e683a0d17540ffcc2e1f62e70a1e072bf1792ff41caec87f12dbbc9d9537cc6"
+}

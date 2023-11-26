@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "launcher/eg2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a4cae7a299cfba0981a9d778af3e40fe",
+    "id": "1124352596946206810",
+    "name": "Evil Genius 2",
+    "publishers": [
+        {
+            "id": "521816698534494221",
+            "name": "Rebellion"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "700600",
+            "sku": "700600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "831fe6975e859ce302d2dde5efdd985a97da8f95ccf9bdc06dd93f3c7d643a38"
+}

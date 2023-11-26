@@ -1,0 +1,59 @@
+{
+    "bot_public": false,
+    "bot_require_code_grant": false,
+    "cover_image": "31b5f007c81f25b28fabb0a7f3afee1b",
+    "description": "Official Move Or Die Discord bot!",
+    "developers": [
+        {
+            "id": "521816560051159042",
+            "name": "Those Awesome Guys"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "move or die/love/osx32/love.app/contents/macos/love",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "move or die/love/win/love.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "move or die/love/linux32/love",
+            "os": "linux"
+        }
+    ],
+    "flags": 524288,
+    "guild_id": "190909213436936193",
+    "hook": true,
+    "icon": "a2f62440ab2e5e6a9971b4c170551841",
+    "id": "343232907390746625",
+    "name": "Move or Die",
+    "primary_sku_id": "491699415904550923",
+    "publishers": [
+        {
+            "id": "521816560051159042",
+            "name": "Those Awesome Guys"
+        }
+    ],
+    "slug": "move-or-die",
+    "splash": "03f12f7e2982f66bb6f038c67374200c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "491699415904550923",
+            "sku": "491699415904550923"
+        },
+        {
+            "distributor": "steam",
+            "id": "323850",
+            "sku": "323850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "698c5d0859abb686be1f8a19e0e7634d8471e33817650f9fb29076de227bca90"
+}

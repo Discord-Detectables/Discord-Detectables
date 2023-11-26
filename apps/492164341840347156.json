@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816522977574923",
+            "name": "LucasArts Entertainment Company LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monkey2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "37bf42807e648a451c0db6bed0d73513",
+    "id": "492164341840347156",
+    "name": "Monkey Island™ 2 Special Edition: LeChuck's Revenge™",
+    "primary_sku_id": "492393482980163584",
+    "publishers": [
+        {
+            "id": "570702595178627072",
+            "name": "Lucasfilm, Disney"
+        }
+    ],
+    "slug": "monkey-island-tm-2-special-edition-lechuck-s-revenge-tm",
+    "splash": "e8b231de296f73db40fca56b028c925c",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492393482980163584",
+            "sku": "492393482980163584"
+        },
+        {
+            "distributor": "steam",
+            "id": "32460",
+            "sku": "32460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2dfa1645e2ba6d84d0575bf9906f7d7be01ef223326113f9df196c46c83740f"
+}

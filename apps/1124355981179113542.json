@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "how fish is made/how fish is made.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1908393e09589c68a49b3994747a5118",
+    "id": "1124355981179113542",
+    "name": "How Fish Is Made",
+    "publishers": [
+        {
+            "id": "1124355981636288593",
+            "name": "Johanna Kasurinen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1854430",
+            "sku": "1854430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cb24901552abf7f308a164ea5e737f138c307cb0e03085427c6f5bea3fa0e991"
+}

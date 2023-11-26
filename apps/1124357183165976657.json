@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "price/price.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59a1ba7d6e5d95486a836db7760deae7",
+    "id": "1124357183165976657",
+    "name": "PRICE",
+    "publishers": [
+        {
+            "id": "1124357183702843492",
+            "name": "YETU GAME"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "465520",
+            "sku": "465520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "900e83f8e73ab13750f868e4c586f420137e837fe1599b9ca4615633d2d5d4cd"
+}

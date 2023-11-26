@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "welcome to free will/welcometofreewill.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9f51fcf0b6a62bb317f1eef823da7305",
+    "id": "1124353684185305221",
+    "name": "Welcome to Free Will",
+    "publishers": [
+        {
+            "id": "1124353684688617512",
+            "name": "Mr Strangelove"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1743260",
+            "sku": "1743260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e88e9b7971eabb9a167920b367b96b28231c2c67fa765578de2321e36349d641"
+}

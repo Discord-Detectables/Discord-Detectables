@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "conflict_desert_storm/desertstorm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b2c618a048c01bac11356887095b8000",
+    "id": "1124357225184505886",
+    "name": "Conflict Desert Storm",
+    "publishers": [
+        {
+            "id": "1124357225620721705",
+            "name": "Pivotal Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "211780",
+            "sku": "211780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "355641d3e7ffd5263effa0b5ff441a4789e62e640e9974d63a8ef0bafc1fe9f6"
+}

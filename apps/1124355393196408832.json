@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/nbaplaygrounds2-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb5844d8b4d8bd0d7f3fc0e4eb6f9110",
+    "id": "1124355393196408832",
+    "name": "NBA 2K Playgrounds 2",
+    "publishers": [
+        {
+            "id": "521816571581038634",
+            "name": "Saber Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "726590",
+            "sku": "726590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d4c27ed5996f66c72e8ca51c210d36b6667c3f3fb1aaeae711c7284da9a029ad"
+}

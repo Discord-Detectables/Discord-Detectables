@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816537192202241",
+            "name": "Avalanche Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "madmax.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "431d145eebad4e850edac0465b15eaaa",
+    "id": "425439256001904650",
+    "name": "Mad Max",
+    "primary_sku_id": "492042542922203156",
+    "publishers": [
+        {
+            "id": "521816537192202241",
+            "name": "Avalanche Studios"
+        },
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "slug": "mad-max",
+    "splash": "cf4f7d06e1580e2aac5fad882a0b3984",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "234140",
+            "sku": "234140"
+        },
+        {
+            "distributor": "discord",
+            "id": "492042542922203156",
+            "sku": "492042542922203156"
+        }
+    ],
+    "type": 1,
+    "verify_key": "29c8955e17ac15524a29a3cd1651cc6ed68ceef8fd0b91fd6a4383944082914c"
+}

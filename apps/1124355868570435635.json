@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "drop alive/drop alive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c80836e7600e05a1ca265ac60bdd9cf8",
+    "id": "1124355868570435635",
+    "name": "Drop Alive",
+    "publishers": [
+        {
+            "id": "524352722523258882",
+            "name": "INVI Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "513450",
+            "sku": "513450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "466378477626eac4ac2cecd3854c47287564cf8cd038636673c845b339f3c727"
+}

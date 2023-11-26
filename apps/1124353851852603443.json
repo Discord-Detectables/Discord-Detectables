@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steamworld dig 2/dig2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee4ed9081485ced007ab1d8c52c495d0",
+    "id": "1124353851852603443",
+    "name": "SteamWorld Dig 2",
+    "publishers": [
+        {
+            "id": "1124353852423024660",
+            "name": "Image &amp; Form Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "571310",
+            "sku": "571310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cc2301578a5175c8d2c7e8cadd4a7cbc5f6e6b92e847067c0f764ca48157742e"
+}

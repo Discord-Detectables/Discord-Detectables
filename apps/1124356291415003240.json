@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "killing room/killingroom.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7e5926cf01e7254cabd0a7b778140456",
+    "id": "1124356291415003240",
+    "name": "Killing Room",
+    "publishers": [
+        {
+            "id": "524352664591400961",
+            "name": "Alda Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "407560",
+            "sku": "407560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0b2108125b45d839f436d8fd44774c42ebc5d941e29c3fe026262cd091e3e557"
+}

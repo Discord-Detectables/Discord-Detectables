@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rustissimo/rustissimo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "812d589f5a41b8f6f678d9c6acd115d1",
+    "id": "1124355748676259972",
+    "name": "Rustissimo",
+    "publishers": [
+        {
+            "id": "1124352819001045123",
+            "name": "JaviteSoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1222580",
+            "sku": "1222580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d62281170e3ee2b056ba2e91dc0e98224f44590ee0b052c06196bbadadbea57"
+}

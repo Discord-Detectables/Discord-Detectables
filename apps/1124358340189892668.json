@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bebee-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "baa03df466bd128aba620f3ae0221425",
+    "id": "1124358340189892668",
+    "name": "Bee Simulator",
+    "publishers": [
+        {
+            "id": "1124358340739354634",
+            "name": "Varsav Game Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "914750",
+            "sku": "914750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be11a55ade8be10de32412a07d14ffcbc6a59d1289b3db1f98dd9ec2f06a1370"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rhythm doctor/rhythm doctor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "49294443d3385e479c7a89dc6c4b20f9",
+    "id": "1124352412841427054",
+    "name": "Rhythm Doctor",
+    "publishers": [
+        {
+            "id": "524353094830653444",
+            "name": "7th Beat Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "774181",
+            "sku": "774181"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bc0e850f39b485741011d4101ed8e0e1141fd1aaa9e382483c8e4d227cbd6ec1"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "siren head's awakening/siren head awakening.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2dbe778c55ea526de70a308652a299e",
+    "id": "1124352675627159582",
+    "name": "Siren Head: Awakening",
+    "publishers": [
+        {
+            "id": "1124352676109500527",
+            "name": "Prisma Games L.L.C."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1443490",
+            "sku": "1443490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be8e82e45d5c158e6a6cf9aed7434611640809acbb5a99ec215c398c4baade20"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "curious expedition 2/ce2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3e28e16625c7ce9b1d9dea504b1c163",
+    "id": "1124359615921008680",
+    "name": "Curious Expedition 2",
+    "publishers": [
+        {
+            "id": "524352639865978881",
+            "name": "Maschinen-Mensch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1040230",
+            "sku": "1040230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54200a5e49c463fbf3a807ecf9fe96ce16e4319e6454a15396f51191cdde560d"
+}

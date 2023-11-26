@@ -1,0 +1,62 @@
+{
+    "aliases": [
+        "Call of Duty: WWII",
+        "Call of Duty: WWII - Multiplayer"
+    ],
+    "cover_image": "4bbaaf201df6fb21d396e9f2403210c6",
+    "description": "Call of Duty®: WWII by Activision Publishing, Inc.",
+    "developers": [
+        {
+            "id": "521816559505637394",
+            "name": "Sledgehammer Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "call of duty wwii/s2_sp64_ship.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "call of duty wwii/s2_mp64_ship.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3a98c27c15aa01b85576509c7038990c",
+    "id": "365569601993572352",
+    "name": "Call of Duty®: WWII",
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        },
+        {
+            "id": "521816559505637394",
+            "name": "Sledgehammer Games"
+        }
+    ],
+    "splash": "87ca1917cfbfa6cd85326c68671b9287",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "476620",
+            "sku": "476620"
+        },
+        {
+            "distributor": "steam",
+            "id": "476600",
+            "sku": "476600"
+        },
+        {
+            "distributor": "steam",
+            "id": "696790",
+            "sku": "696790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f8403ff1e9b8fe3afd532a4a3ec588316410f7a6e0899c2149329619e8d0ed78"
+}

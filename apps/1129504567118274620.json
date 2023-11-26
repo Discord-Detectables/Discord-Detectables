@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pineapple-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de97bd109a91b7a9f47fe27747ff6402",
+    "id": "1129504567118274620",
+    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "publishers": [
+        {
+            "id": "1129504568154279998",
+            "name": "Purple Lamp Studios"
+        },
+        {
+            "id": "685636895044141119",
+            "name": "Purple Lamp"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "969990",
+            "sku": "969990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7335cdf07b270fbcaa2261b7de6572b887d827d982781233cb6ee8b46d1be51f"
+}

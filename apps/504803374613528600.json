@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "Cosmic League"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cosmicleague.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bd98b2d9172e2933caccac995b4e389f",
+    "id": "504803374613528600",
+    "name": "CosmicLeague_US",
+    "publishers": [
+        {
+            "id": "521816589050445825",
+            "name": "CyberStep, Inc."
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "5e97e935800d34478a9f7f93b3705849ef54d8adbb3e1376d19e0310d7a8033f"
+}

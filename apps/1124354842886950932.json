@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/redream.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad6b43d6fd172c30317897ba780095b8",
+    "id": "1124354842886950932",
+    "name": "CODE2040",
+    "publishers": [
+        {
+            "id": "1124354843360903169",
+            "name": "WANIN Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "993870",
+            "sku": "993870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "798d37d5fd47c30ad17c5031d5af91d2b6a4c56170eea015c544d0b5af12cdcc"
+}

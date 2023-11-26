@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "just shapes & beats/jsb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0596d1673ebd004b1101074b75c630ae",
+    "id": "1124352067016863764",
+    "name": "Just Shapes & Beats",
+    "publishers": [
+        {
+            "id": "521816566007070778",
+            "name": "Berzerk Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "531510",
+            "sku": "531510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "abb5298bbe77f1d2aa7bd39834c2de7df19bc5b1bfbe19ab40e2419f06e351d5"
+}

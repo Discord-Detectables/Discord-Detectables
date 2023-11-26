@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ai war 2/aiwar2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0d2449f2f45d651107419c7df04cd5c8",
+    "id": "1124356554204926062",
+    "name": "AI War 2",
+    "publishers": [
+        {
+            "id": "521816506607206435",
+            "name": "Arcen Games, LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "573410",
+            "sku": "573410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0e2337214995bfa37ece2d964cd374d2f95bbe0eaf9b04a0aee7eeaf83983251"
+}

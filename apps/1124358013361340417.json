@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cossacks ii battle for europe/engine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee4d7fcc682b43982e6e743958dc21e1",
+    "id": "1124358013361340417",
+    "name": "Cossacks II: Battle for Europe",
+    "publishers": [
+        {
+            "id": "521816551486259236",
+            "name": "GSC Game World"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "4890",
+            "sku": "4890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54736bd1cdf656ae216f7b5a384e87c54c615b11017a0b2db6f5868e19f72340"
+}

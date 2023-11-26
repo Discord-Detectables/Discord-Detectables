@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro evolution soccer 2019 demo/pes2019.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb092481ed0205eaacf605f8cb48690d",
+    "id": "1146414306796261376",
+    "name": "PRO EVOLUTION SOCCER 2019 DEMO",
+    "publishers": [
+        {
+            "id": "521816738807939112",
+            "name": "Konami Digital Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "888680",
+            "sku": "888680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e16509cd50b7218829e1ffc04bcda856500de0d4c6a2ce3152e97ac9edcd2e56"
+}

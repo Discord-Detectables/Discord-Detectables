@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "subterrain/subterrain.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3b2c3d7a28e571684b71d95eaa995c96",
+    "id": "1147863675361820753",
+    "name": "Subterrain",
+    "publishers": [
+        {
+            "id": "524352549344772107",
+            "name": "Pixellore"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "340490",
+            "sku": "340490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26dfac77c2e71587b8bc6880b136c0c22f8f6d71c3f0d72f2e0fcee84a607d0d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "demeo - pc edition/demeo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dff7aca84fd9d6fb83917c107ec65798",
+    "id": "1124356677420990495",
+    "name": "Demeo - PC Edition",
+    "publishers": [
+        {
+            "id": "524353260002344968",
+            "name": "Resolution Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1837750",
+            "sku": "1837750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "739a1b820668e0de765149a5067f42282e9e35f97111f599cfa56ad8f2a25ee9"
+}

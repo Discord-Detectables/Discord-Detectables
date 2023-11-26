@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "streamer daily/streamer daily.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0c143c58c6148edb9c2312ee739bab23",
+    "id": "1124358277023678615",
+    "name": "Streamer Daily",
+    "publishers": [
+        {
+            "id": "1124358277510213712",
+            "name": "Mehan Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1058380",
+            "sku": "1058380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9f1a279d1c122cf514a233391e4c115088fdf0bad36667430e15b90091989478"
+}

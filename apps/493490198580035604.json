@@ -1,0 +1,38 @@
+{
+    "description": "More RPG makin' fun for the PC.",
+    "developers": [
+        {
+            "id": "521816515989733376",
+            "name": "Enterbrain, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rpgvxace.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb6f2354897a245a029b1b588e99eaf6",
+    "id": "493490198580035604",
+    "name": "RPG Maker VX Ace",
+    "publishers": [
+        {
+            "id": "521816751038791690",
+            "name": "Kadokawa Games"
+        }
+    ],
+    "splash": "a6e5609dee7a369e4b2e3c91f568dc19",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "220700",
+            "sku": "220700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bb3fdd9a5f51b1751d02fa10c26c776e353ab8e6dd097e502d12d049ca788a05"
+}

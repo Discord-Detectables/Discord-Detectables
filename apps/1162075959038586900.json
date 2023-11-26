@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "HITMAN™ 2"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "retail/hitman2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac7bf0872bee8325c8fbc328dc491f75",
+    "id": "1162075959038586900",
+    "name": "HITMAN™ 2",
+    "publishers": [
+        {
+            "id": "591189272623710209",
+            "name": "IO Interactive A/S"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "863550",
+            "sku": "863550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "526ab4dcebd0f9b764c5321ae9b3ac0e1d926b3c7a7f2e1a4acb8ae91beec310"
+}

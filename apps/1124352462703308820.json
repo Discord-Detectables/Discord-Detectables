@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/wewentback-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de89aec5e5c2c61ac9399665277bb8ee",
+    "id": "1124352462703308820",
+    "name": "We Went Back",
+    "publishers": [
+        {
+            "id": "1124352463227605163",
+            "name": "Dead Thread Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1218250",
+            "sku": "1218250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e3e0375dd1fa9f6842bb661d7f98f5bfaa62fa604e8077548879aeb8aa919d8e"
+}

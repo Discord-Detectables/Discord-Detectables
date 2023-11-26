@@ -1,0 +1,59 @@
+{
+    "aliases": [
+        "NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst",
+        "Naruto Shippuden Ultimate Ninja Storm 3 Full Burst"
+    ],
+    "description": "A director's cut edition of Naruto Shippuden: Ultimate Ninja Storm 3, and Naruto's official PC game debut.",
+    "developers": [
+        {
+            "id": "521816579797811203",
+            "name": "CyberConnect2 Co., Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ns3fb.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "nsuns3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59faeeecba10fdac74a99998a52f47f5",
+    "id": "498948228146921472",
+    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+    "publishers": [
+        {
+            "id": "521816632801361927",
+            "name": "Black Beard"
+        },
+        {
+            "id": "521816537653444610",
+            "name": "Bandai Namco Entertainment"
+        },
+        {
+            "id": "521816632801361928",
+            "name": "CyberConnect 2"
+        },
+        {
+            "id": "521816632801361929",
+            "name": "CyberConnect2 Co. Ltd."
+        }
+    ],
+    "splash": "47d1be681cdff97a61bec694399c4e4d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "234670",
+            "sku": "234670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e860b81cf4758616b4c25273e3973aad99f6f977ef2111d62de7f7c2c8a5d134"
+}

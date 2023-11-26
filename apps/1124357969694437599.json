@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "magequit/magequit.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ddcfa571f67ef0ce9ed9b40965e407ae",
+    "id": "1124357969694437599",
+    "name": "MageQuit",
+    "publishers": [
+        {
+            "id": "524353173327183873",
+            "name": "Bowlcut Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "572220",
+            "sku": "572220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6d706ad18596442ed0ea9d7fefda64538ec52985d2fb4fbc0f8dc05bfaaba2e0"
+}

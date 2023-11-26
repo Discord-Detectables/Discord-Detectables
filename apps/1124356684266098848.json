@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "heliborne/heliborne.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d643ad4dc3c25e5e2f663cc57a4109b0",
+    "id": "1124356684266098848",
+    "name": "Heliborne",
+    "publishers": [
+        {
+            "id": "524352488246083597",
+            "name": "JetCat Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "433530",
+            "sku": "433530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3559310ef2c285a0afdea5224eedbb7d339515aa0e3f594ce2ca199544257b99"
+}

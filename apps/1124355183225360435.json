@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "river city girls/rivercitygirls.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c7223c37d62880b607743820be490bba",
+    "id": "1124355183225360435",
+    "name": "River City Girls",
+    "publishers": [
+        {
+            "id": "521816607408914448",
+            "name": "WayForward"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1049320",
+            "sku": "1049320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f3d8deb44658af6206a6b5c0d3c68b03bfa41f4c35362b143a2121d3a96c4e95"
+}

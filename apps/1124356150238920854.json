@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pc/chicory.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0a1b09364c759615b7ea9c4666dd274d",
+    "id": "1124356150238920854",
+    "name": "Chicory: A Colorful Tale",
+    "publishers": [
+        {
+            "id": "1124355044129652857",
+            "name": "Greg Lobanov"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1123450",
+            "sku": "1123450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6517c26ecdb857cd71f758c8ad110a4f164c4b5bedb93096a30ec5bb7928ff6d"
+}

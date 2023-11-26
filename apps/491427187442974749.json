@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816529453449248",
+            "name": "Daniel Mullins Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ponyisland.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e48c55316ccbc29ad3d449d9e36c19fd",
+    "id": "491427187442974749",
+    "name": "Pony Island",
+    "primary_sku_id": "492056527918727178",
+    "publishers": [
+        {
+            "id": "521816529453449248",
+            "name": "Daniel Mullins Games"
+        }
+    ],
+    "slug": "pony-island",
+    "splash": "55f8ec31b0ebeba2bffb8d275c074c6b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "405640",
+            "sku": "405640"
+        },
+        {
+            "distributor": "discord",
+            "id": "492056527918727178",
+            "sku": "492056527918727178"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a1776390d97b57b20bb1611f47653b56ba3567379cfb05f3d70df18f7e51f754"
+}

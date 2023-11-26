@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bloody hell/bloody hell.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0d8dca9e5ee8cd54fda9fb56088eb03",
+    "id": "1124353776376103014",
+    "name": "Bloody Hell",
+    "publishers": [
+        {
+            "id": "1124353776850055230",
+            "name": "Pun Intended"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2056220",
+            "sku": "2056220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ce35bb7580fb8135581f12ac199903d4aa3ca4cc643303a48d91e362f678abe"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "A puzzle platformer developed by Polytron that uses a 2D perspective shifting mechanic to solve puzzles and complete levels. The main character, a white creature named Gomez, wears a fez and is obsessed with collecting hats.",
+    "developers": [
+        {
+            "id": "521816755446743062",
+            "name": "Polytron"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fez.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f6662c310eeb014ba3e967a56b43d64b",
+    "id": "451550717673472030",
+    "name": "FEZ",
+    "publishers": [
+        {
+            "id": "521816755446743060",
+            "name": "Trapdoor"
+        }
+    ],
+    "splash": "39818f3cf7c25f114121bc5d07da5eb1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "224760",
+            "sku": "224760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9ed9f4de29e6955ac2576d1d4b78ff630511decffa36a07feb93680647ea9d95"
+}

@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "Forza Horizon 5"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "forzahorizon5.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "forzahorizon5/forzahorizon5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": false,
+    "icon": null,
+    "id": "905961880789590076",
+    "name": "Forza Horizon 5",
+    "publishers": [
+        {
+            "id": "521816775248183306",
+            "name": "Playground Games"
+        },
+        {
+            "id": "521816775248183306",
+            "name": "Playground Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1551360",
+            "sku": "1551360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dfa5876e005df8060a775550eac5253f103bfa3651571ae08ea09a2d6fc909f7"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "front lines/front lines.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "056e020881c3e90fa8a48db11ea9747a",
+    "id": "1124359192250167456",
+    "name": "Front Lines",
+    "publishers": [
+        {
+            "id": "1124359192745103391",
+            "name": "Marco S Hampel"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1084980",
+            "sku": "1084980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "03330eacdd096a950791e0eec7ed38dcea25a86113de8af731e64a595bb4bb3d"
+}

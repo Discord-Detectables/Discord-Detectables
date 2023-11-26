@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "marvel's spider-man remastered/spider-man.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5a28fd1c300bb81bd628bac64d40707a",
+    "id": "1124351769175150702",
+    "name": "Marvel’s Spider-Man Remastered",
+    "publishers": [
+        {
+            "id": "521816729379405825",
+            "name": "Insomniac Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1817070",
+            "sku": "1817070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad98cb4dd8a1fbd13a0d8cd618106cca32b4a08868fc808e15f5d55b2b492467"
+}

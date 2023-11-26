@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idling gears demo/idling gears.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b098a5078f3942f615cd0a8c7b70e6a",
+    "id": "1135679268739883069",
+    "name": "Idling Gears Demo",
+    "publishers": [
+        {
+            "id": "1135679269327077436",
+            "name": "guilemus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2459310",
+            "sku": "2459310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5cfde57ffb7525b7b958fa1d469867195c83253de698c2f00f12f6edfd67a307"
+}

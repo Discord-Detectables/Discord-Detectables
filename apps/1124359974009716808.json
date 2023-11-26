@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "buoyancy/buoyancy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d49a6e8b9ab1e7830833d12a2c8de952",
+    "id": "1124359974009716808",
+    "name": "Buoyancy",
+    "publishers": [
+        {
+            "id": "1124359974504640512",
+            "name": "Devs on a Boat"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1012610",
+            "sku": "1012610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8c6227213fb79412bdd5132ced7abf5c93c36f89bc13b0bfb0d75f87e6b1936c"
+}

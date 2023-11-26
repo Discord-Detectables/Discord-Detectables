@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bombrushcyberfunk/bomb rush cyberfunk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ccbe50fd9934b29332e980da811b659a",
+    "id": "1142246940575281383",
+    "name": "Bomb Rush Cyberfunk",
+    "publishers": [
+        {
+            "id": "521816753341333510",
+            "name": "Team Reptile"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1353230",
+            "sku": "1353230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "64c917a16d3e18f23fde0cb54909be40149da139b73de2a89565fe9314d84264"
+}

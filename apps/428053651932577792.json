@@ -1,0 +1,37 @@
+{
+    "description": "The popular collectible card game goes free-to-play.",
+    "developers": [
+        {
+            "id": "521816725247754268",
+            "name": "Stainless Games Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "magicduels.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9606625a036bca2517808e80af336f11",
+    "id": "428053651932577792",
+    "name": "Magic Duels",
+    "publishers": [
+        {
+            "id": "521816725247754267",
+            "name": "Wizards of the Coast, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316010",
+            "sku": "316010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e24d6dbf70dcd11b411fa067685adf1611fd1df81ac1b202e3c1e0aef2abbe8e"
+}

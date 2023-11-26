@@ -1,0 +1,37 @@
+{
+    "description": "Cortex Command is a side scroller that features up to 4 player spiltscreen action, developed independently by Data Realms LLC. Dynamic 2D pixel graphics coupled with an extremely detailed physics engine makes for replayable and emergent gameplay. It won the Audience Award and Award for Technical Excellence at IGF 2009.",
+    "developers": [
+        {
+            "id": "521816748744245266",
+            "name": "Data Realms"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cortex command.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3d695020b854bd102f214d74ace253d6",
+    "id": "425787524737269770",
+    "name": "Cortex Command",
+    "publishers": [
+        {
+            "id": "521816748744245266",
+            "name": "Data Realms"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "209670",
+            "sku": "209670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c565462f19dcf2ab110406c68fbb8bc21394542c18f0ee451660481b3e8b12a"
+}

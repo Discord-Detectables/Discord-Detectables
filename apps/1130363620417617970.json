@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "yet another zombie survivors/yet another zombie survivors.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7743510757c3d347f03885dc251c6db3",
+    "id": "1130363620417617970",
+    "name": "Yet Another Zombie Survivors",
+    "publishers": [
+        {
+            "id": "521816558096351233",
+            "name": "Awesome Games Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2163330",
+            "sku": "2163330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e02394dc5efa43c74649a8c7eabec7580c414a2b24959fbceba6922b1df66150"
+}

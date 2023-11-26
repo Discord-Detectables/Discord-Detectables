@@ -1,0 +1,52 @@
+{
+    "description": "A standalone expansion and prequel to the 2014 game Wolfenstein: The New Order, loosely recreating the story in Return to Castle Wolfenstein.",
+    "developers": [
+        {
+            "id": "521816549666062338",
+            "name": "MachineGames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolfoldblood_x86.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wolfoldblood_x64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wolfoldblood_x32.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff688030301f350ee49b94f77c787d4c",
+    "id": "504087375618506772",
+    "name": "Wolfenstein: The Old Blood",
+    "publishers": [
+        {
+            "id": "521816549666062338",
+            "name": "MachineGames"
+        },
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "5e4738e51c7900b8d2b6675a5412146a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "350080",
+            "sku": "350080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d621b6d0c994be0ebeb4a0eb6ba8e57648a77add2f42e5964f3c3a850d0d3de7"
+}

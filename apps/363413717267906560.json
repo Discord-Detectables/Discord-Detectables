@@ -1,0 +1,33 @@
+{
+    "description": "Rivals of Aether is an indie fighting game set in a vast world featuring a unique roster of elementally themed characters.",
+    "developers": [
+        {
+            "id": "521816554212687884",
+            "name": "Dan Fornace"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rivalsofaether.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "63722835520004096",
+    "hook": true,
+    "icon": "b205ccca202ab6b8f35dc2474bba0d53",
+    "id": "363413717267906560",
+    "name": "Rivals of Aether",
+    "splash": "639d7e43ce85025200a12d49b2847b3d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "383980",
+            "sku": "383980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5722fb5712a6b25bf902743e5bde6ded58bb2ac48b4c7d841a4453bfaed57f50"
+}

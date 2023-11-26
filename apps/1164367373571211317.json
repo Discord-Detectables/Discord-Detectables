@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "endless dungeon/endless dungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c975d3c09e67ce08b9ebf1487de0e83",
+    "id": "1164367373571211317",
+    "name": "ENDLESS™ Dungeon",
+    "publishers": [
+        {
+            "id": "521816527343845459",
+            "name": "Amplitude Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1485590",
+            "sku": "1485590"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8610defcf7aa52ade8a6538caaad95c1df2c7acb7ec3fc5bd034d70aa5a8401"
+}

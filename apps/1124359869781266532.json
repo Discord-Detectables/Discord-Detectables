@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neverending nightmares/nightmare.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8aa748f8b9c48d2a102c12d0f414eeac",
+    "id": "1124359869781266532",
+    "name": "Neverending Nightmares",
+    "publishers": [
+        {
+            "id": "524352237716242484",
+            "name": "Infinitap Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "253330",
+            "sku": "253330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4c208ffbf0616b22d75b4ebd0be144da52c63b12dcdf9c1955a1548c0b0559c3"
+}

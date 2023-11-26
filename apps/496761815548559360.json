@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Free To Play"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "free to play/ftp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff6547aab4f98eabd0c419c52e15a17c",
+    "id": "496761815548559360",
+    "name": "Free to Play",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "splash": "8c5b0cce14212e8c6443e70966c9adc5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "245550",
+            "sku": "245550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e0a7d988505c2ede8b1c2b70258cf61d3b1b0f844b610819e3fe2530c44402b1"
+}

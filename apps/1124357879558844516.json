@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gg_achbuild/grapple gear.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b5e55b9ee1c9774c7240c577721bc49d",
+    "id": "1124357879558844516",
+    "name": "Grapple Gear",
+    "publishers": [
+        {
+            "id": "1124357880024420372",
+            "name": "Ethan Hoffman"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1899830",
+            "sku": "1899830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fd949c36f10e942e823e9c3bed6c08c5e4fb32bb5e6fd4e5a61188c06e681ce1"
+}

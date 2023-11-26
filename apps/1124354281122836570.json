@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/summer_of_58-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dc0caf2fae24f071a64dc212bd8328d9",
+    "id": "1124354281122836570",
+    "name": "Summer of '58",
+    "publishers": [
+        {
+            "id": "1124354281621966888",
+            "name": "EMIKA_GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1609080",
+            "sku": "1609080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e6f73c67711e09fc3667bf302df47f5913bad5351c85e188d4a818f93b2a288f"
+}

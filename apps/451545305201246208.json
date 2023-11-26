@@ -1,0 +1,38 @@
+{
+    "description": "The long-awaited third Max Payne game finally arrived in May 2012, courtesy of Rockstar Vancouver. Eight years after the end of Max Payne 2, an aging, burnt-out Max finds one last chance to redeem himself while working as a bodyguard for a rich family in Brazil.",
+    "developers": [
+        {
+            "id": "521816755988070412",
+            "name": "Rockstar Vancouver"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "maxpayne3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff54bfd443df1da5317ddf35ceb69609",
+    "id": "451545305201246208",
+    "name": "Max Payne 3",
+    "publishers": [
+        {
+            "id": "521816560537567257",
+            "name": "Rockstar Games"
+        }
+    ],
+    "splash": "cfce10f8f854ac28b94e5c1f4ee6268f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "204100",
+            "sku": "204100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a933bc20e73a6d7ebe7ca7b9ad9e783c064d6019a27fecc1d421cda5188bf2af"
+}

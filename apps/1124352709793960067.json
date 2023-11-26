@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cheeky chooks/cheekychooks.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f1adbd16d7288c5e82ff497f098922d",
+    "id": "1124352709793960067",
+    "name": "Cheeky Chooks",
+    "publishers": [
+        {
+            "id": "1124352710267899965",
+            "name": "Trilum Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "922460",
+            "sku": "922460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b5077130442682e5d6badf59ea65c32fa9a1c31041936d7304a5c76e5721b850"
+}

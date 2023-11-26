@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "カートライダー ドリフト"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kartdrift-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5375166c47bbeda6f12aec8ff41f7dfe",
+    "id": "1129504254663594115",
+    "name": "KartRider: Drift",
+    "publishers": [
+        {
+            "id": "1129504255313727640",
+            "name": "Nexon Korea Corporation"
+        },
+        {
+            "id": "1129504255313727640",
+            "name": "Nexon Korea Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1184140",
+            "sku": "1184140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c38b4f778808b6aa834ab5baa55d7fef6df9a8e60055bc448df4b5a028781743"
+}

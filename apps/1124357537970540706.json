@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "braveland/braveland.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "abaca472fce919a2389dd2af7ad85c96",
+    "id": "1124357537970540706",
+    "name": "Braveland",
+    "publishers": [
+        {
+            "id": "524352321484750853",
+            "name": "Tortuga Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "285800",
+            "sku": "285800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c4da4ca0aed792a63cae5c8aa778f89e824da602919706e9b8e56d6a294485a6"
+}

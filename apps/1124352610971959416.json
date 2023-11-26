@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lego city undercover/legolcur_dx11.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa34210bf0deb992757d337f14aeca66",
+    "id": "1124352610971959416",
+    "name": "LEGO® City Undercover",
+    "publishers": [
+        {
+            "id": "1124351999513743491",
+            "name": "Traveller's Tales"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "578330",
+            "sku": "578330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d98ab444790a39a0abd7ca90012f56a783d4f5a8f8ab83732c4e05996857c043"
+}

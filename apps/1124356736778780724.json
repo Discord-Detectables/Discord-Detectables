@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/zookeepersimulator-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6f40ec56f4686c2539c22954d707730f",
+    "id": "1124356736778780724",
+    "name": "ZooKeeper Simulator",
+    "publishers": [
+        {
+            "id": "1124353463149674496",
+            "name": "Forceight"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1194680",
+            "sku": "1194680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b2bc9c57f71dab2a1c404a93209d7c1dfdc64caf18c1627adc7dd0535378646"
+}

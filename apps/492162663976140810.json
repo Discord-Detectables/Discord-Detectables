@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816522977574923",
+            "name": "LucasArts Entertainment Company LLC"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "indiana jones and the fate of atlantis.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf08ae533801796e8482775005ee248b",
+    "id": "492162663976140810",
+    "name": "Indiana Jones® and the Fate of Atlantis™",
+    "primary_sku_id": "492391636467318813",
+    "publishers": [
+        {
+            "id": "570702595178627072",
+            "name": "Lucasfilm, Disney"
+        }
+    ],
+    "slug": "indiana-jones-r-and-the-fate-of-atlantis-tm",
+    "splash": "fbe37e22ecc3b1b889e31b900570ae90",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492391636467318813",
+            "sku": "492391636467318813"
+        },
+        {
+            "distributor": "steam",
+            "id": "6010",
+            "sku": "6010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2cae375e2188b2e02e0d4a789f3fbe46624442a49a1beec5a9831301d620d11e"
+}

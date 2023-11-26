@@ -1,0 +1,43 @@
+{
+    "description": "Take on the role of a hacker in the year 2010.",
+    "developers": [
+        {
+            "id": "521816530397298691",
+            "name": "Introversion Software Limited"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "uplink.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ca0ea1c6f009683df500f4496a440ee1",
+    "id": "504085139983433774",
+    "name": "Uplink",
+    "publishers": [
+        {
+            "id": "521816534205857810",
+            "name": "Ambrosia Software, Inc."
+        }
+    ],
+    "splash": "194bb81e72ca0f0b88090686ab75047d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1510",
+            "sku": "1510"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "d9aa07c6a3745ba11526d08f1da41cd238063c309a279d59fcdc1235330bfa58"
+}

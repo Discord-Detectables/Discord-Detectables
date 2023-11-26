@@ -1,0 +1,38 @@
+{
+    "description": "A \"randomly generated road trip action-RPG\", Death Road to Canada pits a car-full of jerks against the zombie apocalypse as they make their way through procedurally-generated locations and encounters.",
+    "developers": [
+        {
+            "id": "521816768407273491",
+            "name": "Madgarden"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deathroadtocanada/prog.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d2e3969673e5f2746e3070564ce644e0",
+    "id": "451551950937260032",
+    "name": "Death Road to Canada",
+    "publishers": [
+        {
+            "id": "521816768407273490",
+            "name": "Rocketcat Games"
+        }
+    ],
+    "splash": "31adb200c87ab9d4fe77a691d69ec615",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252610",
+            "sku": "252610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f664cd0ab93112610f29cf0d0df82d25c414e8c81548e6b23c7134637081a8d5"
+}

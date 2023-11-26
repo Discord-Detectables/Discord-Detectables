@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lead and gold gangs of the wild west/lag_win32_public_dev.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2768c909200bdf47f1429caf0b967ed9",
+    "id": "1124359124143067209",
+    "name": "Lead and Gold - Gangs of the Wild West",
+    "publishers": [
+        {
+            "id": "542475118396309529",
+            "name": "Fatshark"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "42120",
+            "sku": "42120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "deca81e536d2e78bc47fae5efb9c10db16af480050ef8d2e0eac2fd05ceac54d"
+}

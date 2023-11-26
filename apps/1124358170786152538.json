@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "marble world/marble world.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "08482a5ccbcf66710650e21c7ce7555f",
+    "id": "1124358170786152538",
+    "name": "Marble World",
+    "publishers": [
+        {
+            "id": "1124358171335602226",
+            "name": "Vector Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1491340",
+            "sku": "1491340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2351deaf12d5cb5f2ffd5e1f66406bb51bdc98a594872490d6e724d7ea6f8a75"
+}

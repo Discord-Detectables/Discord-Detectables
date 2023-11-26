@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "scanner sombre/scanner sombre.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a5a4efe22faf5fbc6c83db746ad0719c",
+    "id": "1124356035818311750",
+    "name": "Scanner Sombre",
+    "publishers": [
+        {
+            "id": "1124356036346789978",
+            "name": "Introversion Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "475190",
+            "sku": "475190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "48c4a597f577dc5e0dc2d60a2a2e5324a5f25696b6d4a3339cfdf52ef46e2d7f"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/nomoremoney.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f23fd2857e42d3674a5a93fa8c508123",
+    "id": "1124354865125146624",
+    "name": "No More Money",
+    "publishers": [
+        {
+            "id": "1124354865603293244",
+            "name": "RoyalCandy"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2246300",
+            "sku": "2246300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0a8f26a17c8985871e972e557a92bfb065feb83aec0ae6ea5863b8750f93d5f8"
+}

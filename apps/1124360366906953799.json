@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "time warpers/timewarpers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c14821b1dd4c1a52d1123c18399c73b7",
+    "id": "1124360366906953799",
+    "name": "Time Warpers",
+    "publishers": [
+        {
+            "id": "521816640195788802",
+            "name": "Proton Studio Inc"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "676500",
+            "sku": "676500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "22931ff35e914dbae14869e9585fd663779d3c464e33c5de91d47ba9a4db70fa"
+}

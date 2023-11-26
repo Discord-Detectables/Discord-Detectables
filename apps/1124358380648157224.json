@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nitroplus blasterz heroines infinite duel/nitroplus blasterz.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a49987780a1ded4e29117b93a212a845",
+    "id": "1124358380648157224",
+    "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+    "publishers": [
+        {
+            "id": "524351994014466071",
+            "name": "Examu"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "482450",
+            "sku": "482450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4124b5428bdc3c02381aa6b374de72a185bda25402a631f211d2d751b8cb36e4"
+}

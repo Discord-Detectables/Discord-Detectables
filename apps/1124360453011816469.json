@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "budget cuts 2 mission insolvency/budget cuts 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dc68660ba2c9da3b190913d7f08c2f10",
+    "id": "1124360453011816469",
+    "name": "Budget Cuts 2: Mission Insolvency",
+    "publishers": [
+        {
+            "id": "524352550305005570",
+            "name": "Neat Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1092430",
+            "sku": "1092430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1cfbee2b3f567c6e3aa580d2a28833e0faeebca127f3f1411cc1b0c69244b443"
+}

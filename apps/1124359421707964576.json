@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "struggling/struggling.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "437eb34a608a04b0c334df3829439e70",
+    "id": "1124359421707964576",
+    "name": "Struggling",
+    "publishers": [
+        {
+            "id": "1124359422207082506",
+            "name": "Chasing Rats Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1035560",
+            "sku": "1035560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1729e3a0415cb576a6aa5bf5e0f1c6065558ff1704750f35af68a00c67478c48"
+}

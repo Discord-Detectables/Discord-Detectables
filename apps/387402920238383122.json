@@ -1,0 +1,52 @@
+{
+    "aliases": [
+        "Elsword"
+    ],
+    "description": "Elsword is a free-to-Play 2D action side-scrolling MMORPG. The game is designed to make the players feel that they are part of their own manga.",
+    "developers": [
+        {
+            "id": "521816726317432850",
+            "name": "KOG Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "elsword.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "data/x2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1e602d7c0ff6c284a17829a9e98e1e8",
+    "id": "387402920238383122",
+    "name": "Elsword",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816726317432847",
+            "name": "Kill3rCombo"
+        },
+        {
+            "id": "572588407914758154",
+            "name": "KOG"
+        }
+    ],
+    "splash": "c8b320c4bdd7d7505d794c568c11e4a0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "237310",
+            "sku": "237310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d85d255c0b00e104a9ab52fa8d30e4092542594f125968e5f6bd9435789345e0"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "botanicula/botanicula.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb54a9abf6bc899480d9b881ec6c4892",
+    "id": "1124356782924509355",
+    "name": "Botanicula",
+    "publishers": [
+        {
+            "id": "524351864485969922",
+            "name": "Amanita Design"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "207690",
+            "sku": "207690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a04318e34f2384008d4018bbb4ccaa229af1c013bdf53c482af0887f6e9d8522"
+}

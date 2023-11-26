@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Anno 2070"
+    ],
+    "description": "Anno 2070, a part of Ubisoft's strategy franchise Anno, ditches historical settings for a futuristic one. The focus of the game stays true to the series formula of building up cities through exploration and resource management.",
+    "developers": [
+        {
+            "id": "521816672781336590",
+            "name": "Blue Byte - studio Mainz"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "anno5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bb8c974e8dc5c183ac6572f7327a94a1",
+    "id": "451544339416481828",
+    "name": "ANNO 2070",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "6efbc946d6375666ab9102e2b0fee050ef0b6f57b2f9e59cd27a265d042ceadc"
+}

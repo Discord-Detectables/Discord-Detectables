@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Surgeon Simulator"
+    ],
+    "description": "A parody of the popular \"Simulator\" series of games depicting realistic takes on generally boring careers, Surgeon Simulator 2013 is a wildly unrealistic depiction of kidney, heart, and brain surgery where the primary challenge comes from the game's deliberately awkward controls.",
+    "developers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "surgeon simulator/ss2013.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "surgeon simulator 2013/ss2013.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3700f2b3b2f3e4ab89fa3f9585782767",
+    "id": "451549334320971776",
+    "name": "Surgeon Simulator",
+    "publishers": [
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        },
+        {
+            "id": "521816516593975297",
+            "name": "Bossa Studios"
+        }
+    ],
+    "splash": "08de1a1587ed25db22f61573bd05bdb1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "233720",
+            "sku": "233720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "76cc09b6efae1e2ca2769f8aafd6edaa36b561875018043c287d71a2f231e0f5"
+}

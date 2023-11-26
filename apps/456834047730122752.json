@@ -1,0 +1,38 @@
+{
+    "description": "Developed by Eidos Montréal and coming more than 10 years after the previous Thief game, this is the fourth installment in and a reboot of the Thief franchise.",
+    "developers": [
+        {
+            "id": "521816520817639457",
+            "name": "Eidos-Montréal"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shipping-thiefgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cb6d20bdf4666d9054587f77eb0b2a03",
+    "id": "456834047730122752",
+    "name": "Thief",
+    "publishers": [
+        {
+            "id": "521816520817639456",
+            "name": "Eidos Interactive"
+        }
+    ],
+    "splash": "37a4d52e5daa47fe94d859a05eff3220",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239160",
+            "sku": "239160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "033525808769f684e7dbb02e84e222ffce84b13e974ac7b7cfb7afc23640b6e8"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "A game featuring space battles that is a mix between MOBA and RTS.",
+    "developers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stellarimpact.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "174e864d47d5e4e1f23ef8e5f07a7bae",
+    "id": "425458648006000640",
+    "name": "Stellar Impact",
+    "publishers": [
+        {
+            "id": "521816503465803785",
+            "name": "Meridian 4, Inc."
+        }
+    ],
+    "splash": "2717e4c9944c241fc7405b1347e7d074",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "207150",
+            "sku": "207150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c760081e935f84544d10e3d3d7ac728fa542d7dc849c0f48eaad863cdf19886"
+}

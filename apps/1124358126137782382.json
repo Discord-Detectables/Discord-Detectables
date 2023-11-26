@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star chef cooking & restaurant game/star chef.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "88ab85fa291664196e0ec708691492a2",
+    "id": "1124358126137782382",
+    "name": "Star Chef: Cooking & Restaurant Game",
+    "publishers": [
+        {
+            "id": "1124358126666272808",
+            "name": "99Games Online Pvt. Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1028860",
+            "sku": "1028860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "797e6e10ea807a18791a941c9641df6a34de677eae80e56140fc0065f1cbcf35"
+}

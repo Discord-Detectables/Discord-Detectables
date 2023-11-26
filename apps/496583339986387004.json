@@ -1,0 +1,43 @@
+{
+    "description": "A spiritual sequel to the art-style changing game Evoland, Evoland II sends players through 2D, 3D and all the various bit-eras across turn-based and action RPGs fighting game, platformer and shoot 'em up genres.",
+    "developers": [
+        {
+            "id": "521816589570408450",
+            "name": "Shiro Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "evoland2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d04cf6143a32e8d10b9e469227a301ed",
+    "id": "496583339986387004",
+    "name": "Evoland 2",
+    "publishers": [
+        {
+            "id": "521816589570408450",
+            "name": "Shiro Games"
+        }
+    ],
+    "splash": "08274c11dcad6fc1fa9710b2160b1b86",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "359310",
+            "sku": "359310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c500ea68cf532e67d2fad1813df181cc5be34fe65e47b14ef7950fa5b0bcb991"
+}

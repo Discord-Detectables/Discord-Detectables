@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "one piece burning blood/opbb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f85fb41a1a37371bae50aa59fc18098c",
+    "id": "1124353541415391252",
+    "name": "ONE PIECE BURNING BLOOD",
+    "publishers": [
+        {
+            "id": "1124353083560968352",
+            "name": "Spike Chunsoft Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "425220",
+            "sku": "425220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fb3c0aad164cf5311188236ea2c5505d61cc0fb2be66f4d1d558195bb38076ee"
+}

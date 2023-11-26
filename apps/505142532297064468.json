@@ -1,0 +1,27 @@
+{
+    "aliases": [
+        "Magic the Gathering Arena"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mtga.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa51a2322c5a1678cb0442ae3c6b4a9f",
+    "id": "505142532297064468",
+    "name": "MTGArena",
+    "publishers": [
+        {
+            "id": "521816786321014825",
+            "name": "Wizards of the Coast"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "1f993d3b7c5ded8c534e4974dd72e1f2c923fb9ec971a5448772dbe0394a1bad"
+}

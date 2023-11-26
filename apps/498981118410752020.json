@@ -1,0 +1,43 @@
+{
+    "description": "Pixel Dungeon is a traditional roguelike for Android developed by Watabou, it draws inspiration from Brogue. A beta version of the game was released on October 12th 2012.",
+    "developers": [
+        {
+            "id": "521816540186935350",
+            "name": "Watabou"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pixel_dungeons.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "pixel dungeon/pd.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fdb60c01988f05c39dc42a7c6c77f127",
+    "id": "498981118410752020",
+    "name": "Pixel Dungeon",
+    "publishers": [
+        {
+            "id": "521816540186935349",
+            "name": "Retronic Games"
+        }
+    ],
+    "splash": "1eb2ba93cf8d3d62511d4fcb8a531a49",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "365900",
+            "sku": "365900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ad94b81c232687db5dcc291b349f6c8ac777881b3df3a7ab2fb9e4342d555bf5"
+}

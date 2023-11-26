@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the shrouded isle/theshroudedisle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f47c3025027b184b9af7ae6c42a80ef8",
+    "id": "1124356645493948466",
+    "name": "The Shrouded Isle",
+    "publishers": [
+        {
+            "id": "1124356645972095006",
+            "name": "Jongwoo Kim"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "501320",
+            "sku": "501320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c4105048e5a9ddcc19a781d2638246befd92c472c3f88a5132e7de2343102ded"
+}

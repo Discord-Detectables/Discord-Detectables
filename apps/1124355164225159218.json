@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "king arthur knight's tale/ka_kt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "912baa40cd008e8a643681e80936abf5",
+    "id": "1124355164225159218",
+    "name": "King Arthur: Knight's Tale",
+    "publishers": [
+        {
+            "id": "521816736274841640",
+            "name": "NeocoreGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1157390",
+            "sku": "1157390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fbbdbac17a86e99ee379ac9f868286cfdd66a31cece82637cacea15a9971674d"
+}

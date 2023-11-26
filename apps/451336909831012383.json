@@ -1,0 +1,42 @@
+{
+    "description": "The bombs are about to hit and there are only 60 seconds to get ready. Then it's time to manage food, water, and sanity from inside a bunker.",
+    "developers": [
+        {
+            "id": "521816551054376972",
+            "name": "Robot Gentleman Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "60seconds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2373b66b5bf3279b7d7ebfb236707e0d",
+    "id": "451336909831012383",
+    "name": "60 Seconds!",
+    "publishers": [
+        {
+            "id": "521816551054376971",
+            "name": "Robot Gentleman"
+        },
+        {
+            "id": "521816551054376972",
+            "name": "Robot Gentleman Studios"
+        }
+    ],
+    "splash": "33494a976312121df4b277c5fffbefe8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "368360",
+            "sku": "368360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8ac6463c6bf9ec66c6e752e817abdf9a652073f5b1dc250c32aea774411a0403"
+}

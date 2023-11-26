@@ -1,0 +1,43 @@
+{
+    "description": "A tarot card driven roguelike action role playing game, by Defiant Development from Brisbane, Australia.",
+    "developers": [
+        {
+            "id": "521816763839545354",
+            "name": "Defiant Development"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hand of fate.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e3d489da9547f1414ebd29c3612b1c8e",
+    "id": "496776430110113843",
+    "name": "Hand of Fate",
+    "publishers": [
+        {
+            "id": "521816763839545354",
+            "name": "Defiant Development"
+        }
+    ],
+    "splash": "e03666d0eac093e0edab632e7a304c13",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "266510",
+            "sku": "266510"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "3d5d874f715e4157ff5c925778d389612df09722f110c2d385ef393fb4dafa59"
+}

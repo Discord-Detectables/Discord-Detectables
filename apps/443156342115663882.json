@@ -1,0 +1,42 @@
+{
+    "description": "Return to the dark life of Jackie Estacado in The Darkness II, Digital Extremes' sequel to the 2007 shooter by Starbreeze.",
+    "developers": [
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darknessii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c35d95f9275d9910ed5a81b8b77b5a95",
+    "id": "443156342115663882",
+    "name": "The Darkness II",
+    "publishers": [
+        {
+            "id": "521816584612872203",
+            "name": "Digital Extremes"
+        },
+        {
+            "id": "521816504392482816",
+            "name": "2K Games"
+        }
+    ],
+    "splash": "0ff647dc12d6e88ead7a7e85bc28ece8",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "67370",
+            "sku": "67370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4c8bf32386892b51bb037492772cbf97a46fe260bfa8117de1d0af575fef93c9"
+}

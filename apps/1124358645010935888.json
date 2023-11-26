@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Hentai Girl Linda"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentaigirllinda/hentaigirllinda.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6ee9f30e9a8468307fd465f75582667",
+    "id": "1124358645010935888",
+    "name": "Hentai Girl Linda",
+    "publishers": [
+        {
+            "id": "1124357134092611684",
+            "name": "GirlGames"
+        },
+        {
+            "id": "1129504692599279726",
+            "name": "GirlGame"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "927890",
+            "sku": "927890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a3b4b82eaeb15ac5252e1b32ce9a880a1a3d7048349d16fd7a15e404c867ee27"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mad pack/mad pack.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3714feb1acdf780f98ab09f127448871",
+    "id": "1124360249114116156",
+    "name": "Mad Pack",
+    "publishers": [
+        {
+            "id": "1124360249642594395",
+            "name": "Liga Robotov"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1546280",
+            "sku": "1546280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8e6bc029febc934baae4770465f9ae79b6c52b9a5b9cac0829d551e2e10ffce1"
+}

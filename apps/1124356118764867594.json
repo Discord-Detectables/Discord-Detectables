@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "popup dungeon/popup dungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b3aad1dc99ef5a5708ac309fc959e041",
+    "id": "1124356118764867594",
+    "name": "Popup Dungeon",
+    "publishers": [
+        {
+            "id": "1124356119276568666",
+            "name": "Triple.B.Titles"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "349730",
+            "sku": "349730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c0845d26909bab12aaa72af626172a710ed8e8686844f931cbac9402c4084ad5"
+}

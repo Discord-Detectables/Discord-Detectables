@@ -1,0 +1,63 @@
+{
+    "aliases": [
+        "Darkfall Rise of Agon",
+        "Rise of Agon"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "c881aac74aa7082e605ff1ea22349188",
+    "description": "Rise of Agon is a fantasy MMORPG from Big Picture Games.",
+    "developers": [
+        {
+            "id": "521816761516163075",
+            "name": "Big Picture Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darkfall.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darkfall_roa.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darkfall roa/darkfall_roa.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "data/darkfall.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darkfall roa/data/darkfall.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darkfallroa/darkfall_roa.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 8429568,
+    "guild_id": "113215880963371008",
+    "hook": true,
+    "icon": "8f75321f16848965b2487382539cfcf1",
+    "id": "505498499043819520",
+    "name": "Rise of Agon",
+    "publishers": [
+        {
+            "id": "521816761516163075",
+            "name": "Big Picture Games"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "bb7c2c78e3f85b1ca4b7f2a2f39a8eefdc934bae1d855d7d3b7dc240ce49b26b"
+}

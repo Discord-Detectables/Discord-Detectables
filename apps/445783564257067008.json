@@ -1,0 +1,32 @@
+{
+    "description": "A vertical shooter",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "deep space waifu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6fdbf6e9c0fdaa1e5c0919e36c91f7b3",
+    "id": "445783564257067008",
+    "name": "DEEP SPACE WAIFU",
+    "publishers": [
+        {
+            "id": "521816704184090625",
+            "name": "Neko Climax Studios"
+        }
+    ],
+    "splash": "7d0b838c9644b52a53701629ae39d1de",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "639790",
+            "sku": "639790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2ff194b9086a8520e8ff5c5559e24324cf3f8ad25f21b9fcba14db251b190cc9"
+}

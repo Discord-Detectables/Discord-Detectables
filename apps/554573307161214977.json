@@ -1,0 +1,49 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "cover_image": "afcdc55df02219027c6041333470d7e3",
+    "description": "Warface is a free-to-play MMO first person shooter from the creators of Far Cry and Crysis. It is packed with cooperative and competitive action, a range of game modes and a wealth of weapons for you to get your hands on.",
+    "developers": [
+        {
+            "id": "586470256608804893",
+            "name": "MY.GAMES"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gamecenter/bin32release/game.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "warface/bin32release/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "309400144967761931",
+    "hook": true,
+    "icon": "afcdc55df02219027c6041333470d7e3",
+    "id": "554573307161214977",
+    "name": "Warface",
+    "primary_sku_id": "554573307161214977",
+    "publishers": [
+        {
+            "id": "586470256583770122",
+            "name": "MY.GAMES"
+        }
+    ],
+    "slug": "warface",
+    "splash": "7f74d5a9a8ccc7d41ef6e9f55f41e596",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "291480",
+            "sku": "291480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "67d74b53f6bf8c3b87c18ebc0008d8e15d64aa07ccb3563aafcc2d2a52d03331"
+}

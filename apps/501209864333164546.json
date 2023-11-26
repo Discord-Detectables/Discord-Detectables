@@ -1,0 +1,38 @@
+{
+    "description": "Darkwood is a horror game.",
+    "developers": [
+        {
+            "id": "521816577344012290",
+            "name": "Acid Wizard Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darkwood.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b455ab2677ba1e1624192694714f86da",
+    "id": "501209864333164546",
+    "name": "Darkwood",
+    "publishers": [
+        {
+            "id": "521816577344012290",
+            "name": "Acid Wizard Studio"
+        }
+    ],
+    "splash": "8c82f66e1a32fdc24a4f2075cf2fe978",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "274520",
+            "sku": "274520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "57c18164381ea55b26e741fddd3720344558fa2620ac4a09790007f6e1d4b8f6"
+}

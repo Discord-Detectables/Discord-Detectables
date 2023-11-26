@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/slopecrashershome-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7fc610a1230cc77c7f42c806d056f8c8",
+    "id": "1124358272628052029",
+    "name": "Slopecrashers Demo",
+    "publishers": [
+        {
+            "id": "1124358273093615746",
+            "name": "byteparrot"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1967270",
+            "sku": "1967270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "23f3cc82c864a095c5971d2a6cd971645a770128777db3db3b686b7e287b9a20"
+}

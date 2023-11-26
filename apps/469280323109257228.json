@@ -1,0 +1,46 @@
+{
+    "cover_image": "4e869bf3f740a0d9abf10dcdd09ed313",
+    "description": "Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op!",
+    "developers": [
+        {
+            "id": "521816587041505293",
+            "name": "Thunder Lotus Games "
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sundered.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7d0fb8c73bba4f6214a222be656b03d6",
+    "id": "469280323109257228",
+    "name": "Sundered",
+    "primary_sku_id": "471034342651592734",
+    "publishers": [
+        {
+            "id": "521816587041505293",
+            "name": "Thunder Lotus Games "
+        }
+    ],
+    "slug": "sundered",
+    "splash": "7321daa6c1290f2605c09b79da1e2c5e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471034342651592734",
+            "sku": "471034342651592734"
+        },
+        {
+            "distributor": "steam",
+            "id": "535480",
+            "sku": "535480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d07cbf97ea2b47e7196d78363adaba9c9cab096ec730b5a3cb9ced32dec91818"
+}

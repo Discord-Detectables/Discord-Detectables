@@ -1,0 +1,38 @@
+{
+    "description": "Play as The Expendables in this free platforming action game.",
+    "developers": [
+        {
+            "id": "521816734374559754",
+            "name": "Free Lives"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "expendabros.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a9f2601b34f762d8a777d24903b9fbaf",
+    "id": "446069736250277888",
+    "name": "The Expendabros",
+    "publishers": [
+        {
+            "id": "521816510730338331",
+            "name": "Devolver Digital"
+        }
+    ],
+    "splash": "6c2769cdd1b96a5b442cc7938aaf3f5e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "312990",
+            "sku": "312990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2b401a050b473856a85e6f6af01e7d47a8dad5e4b3984841f2ec77aef1e8666"
+}

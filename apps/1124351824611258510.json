@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "3d aim trainer/3dat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df4da560af08a06f9d4cb07774c9f2ef",
+    "id": "1124351824611258510",
+    "name": "3D Aim Trainer",
+    "publishers": [
+        {
+            "id": "1124351825131360356",
+            "name": "3D Aim Trainer"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1600530",
+            "sku": "1600530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a442ad3f68781819d77aaa0582fd66a9f95b1ac6754130b3747bcb82ea30aa9"
+}

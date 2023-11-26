@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/spookystation-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5c4e6bcf5bb7a1fdb8b33b4f4c89f6b0",
+    "id": "1124359186709491864",
+    "name": "Spooky Station",
+    "publishers": [
+        {
+            "id": "1124359187191844964",
+            "name": "Coletivo Vaca Roxa"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "700100",
+            "sku": "700100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3c44f99253c76ad2e6d17db3dd51555a07f50129360abf4a13f98672eb7488e8"
+}

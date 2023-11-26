@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mojo hanako/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f221eeae0e9d994b80ee20eb720b007f",
+    "id": "1124356894279094412",
+    "name": "Mojo: Hanako",
+    "publishers": [
+        {
+            "id": "1124352491715313684",
+            "name": "L. Stotch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "892630",
+            "sku": "892630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b4ae861df2739743104fb7680aa8c097b285176401be792a73de919ad6db5ec7"
+}

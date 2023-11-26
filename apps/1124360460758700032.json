@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mermaid vr/mermaidvr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "90687107b91d10df9af0c22410049530",
+    "id": "1124360460758700032",
+    "name": "Mermaid VR",
+    "publishers": [
+        {
+            "id": "1124360461220069527",
+            "name": "Mermaid VR Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "684380",
+            "sku": "684380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e17bc329358e126c99a3a21e92b50c1cb393a07c0701259ceab0a0013bdfa4f4"
+}

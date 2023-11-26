@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "super recoilfight/super recoilfight.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b692bc043d248a02230c83371ae4baa0",
+    "id": "1124359523482742824",
+    "name": "SUPER RECOILFIGHT",
+    "publishers": [
+        {
+            "id": "1124359523952513156",
+            "name": "OKSoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1063950",
+            "sku": "1063950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a8e16c75fad4c8fd421f0dbde56dc65be321693af8ef9e43cfefe49d344e300d"
+}

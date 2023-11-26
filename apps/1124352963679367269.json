@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "peglin demo/peglin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c2633dddb4f78e21113a1c3e07ec057d",
+    "id": "1124352963679367269",
+    "name": "Peglin Demo",
+    "publishers": [
+        {
+            "id": "1124352443543732294",
+            "name": "Red Nexus Games Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1326880",
+            "sku": "1326880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5795529744d2157ec797a9ee26c35d911a3f9df6396dcbf64632e411b3ff4488"
+}

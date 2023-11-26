@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "card shark demo/card_shark.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9904db220443cec0d9bb14cc9aba54c6",
+    "id": "1124359773727502447",
+    "name": "Card Shark Demo",
+    "publishers": [
+        {
+            "id": "521816800044777472",
+            "name": "Nerial"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1838940",
+            "sku": "1838940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2a2773b80ed0835ba0c0ab533f8eb303464ea161c46cc756bbea8534a0475a9a"
+}

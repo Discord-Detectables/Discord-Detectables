@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "swarm/swarm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "05ea36a1176bd2acdcf85d6aa85f9e2d",
+    "id": "1124360203849191444",
+    "name": "Swarm",
+    "publishers": [
+        {
+            "id": "1124352321908916275",
+            "name": "OKYO GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1311640",
+            "sku": "1311640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "738529b751bf78e3827344f05745a2c7dea8ffd756a9ddd87127c8027c937b33"
+}

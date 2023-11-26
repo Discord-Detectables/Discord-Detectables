@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "biohazard village z version/installermessage.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6af1897ad7297e54303827cda7d2ba91",
+    "id": "1124359485801119806",
+    "name": "BIOHAZARD VILLAGE Z Version",
+    "publishers": [
+        {
+            "id": "521816514106621968",
+            "name": "CAPCOM Co., Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1196600",
+            "sku": "1196600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e4fb83ca7ac4f6e3acabeb08668f671915b662ff549c9db2f05f521c8387e7a7"
+}

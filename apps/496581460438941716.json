@@ -1,0 +1,30 @@
+{
+    "description": "Entropia Universe is a sci-fi first person MMORPG that uses a \"real cash economy\" where players can exchange real money for in game currency.",
+    "developers": [
+        {
+            "id": "521816634562969630",
+            "name": "MindArk PE AB"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "entropia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "05a0225ccae7d4ae2e7f8325d1898d33",
+    "id": "496581460438941716",
+    "name": "Entropia Universe",
+    "publishers": [
+        {
+            "id": "521816634562969630",
+            "name": "MindArk PE AB"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "c482daa8363d416ca444f6988a413a79ba3658474b61a6700ce1cefba5c68b71"
+}

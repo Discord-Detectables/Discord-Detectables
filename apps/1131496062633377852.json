@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hundred days/hundred days - winemaking simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "774abdf5162261541f9a59f19f678fa4",
+    "id": "1131496062633377852",
+    "name": "Hundred Days",
+    "publishers": [
+        {
+            "id": "1131496063770054656",
+            "name": "Broken Arms Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1042380",
+            "sku": "1042380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c395552e71911ec08c96adbab464c165d971546d3f2d6f4f4cd654cee49a2760"
+}

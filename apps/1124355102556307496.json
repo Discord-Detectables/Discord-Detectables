@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the tiny bang story/ttbs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0bbbd2426c6c92b9dcca3da1f1524167",
+    "id": "1124355102556307496",
+    "name": "The Tiny Bang Story",
+    "publishers": [
+        {
+            "id": "524352101544099864",
+            "name": "Colibri Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "96000",
+            "sku": "96000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "14b5ddd5e537bd907038feba15f68686590111872584307ee81a94153d7d7da6"
+}

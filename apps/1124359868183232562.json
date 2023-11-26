@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/sycamore-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "875f76af48131ffab2d7ef6306aa3bb2",
+    "id": "1124359868183232562",
+    "name": "Sycamore Free",
+    "publishers": [
+        {
+            "id": "1124359868661379233",
+            "name": "[untitledDev]"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2199240",
+            "sku": "2199240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c32772cab15e32ad660422b0ffd77bf70bb17aa2ae75cc6550483c9073103378"
+}

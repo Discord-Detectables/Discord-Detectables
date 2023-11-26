@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cruelty squad/crueltysquad.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba47d2aa8c7f89ea01c52b4b1a9783f2",
+    "id": "1124353141228454028",
+    "name": "Cruelty Squad",
+    "publishers": [
+        {
+            "id": "1124353141744349295",
+            "name": "Consumer Softproducts"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1388770",
+            "sku": "1388770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3459fe19d507a22a29718779e79f72454861c6afc3168fe19a677a6b09dbaaf2"
+}

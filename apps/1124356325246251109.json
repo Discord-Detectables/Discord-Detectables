@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lust from beyond - prologue/lust from beyond - prologue.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bfbbf67827cf42ce35550cf2f6603226",
+    "id": "1124356325246251109",
+    "name": "Lust from Beyond: Prologue",
+    "publishers": [
+        {
+            "id": "1124355604299919410",
+            "name": "Movie Games Lunarium"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1170820",
+            "sku": "1170820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bde664a857e5c33b6d98a0fd37ab7d09617e7773e1ae24507af4c83c87ea1369"
+}

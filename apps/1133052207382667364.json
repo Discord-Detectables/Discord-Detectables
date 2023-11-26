@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cave crawlers/cave crawlers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5b559f44e2c33850f7eff522a3a14a15",
+    "id": "1133052207382667364",
+    "name": "Cave Crawlers",
+    "publishers": [
+        {
+            "id": "1133052208448012400",
+            "name": "Heroic Pyxel LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2143030",
+            "sku": "2143030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e9fbb46390ec1c0c53d9ac310d37ab4d1084b04d8c8f13b3cfcda7b0ab627b06"
+}

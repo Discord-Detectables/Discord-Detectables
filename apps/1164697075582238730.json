@@ -1,0 +1,29 @@
+{
+    "aliases": [
+        "FIFA 23"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fifa 23/fifa23.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ce2f8efc1597122180b42002b8c57972",
+    "id": "1164697075582238730",
+    "name": "FIFA 23",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "fe1ecdd00001250dc5f2c48d01dea4d11cbf5ec09bfe6ecd162fe17ed3cadd4b"
+}

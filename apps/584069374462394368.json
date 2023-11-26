@@ -1,0 +1,52 @@
+{
+    "aliases": [
+        "Staxel"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "staxel.steamlauncher.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "staxel.modmanager.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "staxel.client.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "584069374462394368",
+    "name": "Staxel",
+    "publishers": [
+        {
+            "id": "584069374982357013",
+            "name": "Plukit"
+        },
+        {
+            "id": "584069374982357013",
+            "name": "Plukit"
+        },
+        {
+            "id": "584069374982357013",
+            "name": "Plukit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "405710",
+            "sku": "405710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e7e6c0e2be36b66b3efbacab1e30c24e98d0120280e2aff048fa92de7385a49d"
+}

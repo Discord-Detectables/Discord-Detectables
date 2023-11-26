@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monopoly plus/monopoly.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e43f78e23f401b5b39fa25a595cf99c2",
+    "id": "1129504168961384519",
+    "name": "Monopoly Plus",
+    "publishers": [
+        {
+            "id": "524352320985759768",
+            "name": "Ubisoft Pune"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "562810",
+            "sku": "562810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "152cc12a7475f27892991aa2df6eb94d67a0aa98cb52798331c055c52511e487"
+}

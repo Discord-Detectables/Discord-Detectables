@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "circle empires multiplayer/circle empires rivals.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "656dbe3a197df8f3a591f81f3b0d6e77",
+    "id": "1124355637103579206",
+    "name": "Circle Empires Rivals",
+    "publishers": [
+        {
+            "id": "524353198404927489",
+            "name": "Luminous"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1100260",
+            "sku": "1100260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2dad4e1f7f3aa7a2f52effcf5aa830921cc728850fb11de809bf75150219c3ad"
+}

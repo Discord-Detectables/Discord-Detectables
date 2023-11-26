@@ -1,0 +1,38 @@
+{
+    "description": "A single-player and cooperative driving game that takes place throughout the United States, developed by Ivory Tower.",
+    "developers": [
+        {
+            "id": "521816510172233759",
+            "name": "Ubisoft Reflections"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thecrew.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1ff6b6d78f61296f48f8a23ace11dea5",
+    "id": "425439876939382804",
+    "name": "The Crew",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "1c8e4c58225aae51e8d0321ee47fe1ca",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "241560",
+            "sku": "241560"
+        }
+    ],
+    "type": 1,
+    "verify_key": "778c811b8393fb5382b0fe220270742d0c4a4bed53029973d9b8b795c7855dfa"
+}

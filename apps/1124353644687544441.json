@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows/jazzpunk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3e6966c4c842637499550a3199460be0",
+    "id": "1124353644687544441",
+    "name": "Jazzpunk: Director's Cut",
+    "publishers": [
+        {
+            "id": "524352254615093257",
+            "name": "Necrophone Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "250260",
+            "sku": "250260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c35e03d0775e84f35921df4b112546bea3f11f4f2a2bb7debf597b556be40739"
+}

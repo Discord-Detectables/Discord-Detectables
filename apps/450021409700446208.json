@@ -1,0 +1,36 @@
+{
+    "description": "A Half-Life 2 co-operative mod created on the Source Engine.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "synergy.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "534264ce3efad15b8214ce721eb9e57b",
+    "id": "450021409700446208",
+    "name": "Synergy",
+    "publishers": [
+        {
+            "id": "521816530393104394",
+            "name": "Valve Corporation"
+        },
+        {
+            "id": "521816731153596450",
+            "name": "Synergy Team"
+        }
+    ],
+    "splash": "63b229c9c83842367866b8726fd261aa",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "17520",
+            "sku": "17520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0eb0d22ba0f08a29d1363d1269567f517f770616bf63996e6f4fe9ac0ca1be0e"
+}

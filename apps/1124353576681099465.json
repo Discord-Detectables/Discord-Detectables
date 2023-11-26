@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ratropolis/ratropolis.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6a36bcb337e2824c56e77d5dcf35308",
+    "id": "1124353576681099465",
+    "name": "Ratropolis",
+    "publishers": [
+        {
+            "id": "1124353577129885749",
+            "name": "Cassel Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1108370",
+            "sku": "1108370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a6401a83af094b86065d9e4e2e66883dd9d2d82390d1a8af945a90d19d9085c6"
+}

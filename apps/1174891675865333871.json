@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "slime 3k/slime3k.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db3225360b2922b56c26c3b30e53dd9f",
+    "id": "1174891675865333871",
+    "name": "Slime 3K: Rise Against Despot",
+    "publishers": [
+        {
+            "id": "524353267698761729",
+            "name": "Konfa Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2348610",
+            "sku": "2348610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0312a09604d2bc988272635d600e47939f2e7efe8f73a663029d5e594ef622f1"
+}

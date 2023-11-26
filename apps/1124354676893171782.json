@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "duskers/duskers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b95ac65c63e0ac08518ff077769bc782",
+    "id": "1124354676893171782",
+    "name": "Duskers",
+    "publishers": [
+        {
+            "id": "524352143168110606",
+            "name": "Misfits Attic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "254320",
+            "sku": "254320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "dcfdf0fafdbaf9fc3b8271b305d5d5d1127e32fad9b21b1adb9f95b57e869f7e"
+}

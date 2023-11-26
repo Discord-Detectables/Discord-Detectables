@@ -1,0 +1,82 @@
+{
+    "aliases": [
+        "Tom Clancy's Rainbow Six Siege",
+        "Tom Clancy's Rainbow Six? Siege"
+    ],
+    "description": "A first-person tactical shooter developed by Ubisoft Montreal Studios. In this installment of the Rainbow Six series, some players are focused on assault where as others are defense-oriented.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rainbowsix_be.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "rainbowsixgame.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "rainbowsix.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tom clancy's rainbow six siege/rainbowsix.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tom clancy's rainbow six siege/rainbowsix_vulkan.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "253581140072464384",
+    "hook": true,
+    "icon": "554af7ef210877b5f04fd1b727a3746e",
+    "id": "356876590342340608",
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "overlay": true,
+    "overlay_compatibility_hook": true,
+    "publishers": [
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        },
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        },
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        },
+        {
+            "id": "521816654095843331",
+            "name": "Ubisoft Montreal"
+        }
+    ],
+    "splash": "028fe9a1748d259872a0dfa49eb818f2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "uplay",
+            "id": "635",
+            "sku": "635"
+        },
+        {
+            "distributor": "steam",
+            "id": "359550",
+            "sku": "359550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e789af8b6c60e822fe7840efce3e9d832f08d1a7db7eb80ad36a282b95326813"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cake bash demo/cakebash_win64_steam.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d75a2fab9f1bb7918a53dacd6f11cde1",
+    "id": "1124357889935552562",
+    "name": "Cake Bash Demo",
+    "publishers": [
+        {
+            "id": "1124357890413711394",
+            "name": "High Tea Frog"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1312710",
+            "sku": "1312710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4013edc8cc04ab0e71747e00daf86aacc77cbcad66b58bcaf44f1f8cc5d30d2"
+}

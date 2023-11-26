@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farmer's life/farmerslife.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6ebce7fdec023a176d3f963447a8305c",
+    "id": "1133912097483407410",
+    "name": "Farmer's Life",
+    "publishers": [
+        {
+            "id": "1124354395207909436",
+            "name": "FreeMind S.A."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1137750",
+            "sku": "1137750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "013f9e8adf5e5003cd62baa4dd11ed5cf239da4c11ca2c15bb6b5d59c1e93fdb"
+}

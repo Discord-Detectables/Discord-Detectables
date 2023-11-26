@@ -1,0 +1,38 @@
+{
+    "description": "An open world hunting game.",
+    "developers": [
+        {
+            "id": "521816747477827597",
+            "name": "Expansive Worlds"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "thehuntercotw_f.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "42e141fe13263c491a1fbea6b093f820",
+    "id": "406646161563189258",
+    "name": "theHunter™: Call of the Wild",
+    "publishers": [
+        {
+            "id": "521816537192202241",
+            "name": "Avalanche Studios"
+        }
+    ],
+    "splash": "4c5aa88f5d25fcd7eba6bd0dbd9c06c1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "518790",
+            "sku": "518790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f09201e0798b0c3ad9c91e9280afb5fa6e9e7900ab472da53a18c74a743f4700"
+}

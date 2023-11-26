@@ -1,0 +1,74 @@
+{
+    "aliases": [
+        "The Binding of Isaac: Rebirth"
+    ],
+    "description": "An enhanced remake of the original Binding of Isaac that features expanded gameplay, pixel art visuals, and a variety of other new additions - including full controller support and local asymmetric co-op.",
+    "developers": [
+        {
+            "id": "521816770160492564",
+            "name": "Nicalis, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the binding of isaac rebirth.app",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "roomeditor/roomeditor.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "isaacitempooleditor/itempooleditor.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "isaacanimationeditor/isaacanimationeditor.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "isaac-ng.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1a139909cb5344dee95688dfedf728d8",
+    "id": "358420454764969994",
+    "name": "The Binding of Isaac: Rebirth",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816770160492564",
+            "name": "Nicalis, Inc."
+        },
+        {
+            "id": "521816770160492564",
+            "name": "Nicalis, Inc."
+        },
+        {
+            "id": "521816770160492564",
+            "name": "Nicalis, Inc."
+        },
+        {
+            "id": "521816770160492564",
+            "name": "Nicalis, Inc."
+        }
+    ],
+    "splash": "8f4c6a58ab9bb909df9b42cee8934dff",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "250900",
+            "sku": "250900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "79da3763c499aeac8a7bcccf8292f036cb914b1fc84c07e62ba024c619db1da9"
+}

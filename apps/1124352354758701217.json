@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/frostrunner-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9aaa3ab35fbf19ee484a6dff7b4f36c",
+    "id": "1124352354758701217",
+    "name": "FrostRunner",
+    "publishers": [
+        {
+            "id": "1124352355236860015",
+            "name": "Think Arcade"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "934840",
+            "sku": "934840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54cf2361dd342f3519781ccfb659ba0faef2cbb979ee94b9371cdc5fc5a8523d"
+}

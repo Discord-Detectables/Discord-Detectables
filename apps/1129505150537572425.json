@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Булочный Магнат: Начало"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bakery magnate/bakery magnate.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "64f69364c4067ace0b51a2f6503e5749",
+    "id": "1129505150537572425",
+    "name": "Bakery Magnate: Beginning",
+    "publishers": [
+        {
+            "id": "1129505151602937946",
+            "name": "GidAzGames"
+        },
+        {
+            "id": "1129505151602937946",
+            "name": "GidAzGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1373780",
+            "sku": "1373780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a72168ed945f643f7f705acf1d05125dab23b9f35870dbc6454893926bc11834"
+}

@@ -1,0 +1,41 @@
+{
+    "description": "Get ready for the ultimate brawl! Dungeon Fighter Online is a classic beat'em up 2D action game with an epic storyline and RPG elements! Join today for free! ",
+    "developers": [
+        {
+            "id": "521816517512265759",
+            "name": "Neople"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dfo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "563256280521768962",
+    "hook": true,
+    "icon": "cc272cdb29d37411344592ff13833de6",
+    "id": "496579303631486976",
+    "name": "Dungeon Fighter Online",
+    "primary_sku_id": "496579303631486976",
+    "publishers": [
+        {
+            "id": "521816517512265759",
+            "name": "Neople"
+        }
+    ],
+    "slug": "dungeon-fighter-online",
+    "splash": "85e24d3013fdc7cfeffcf7f9c93be1e3",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "495910",
+            "sku": "495910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "41ccceee7b184c8411f984322d9be5bf9cbd6ae611a19bebe162dcd288f4e015"
+}

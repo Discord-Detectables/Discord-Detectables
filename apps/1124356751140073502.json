@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "railroad tycoon 2 platinum/rt2_plat.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b8d78b8c6f710b86257a0c7923f3a609",
+    "id": "1124356751140073502",
+    "name": "Railroad Tycoon 2: Platinum",
+    "publishers": [
+        {
+            "id": "1124356504678584340",
+            "name": "PopTop"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "7620",
+            "sku": "7620"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6ca23e1d01db5c031727e2755a7b9df39392b88e128500afa4a831609d7914f8"
+}

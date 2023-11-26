@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "neptunia u/neptunia.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6e34be1715c5f81bb7f3575ce5b8db05",
+    "id": "1124356772174512199",
+    "name": "Hyperdimension Neptunia U: Action Unleashed",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "387340",
+            "sku": "387340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59bc4bbbe1acdf845ad03e80db8b81f6a3eca6b6abbbf937ba640a31ce9e0ca4"
+}

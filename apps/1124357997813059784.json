@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "he needs his medicine/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa885e7566e8ba4e9c8f370ea2569c9b",
+    "id": "1124357997813059784",
+    "name": "He Needs His Medicine",
+    "publishers": [
+        {
+            "id": "1124354923673436191",
+            "name": "Euphoric Brothers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1590360",
+            "sku": "1590360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "44dd5808ff866a0645e696c9e14864a19b0877e21379003163ffab5227398168"
+}

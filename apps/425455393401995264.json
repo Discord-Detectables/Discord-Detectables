@@ -1,0 +1,38 @@
+{
+    "description": "Adventure game developed by Daedalic Entertainment.",
+    "developers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the pillars of the earth/pillars.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "545f36d1485a22c8864046ee483ab245",
+    "id": "425455393401995264",
+    "name": "Ken Follett's The Pillars of the Earth",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "splash": "fc32b82ace18dceefe00120343177085",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "234270",
+            "sku": "234270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a58b4eebd1ec5b1c8d4b584d9c1d83cb4c18062487ad3c81852b8b802e076f35"
+}

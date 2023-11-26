@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/blacktail-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f61e30da4329a0d9ff10df6910d4342",
+    "id": "1135634231628935220",
+    "name": "BLACKTAIL",
+    "publishers": [
+        {
+            "id": "1135634233151455353",
+            "name": "THE PARASIGHT"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1532690",
+            "sku": "1532690"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ca9002c62f195ee09f5e3eeb55538964bbc886354b11241fbf27f0d41aa82540"
+}

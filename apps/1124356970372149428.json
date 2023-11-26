@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "electrician simulator/electrician.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "741c15a58c581aac7602a329898ac3cd",
+    "id": "1124356970372149428",
+    "name": "Electrician Simulator",
+    "publishers": [
+        {
+            "id": "1124352776982511687",
+            "name": "Take IT Studio!"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1080020",
+            "sku": "1080020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "21d13c4003a5424d03ee6c47cb4ad882aa0d2eb84b172d4aa6face9f51efd442"
+}

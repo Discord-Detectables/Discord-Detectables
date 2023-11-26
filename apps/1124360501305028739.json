@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/faultms1.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1558706e58b5ee2856cd5d5fc0f86c6",
+    "id": "1124360501305028739",
+    "name": "fault - milestone one",
+    "publishers": [
+        {
+            "id": "524352405912158211",
+            "name": "ALICE IN DISSONANCE"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "286260",
+            "sku": "286260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f926cad73c66d76b93f90e7beb2a40d1595d3917938ac40eea0b7c369d7fa56c"
+}

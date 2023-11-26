@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "quickie a love hotel story/quickie a love hotel story.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a8c1c1300c97c09f0db0c44751d611bc",
+    "id": "1124358939258142922",
+    "name": "Quickie: A Love Hotel Story",
+    "publishers": [
+        {
+            "id": "1124358939748872253",
+            "name": "Oppai Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1517850",
+            "sku": "1517850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "401deaf8f4a60fb0f0aa6835839828d100d2e0edd8e5ba151286626c7ec59d96"
+}

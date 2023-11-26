@@ -1,0 +1,38 @@
+{
+    "description": "Lock's Quest is a tower defense game for the NDS from 5th Cell Media, featuring real-time strategy, RPG and action game mechanics.",
+    "developers": [
+        {
+            "id": "521816570029146112",
+            "name": "5th Cell Media"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "locksquest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4b244a0c8c5f6d0fc44b10cbe3ea258f",
+    "id": "425456670362042368",
+    "name": "Lock's Quest",
+    "publishers": [
+        {
+            "id": "521816550596935692",
+            "name": "THQ"
+        }
+    ],
+    "splash": "85f405727a265696ecb5dd121c3f9b32",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "490080",
+            "sku": "490080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d4e5eec907e77a224fd33a554f6c8eb60d1ded80e96508b0622094593510684"
+}

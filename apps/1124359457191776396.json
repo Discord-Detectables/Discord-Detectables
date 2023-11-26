@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the ranger lost tribe/the ranger lost tribe demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cf2946037f68669bb68afb76c9d63ffe",
+    "id": "1124359457191776396",
+    "name": "The Ranger: Lost Tribe",
+    "publishers": [
+        {
+            "id": "1124359457707671693",
+            "name": "Leiting Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "673070",
+            "sku": "673070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eafb744f31f8ae051c8328ce61cd20f5be4111632a725144b9e88543a948d680"
+}

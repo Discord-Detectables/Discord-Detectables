@@ -1,0 +1,46 @@
+{
+    "aliases": [
+        "VA-11 Hall-A"
+    ],
+    "description": "A cyberpunk bar tending simulator in which players interact with a bunch of alcohol-deprived characters in a dystopian setting.",
+    "developers": [
+        {
+            "id": "521816545433878548",
+            "name": "Sukeban Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "va-11 hall-a/runner\"",
+            "os": "linux"
+        },
+        {
+            "is_launcher": false,
+            "name": "va-11 hall a.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db5c064c0d8d4991bad142350df7647c",
+    "id": "505520072870199335",
+    "name": "VA-11 HALL-A",
+    "publishers": [
+        {
+            "id": "521816544939081739",
+            "name": "Ysbryd Games"
+        }
+    ],
+    "splash": "942054f155ee7bdffe566744d6a67b13",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "447530",
+            "sku": "447530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6323a032de38e5b85a4c80c43de1bb0db161fab11c0eddb8a0e64a4ca2417f41"
+}

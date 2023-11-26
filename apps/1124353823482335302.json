@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wtl/wtl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2ebfb1a488cc00688129ce5ea038fec7",
+    "id": "1124353823482335302",
+    "name": "while True: learn()",
+    "publishers": [
+        {
+            "id": "524353130905731137",
+            "name": "Luden.io"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "619150",
+            "sku": "619150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "420ee8691621247076579773408bc11e01d05a85923e4c8bbe850d0520ee9c35"
+}

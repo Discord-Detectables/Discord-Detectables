@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gorebox/gorebox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f00b6e0930771c66502332a39ab5a205",
+    "id": "1134365980630458378",
+    "name": "GoreBox",
+    "publishers": [
+        {
+            "id": "1134365987769172018",
+            "name": "Felix Filip"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2027330",
+            "sku": "2027330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bba04f7d0debd6b3fb82a645605b5b726c0937cdda5d0f6afb9f34bb1a9b662e"
+}

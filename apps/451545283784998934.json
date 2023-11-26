@@ -1,0 +1,38 @@
+{
+    "description": "Atlas Reactor is a competitive team tactic, simultaneous turn-based multiplayer game. Two teams of four players choose heroes to battle in small arenas in death-match and objective based games.",
+    "developers": [
+        {
+            "id": "521816577876951040",
+            "name": "Trion Worlds"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "atlas reactor/glyphclientapp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e3dcd3c5b6edf66a238fe2803b140270",
+    "id": "451545283784998934",
+    "name": "Atlas Reactor",
+    "publishers": [
+        {
+            "id": "521816577876951040",
+            "name": "Trion Worlds"
+        }
+    ],
+    "splash": "966dfb22f6860bfdce7e54730abdb8c7",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "402570",
+            "sku": "402570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "085e49233bb65676b02f4904e31f89e37ee646a81ba989e9cae33a7c0eea45c2"
+}

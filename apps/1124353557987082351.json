@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/kinoko-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ccee1618fb2bdf51b36b12a8e83358e0",
+    "id": "1124353557987082351",
+    "name": "Kinoko",
+    "publishers": [
+        {
+            "id": "1124353558507171861",
+            "name": "ThunderLime"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1059120",
+            "sku": "1059120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1316aca882dcb2c85a0e29e3ecc817bcf0b1bd4ed81e9ba511eac08ee5ea3a37"
+}

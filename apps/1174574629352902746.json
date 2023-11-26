@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sim companies/sim companies.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "98035e3844afbaaab02a4919df2059df",
+    "id": "1174574629352902746",
+    "name": "Sim Companies",
+    "publishers": [
+        {
+            "id": "1174574638525857795",
+            "name": "Sim Companies s.r.o."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2253720",
+            "sku": "2253720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91cb2f34978c708a363329c210fe1c000df7ef7feaf951ebdc84f4c387498654"
+}

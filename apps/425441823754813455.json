@@ -1,0 +1,38 @@
+{
+    "description": "Upcoming ARPG that is currently available on Steam Early Access.",
+    "developers": [
+        {
+            "id": "521816562068488199",
+            "name": "Wolcen Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wolcen.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc15f7d390521838adfd27992999e027",
+    "id": "425441823754813455",
+    "name": "Wolcen: Lords of Mayhem",
+    "publishers": [
+        {
+            "id": "521816562068488199",
+            "name": "Wolcen Studio"
+        }
+    ],
+    "splash": "a8b6240a51708e2409e5cc9f22d908b2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "424370",
+            "sku": "424370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7b4248e07356dcf3127f58e5237c3e009092bcf575e4cccde29e66be66decbfe"
+}

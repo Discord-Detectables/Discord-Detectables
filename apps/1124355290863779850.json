@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rollerchampions/roller.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f636d5d2066695047932fffadc648480",
+    "id": "1124355290863779850",
+    "name": "Roller Champions™",
+    "publishers": [
+        {
+            "id": "521816510730338325",
+            "name": "Ubisoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2211280",
+            "sku": "2211280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7f627aee258c59e4e3b770e850e4dcb44ad9472cf8f2db0da553d95ed675dab3"
+}

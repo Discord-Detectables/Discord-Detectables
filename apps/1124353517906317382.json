@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bear and breakfast/bearandbreakfast.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9b206be22cd41b2c8c0507c3f62c6e2",
+    "id": "1124353517906317382",
+    "name": "Bear and Breakfast",
+    "publishers": [
+        {
+            "id": "1124353518405435413",
+            "name": "Gummy Cat"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1136370",
+            "sku": "1136370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6cbde75b70bfa7d45953bb8c4320461cd31f3a163cdff0e0640e187d02a8e8a5"
+}

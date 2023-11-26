@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/shinessgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "feeef85f89e50a24a495b449103fc919",
+    "id": "1124359824600223875",
+    "name": "Shiness: The Lightning Kingdom",
+    "publishers": [
+        {
+            "id": "524352651559829510",
+            "name": "Enigami"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "366640",
+            "sku": "366640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "79c156832a68a4b10080d08a9349f7b362cd28da6c0f0298e0edad07c80b9a56"
+}

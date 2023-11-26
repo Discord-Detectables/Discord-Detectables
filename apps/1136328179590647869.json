@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/f1manager23.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b9fdfd8302581170b6e35509dcad9355",
+    "id": "1136328179590647869",
+    "name": "F1® Manager 2023",
+    "publishers": [
+        {
+            "id": "521816604175106059",
+            "name": "Frontier Developments"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2287220",
+            "sku": "2287220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "18b55d57d2f4d59199f951bcdc8098b7a2f6b60a05a09765c457a8ad1183f9f7"
+}

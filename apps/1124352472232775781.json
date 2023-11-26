@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ruined king/ruinedking.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e66028fd7384f398c2673409145dcc22",
+    "id": "1124352472232775781",
+    "name": "Ruined King: A League of Legends Story™",
+    "publishers": [
+        {
+            "id": "521816653646790670",
+            "name": "Airship Syndicate"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1276790",
+            "sku": "1276790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1c5f95e13e9ebc864d5b6bf3756d60ffe171cc09ab248551c7cf69e485e3a679"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "exec/sonic forces.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "56479eb262629bae630e9cef13118c39",
+    "id": "1124353450008920234",
+    "name": "Sonic Forces",
+    "publishers": [
+        {
+            "id": "521816507676885013",
+            "name": "Sonic Team"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "637100",
+            "sku": "637100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5356158358c6add2373d0713e7c75809381ac3285dcf1f91d3f5e40fe9ec5448"
+}

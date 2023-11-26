@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Ori And The Blind Forest: Definitive Edition",
+        "Ori and the Blind Forest"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ori.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "oride.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a3b78d910a0b76981ed977437ebc970c",
+    "id": "425440642173239296",
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "publishers": [
+        {
+            "id": "521816682684088330",
+            "name": "Moon Studios GmbH"
+        }
+    ],
+    "splash": "a8a193d8cd3b093118594bfc6a16c747",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "387290",
+            "sku": "387290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "70a1516b9d1d643e3e274ef67b343f8dc28a791b0e5bdc6c8bf2ac7359079d76"
+}

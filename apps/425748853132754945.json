@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Total War: Attila"
+    ],
+    "description": "The latest installment in the long running Total War series.",
+    "developers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "attila.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "599331370e277b2f3c0c4d0063900f50",
+    "id": "425748853132754945",
+    "name": "Total War: ATTILA",
+    "publishers": [
+        {
+            "id": "521816568473059338",
+            "name": "Creative Assembly"
+        },
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "325610",
+            "sku": "325610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0c1a756750835dce5be1ba7e35ea2b3d14e87c1838c4010587482334d28c6d49"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "From German developer Daedalic Entertainment, The Dark Eye: Chains of Satinav is a point-and-click adventure game set in the fantasy world of Aventuria. A murder of crows besieges the castle of Andergast, and its king employs a young birdcatcher, Geron. His task will not be simple, as darkness lurks.",
+    "developers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "satinav.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "62db70840229dc811a4267610a922ba5",
+    "id": "425455537803755530",
+    "name": "The Dark Eye: Chains of Satinav",
+    "publishers": [
+        {
+            "id": "521816524403638274",
+            "name": "Deep Silver"
+        }
+    ],
+    "splash": "67d2c0c7848a4e7fa37ca1df8577d249",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "203830",
+            "sku": "203830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8005e6a7f019c4a9047dd46cc2ce1ff5cd9aa7700bf26117766c0ef32e4925b7"
+}

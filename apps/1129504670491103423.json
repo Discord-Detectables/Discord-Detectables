@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Pixel Studio - best pixel art editor",
+        "Pixel Studio for pixel art"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pixel studio/pixel studio.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "59896035e8a4749a63a5926e202e969c",
+    "id": "1129504670491103423",
+    "name": "Pixel Studio for pixel art",
+    "publishers": [
+        {
+            "id": "1129504671254462504",
+            "name": "Hippo Games"
+        },
+        {
+            "id": "1129504673439686676",
+            "name": "Oleg Mekekechko"
+        },
+        {
+            "id": "1129504671254462504",
+            "name": "Hippo Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1204050",
+            "sku": "1204050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d401b4cfdb7ba0d523b4282f11cab6fa6429caa43f0ddee2040bb5e3dc14c637"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "momotype-2.1-market/momotype.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d212245dc4942f00d79500555857ed8e",
+    "id": "1124358356765786143",
+    "name": "Momotype",
+    "publishers": [
+        {
+            "id": "1124358357248127116",
+            "name": "Rimatoad"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1822190",
+            "sku": "1822190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51dee65f76c6fa9e15c96dab184ee85c4a05877a2d767698f81500af6d7de6c3"
+}

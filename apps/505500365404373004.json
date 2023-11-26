@@ -1,0 +1,30 @@
+{
+    "description": "A sequel to the 2010 kart racer featuring Sega mascots driving vehicles that adapt to land, sea and air.",
+    "developers": [
+        {
+            "id": "521816726996779018",
+            "name": "Sumo Digital Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "asn_app_pcdx9_final.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a3b2113053a33b4030a00263d49670b8",
+    "id": "505500365404373004",
+    "name": "Sonic & All Stars Racing Transformed",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "7b81a1885f6b901010d6edbb818807c20efad47d5ef08f3804fe7c50947f7035"
+}

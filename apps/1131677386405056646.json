@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "football manager 2019 demo/fm.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0f3aa3a7fb7f95cc8db8ddd9da44fc74",
+    "id": "1131677386405056646",
+    "name": "Football Manager 2019 Demo",
+    "publishers": [
+        {
+            "id": "521816521731735569",
+            "name": "Sports Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "872860",
+            "sku": "872860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5230a452d3301d817a816d1a28ff3366d38f9c5aa8edaa72e4ea9ee9aff19f29"
+}

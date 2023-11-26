@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "webbed/webbed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa31563686eb55df120b5fd7990d9b84",
+    "id": "1124352576125681704",
+    "name": "Webbed",
+    "publishers": [
+        {
+            "id": "1124352576637382737",
+            "name": "Sbug Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1390350",
+            "sku": "1390350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "75c268f87b92d7f8bd6dd63122c491c241eb63e04fe491b08a41f0b5e27f54ac"
+}

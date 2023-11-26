@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windward/windward.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab0fa93cf4b5e21cdc0985e5cdc9cf13",
+    "id": "1124354819067490408",
+    "name": "Windward",
+    "publishers": [
+        {
+            "id": "555923368340357142",
+            "name": "Tasharen Entertainment Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "326410",
+            "sku": "326410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "91670768a5719ea8b3a0e68b00c5f4aa17c871fb14d3ec64ca0cdfd202d243ed"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grow defense/grow defense.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ea2f4f7413672452d2d3355e269f374b",
+    "id": "1124354571792306197",
+    "name": "Grow Defense",
+    "publishers": [
+        {
+            "id": "1124354572345950320",
+            "name": "SoftCowGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1083600",
+            "sku": "1083600"
+        }
+    ],
+    "type": 1,
+    "verify_key": "380856db78b0dfb74fcb17485916f3651c57d0503552c5d9291a6b01c9cb7ae6"
+}

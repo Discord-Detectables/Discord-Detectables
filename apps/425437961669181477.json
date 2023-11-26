@@ -1,0 +1,38 @@
+{
+    "description": "The sequel to the original Far Cry dispenses with Jack Carver, and moves the action to a war-consumed Africa complete with an open-ended storyline involving civil war, several hours of missions, heated gunplay, and a slew of dynamic elements powered by a new engine.",
+    "developers": [
+        {
+            "id": "521816502500982842",
+            "name": "Ubisoft Montreal Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farcry2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ab895e7c1160b13f05056d44142a1c27",
+    "id": "425437961669181477",
+    "name": "Far Cry 2",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "146f03c2cf904500a86bff3b34e150f1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "19900",
+            "sku": "19900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b543876ab1538a56b3cd883d716c922532d866e2d12d0f3a06e6aa03e2b8f68a"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Transport Fever is the spiritual successor to Train Fever. Build stations, airports and harbors and try to make a transport empire.",
+    "developers": [
+        {
+            "id": "521816774086230043",
+            "name": "Urban Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "transportfever.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bf37393d41aef42dd360fbf6ab9a10a3",
+    "id": "460542812124086272",
+    "name": "Transport Fever",
+    "publishers": [
+        {
+            "id": "521816530866929705",
+            "name": "Good Shepherd Entertainment"
+        }
+    ],
+    "splash": "300a3a251a12c6542055e57f2f44f44e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "446800",
+            "sku": "446800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e66d6ae0248ac3d949bf39dbf866604463674db1458b4aeae2669634bd95290"
+}

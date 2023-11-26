@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/phantomabyss-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "20a62830a5335136bc4de4cce38bc67b",
+    "id": "1124355830356127744",
+    "name": "Phantom Abyss",
+    "publishers": [
+        {
+            "id": "1124355830863646741",
+            "name": "Team WIBY"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "989440",
+            "sku": "989440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e7414500faf8d0223c82d16e020e1d4deeb629cbe7838249e40722d008a608fa"
+}

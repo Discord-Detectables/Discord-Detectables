@@ -1,0 +1,32 @@
+{
+    "description": "Art of War: Red Tides is a MOBA meets RTS. Its beta just released on Steam.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "artofwar/game/u1game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1bc1c9be1aa1bb8fb5dacb44d786221",
+    "id": "495889089703444481",
+    "name": "Art of War: Red Tides",
+    "publishers": [
+        {
+            "id": "521816673422934017",
+            "name": "Game Science"
+        }
+    ],
+    "splash": "336270c8bb9f447c9b7e73317dcbe9d2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "558100",
+            "sku": "558100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f879de65336c5d50872dce237a7f912e12c41574b1b87785615b0b21a55a7d2e"
+}

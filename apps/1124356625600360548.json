@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monster roadtrip demo/monsterroadtripdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e2d28ee891ab2043b1b3b7207229c430",
+    "id": "1124356625600360548",
+    "name": "Monster Prom 3: Monster Roadtrip Demo",
+    "publishers": [
+        {
+            "id": "521816560051159043",
+            "name": "Beautiful Glitch"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1966250",
+            "sku": "1966250"
+        }
+    ],
+    "type": 1,
+    "verify_key": "532dde7744ba62f2c6c0eb510bc13ed29074163076626e141e0e97c36edf1d92"
+}

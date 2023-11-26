@@ -1,0 +1,30 @@
+{
+    "description": "The Horizon Festival goes to Australia.",
+    "developers": [
+        {
+            "id": "521816775248183306",
+            "name": "Playground Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "forza_x64_release_final.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0669d06865047303c201c20a3825ef81",
+    "id": "496760939052269583",
+    "name": "Forza Horizon 3",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "70148e7680a40410eb67fe040a86939757022e7d7a16278e1cef9c30a586d305"
+}

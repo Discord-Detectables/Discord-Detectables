@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "half-life 2 downfall/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "da8185bfae06d78ad094edf6589f4e76",
+    "id": "1124355583714279544",
+    "name": "Half-Life 2: DownFall",
+    "publishers": [
+        {
+            "id": "1124355584150483104",
+            "name": "marnamai"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "587650",
+            "sku": "587650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26a29d2e66e87a3a3b84cacd9de7b95f17f7185c1339af9559b488a11b0da102"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gloria victis siege/siegesurvival.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0379c328253ec84e5f930dea612c3893",
+    "id": "1124357066631426139",
+    "name": "Siege Survival: Gloria Victis",
+    "publishers": [
+        {
+            "id": "1124352970797101117",
+            "name": "Black Eye Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1167140",
+            "sku": "1167140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3822aa51121363a65a6e5abebd01ea22d1c41298ef00b38f320ac285c9c4aeb1"
+}

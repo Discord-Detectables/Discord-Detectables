@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "my lovely daughter/my lovely daughter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b3119b94a6af62d60482ed5f6582f692",
+    "id": "1124359841977217184",
+    "name": "My Lovely Daughter",
+    "publishers": [
+        {
+            "id": "524352737710833677",
+            "name": "GameChanger Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "580170",
+            "sku": "580170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "156e776817a6bebde0c271a3d520611f2535bc97e99545b0c6453d97a90669f5"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Relic Hunters Zero is an free open-source shooter where players battle it out with evil space ducks and turtles.",
+    "developers": [
+        {
+            "id": "521816532288798735",
+            "name": "Rogue Snail"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "relichunterszero.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff1edfd467d380535e6529a6a5ab367b",
+    "id": "451546725606359050",
+    "name": "Relic Hunters Zero",
+    "publishers": [
+        {
+            "id": "521816532288798735",
+            "name": "Rogue Snail"
+        }
+    ],
+    "splash": "cd8159b9d38fbeee36da5e56822adcc5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "382490",
+            "sku": "382490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ce3bc9d24c427457f4786398cd8573c391e155f47f06353e48c7776b15573c89"
+}

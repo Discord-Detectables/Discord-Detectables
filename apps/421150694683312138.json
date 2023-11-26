@@ -1,0 +1,42 @@
+{
+    "description": "Become a new member of the school's Literature Club in this cute game! Make friends with each of the sweet club members and write poems to increase your bond with them. Will you write the way into her heart?",
+    "developers": [
+        {
+            "id": "521816701319249950",
+            "name": "Team Salvato"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "doki doki literature club.app",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "ddlc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "58293873b0378f8ee427d3015c514e43",
+    "id": "421150694683312138",
+    "name": "Doki Doki Literature Club",
+    "publishers": [
+        {
+            "id": "521816701319249950",
+            "name": "Team Salvato"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "698780",
+            "sku": "698780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5be030585acf8d0e4a96d5fa88cd5b9e9c0c998d88faca859a48951d259c76ff"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lust theory season 2/lusttheory2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c7d7cf7388834c90b72e8f016cd59e18",
+    "id": "1124359856636309605",
+    "name": "Lust Theory Season 2",
+    "publishers": [
+        {
+            "id": "1124353991388704891",
+            "name": "Inceton games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1754870",
+            "sku": "1754870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7da7fc80f4c0c6d76ea11f1fb2fe7eff795458ac6c166de7ca5c0182d5c2cfa2"
+}

@@ -1,0 +1,41 @@
+{
+    "description": "Off-road truck driving simulation based on Havok physics engine enabled ground deformation and interactive water and foliage.",
+    "developers": [
+        {
+            "id": "521816618024828939",
+            "name": "oovee"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spintires.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "334cbcc9c49b762cfaaae256b812eb6d",
+    "id": "426525833281404928",
+    "name": "Spintires",
+    "publishers": [
+        {
+            "id": "521816617571581965",
+            "name": "IMGN.PRO"
+        },
+        {
+            "id": "521816618024828938",
+            "name": "Oovee® Game Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "263280",
+            "sku": "263280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7f181acec0d2bcb29a3a7ed7f8f2f5008a52d8d7e9b8bd2bf151e6ae259575f1"
+}

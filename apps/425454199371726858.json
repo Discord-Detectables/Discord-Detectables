@@ -1,0 +1,50 @@
+{
+    "aliases": [
+        "Darksiders 2",
+        "Darksiders II Deathinitive Edition"
+    ],
+    "description": "",
+    "developers": [
+        {
+            "id": "521816632285200387",
+            "name": "Gunfire Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darksiders2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "411080228052533250",
+    "hook": true,
+    "icon": "4ad62c12ea053b51f8af73d10df413b8",
+    "id": "425454199371726858",
+    "name": "Darksiders II: Deathinitive Edition",
+    "primary_sku_id": "471030867175669760",
+    "publishers": [
+        {
+            "id": "521816508167487498",
+            "name": "THQ Nordic"
+        }
+    ],
+    "slug": "darksiders-ii-deathinitive-edition",
+    "splash": "0e6c666f6c35fed8e5b29fb5a4adddf9",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471030867175669760",
+            "sku": "471030867175669760"
+        },
+        {
+            "distributor": "steam",
+            "id": "388410",
+            "sku": "388410"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bd7335ddb7cf6b6cb9f6b3754cc6233d04df009b0a1ba9748d1aeb38d18a8937"
+}

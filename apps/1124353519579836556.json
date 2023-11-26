@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wrc 7/wrc7.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c8a5fa3ae72c4c25eba92cd7cc75990a",
+    "id": "1124353519579836556",
+    "name": "WRC 7",
+    "publishers": [
+        {
+            "id": "1124353520053801030",
+            "name": "KT Racing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "621830",
+            "sku": "621830"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5f98c0013e36cde5a14cfc8a1036e1c9595761b20e8d670cdb3b554023005e13"
+}

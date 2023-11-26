@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fullmojorampage/fullmojo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b7f73b4ab33fa9a29055188d74b0ace6",
+    "id": "1124359835278921798",
+    "name": "Full Mojo Rampage",
+    "publishers": [
+        {
+            "id": "524352011437867011",
+            "name": "Over The Top Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "225280",
+            "sku": "225280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bf07dd08d5a29fe8080bcdc437684f58fd8b18656aa457af18da0f2c4a3a36ad"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "death in the water 2/death in the water 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d14912f62bd09dc4e4fe37885f65c85c",
+    "id": "1136465568434765834",
+    "name": "Death in the Water 2",
+    "publishers": [
+        {
+            "id": "521816608931446836",
+            "name": "Lighthouse Games Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1338840",
+            "sku": "1338840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7345afba552080167cb9d33c2fe50e124d7be577a848a89e0d17eaf14b6a86c5"
+}

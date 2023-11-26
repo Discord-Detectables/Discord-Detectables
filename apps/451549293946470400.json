@@ -1,0 +1,38 @@
+{
+    "description": "Tricky Towers is a multiplayer, physics-based, tower-building puzzle game.",
+    "developers": [
+        {
+            "id": "521816626904170511",
+            "name": "WeirdBeard"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trickytowers.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f8dab6cd521d8a72ca41bde7596f6b77",
+    "id": "451549293946470400",
+    "name": "Tricky Towers",
+    "publishers": [
+        {
+            "id": "521816626904170511",
+            "name": "WeirdBeard"
+        }
+    ],
+    "splash": "7b3973924308d733219aed52a581da57",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "437920",
+            "sku": "437920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "53dbe9aff4415062b1a21443b58cbdf97fe69629d4edcfe82f88308de31d0fde"
+}

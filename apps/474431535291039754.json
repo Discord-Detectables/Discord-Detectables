@@ -1,0 +1,38 @@
+{
+    "description": "RaceRoom Racing Experience is a Racing Simulator for the PC. It was originally developed by the veteran simracing studio SimBin and is now handled by Sector3 Studios.",
+    "developers": [
+        {
+            "id": "521816805396971520",
+            "name": "Sector3 Studios AB"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "rrre64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9335f64e32134204c61c531f746e8cd",
+    "id": "474431535291039754",
+    "name": "RaceRoom Racing Experience",
+    "publishers": [
+        {
+            "id": "521816804910170115",
+            "name": "Sector3 Studios"
+        }
+    ],
+    "splash": "c7da9aa70c192e6adb722f86e2ab0ca6",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "211500",
+            "sku": "211500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "66bb8b5df2eaa4137f346592c728cd09927fe201cdc0dfb9a44794e1faccfe57"
+}

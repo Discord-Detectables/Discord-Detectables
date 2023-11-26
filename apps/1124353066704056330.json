@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "before your eyes/before your eyes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c1fc22fe711de38135468988d6576ef7",
+    "id": "1124353066704056330",
+    "name": "Before Your Eyes",
+    "publishers": [
+        {
+            "id": "1124353067194777730",
+            "name": "GoodbyeWorld Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1082430",
+            "sku": "1082430"
+        }
+    ],
+    "type": 1,
+    "verify_key": "93b6d698b6a50e358aaec1c74082ccdcc32744139a700039bee142dd78c8d90e"
+}

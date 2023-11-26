@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star valor/star valor.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc93c0a8235a15dbf2cc64cbba73dd16",
+    "id": "1124357767692562432",
+    "name": "Star Valor",
+    "publishers": [
+        {
+            "id": "1124357768124583997",
+            "name": "Rafael Burgos"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "833360",
+            "sku": "833360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "70a640660738e7ec3139508730ebc8910f906b742da69f8455ca9662620f0da2"
+}

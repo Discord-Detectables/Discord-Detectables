@@ -1,0 +1,38 @@
+{
+    "aliases": [
+        "Wurm Online"
+    ],
+    "description": "Wurm Online. The Ultimate Sandbox MMORPG.\nDeveloped around the idea that sandboxes should give ultimate freedom, Wurm Online aims to hold true to the original sandbox vision.\n\nWith sprawling seamless lands, no instances, and a true open-world experience Wurm Online offers limitless opportunities for you to write your story.\n\nYour journey starts here. ",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wurm online/wurmlauncher64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "wurmlauncher64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "202801255024689153",
+    "hook": true,
+    "icon": "36803256819004c1bba31531a2f0a192",
+    "id": "714975833495830608",
+    "name": "Wurm Online",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "524352473570345034",
+            "name": "Code Club AB"
+        },
+        {
+            "id": "524352473570345034",
+            "name": "Code Club AB"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "ec409fc434adc981c1d39aea9aa7c4eb9a71e11475f6a397cbcd366638aa4b1a"
+}

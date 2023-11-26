@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "Call of Duty Modern Warfare",
+        "Call of Duty: Modern Warfare"
+    ],
+    "cover_image": "d6fef6748f631e91707a8f866bdf9396",
+    "description": "Infinity Ward's 2019 reboot of the Modern Warfare franchise.",
+    "developers": [
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "call of duty modern warfare/modernwarfare.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6fef6748f631e91707a8f866bdf9396",
+    "id": "631914894446297148",
+    "name": "Call of Duty®: Modern Warfare®",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816501544550404",
+            "name": "Activision"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "battlenet",
+            "id": null,
+            "sku": null
+        }
+    ],
+    "type": 1,
+    "verify_key": "49c9895a8fe1de71e51c202dad1567c3874e205c2a81f5fa2797386a7e34b37d"
+}

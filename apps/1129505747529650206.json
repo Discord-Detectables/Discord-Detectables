@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "summer~life in the countryside~/summer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a1ab430bb0301efdedba05c09f5abf87",
+    "id": "1129505747529650206",
+    "name": "Summer~Life in the Countryside~",
+    "publishers": [
+        {
+            "id": "524352852936753165",
+            "name": "dieselmine"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1508570",
+            "sku": "1508570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "55972017ab92b9864e50b4cb16ace2629166be93b3a8629f91a04a5763d73a3d"
+}

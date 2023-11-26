@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "brief karate foolish/sfwincf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d55661577a382c9153f95374a1dc7544",
+    "id": "1124354238756175912",
+    "name": "Brief Karate Foolish",
+    "publishers": [
+        {
+            "id": "1124354239242711190",
+            "name": "D.C.S"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "546390",
+            "sku": "546390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9b44227226b6bdad70627381dfed49f131feea2a78fa3f8edc07d99afacb6b74"
+}

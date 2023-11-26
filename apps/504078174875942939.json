@@ -1,0 +1,38 @@
+{
+    "description": "A modernization of the classic series which allows you to create bustling cities in which you can watch any settler go about their daily life interactions.",
+    "developers": [
+        {
+            "id": "521816804323098635",
+            "name": "4HEAD Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "settlers6.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9f7c2e860d7e43cd6c2aada8d410c4a5",
+    "id": "504078174875942939",
+    "name": "The Settlers: Rise of an Empire",
+    "publishers": [
+        {
+            "id": "521816502500982841",
+            "name": "Ubisoft Entertainment"
+        }
+    ],
+    "splash": "8dcfde4572a6eb95c0fb77cd127ac191",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "15330",
+            "sku": "15330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6974b891c1a4a8f35825dca340c84f487aa4935669c2ff7f910d8dd28a181fd1"
+}

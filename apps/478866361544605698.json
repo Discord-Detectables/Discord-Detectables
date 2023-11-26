@@ -1,0 +1,38 @@
+{
+    "description": "Rend is a faction based survival game. Pitting factions against each other to survive the waves of lost ones and to collect souls in a race to ascension.",
+    "developers": [
+        {
+            "id": "521816664715690010",
+            "name": "Frostkeep Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "otherlandsclient-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b360252176de2b25cf28483bc0efb686",
+    "id": "478866361544605698",
+    "name": "Rend",
+    "publishers": [
+        {
+            "id": "521816664715690010",
+            "name": "Frostkeep Studios"
+        }
+    ],
+    "splash": "85b918cad903a8906469925faf978482",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "547860",
+            "sku": "547860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8e984c6043d88a52105e1bed6d5048343e8bb56359d7f994c5dc791955416dd9"
+}

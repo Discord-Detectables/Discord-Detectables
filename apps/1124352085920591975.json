@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/omd-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "37ac6d72dbaf8bdc18efb80b0c185d44",
+    "id": "1124352085920591975",
+    "name": "Orcs Must Die! 3",
+    "publishers": [
+        {
+            "id": "521816601230704643",
+            "name": "Robot Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1522820",
+            "sku": "1522820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "779a97192e597fce9c2b8e723eb291202331647c40b6b406bc46744e48c6cc19"
+}

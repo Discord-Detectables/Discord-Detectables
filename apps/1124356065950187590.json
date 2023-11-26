@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "desktop kanojo/desktopkanojo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "738160a478b65a1c1a4adc43ce08bd7d",
+    "id": "1124356065950187590",
+    "name": "Desktop Kanojo",
+    "publishers": [
+        {
+            "id": "1124356066403168256",
+            "name": "Neko Game"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1284820",
+            "sku": "1284820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "db85a3f8e4402926da3612f1c799507992dbefbe607beaa52d3c0687a62fb56d"
+}

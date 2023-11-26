@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "apex/r5apex.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "541484311354933258",
+    "hook": true,
+    "icon": "7564e6f23704870d70480f172f127677",
+    "id": "542075586886107149",
+    "name": "Apex Legends",
+    "publishers": [
+        {
+            "id": "542075586886107157",
+            "name": "Electronic Arts, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "09ec3fea255d2f025b9b8aaa3aa39446d2428524830803d020483d628f06065c"
+}

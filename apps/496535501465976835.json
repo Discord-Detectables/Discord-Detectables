@@ -1,0 +1,30 @@
+{
+    "description": "Battlefield 2142 takes the popular Battlefield series into a futuristic ice age, complete with future-tech weapons and vehicles.",
+    "developers": [
+        {
+            "id": "521816575481872391",
+            "name": "DICE"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bf2142.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0f5e108cb52dfbdd62394f8c56024c61",
+    "id": "496535501465976835",
+    "name": "Battlefield 2142",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "d19e26586c53d48e185108d5517d0e31d10b188ea80388ea86f20058f96bc185"
+}

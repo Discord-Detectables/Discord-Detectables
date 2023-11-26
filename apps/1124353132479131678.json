@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zup! f/zup! f.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6fac23b572ca411bf57a72696fe701bf",
+    "id": "1124353132479131678",
+    "name": "Zup! F",
+    "publishers": [
+        {
+            "id": "1124352226966650920",
+            "name": "Quiet River"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "601220",
+            "sku": "601220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "48e5b85c276642df01881a6c3ad12876102d3f836aba999f435f888b431ccdc7"
+}

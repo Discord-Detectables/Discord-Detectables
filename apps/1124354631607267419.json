@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32_release/stronghold3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f9bcf697997dab784f128bd4cba58cc3",
+    "id": "1124354631607267419",
+    "name": "Stronghold 3",
+    "publishers": [
+        {
+            "id": "521816602132611105",
+            "name": "Firefly Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "47400",
+            "sku": "47400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a09c96e9a3a020272e6bd2beeaac9bc168bec89afc9963063ea7f33a572497c0"
+}

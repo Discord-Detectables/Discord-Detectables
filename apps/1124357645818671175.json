@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/bbc_vrspacewalk-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fcec7e94829a54a1079c5811e74334db",
+    "id": "1124357645818671175",
+    "name": "Home - A VR Spacewalk",
+    "publishers": [
+        {
+            "id": "1124357646389104750",
+            "name": "BBC Media Applications Technologies Limited"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "512270",
+            "sku": "512270"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f03b944797d3fd180cac1481b699f3e3850aad07d99b2f682c817137fb5bd149"
+}

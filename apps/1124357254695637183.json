@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wrc 8 fia world rally championship/wrc8.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8b9691aafcd67d99c076d2f39374f200",
+    "id": "1124357254695637183",
+    "name": "WRC 8 FIA World Rally Championship",
+    "publishers": [
+        {
+            "id": "1124353520053801030",
+            "name": "KT Racing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1004750",
+            "sku": "1004750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "05c32b3450f37b8896245e2c580bc9351c03fea1508807c18c546b80590647a6"
+}

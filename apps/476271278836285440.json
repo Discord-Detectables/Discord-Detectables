@@ -1,0 +1,38 @@
+{
+    "description": "Punch Club is an underground fight club tycoon simulator.",
+    "developers": [
+        {
+            "id": "521816724262354956",
+            "name": "Lazy Bear Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "punch club.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "58eedbf6d4c394ff3933dd4b9bbec569",
+    "id": "476271278836285440",
+    "name": "Punch Club",
+    "publishers": [
+        {
+            "id": "521816524952961034",
+            "name": "tinyBuild"
+        }
+    ],
+    "splash": "b39c990e00761febaa7b286fb44e4bee",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "394310",
+            "sku": "394310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "80cf61515f3189ada75deb8db62db4992af9820140f1da5a95c2403a6a32376e"
+}

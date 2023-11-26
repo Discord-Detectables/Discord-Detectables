@@ -1,0 +1,38 @@
+{
+    "description": "Trapped in the body of a sword robot, survive the trials of the arena!",
+    "developers": [
+        {
+            "id": "521816678430933002",
+            "name": "Doborog"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clone drone in the danger zone.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "64220f512066b93536a49c382b315623",
+    "id": "471192232985231370",
+    "name": "Clone Drone in the Danger Zone",
+    "publishers": [
+        {
+            "id": "521816652262670339",
+            "name": "Doborog Games"
+        }
+    ],
+    "splash": "008f3cc4b5d77b63ee556f1b1a6e1c7f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "597170",
+            "sku": "597170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4488d7753c58b1703e95925b12aa20bc13ab185e3df866c9f1ad1a3c91cc904"
+}

@@ -1,0 +1,53 @@
+{
+    "aliases": [
+        "Divinity - Original Sin 2",
+        "Divinity Original Sin 2",
+        "Divinity: Original Sin 2"
+    ],
+    "cover_image": "0fa583149b3927add1aad7cb2337b953",
+    "description": "Divinity: Original Sin 2 is a CRPG developed by Larian Studios. Setting: The world needs a new Divinity. Choose your origin. Gather your party. Master deep, tactical combat. Up to four players with drop-in/drop-out co-op. Only one becomes a God.",
+    "developers": [
+        {
+            "id": "521816603671920661",
+            "name": "Larian Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "divinity original sin 2/bin/eocapp.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bin/supporttool.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6c018443f2c3067bf660d8b55ff9eb20",
+    "id": "349134787773988865",
+    "name": "Divinity Original Sin 2",
+    "publishers": [
+        {
+            "id": "521816670969397268",
+            "name": "Arrakis Software"
+        },
+        {
+            "id": "521816603671920661",
+            "name": "Larian Studios"
+        }
+    ],
+    "splash": "f79ab1b78f2fe375f7566f6b6e200ca2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "435150",
+            "sku": "435150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "450d45712bad368a553c702402720ae46ce640e35717fc9c6ec18753f0dd73f1"
+}

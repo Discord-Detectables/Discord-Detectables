@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/sqcgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e309367f65b16c4e08119b7daa4276ab",
+    "id": "1124360647396835338",
+    "name": "Survival Quiz CITY Visitor's Pass",
+    "publishers": [
+        {
+            "id": "521816782479163394",
+            "name": "BANDAI NAMCO Studios Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1747260",
+            "sku": "1747260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d431cd0c011615402bfc09c1930cccbd197a6ae118c151811274a2b0424bac9b"
+}

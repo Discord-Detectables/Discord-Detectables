@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentai puzzle/hentaipuzzle.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b036a39dc241efc1177155ef8887d0c3",
+    "id": "1124355292591829002",
+    "name": "Hentai Puzzle",
+    "publishers": [
+        {
+            "id": "1124355293107736579",
+            "name": "YourFaveAnime Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "857440",
+            "sku": "857440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "38ec10c32c171246cd665f66b3acf0b8d74b2ab3b5450ea5827cc11dd36f5952"
+}

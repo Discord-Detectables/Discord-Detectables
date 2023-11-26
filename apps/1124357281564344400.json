@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "64.0/64.0.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed203ccee712fc7e61de1f963a4f8629",
+    "id": "1124357281564344400",
+    "name": "64.0",
+    "publishers": [
+        {
+            "id": "1124357282034102272",
+            "name": "rebel rabbit"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "578850",
+            "sku": "578850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ead216ae134aa47bdec01b6900ed6ed21a487ad33e26382e62cb84adf8dd91f0"
+}

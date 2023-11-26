@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "64/fc_64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "aa5bb850df939429a47fbea00c19d942",
+    "id": "1124355667659083826",
+    "name": "FortressCraft Evolved",
+    "publishers": [
+        {
+            "id": "524352031528321035",
+            "name": "ProjectorGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "254200",
+            "sku": "254200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "71ca64b9b47ff5b5aa0f9f5e30eb93172e54da048bef36e306f1f6918007ef9c"
+}

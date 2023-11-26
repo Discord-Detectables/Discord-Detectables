@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "house builder first job/housebuilder.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f4b138780ef991f2fd141e9a05ed36f6",
+    "id": "1124354394771705947",
+    "name": "House Builder: First Job",
+    "publishers": [
+        {
+            "id": "1124354395207909436",
+            "name": "FreeMind S.A."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1601840",
+            "sku": "1601840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e188f23b93517192f9d9e6bb959d2b5f481818109b23eb92cde793c3a0c80005"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/memoriesofmars.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "46f725735007d8e47de773d0fdda3839",
+    "id": "1124358639285715104",
+    "name": "Memories of Mars",
+    "publishers": [
+        {
+            "id": "521816585602859008",
+            "name": "Limbic Entertainment GmbH"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "644290",
+            "sku": "644290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ec34848d7c64013f055ab099beab2d9da94f3adfe2f5c43b36bf649a3ef175a7"
+}

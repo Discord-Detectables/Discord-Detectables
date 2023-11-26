@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the room syndrome/the room syndrome.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "5cf44299c47f41373870c87d2ce91098",
+    "id": "1124359008686461049",
+    "name": "The Room Syndrome",
+    "publishers": [
+        {
+            "id": "1124359009160413294",
+            "name": "Jesse Carradine"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1114030",
+            "sku": "1114030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "baf9f767ca58f30bc48700782ababccb20210090897d5b6dee8443bd764779e8"
+}

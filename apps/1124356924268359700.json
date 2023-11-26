@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clown house/clownhouse.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f58284e65f6d05df5177ba8380b17c42",
+    "id": "1124356924268359700",
+    "name": "Clown House (Palyaço Evi)",
+    "publishers": [
+        {
+            "id": "1124356924750713013",
+            "name": "gord10"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "387970",
+            "sku": "387970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "412a2492f4bbbd3ea42c51f72bf48d9602cea260d2cdbed4a80723656a21d480"
+}

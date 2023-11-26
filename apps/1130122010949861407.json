@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "airportsim demo/airportsimdemo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d09184cb32995040c4944cdaa4c8d653",
+    "id": "1130122010949861407",
+    "name": "AirportSim Demo",
+    "publishers": [
+        {
+            "id": "1130122011746766848",
+            "name": "MS GAMES"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2233160",
+            "sku": "2233160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "92ae456d32f3573b50825c52b4a8b606292bcc6377601c89ed765c7e49d90d46"
+}

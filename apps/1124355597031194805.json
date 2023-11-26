@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "farming simulator 2013/farmingsimulator2013game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "54edb5a0c55c781c2544f480e600a63f",
+    "id": "1124355597031194805",
+    "name": "Farming Simulator 2013",
+    "publishers": [
+        {
+            "id": "542474758835535874",
+            "name": "Giants Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "220260",
+            "sku": "220260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "db749e11e7b0ab031b2f365d7b71988cefb129eae5061cd23fb947cd37ce6c9b"
+}

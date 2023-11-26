@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wrc generations - the fia wrc official game/wrcg.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3e70d17c0df80d9562e4602faf2dedb6",
+    "id": "1124356462001537054",
+    "name": "WRC Generations - The FIA WRC Official Game",
+    "publishers": [
+        {
+            "id": "1124353520053801030",
+            "name": "KT Racing"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1953520",
+            "sku": "1953520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "944305aa154364f1b73b53c610f60e1d6cfa3e8444c0197b0cf35187a0a55f9e"
+}

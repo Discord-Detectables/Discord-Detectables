@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "colonize prologue/colonize.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6b6921c12ad619651b3c6e048a45ae8",
+    "id": "1129505922054635581",
+    "name": "Colonize Prologue",
+    "publishers": [
+        {
+            "id": "1129505923119980596",
+            "name": "Rembrosoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1736450",
+            "sku": "1736450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "21e68e00e74d60b8607fc63c179343f1bf5212b4a17a87bc910cddc37bdf1ef4"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/dungeonhaven-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "db2885f680ce479a0ce24aff0591c292",
+    "id": "1124353451795689472",
+    "name": "Mortal Shell",
+    "publishers": [
+        {
+            "id": "1124353452303208448",
+            "name": "Cold Symmetry"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1110910",
+            "sku": "1110910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a6009757464bb1fea0cb7ec3e7ee58d212f1ca485378cc89cee083af967fe83"
+}

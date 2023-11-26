@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "laz3rz/laz3rz.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e78c5c188b92ef95853d8cf17566b80f",
+    "id": "1124358618150621224",
+    "name": "LAZ3RZ",
+    "publishers": [
+        {
+            "id": "1124358618632962208",
+            "name": "ARPSEL"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2107280",
+            "sku": "2107280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e18a39e36546ce10cf0ab007493c2df543c41313523ed9115d65a10a420f4f4a"
+}

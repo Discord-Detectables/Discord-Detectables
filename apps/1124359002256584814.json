@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "roadwarden demo/roadwarden.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bdec69481bb9a2d9c89cb3a930ccbe68",
+    "id": "1124359002256584814",
+    "name": "Roadwarden Demo",
+    "publishers": [
+        {
+            "id": "1124356004226809887",
+            "name": "Moral Anxiety Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1205280",
+            "sku": "1205280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "423c016cb1346b49f895ce26f3fbb4a2e3011647b0496644234740f71fe11845"
+}

@@ -1,0 +1,37 @@
+{
+    "description": "A team-based naval combat FPS set in the 1700s.",
+    "developers": [
+        {
+            "id": "521816656633266209",
+            "name": "Mastfire Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blackwake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "73a30ff2efb960fc900f27ce5f5f9c29",
+    "id": "425748296854667264",
+    "name": "Blackwake",
+    "publishers": [
+        {
+            "id": "521816656633266208",
+            "name": "Mastfire Studios Pty Ltd"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "420290",
+            "sku": "420290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "74f4a4c45d53780def339e9e37ce5ca539332be13ce747c9ef16a9bc9b1dd2c9"
+}

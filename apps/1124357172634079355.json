@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fallen aces demo/fallen aces demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e467ce303b511ae2c9f0801e1552a515",
+    "id": "1124357172634079355",
+    "name": "Fallen Aces Demo",
+    "publishers": [
+        {
+            "id": "1124357173095448608",
+            "name": "Trey Powell"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1774800",
+            "sku": "1774800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b2460b5cb22a52ae0d254a9f1161ce46284215f1bec13b442f3cd7eb1453a7e4"
+}

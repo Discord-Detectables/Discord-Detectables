@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "monsters/monsters.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c88e8231165d0ea5fae74b753e07d350",
+    "id": "1124360123108835428",
+    "name": "PixelJunk™ Monsters Ultimate",
+    "publishers": [
+        {
+            "id": "521816743182598175",
+            "name": "Double Eleven"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "243780",
+            "sku": "243780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "df569f5a217d8e2d1567975be8e1079d80c5bb2f9cd2007f01f02231736f6458"
+}

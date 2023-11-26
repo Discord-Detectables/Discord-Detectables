@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "fingered/nw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3ff567dea28b9f544701866a942a4246",
+    "id": "1124356480963985498",
+    "name": "Fingered",
+    "publishers": [
+        {
+            "id": "1124353190893203627",
+            "name": "Edmund McMillen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "384360",
+            "sku": "384360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3a3a46ca4b0769c55b886f4be499ceeedd40cf1db24ffc9a616246d3b4a132bb"
+}

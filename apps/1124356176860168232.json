@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "helmet heroes/helmet heroes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d01715c62a48bd359c666bbd5f031131",
+    "id": "1124356176860168232",
+    "name": "Helmet Heroes",
+    "publishers": [
+        {
+            "id": "1124356177447366807",
+            "name": "Helmet Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "524970",
+            "sku": "524970"
+        }
+    ],
+    "type": 1,
+    "verify_key": "332c82c38c1506a36a859c11ca5f59a7ad86bdbd5c32c2e14693eaf161ab9bb6"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "innocence or money - v 0.0.3/innocenceormoney.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f4b26ca125d6394a3f49e9825c41bc5",
+    "id": "1124358016951664733",
+    "name": "Innocence Or Money - V 0.0.3",
+    "publishers": [
+        {
+            "id": "1124356766235377754",
+            "name": "MarcialART"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1958390",
+            "sku": "1958390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a17178e776c7e01df77dd798109ae2c1a599fe85b0609ed06ea86af17bf12ba8"
+}

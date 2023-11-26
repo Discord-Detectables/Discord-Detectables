@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Gremlins, Inc."
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gremlins/gremlins_inc.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f7d59bcd622afd3c1b1f01f78d297cf1",
+    "id": "1129504840117133393",
+    "name": "Gremlins, Inc.",
+    "publishers": [
+        {
+            "id": "1124357794682912871",
+            "name": "Alexey Bokulev"
+        },
+        {
+            "id": "524352512845938725",
+            "name": "Charlie Oscar Lima Tango Interactive Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "369990",
+            "sku": "369990"
+        }
+    ],
+    "type": 1,
+    "verify_key": "42b5bb3c2b35aafc02d1ffdb71287a03fa817f54a77239d7a5269aae9b69dd3d"
+}

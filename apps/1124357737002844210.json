@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ancient dungeon vr/ancient_dungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fb3d755d3074a992f0b007a9820aeb39",
+    "id": "1124357737002844210",
+    "name": "Ancient Dungeon VR",
+    "publishers": [
+        {
+            "id": "1124357737002844211",
+            "name": "Eric Thullen"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1125240",
+            "sku": "1125240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "51616ddbdc945260b36670fe2f825b0d35c53fcf0a270709a4667867ac0168e7"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ludo online/ludo-online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a6e26a234e58e60e0b7a1ee318a794f2",
+    "id": "1124357559713808465",
+    "name": "Ludo Online",
+    "publishers": [
+        {
+            "id": "1124357560187760730",
+            "name": "Cytec BG Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "883080",
+            "sku": "883080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c08f2bb5eea8e7cb9f3f599a11480215ddbffa63945d29634807798221b6bce6"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "half-life 2 update/hl2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "df1534d018b9961a76a9138ca95c03cd",
+    "id": "1124352557683331182",
+    "name": "Half-Life 2: Update",
+    "publishers": [
+        {
+            "id": "1124352558144700549",
+            "name": "Filip Victor"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "290930",
+            "sku": "290930"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c7f250a7ee4de63552ee1d5276e08d7a4c0d81789213d88e9827718135d9a569"
+}

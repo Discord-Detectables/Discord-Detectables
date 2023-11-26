@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "adventure escape mysteries/aem.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "10d6a2afc20ee9586e426331ce48543d",
+    "id": "1124357893261635626",
+    "name": "Adventure Escape Mysteries",
+    "publishers": [
+        {
+            "id": "1124357893731405976",
+            "name": "Haiku Games Co"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1141020",
+            "sku": "1141020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6df4421d0d83c0b44f5e0ebec40045e2301a384fc5c15ea166b0985e88646064"
+}

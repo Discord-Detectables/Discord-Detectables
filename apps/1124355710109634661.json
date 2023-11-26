@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "project zero deaths/project zero deaths.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a9e1c866061e6f8748001f15b98dcecf",
+    "id": "1124355710109634661",
+    "name": "Project Zero Deaths",
+    "publishers": [
+        {
+            "id": "598031526789382144",
+            "name": "UAB Detis"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1089650",
+            "sku": "1089650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b01a879081b8f817eaa9a4f69f6ca2baa8719a3395c2509681a115ba8cdb5a23"
+}

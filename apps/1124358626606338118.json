@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "all is dust/allisdust.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee828c51f2de57fce05570fb9199a452",
+    "id": "1124358626606338118",
+    "name": "All Is Dust",
+    "publishers": [
+        {
+            "id": "1124358627105456229",
+            "name": "Mannequin Games LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "373330",
+            "sku": "373330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f3b82fb92b3a532116882876c12109a722b88bd58e58fa1fee7bb2e9728580a5"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "minoria/minoria.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c56e3366e76aea2736d8d77b61dd2118",
+    "id": "1124356999946195044",
+    "name": "Minoria",
+    "publishers": [
+        {
+            "id": "521816561216913410",
+            "name": "Bombservice"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "940910",
+            "sku": "940910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "078f81b082e1d5244fa99a1d4309e839803f9e069e58250a5bbe4ba61d383458"
+}

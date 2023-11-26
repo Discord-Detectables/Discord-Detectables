@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro cycling manager 2018/pcm64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3f92337da197311968c6776f772ea961",
+    "id": "1124358679299375144",
+    "name": "Pro Cycling Manager 2018",
+    "publishers": [
+        {
+            "id": "521816537653444608",
+            "name": "Cyanide Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "704230",
+            "sku": "704230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eaf256c7127fa8868f6ced1a8f13d4ad22d905b9ecac1463c0c81be2d648ac5e"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tower wars/tw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9d50282b5ed64c832a7749d029fa76b",
+    "id": "1124359892422111352",
+    "name": "Tower Wars",
+    "publishers": [
+        {
+            "id": "1124359892921241701",
+            "name": "SuperVillain Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "214360",
+            "sku": "214360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c42f6540be972a83758f319ef9ae41f9e443cb98645c9ba939e5a502c5028bb"
+}

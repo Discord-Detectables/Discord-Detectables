@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tavern master - prologue/tavern master.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f29f8fb241916479b372ce6d66c85bba",
+    "id": "1124356639210877050",
+    "name": "Tavern Master - Prologue",
+    "publishers": [
+        {
+            "id": "1124353295427846174",
+            "name": "Untitled Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1614730",
+            "sku": "1614730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5bfbfc24ef117a60a6e6f8c299a69b5896e1130d4e7fac0ce58343a54160c55a"
+}

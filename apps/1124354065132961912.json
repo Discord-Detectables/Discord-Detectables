@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "arena of kings/arenaofkings.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a120b560c6884227e4a4a341ccdc0e5d",
+    "id": "1124354065132961912",
+    "name": "Arena of Kings",
+    "publishers": [
+        {
+            "id": "555836675398434822",
+            "name": "Villain Games LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1686820",
+            "sku": "1686820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f19ba9eeb1397103233e80f125cf25d18fb9c3e29af888fed7736d05ceb5854a"
+}

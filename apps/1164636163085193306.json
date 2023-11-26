@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "Amazing Frog?"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "amazing frog/amazingfrog.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b3a25ab322289a45c49a8dd3a8f1c23f",
+    "id": "1164636163085193306",
+    "name": "Amazing Frog?",
+    "publishers": [
+        {
+            "id": "524352224483213316",
+            "name": "Fayju"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "332570",
+            "sku": "332570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e8793e2751cca211bfa503050761dba5e388bb4fdab5594af4ed785ff34b2c06"
+}

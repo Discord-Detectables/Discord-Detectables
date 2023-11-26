@@ -1,0 +1,34 @@
+{
+    "aliases": [
+        "Total War: Arena"
+    ],
+    "description": "Total War: Arena is a free-to-play 10-vs-10 strategy game.",
+    "developers": [
+        {
+            "id": "521816720503996437",
+            "name": "The Creative Assembly"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "total_war_arena/arena.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed643760da59d0ae3f97b9fd5b4a57a3",
+    "id": "421150683329462272",
+    "name": "Total War Arena",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816588601786401",
+            "name": "Wargaming.net"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "1e8e07038430620dd022002ca1396821c2ae6246f3887c9bc0934ef28b011d19"
+}

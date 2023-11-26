@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cave crawler/cavecrawler.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ba96962360b4ae8ab48a72d9363b2d64",
+    "id": "1124353843396882485",
+    "name": "Cave Crawler",
+    "publishers": [
+        {
+            "id": "1124353843883429968",
+            "name": "Evan Youssef"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1865440",
+            "sku": "1865440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fa27e9657e85d3f35a5d4f95ff5e93152917ec6c2004d5ce0e4736051e6ad4fa"
+}

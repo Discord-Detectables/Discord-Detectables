@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "i wanna maker/i wanna maker.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cb83549cf51dd94f958948e1379fa9c2",
+    "id": "1124353996719673466",
+    "name": "I Wanna Maker",
+    "publishers": [
+        {
+            "id": "1124353997181042818",
+            "name": "The Elephant Crew"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1114940",
+            "sku": "1114940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4a4586f439e4d2d86aeb10f740f5bb53c15f853add0007144a2a8518a41ebe71"
+}

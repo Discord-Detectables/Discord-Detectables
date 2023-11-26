@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "trine 5/trine5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "25132e35e673b4e02697585f07c1aa49",
+    "id": "1177624686595678228",
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "publishers": [
+        {
+            "id": "521816505252446238",
+            "name": "Frozenbyte"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1436700",
+            "sku": "1436700"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6583f1358172dbf9b6fd29d9d6219f9386c01a0284d67cf4ed77746b46b66d05"
+}

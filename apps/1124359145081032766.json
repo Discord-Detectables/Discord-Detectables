@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "echoed world/echoedworld.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3741f6d6c57aaa1e61723d321ebd40a",
+    "id": "1124359145081032766",
+    "name": "Echoed World",
+    "publishers": [
+        {
+            "id": "1124359145617899731",
+            "name": "Team DOTS"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "740470",
+            "sku": "740470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cc2bc0e85afa57d6421bdca0a643384e21d2cb282d0488fef61a4cab7ad37b9d"
+}

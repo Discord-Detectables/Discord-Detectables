@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "gamedata/captain tsubasa rise of new champions.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e75bfcbb42db4eeb51a765429195b0e8",
+    "id": "1124355484577710161",
+    "name": "Captain Tsubasa - Rise of New Champions",
+    "publishers": [
+        {
+            "id": "524351573241888780",
+            "name": "Tamsoft Corporation"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1163550",
+            "sku": "1163550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "73dccee821356422d2476277574fc912443a8808288d8bac33f13cf2e57c8c4b"
+}

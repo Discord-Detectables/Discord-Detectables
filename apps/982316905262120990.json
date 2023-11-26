@@ -1,0 +1,69 @@
+{
+    "aliases": [
+        "Call of Duty: Modern Warfare II",
+        "Call of Duty®: Modern Warfare® II"
+    ],
+    "cover_image": "449b6e642a4cec60f079d3112243d33d",
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "_retail_/cod.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "call of duty hq/cod.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "call of duty hq/sp22/sp22-cod.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sp22/sp22-codcrashhandler.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "_retail_/sp22/sp22-cod.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "449b6e642a4cec60f079d3112243d33d",
+    "id": "982316905262120990",
+    "name": "Call of Duty®: Modern Warfare® II",
+    "publishers": [
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        },
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        },
+        {
+            "id": "521816501544550406",
+            "name": "Infinity Ward"
+        }
+    ],
+    "summary": "",
+    "tags": [
+        "Call of Duty",
+        "MWII",
+        "Modern Warfare II"
+    ],
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1938090",
+            "sku": "1938090"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fd95de87e92034420930dbfdd46f89bc0913df235713c7710e6cd31d19225f35"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "no umbrellas allowed/no umbrellas allowed.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bef91d7b9c073add6ad9ac3294484b50",
+    "id": "1124357502281203772",
+    "name": "No Umbrellas Allowed",
+    "publishers": [
+        {
+            "id": "1124357502780321812",
+            "name": "Hoochoo Game Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1301390",
+            "sku": "1301390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5582db36f635682dfae5903fdccf2f9e93cace4ab3205d2a575956260de49039"
+}

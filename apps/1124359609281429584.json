@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "retromaze/retro_maze.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eee1ac2ccbf6959256cda7693946d70d",
+    "id": "1124359609281429584",
+    "name": "RetroMaze",
+    "publishers": [
+        {
+            "id": "1124359609717633086",
+            "name": "Durven Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "852110",
+            "sku": "852110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "af84d3e3dc324e585a00d0946616ef5e9faf5873cd02ad3127b5d4cad056aefb"
+}

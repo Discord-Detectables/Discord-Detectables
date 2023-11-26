@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "escapedungeon/escapedungeon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bced6372c51bd5bd8f2ed141850aa972",
+    "id": "1124360512197644358",
+    "name": "Escape Dungeon",
+    "publishers": [
+        {
+            "id": "1124359358256533595",
+            "name": "Hide Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1259740",
+            "sku": "1259740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7485e3355b33851734cd58039e74111c4c6a35c95a5c75002fffe2f1fb5e8eb5"
+}

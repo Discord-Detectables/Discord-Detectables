@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mewnbase/mewnbase.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f9b7ffda2c1020c20cf37d61564dcc16",
+    "id": "1124359798557782128",
+    "name": "MewnBase",
+    "publishers": [
+        {
+            "id": "524353284119461907",
+            "name": "Cairn4"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "743130",
+            "sku": "743130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "643c91c64f1c23b4b0410be70b3dd7b3b0c9576eabc3484d62d2a5250ae64b3e"
+}

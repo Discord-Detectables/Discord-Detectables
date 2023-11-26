@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "planets under attack/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "341b2098208a706298126bf78e1187a1",
+    "id": "1124357843202617384",
+    "name": "Planets Under Attack",
+    "publishers": [
+        {
+            "id": "521816790083567631",
+            "name": "Targem Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "218510",
+            "sku": "218510"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fff1f0eea77a8dddd22c36baddaba5605c686572a2f05199545f8143d864ff42"
+}

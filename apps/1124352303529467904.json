@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "school of dragons how to train your dragon/domain.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "780c3b4316bdf316acfa48e3349581cd",
+    "id": "1124352303529467904",
+    "name": "School of Dragons: How to Train Your Dragon",
+    "publishers": [
+        {
+            "id": "1124352304016019516",
+            "name": "JumpStart Games, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "332070",
+            "sku": "332070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1268dac576fa90f51e9a1e15218bd87e8503c4c2d602b4277d4e647b1e014e22"
+}

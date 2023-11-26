@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentai - area 51/hentai area 51.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "24d9d7fe1718e327d0a69d0ad77706d0",
+    "id": "1124360177634791564",
+    "name": "Hentai - Area 51",
+    "publishers": [
+        {
+            "id": "1124353600064344205",
+            "name": "AmagSwag Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1127190",
+            "sku": "1127190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "191482760a8ae2d5433a3a9ee0aa68e27867dc8756b38fc188937354021bc851"
+}

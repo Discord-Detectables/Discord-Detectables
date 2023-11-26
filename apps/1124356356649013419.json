@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "7 days to end with you/seven days to end with you.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d4ef7eb3df8ed38176857c0f53d551f3",
+    "id": "1124356356649013419",
+    "name": "7 Days to End with You",
+    "publishers": [
+        {
+            "id": "1124356357127159979",
+            "name": "Lizardry"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1859280",
+            "sku": "1859280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "723db2e76a3da1a2286f2a5266bdf5cc97fc9ea753a4f631f1154bcebce90051"
+}

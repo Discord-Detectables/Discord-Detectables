@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mr shifty/mrshifty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "90af995bdd7799a06d25e4d5a8048c2b",
+    "id": "1124356526505738322",
+    "name": "Mr Shifty",
+    "publishers": [
+        {
+            "id": "524352583830077463",
+            "name": "Team Shifty"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "489140",
+            "sku": "489140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "65e7e1e61ef82c0930765eeed6c36dea323a0801715bea0201a7abdd213e0070"
+}

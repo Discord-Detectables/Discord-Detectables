@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "escapedungeon2_demo/escapedungeon2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fd8c9dc2accf71d491dbc92fb066e3de",
+    "id": "1124360056549429288",
+    "name": "Escape Dungeon 2 Demo",
+    "publishers": [
+        {
+            "id": "1124359358256533595",
+            "name": "Hide Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1706010",
+            "sku": "1706010"
+        }
+    ],
+    "type": 1,
+    "verify_key": "32db52b363b80ebbc698f8636f2e4c7dd25c7540645e2fb78c8cfd47b88d1022"
+}

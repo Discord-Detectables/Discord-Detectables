@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "star renegades/star renegades.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ed3d73edb041a8068bb9ccc4787939e1",
+    "id": "1124355366545801286",
+    "name": "Star Renegades",
+    "publishers": [
+        {
+            "id": "1124355367053307985",
+            "name": "Massive Damage, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "651670",
+            "sku": "651670"
+        }
+    ],
+    "type": 1,
+    "verify_key": "485397bb3233db7bdd4967f02f3c5b1138f6c335288e74fe9ef2efec215e2b75"
+}

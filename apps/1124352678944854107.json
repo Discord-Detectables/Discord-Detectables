@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/prototypecity-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d06e61dce5849899075fa938e4d21e0c",
+    "id": "1124352678944854107",
+    "name": "Kingdoms Reborn",
+    "publishers": [
+        {
+            "id": "1124352679423000687",
+            "name": "Earthshine"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1307890",
+            "sku": "1307890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6163773f9babce487ab3dc921ecf5b457363272c4b2273671e4d212028ca1541"
+}

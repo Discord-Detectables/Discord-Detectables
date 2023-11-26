@@ -1,0 +1,37 @@
+{
+    "description": "Miscreated is a brutal, post-apocalyptic, survival-based, online multiplayer game being developed using CryENGINE 3.8 It was originally based on the popular DayZ mod for Arma 2.",
+    "developers": [
+        {
+            "id": "521816714791485456",
+            "name": "Entrada Interactive"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "miscreated.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fa7aa7218a08c5fc5f3abca850a63835",
+    "id": "425779909835751424",
+    "name": "Miscreated",
+    "publishers": [
+        {
+            "id": "521816714317660198",
+            "name": "Entrada Interactive LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "299740",
+            "sku": "299740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c1278094524993caf964ef6b603a6ec226d5c5f8d6f2ad9d1e40c009629270f6"
+}

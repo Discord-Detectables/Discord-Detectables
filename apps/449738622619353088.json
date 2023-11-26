@@ -1,0 +1,59 @@
+{
+    "aliases": [
+        "DARK SOULS™: REMASTERED",
+        "Dark Souls"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darksoulsremastered.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dark souls remastered/darksoulsitemrandomizer.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "darksouls.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dark souls remastered/enemyrandomizer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "91714be659c1549773ad86618cff4607",
+    "id": "449738622619353088",
+    "name": "DARK SOULS™: REMASTERED",
+    "publishers": [
+        {
+            "id": "521816555584225281",
+            "name": "QLOC"
+        },
+        {
+            "id": "521816555584225281",
+            "name": "QLOC"
+        },
+        {
+            "id": "521816555584225281",
+            "name": "QLOC"
+        }
+    ],
+    "splash": "8f84286956ead7dee34922b82e058e68",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "570940",
+            "sku": "570940"
+        }
+    ],
+    "type": 1,
+    "verify_key": "94da02de1c193bd01263b4455c751f6f0b7ef7ace9c8adc64660852025025d09"
+}

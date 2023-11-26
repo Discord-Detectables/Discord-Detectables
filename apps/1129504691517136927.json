@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Hentai Girl"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hentaigirl/hentaigirl.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9a23461b6bfa0c96d8cfa175e3b49474",
+    "id": "1129504691517136927",
+    "name": "Hentai Girl",
+    "publishers": [
+        {
+            "id": "1129504692599279726",
+            "name": "GirlGame"
+        },
+        {
+            "id": "1124357134092611684",
+            "name": "GirlGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "878750",
+            "sku": "878750"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cd2cc9d659060a2108c597897b8933dca26fa4965c0fb653c5950d9ff4bde85b"
+}

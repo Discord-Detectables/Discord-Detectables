@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idle skilling/idleskilling.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "79814612e6ff94256880d42497d945c4",
+    "id": "1124352822054498405",
+    "name": "Idle Skilling",
+    "publishers": [
+        {
+            "id": "1124352822524268565",
+            "name": "Lavaflame2"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1048370",
+            "sku": "1048370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "36ccd24fd7f05cf0ea3d4e1f7ddd027047b942b83e3e8135962feb85e960151e"
+}

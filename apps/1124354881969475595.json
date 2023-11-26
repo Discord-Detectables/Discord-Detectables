@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pwndclient-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f30d129ffaa8ea2adec3341640e32568",
+    "id": "1124354881969475595",
+    "name": "PWND",
+    "publishers": [
+        {
+            "id": "524352066467004439",
+            "name": "Skydance Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "553660",
+            "sku": "553660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "60b4717c686ae7c7d2ebbf76dd735f25536a4890c3ae012b6f8fa17edf2175cc"
+}

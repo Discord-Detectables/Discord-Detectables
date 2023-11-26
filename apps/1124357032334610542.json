@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "black skylands origins/blackskylands.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a10f06ffa533ecf1e9897bec7dd6c8d5",
+    "id": "1124357032334610542",
+    "name": "Black Skylands: Origins",
+    "publishers": [
+        {
+            "id": "1124356839098822656",
+            "name": "Hungry Couch Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1286530",
+            "sku": "1286530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4c983d392585105ae163339b5c94a6f17d170c014e2b739a1539215f523d810"
+}

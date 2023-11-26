@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ultimate tag/ultimate tag.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ecc9725657a14fa30cc07eb9b83cf2f6",
+    "id": "1124356414316494938",
+    "name": "Ultimate Tag",
+    "publishers": [
+        {
+            "id": "1124356414316494939",
+            "name": "The Zoo"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1761820",
+            "sku": "1761820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2d7aae485c0924f8196c4db7d343df47fd3856a094319aef62a4f1c686fb4279"
+}

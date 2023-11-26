@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "orwell ignorance is strength/ignorance.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c4fd2d74744d00eb5f39080d1b2cc9cf",
+    "id": "1124356090172293131",
+    "name": "Orwell: Ignorance is Strength",
+    "publishers": [
+        {
+            "id": "521816625020928011",
+            "name": "Osmotic Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "633060",
+            "sku": "633060"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9e12ec7536567de511baa460d291322cda748dd66d80401bd0681368ca182600"
+}

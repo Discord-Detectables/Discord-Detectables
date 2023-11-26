@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "incline/incline.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "99e966192802f8f51ae0c2a37ad892ff",
+    "id": "1124357278427005118",
+    "name": "Incline",
+    "publishers": [
+        {
+            "id": "1124357278913540166",
+            "name": "Homewreckers Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "668170",
+            "sku": "668170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1312b6b08619b374f8a4372abfa10e783b4f41a32bb2ae227bb10ae0791bfb42"
+}

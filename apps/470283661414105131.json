@@ -1,0 +1,30 @@
+{
+    "description": "Dragon Age: Origins is an epic fantasy role-playing game featuring a rich story, personality-driven characters, and tactical, bloody combat. It is considered a spiritual successor to the Baldur's Gate series.",
+    "developers": [
+        {
+            "id": "521816589570408449",
+            "name": "BioWare"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "daorigins.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d902e88b33004f164d1aac30ce729f79",
+    "id": "470283661414105131",
+    "name": "Dragon Age: Origins",
+    "publishers": [
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "53b67cd1b003d5e1de4c91946fdc7b83634eded34dd48791d2ab6c2946382ea2"
+}

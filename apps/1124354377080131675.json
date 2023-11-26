@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "epic battle fantasy 5/epic battle fantasy 5.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc40623782cd77e96ff0732a8a20e3a9",
+    "id": "1124354377080131675",
+    "name": "Epic Battle Fantasy 5",
+    "publishers": [
+        {
+            "id": "1124354377537306696",
+            "name": "Matt Roszak"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "432350",
+            "sku": "432350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3eaffb70d7bba3e5308e02c67492782aeac012d72300e787e18a17ea317d9496"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "anno 1404 - history edition/anno1404addon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f66d9567460fd19c54db51fae5a33568",
+    "id": "1124353758097322064",
+    "name": "Anno 1404 - History Edition",
+    "publishers": [
+        {
+            "id": "1124353758537732116",
+            "name": "Ubisoft Mainz"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1281630",
+            "sku": "1281630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "366cc8f13725577b2b53164c4decefc7696a472341a388fd19380f484ccf656c"
+}

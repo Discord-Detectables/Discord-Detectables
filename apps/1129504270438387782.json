@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Mr.Mine"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win-unpacked/mr.mine.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "57c4b3850a68fc378700c6feb59d436d",
+    "id": "1129504270438387782",
+    "name": "Mr.Mine",
+    "publishers": [
+        {
+            "id": "1129504271520514139",
+            "name": "Austin Oblouk"
+        },
+        {
+            "id": "521816644432166912",
+            "name": "Playsaurus"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1397920",
+            "sku": "1397920"
+        }
+    ],
+    "type": 1,
+    "verify_key": "80315e81dd0e283ace29b0f3845cbefeaac8290e44afe902feebc4d5f22c1e23"
+}

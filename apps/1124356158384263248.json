@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "wild west saga/wildwest.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9b21ac0aaf6072b08ea161fb39d6ba78",
+    "id": "1124356158384263248",
+    "name": "Wild West Saga",
+    "publishers": [
+        {
+            "id": "1124356158891769937",
+            "name": "Tamasenco"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "842150",
+            "sku": "842150"
+        }
+    ],
+    "type": 1,
+    "verify_key": "319e80377da50a7ef025f99a935cc55768c591b0cd5f3ca88165af711b7c5d01"
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Twenty five years have passed since the decimation of the Locust &amp; Lambent threats on the planet Sera. However a new race of monsters have taken their place and JD Fenix, son of series protagonist Marcus Fenix, has taken up the mantle in helping to protect humanity.",
+    "developers": [
+        {
+            "id": "521816666053672985",
+            "name": "The Coalition"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "geargame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6d8af3e4fe66b8ca65178ae12b6da856",
+    "id": "496763396558159892",
+    "name": "Gears of War 4",
+    "publishers": [
+        {
+            "id": "521816504824758295",
+            "name": "Microsoft Studios"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "640f2ee1e4af1246ed8f0bddfa530473643619d1be816bab0be6281158b41453"
+}

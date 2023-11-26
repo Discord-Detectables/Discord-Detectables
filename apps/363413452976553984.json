@@ -1,0 +1,37 @@
+{
+    "description": "An open-world space mercenary roguelite from the developer of Gunpoint.",
+    "developers": [
+        {
+            "id": "521816591604908032",
+            "name": "Suspicious Developments"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "heat_signature.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2b0bd16070cc0447eb16a40a2bc73c41",
+    "id": "363413452976553984",
+    "name": "Heat Signature",
+    "publishers": [
+        {
+            "id": "521816591604908032",
+            "name": "Suspicious Developments"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "268130",
+            "sku": "268130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "cd5decbb1566a24a8123cffe8aba2ab014da66c6069e54b91cac266b296325a2"
+}

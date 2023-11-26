@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a witchy life story/witchy life story.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "122c5dbfdb717b8925c02b59fb328074",
+    "id": "1129505689019109457",
+    "name": "Witchy Life Story",
+    "publishers": [
+        {
+            "id": "1129505689790857217",
+            "name": "Sundew Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1427340",
+            "sku": "1427340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d68ae5af75993e2fd50236cb5bd2f66ad2e632d83ca7256930148b3d4819fd74"
+}

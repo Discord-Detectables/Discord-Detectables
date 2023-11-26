@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nubarron/nubarron.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0ef8b44ff5ef0ce140e899e006872839",
+    "id": "1124357505309491320",
+    "name": "Nubarron: The adventure of an unlucky gnome",
+    "publishers": [
+        {
+            "id": "1124357505854746746",
+            "name": "Nastycloud"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "414160",
+            "sku": "414160"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f4ed58baeb06ab4a3cc33f9abf5813cc701fb7e604c86a1351ec597c381d6c41"
+}

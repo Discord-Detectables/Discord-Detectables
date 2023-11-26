@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "zula_launcher.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a5f389da430eed4d3fb87c4d634ef7b1",
+    "id": "451547924531249152",
+    "name": "Zula Online",
+    "publishers": [
+        {
+            "id": "521816709490016258",
+            "name": "Madbyte Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "714210",
+            "sku": "714210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c89ec68de0556daceb1dc7a863cd3a2c9be0b9e1bc7d0edf525a804f088d1f91"
+}

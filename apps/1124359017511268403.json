@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x3 terran conflict/x3ap.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "eaad6192a64eb44cce55359ba0e5884e",
+    "id": "1124359017511268403",
+    "name": "X3: Albion Prelude",
+    "publishers": [
+        {
+            "id": "524351509165768734",
+            "name": "Egosoft"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "201310",
+            "sku": "201310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f3f695538577be4a4ca1d51f36eb639e275a639eaec32a85ba73938de99f1786"
+}

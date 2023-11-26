@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "virtual rides 3/vr3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2d420ac3ed6b25b0da09365e576a281b",
+    "id": "1129505912479043594",
+    "name": "Virtual Rides 3",
+    "publishers": [
+        {
+            "id": "1129505913506643990",
+            "name": "Pixelsplit Simulations"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "515260",
+            "sku": "515260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fdb22a76ee6a595b43ae031efffa87b612749246ad470e309d1125100ea60a32"
+}

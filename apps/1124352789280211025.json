@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "omsi 2/omsi.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3a0088c1e0012bc9a90a02a8859ade1",
+    "id": "1124352789280211025",
+    "name": "OMSI 2",
+    "publishers": [
+        {
+            "id": "1124352789825466368",
+            "name": "MR-Software GbR"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252530",
+            "sku": "252530"
+        }
+    ],
+    "type": 1,
+    "verify_key": "07807bc5048b89299c370cbf7f4f783410383b850d6d7bf1f8bc90c824370908"
+}

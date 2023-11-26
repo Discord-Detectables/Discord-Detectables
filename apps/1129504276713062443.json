@@ -1,0 +1,49 @@
+{
+    "aliases": [
+        "Counter-Strike Nexon: Studio",
+        "Counter-Strike Nexon: Zombies"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "bin/cstrike-online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "71e98aefed5bc11cae8ffef561a3f539",
+    "id": "1129504276713062443",
+    "name": "Counter-Strike Nexon: Studio",
+    "publishers": [
+        {
+            "id": "1129504277522554880",
+            "name": "Valve Corporation, Nexon Korea Corporation"
+        },
+        {
+            "id": "1129504277522554880",
+            "name": "Valve Corporation, Nexon Korea Corporation"
+        },
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        },
+        {
+            "id": "617158085609521223",
+            "name": "Nexon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "273110",
+            "sku": "273110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f1fe40484a4cc99a22e5d195de22d99d186249dbe797ec2a1836ab7cf86aaf50"
+}

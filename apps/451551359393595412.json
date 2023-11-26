@@ -1,0 +1,32 @@
+{
+    "description": "CarX Drift Racing Online",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "carx drift racing online/drift racing online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "84181b03003c0d3674ef36ce04f2d52b",
+    "id": "451551359393595412",
+    "name": "CarX Drift Racing Online",
+    "publishers": [
+        {
+            "id": "521816618024828940",
+            "name": "CarX Technologies"
+        }
+    ],
+    "splash": "afaa2ba30cde76f975a96cc9af13c5a1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "635260",
+            "sku": "635260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9255b3de3193fe92887475b6762dd649cbd499fe4d78544b4cfa2119b6eb82a1"
+}

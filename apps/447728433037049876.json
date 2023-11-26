@@ -1,0 +1,38 @@
+{
+    "description": "A multiplayer first and third person shooter set during the Napoleonic era. Battles with over 150 players per server on both land, sea and the coast take place in the game.",
+    "developers": [
+        {
+            "id": "521816752212934689",
+            "name": "Anvil Game Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "holdfast naw.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16c90580db9e7f0acb2b480aeb908224",
+    "id": "447728433037049876",
+    "name": "Holdfast: Nations At War",
+    "publishers": [
+        {
+            "id": "521816752212934689",
+            "name": "Anvil Game Studios"
+        }
+    ],
+    "splash": "75275f644148c5c9cac10761011f82b0",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "589290",
+            "sku": "589290"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b71c389d49bbeb14c269740ca63bbf06937a17cd5700a59dbca6687e065115ee"
+}

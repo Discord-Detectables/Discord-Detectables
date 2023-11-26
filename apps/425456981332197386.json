@@ -1,0 +1,38 @@
+{
+    "description": "An indie turn-based strategy RPG inspired by Fire Emblem and Final Fantasy Tactics.",
+    "developers": [
+        {
+            "id": "521816561216913411",
+            "name": "Headup Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grotesque tactics.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "228b0cc4b919effbb18f918bcbab1050",
+    "id": "425456981332197386",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "publishers": [
+        {
+            "id": "521816623976415269",
+            "name": "Meridian4"
+        }
+    ],
+    "splash": "b5982efe7a05645f3ba0dc166c0ca39b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "46450",
+            "sku": "46450"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bc6af22a3869494904c841ae758937810368b21a270edca3389ab672daabc621"
+}

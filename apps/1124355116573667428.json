@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "duelyst ii/duelyst2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0952b8c6277d3ffdafe045721aca78eb",
+    "id": "1124355116573667428",
+    "name": "Duelyst II",
+    "publishers": [
+        {
+            "id": "1124355117076992061",
+            "name": "Dream Sloth Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2004320",
+            "sku": "2004320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2e94cba579e0327b105f76cda96fa9fc2a76d4fa83eae708c9c709d088def312"
+}

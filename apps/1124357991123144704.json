@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "toem/toem.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "af4073cc5d4cc47ddf0c1dafc1838579",
+    "id": "1124357991123144704",
+    "name": "TOEM",
+    "publishers": [
+        {
+            "id": "1124357991630651542",
+            "name": "Something We Made"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1307580",
+            "sku": "1307580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e003ef1fc0bb8c0e4ff5ec69c4e6f5999d7733e49e1615accb3e31b6bb4637d8"
+}

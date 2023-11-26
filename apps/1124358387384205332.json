@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cricket 19/ashes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f7ab45def4d601259c5b17107c342322",
+    "id": "1124358387384205332",
+    "name": "Cricket 19",
+    "publishers": [
+        {
+            "id": "1124357775124877452",
+            "name": "Big Ant Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1028630",
+            "sku": "1028630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "36b7af3aa570e0e19567370bae4c5a8904e8a8e3aefe1201027b0f0f45524725"
+}

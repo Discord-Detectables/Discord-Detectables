@@ -1,0 +1,38 @@
+{
+    "description": "Songbringer is an indie adventure RPG from Wizard Fu Games.",
+    "developers": [
+        {
+            "id": "521816743182598176",
+            "name": "Wizard Fu"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "songbringer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c6919e1923df2a51412247e13fa5d36e",
+    "id": "504042287345434624",
+    "name": "Songbringer",
+    "publishers": [
+        {
+            "id": "521816743182598175",
+            "name": "Double Eleven"
+        }
+    ],
+    "splash": "971696997bfa21d0769ac9d4dabe2a72",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "367080",
+            "sku": "367080"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bf161f5d2a51bb52ce506d33c8198fb46066040ce865f704cf400dadcd076986"
+}

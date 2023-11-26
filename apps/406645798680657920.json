@@ -1,0 +1,42 @@
+{
+    "description": "Simulate the development and progression of an alien species as it evolves from a single-celled organism to a sapient level, rises up through various stages of civilization, and eventually becomes a space-faring species.",
+    "developers": [
+        {
+            "id": "521816577876951044",
+            "name": "Maxis Software"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sporeapp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0409b90258f89c88a8fd521ea2612b2",
+    "id": "406645798680657920",
+    "name": "Spore",
+    "publishers": [
+        {
+            "id": "521816767484395521",
+            "name": "Maxis™"
+        },
+        {
+            "id": "521816499464306692",
+            "name": "Electronic Arts"
+        }
+    ],
+    "splash": "af76aa65b1c3ef5e2d2effd11df6b584",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "17390",
+            "sku": "17390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bd781790e143afc10a257cd890a39c3608712e50aa7ea16ab4c73315522c73d6"
+}

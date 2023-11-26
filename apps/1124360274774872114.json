@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "hakuoki edo blossoms/hakuokiflower.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f5f67ce0c594881d1d2af35e2820678c",
+    "id": "1124360274774872114",
+    "name": "Hakuoki: Edo Blossoms",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "733340",
+            "sku": "733340"
+        }
+    ],
+    "type": 1,
+    "verify_key": "63de5ba91e9350aeb119a18dd53f80a4932c355a2a0aefd7d950b47a181566c1"
+}

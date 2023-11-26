@@ -1,0 +1,39 @@
+{
+    "description": "A game about building factories on an alien planet.",
+    "developers": [
+        {
+            "id": "521816596633747476",
+            "name": "Wube Software LTD."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "factorio.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7624a1d91d9828ed2f2dc3510bbe09e6",
+    "id": "358422126602223616",
+    "name": "Factorio",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816596633747476",
+            "name": "Wube Software LTD."
+        }
+    ],
+    "splash": "a71908f78434ddbaa78e7adb7a849749",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "427520",
+            "sku": "427520"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4ccbae94b9a4bf1fda67eb0cff0387a7a9f7c85d1042e9980ca883751532133c"
+}

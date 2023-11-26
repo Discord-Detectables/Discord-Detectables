@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/snowdaze.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e25a6036644fba07d8339bbb5642c126",
+    "id": "1124357294952562768",
+    "name": "Snow Daze",
+    "publishers": [
+        {
+            "id": "1124357295418126426",
+            "name": "Outbreak Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "852480",
+            "sku": "852480"
+        }
+    ],
+    "type": 1,
+    "verify_key": "59ea808e1871cf85d63332d34e4787142cdfef3dfd1bbc5b285d696e837b0eab"
+}

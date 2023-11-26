@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shotgun king the final checkmate demo/shotgun_king_demo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "352542eed1c46d7c1c181a3bd2b5d2bc",
+    "id": "1124353123578822769",
+    "name": "Shotgun King: The Final Checkmate Demo",
+    "publishers": [
+        {
+            "id": "1124353065579986974",
+            "name": "PUNKCAKE Delicieux"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1982040",
+            "sku": "1982040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aa6adc05198f6eaec50271495c4dc84b4e46f1a829b1a17621245632065aa7ff"
+}

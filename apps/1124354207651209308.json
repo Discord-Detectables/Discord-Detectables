@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cat quest ii/cat quest ii.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e65738f30d01121073e6c208618330dc",
+    "id": "1124354207651209308",
+    "name": "Cat Quest II",
+    "publishers": [
+        {
+            "id": "1124353205950763059",
+            "name": "The Gentlebros"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "914710",
+            "sku": "914710"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fddd0a4c92f91b78fd09745abfc50787f0980df3bc2fa5d934cf35b6ac45c98f"
+}

@@ -1,0 +1,33 @@
+{
+    "aliases": [
+        "Phantasy Star Online: Blue Burst"
+    ],
+    "description": "Phantasy Star Online: Blue Burst is an expanded version of Phantasy Star Online that offers more content in the form of Episode 4 and also features improved graphics and more items to collect. ",
+    "developers": [
+        {
+            "id": "521816507676885013",
+            "name": "Sonic Team"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "psobb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c9a7ff130c57010bc088f3a1cf024b3b",
+    "id": "505152925115482112",
+    "name": "Phantasy Star Online Blue Burst",
+    "publishers": [
+        {
+            "id": "521816507676885010",
+            "name": "Sega"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "52e6b060deab16d3331babe027c0108e3f64de20568cedd8943c86ce9d26ae41"
+}

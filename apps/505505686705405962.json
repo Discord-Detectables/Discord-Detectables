@@ -1,0 +1,35 @@
+{
+    "aliases": [
+        "Tomb Raider: Angel of Darkness"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "traod_p4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0768989597e93d6331c513061b3ed067",
+    "id": "505505686705405962",
+    "name": "Tomb Raider (VI): The Angel of Darkness",
+    "publishers": [
+        {
+            "id": "521816706268659713",
+            "name": "Core Design"
+        }
+    ],
+    "splash": "6ce6ffa97032aa055735533db18d672d",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "225020",
+            "sku": "225020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "238ec480e2e3f6b5acd70e8727d676b5fed82d4a4a42b4ceffc11e4583669c47"
+}

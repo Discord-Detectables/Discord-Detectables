@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "boomerang fu/boomerang fu.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0dc9895fc5236fd4d6899e4a38579d36",
+    "id": "1124355289093779456",
+    "name": "Boomerang Fu",
+    "publishers": [
+        {
+            "id": "1124355289580327004",
+            "name": "Cranky Watermelon"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "965680",
+            "sku": "965680"
+        }
+    ],
+    "type": 1,
+    "verify_key": "68822351763c27880da0ac9fbcf86ac4cbbe8d1eca8f363200245a5ec68398ff"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "samurai shodown v special/ssvs.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee18b8a31713175b1e2998c98b9fcf02",
+    "id": "1124360504614334505",
+    "name": "SAMURAI SHODOWN V SPECIAL / サムライスピリッツ零スペシャル",
+    "publishers": [
+        {
+            "id": "1124352523751403580",
+            "name": "SNK CORPORATION"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1076550",
+            "sku": "1076550"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c3f65afc40a4c77de7ff6e03701e2780251eecf31d40430dfc222ae265cd1f63"
+}

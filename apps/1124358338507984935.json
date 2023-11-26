@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mimpi dreams/mimpidreams.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ae880d363a11fb734a9dde9a840276bc",
+    "id": "1124358338507984935",
+    "name": "Mimpi Dreams",
+    "publishers": [
+        {
+            "id": "1124358339019685938",
+            "name": "Dreadlocks Mobile"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "444770",
+            "sku": "444770"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6e9b8ae6b1f03aeb99c23c726f4ee148e72c3836cc3b7164ce84a582582eea8c"
+}

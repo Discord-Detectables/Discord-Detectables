@@ -1,0 +1,42 @@
+{
+    "description": "Journey back to the bodacious 80s in this long-awaited reboot of the Double Dragon beat 'em up series.",
+    "developers": [
+        {
+            "id": "521816699574419457",
+            "name": "WayForward Technologies"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "doubledragon.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b2626e4fe72bb412d8a92d730a91e450",
+    "id": "496576235934187539",
+    "name": "Double Dragon Neon",
+    "publishers": [
+        {
+            "id": "521816607408914447",
+            "name": "Majesco Entertainment"
+        },
+        {
+            "id": "521816607408914448",
+            "name": "WayForward"
+        }
+    ],
+    "splash": "5a83c1bfcb6fbeb47272ab4bfcac85ca",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "252350",
+            "sku": "252350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0191d00e57187c0d493bb468deca768d95ecc56be7cc34c77be950e6cdab9a57"
+}

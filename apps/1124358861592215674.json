@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "superfly/superfly.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "0b15a02f437399e9d956388456dbee16",
+    "id": "1124358861592215674",
+    "name": "Superfly",
+    "publishers": [
+        {
+            "id": "1124358862087139379",
+            "name": "Loco Motion Devs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1413020",
+            "sku": "1413020"
+        }
+    ],
+    "type": 1,
+    "verify_key": "31ad4c9f237ace7dcc4d6bdc329270827da07bb8b803cc8390f2f8acf4d31591"
+}

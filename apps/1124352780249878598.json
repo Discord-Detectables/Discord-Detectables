@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/wiregame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ad0fa6bc6dac979c49e48934a3f7abc4",
+    "id": "1124352780249878598",
+    "name": "Beyond The Wire",
+    "publishers": [
+        {
+            "id": "1124352780748996762",
+            "name": "Redstone Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1058650",
+            "sku": "1058650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c97373c8976c931860b2367be9f451103f83f4bb1e2ea7711bbcfee381d6e9d0"
+}

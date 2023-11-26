@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "topple tactics/topple tactics.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "320ebf67fd6d3ca25ff44a8a01f3a3b0",
+    "id": "1169772981988368544",
+    "name": "Topple Tactics",
+    "publishers": [
+        {
+            "id": "1169772986069426216",
+            "name": "Braian Strak"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2390260",
+            "sku": "2390260"
+        }
+    ],
+    "type": 1,
+    "verify_key": "021c36960c4c9ddacb6ac4fccc296bdb1155d0cedb1b95be81b44decb2ccd8c8"
+}

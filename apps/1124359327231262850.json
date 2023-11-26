@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kero blaster/keroblaster.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "afb258cf7b4a051d9adec1b7a07f16b9",
+    "id": "1124359327231262850",
+    "name": "Kero Blaster",
+    "publishers": [
+        {
+            "id": "524351932484288554",
+            "name": "Studio Pixel"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "292500",
+            "sku": "292500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95c70a883d8a20cb63dd496620656d474e3cd3d1b2dc4685d387267781938fd5"
+}

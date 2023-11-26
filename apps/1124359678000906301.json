@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "furry feet/furryfeet.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "787e5a49399667d1a351aa62598e8b44",
+    "id": "1124359678000906301",
+    "name": "Furry Feet",
+    "publishers": [
+        {
+            "id": "1124359678453887148",
+            "name": "bhungry"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1694960",
+            "sku": "1694960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4c10dc3681ba99116a9acbd36b748df10cc6a3fefd8ec173ae728c00cb6f901c"
+}

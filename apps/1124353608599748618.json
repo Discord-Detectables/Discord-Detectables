@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "one finger death punch 2/one finger death punch 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d80a8c45ef1b7805c2c77e67155858f2",
+    "id": "1124353608599748618",
+    "name": "One Finger Death Punch 2",
+    "publishers": [
+        {
+            "id": "521816796907700226",
+            "name": "Silver Dollar Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "980300",
+            "sku": "980300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7595cb60f164dd8dd1f9f7e67fce478ff53711d314d16c54db40b062356ee6cb"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "god awe-full clicker/gac.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2bf3dd4883f3065a339f25fba317e643",
+    "id": "1124357198701678592",
+    "name": "God Awe-full Clicker",
+    "publishers": [
+        {
+            "id": "1124357199171436624",
+            "name": "Mad Labyrinth Studios LLC"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "625860",
+            "sku": "625860"
+        }
+    ],
+    "type": 1,
+    "verify_key": "93ce636eca9ca981f0cb9730bd0b2a71a6638b91ab2f1f77aaad6ec65623d211"
+}

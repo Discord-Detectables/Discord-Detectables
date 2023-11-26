@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "soundodger/soundodgerplus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8e58246477f89f509c35b6a4841b030d",
+    "id": "1124357904041005136",
+    "name": "Soundodger+",
+    "publishers": [
+        {
+            "id": "524352179453034507",
+            "name": "Studio Bean"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "247140",
+            "sku": "247140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2df95c643881eff279bbfdf5dac0663d48b46dd154a88ae616ad13df3a3ef576"
+}

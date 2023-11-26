@@ -1,0 +1,38 @@
+{
+    "description": "Journey of a Roach is an adventure game about roaches living in a post apocalyptic world in which all humans have been wiped out by nuclear war.",
+    "developers": [
+        {
+            "id": "521816706268659712",
+            "name": "Koboldgames"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "joar.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c026a8dd726c94c26020910f3180d1d3",
+    "id": "425455356181872640",
+    "name": "Journey of a Roach",
+    "publishers": [
+        {
+            "id": "521816507102003201",
+            "name": "Daedalic Entertainment"
+        }
+    ],
+    "splash": "f71a9ff8aa2ab8ab27a5991f494b0ed1",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "255300",
+            "sku": "255300"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1728842666c30f3ebfefe499788f8143cb2bec1a3407c837dfe4d1bc7ead5a7e"
+}

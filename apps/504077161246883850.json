@@ -1,0 +1,38 @@
+{
+    "description": "A Japanese indie RPG developed by AlphaNuts about the adventures of a team of wannabe thieves.",
+    "developers": [
+        {
+            "id": "521816772979195916",
+            "name": "AlphaNuts"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the sacred tears true.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cbd5b419571c813cac3a296a7de413a0",
+    "id": "504077161246883850",
+    "name": "The Sacred Tears TRUE",
+    "publishers": [
+        {
+            "id": "521816772979195916",
+            "name": "AlphaNuts"
+        }
+    ],
+    "splash": "6a37df5b92d00852f22d38f7644e52f4",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "316840",
+            "sku": "316840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "67180e7fed093428bedf819cbed73e68caf48243a897a340c4216ad2e9063c94"
+}

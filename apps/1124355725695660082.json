@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spaceplan/spaceplan.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c3db1f956ac485d96a1b8d8d930648fd",
+    "id": "1124355725695660082",
+    "name": "SPACEPLAN",
+    "publishers": [
+        {
+            "id": "524352754680856589",
+            "name": "Jake Hollands"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "616110",
+            "sku": "616110"
+        }
+    ],
+    "type": 1,
+    "verify_key": "45feef413e011dbcd90d41b0ebd2c9fdf9310b42cf9b23b2011f03cd836f63a7"
+}

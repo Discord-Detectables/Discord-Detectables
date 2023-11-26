@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metal slug x/mslugx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "52c51e8e13b23bc51bd39ab5ab89ae7f",
+    "id": "1124353150107795507",
+    "name": "METAL SLUG X",
+    "publishers": [
+        {
+            "id": "1124352523751403580",
+            "name": "SNK CORPORATION"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "312610",
+            "sku": "312610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3008015b8d42c9440954c944318d4a59a11e08116f985b0ae35da31de1f3ab9b"
+}

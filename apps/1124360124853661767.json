@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "windows-i686/angels with scaly wings.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9eb9222f47e3c9c4fd8eb9ac722a2fb1",
+    "id": "1124360124853661767",
+    "name": "Angels with Scaly Wings",
+    "publishers": [
+        {
+            "id": "1124360125398929428",
+            "name": "Radical Phi"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "571880",
+            "sku": "571880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f20bc646e90f534facd3f47a811b2a2f1a3fa4318e220338d34d03664a226f62"
+}

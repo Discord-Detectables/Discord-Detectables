@@ -1,0 +1,51 @@
+{
+    "aliases": [
+        "Fallout New Vegas"
+    ],
+    "description": "The post-apocalyptic Fallout universe expands into Nevada in this new title in the franchise. As a courier once left for dead by a mysterious man in a striped suit, the player must now set out to find his assailant and uncover the secrets of the enigmatic ruler of New Vegas.",
+    "developers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "falloutnv.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "2bef57e1f17a1e8b2959a1ed91494474",
+    "id": "359509858728542208",
+    "name": "Fallout: New Vegas",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816588169510930",
+            "name": "Obsidian Entertainment"
+        },
+        {
+            "id": "521816500508819469",
+            "name": "Bethesda Softworks"
+        }
+    ],
+    "splash": "546c030342e549513b41476218b5164e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "22380",
+            "sku": "22380"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "ea2293cc42a8b9218522400ea86f247bfc759405212574063ded6b96abbb8956"
+}

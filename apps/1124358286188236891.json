@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the complex/thecomplex.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d4043148048ec389b0a83a1fcfa361b5",
+    "id": "1124358286188236891",
+    "name": "The Complex",
+    "publishers": [
+        {
+            "id": "521816645774082055",
+            "name": "Wales Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1107790",
+            "sku": "1107790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a9ab969fec28c766e3e1a64b55b243923ee12f708f3b8973f0b8ef4547deef3f"
+}

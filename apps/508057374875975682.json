@@ -1,0 +1,46 @@
+{
+    "description": "Visage is a first-person psychological horror game. Explore a mysterious ever-changing house in a slow-paced, atmospheric world that combines both uncannily comforting and horrifyingly realistic environments, and enjoy a genuinely terrifying experience.",
+    "developers": [
+        {
+            "id": "521816657060954133",
+            "name": "SadSquare Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "visage-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "506974721598947339",
+    "hook": true,
+    "icon": "607f8ad7c01c8f6e18c4716231ad3ccc",
+    "id": "508057374875975682",
+    "name": "Visage",
+    "primary_sku_id": "508057374875975682",
+    "publishers": [
+        {
+            "id": "521816657060954133",
+            "name": "SadSquare Studio"
+        }
+    ],
+    "slug": "visage",
+    "splash": "1458bcfff1c9ce9c84cb8e0c20f02ded",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "594330",
+            "sku": "594330"
+        },
+        {
+            "distributor": "discord",
+            "id": "508057374875975682",
+            "sku": "508057374875975682"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d1fcbd28c2be07bebbe66a0e5bb629fbbec27471538647f31ddd5882768d6c12"
+}

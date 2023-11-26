@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816602728071194",
+            "name": "Illusion Softworks, a.s."
+        }
+    ],
+    "eula_id": "542074049984200704",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mafia/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ee83e3b336db063c025db31c43acc2b4",
+    "id": "425443205195104277",
+    "name": "Mafia",
+    "primary_sku_id": "489243955041402880",
+    "publishers": [
+        {
+            "id": "542107996516253761",
+            "name": "2K"
+        }
+    ],
+    "slug": "mafia",
+    "splash": "623350d618c26d5b41fcd0e9b9066c76",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "40990",
+            "sku": "40990"
+        },
+        {
+            "distributor": "discord",
+            "id": "489243955041402880",
+            "sku": "489243955041402880"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d2b82db0417693cf2da332310a1bbc40df9f875ff1438323c1029f51fa5f4565"
+}

@@ -1,0 +1,44 @@
+{
+    "aliases": [
+        "Risk of Rain 2"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "risk of rain 2.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "risk of rain 2/risk of rain 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "417739215355510784",
+    "hook": true,
+    "icon": "b838c4c744b9cb9f8dd4c8afb82b085f",
+    "id": "569253958967885828",
+    "name": "Risk of Rain 2",
+    "publishers": [
+        {
+            "id": "521816623976415265",
+            "name": "Hopoo Games"
+        },
+        {
+            "id": "521816623976415265",
+            "name": "Hopoo Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "632360",
+            "sku": "632360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8040fa7504a966c327da9b629e5d9b9f9db2401a6513f5ddf8fab1bf6523215e"
+}

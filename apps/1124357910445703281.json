@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pokerlegends/pokerlegends.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "106d0446bf3a9448edbb611c96ea6774",
+    "id": "1124357910445703281",
+    "name": "Poker Legends: Tournaments",
+    "publishers": [
+        {
+            "id": "1124357910919655505",
+            "name": "DYNAMICNEXT"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "758980",
+            "sku": "758980"
+        }
+    ],
+    "type": 1,
+    "verify_key": "bc861832704f2afd46569ea632560973fa325b6dbd988dcac7045945ce296125"
+}

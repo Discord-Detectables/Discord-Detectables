@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "colony simulator/colony simulator.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6a87e8cdc4bd10b876254a46615aed34",
+    "id": "1124355141269729340",
+    "name": "Colony Simulator",
+    "publishers": [
+        {
+            "id": "1124355141718528114",
+            "name": "Indie Marc"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1853820",
+            "sku": "1853820"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2515a9b18af355d7713d0f50083a4790044640932f32f503e2c8c206e871e5b2"
+}

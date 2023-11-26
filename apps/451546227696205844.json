@@ -1,0 +1,32 @@
+{
+    "description": "Battle other badly drawn 2D stickman online while jumping around like a lunatic and getting blown up into smithereens.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "boringmangame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7316f6109142b0c77ffd5f3fcc76ca33",
+    "id": "451546227696205844",
+    "name": "Boring Man - Online Tactical Stickman Combat",
+    "publishers": [
+        {
+            "id": "521816712778350613",
+            "name": "Spasman Games"
+        }
+    ],
+    "splash": "1f4b2f4d8ac221060b7fde8b3fce0efd",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "346120",
+            "sku": "346120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9831975f76102685cfe30b8e2c7893dcc49411f24fa89ba51d7dc86ace449af8"
+}

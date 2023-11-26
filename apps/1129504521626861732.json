@@ -1,0 +1,45 @@
+{
+    "aliases": [
+        "Spiritfarer®: Edição Farewell",
+        "Spiritfarer®: Farewell Edition"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "kami/spiritfarer.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e341efaf71a440ecb581868b9942eb7f",
+    "id": "1129504521626861732",
+    "name": "Spiritfarer",
+    "publishers": [
+        {
+            "id": "1124353752976076892",
+            "name": "Thunder Lotus Games"
+        },
+        {
+            "id": "1124353752976076892",
+            "name": "Thunder Lotus Games"
+        },
+        {
+            "id": "1124353752976076892",
+            "name": "Thunder Lotus Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "972660",
+            "sku": "972660"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6cc02ba59d4e4e509d6dc37a8157017d617a30e829c36be803899b6459582a14"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "goonect/goonect.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "136387a75d100a487288b902cb7d48a2",
+    "id": "1124354323829243924",
+    "name": "Goonect",
+    "publishers": [
+        {
+            "id": "521816782479163394",
+            "name": "BANDAI NAMCO Studios Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1850360",
+            "sku": "1850360"
+        }
+    ],
+    "type": 1,
+    "verify_key": "897aa27d10e9e5b40a6e58d80b99665d6da719d0f4e043512e92d1c0879aa441"
+}

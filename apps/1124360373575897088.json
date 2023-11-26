@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nancy drew last train to blue moon canyon/game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e42097a76e3263f17bab430c6bfc1d67",
+    "id": "1124360373575897088",
+    "name": "Nancy Drew: Last Train to Blue Moon Canyon",
+    "publishers": [
+        {
+            "id": "1124359075916951644",
+            "name": "HeR Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "31810",
+            "sku": "31810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95bb614124dca948b022312b0cd7d7d533e26092a275d1eb7547ff8c19f674aa"
+}

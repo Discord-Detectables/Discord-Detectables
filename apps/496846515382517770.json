@@ -1,0 +1,40 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "krosmaster arena.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "krosmaster.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4f09a4cf9f9bfcebda04bbecec0f34e7",
+    "id": "496846515382517770",
+    "name": "Krosmaster Arena",
+    "publishers": [
+        {
+            "id": "521816760387764252",
+            "name": "Ankama"
+        },
+        {
+            "id": "521816760387764255",
+            "name": "Ankama Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "329790",
+            "sku": "329790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "352945662e4a068330eb9b7faa3ee284330945465cfee82cc2062a4d042416ee"
+}

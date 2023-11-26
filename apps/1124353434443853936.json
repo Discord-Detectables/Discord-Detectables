@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/whatneverwas-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b6202fc3c703c3ac6f3ca2b845d2ff7b",
+    "id": "1124353434443853936",
+    "name": "What Never Was",
+    "publishers": [
+        {
+            "id": "1124353434922012832",
+            "name": "Acke Hallgren"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "866440",
+            "sku": "866440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "44724cb507daca59006a814472e7a99e35ca328d5691e183d7244cba506e8be4"
+}

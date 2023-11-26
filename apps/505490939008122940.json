@@ -1,0 +1,24 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "helbreath.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dbc0d3836aafd16c3a68c7b4a52bf080",
+    "id": "505490939008122940",
+    "name": "Helbreath Apocalypse",
+    "publishers": [
+        {
+            "id": "521816508167487489",
+            "name": "PlayHelbreath"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "f199bc222a66e593e2c44a3408300fd74161df7575a8682b97a8280ce0219413"
+}

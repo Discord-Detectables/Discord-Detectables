@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "compound demo/compound.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d3a29b2764cfc35eb07a21cdd824655a",
+    "id": "1124358754960421006",
+    "name": "COMPOUND Demo",
+    "publishers": [
+        {
+            "id": "1124357029033689098",
+            "name": "Bevan McKechnie"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "615960",
+            "sku": "615960"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b40d7f14e3fdc862e7be5c3f69e1c368d6f85767ee1196858b7aa9c31a8ef613"
+}

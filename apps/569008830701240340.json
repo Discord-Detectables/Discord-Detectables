@@ -1,0 +1,43 @@
+{
+    "aliases": [
+        "Sekiro™: Shadows Die Twice"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sekiro/sekiro.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sekiro.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c07bcb25fbd8f645213c541c8d6ba064",
+    "id": "569008830701240340",
+    "name": "Sekiro™: Shadows Die Twice",
+    "publishers": [
+        {
+            "id": "521816800560939010",
+            "name": "FromSoftware"
+        },
+        {
+            "id": "521816800560939010",
+            "name": "FromSoftware"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "814380",
+            "sku": "814380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "75438929b8d28f68fba11f602f9362317c66489cd268e8da74495aa1cdd89a6d"
+}

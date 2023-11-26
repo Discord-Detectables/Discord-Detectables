@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/deskjob.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a8778766b2e5c3e3a5cfe8bb88d0a36a",
+    "id": "1124351966026420235",
+    "name": "Aperture Desk Job",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1902490",
+            "sku": "1902490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "35483fbc5c8c660ce0269d5928217df286ae1b8b76943e2fb928a0caec6cc6cc"
+}

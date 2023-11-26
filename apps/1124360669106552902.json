@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "loop loop dx/loop-loop dx.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a0da8ce395f17a3e9b125ec013b5b6e2",
+    "id": "1124360669106552902",
+    "name": "Loop-Loop DX",
+    "publishers": [
+        {
+            "id": "524353136308125702",
+            "name": "Alex Carpenter"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "875610",
+            "sku": "875610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7947f87e7cdd00062545321c1bb9cd8f249457a7bfd2429c65b71ed355527f3d"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "syberia the world before - prologue/syberiatwbp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6514ee6515b53bf1abeb348186e3e5b8",
+    "id": "1124360650609676309",
+    "name": "Syberia The World Before - Prologue",
+    "publishers": [
+        {
+            "id": "1124360651083628635",
+            "name": "Koalabs"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1421230",
+            "sku": "1421230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c309e6f4e9084eb5ad900a6bd21b52141bf053f0f95562028c087730479c833d"
+}

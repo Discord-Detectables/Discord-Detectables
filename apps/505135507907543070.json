@@ -1,0 +1,41 @@
+{
+    "aliases": [
+        "Gensou SkyDrift"
+    ],
+    "description": "SkyDrift is an arcade style, aerial racing game that was released Sept. 7, 2011 on XBLM and PS3N.\nIt was later released on Nov.21, 2011 on Steam.",
+    "developers": [
+        {
+            "id": "521816681228664848",
+            "name": "Digital Reality, Ltd."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "skydrift.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "72e41c3e26d08759eb297838003842f4",
+    "id": "505135507907543070",
+    "name": "SkyDrift",
+    "publishers": [
+        {
+            "id": "521816681228664848",
+            "name": "Digital Reality, Ltd."
+        }
+    ],
+    "splash": "46ceb02e3aab7b0962689e6012c35f84",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "91100",
+            "sku": "91100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d9070ae49254d4767acdf818317c1ac247b8f08798dc2bda9d91ae91f9ca3510"
+}

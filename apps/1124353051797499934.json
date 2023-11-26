@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "vanquish/vanquish.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ac649c17b4bba2017ceed11df383795b",
+    "id": "1124353051797499934",
+    "name": "Vanquish",
+    "publishers": [
+        {
+            "id": "521816725793275924",
+            "name": "PlatinumGames"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "460810",
+            "sku": "460810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3d1143bfd8b4bdf4afce5b9e24e9a0b31b6a5e2716a43ba2e477e4303d80e5b4"
+}

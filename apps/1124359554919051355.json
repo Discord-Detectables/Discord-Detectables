@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "exocolonist/exocolonist.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4076b49c24176d87ad2b57656b85c84e",
+    "id": "1124359554919051355",
+    "name": "I Was a Teenage Exocolonist",
+    "publishers": [
+        {
+            "id": "524352239133917189",
+            "name": "Northway Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1148760",
+            "sku": "1148760"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ac1c5e7fa78aacccbf9a538ce0b25ba4a63ab9604e3adf2c43a9be315235597a"
+}

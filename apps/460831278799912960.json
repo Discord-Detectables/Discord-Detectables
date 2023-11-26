@@ -1,0 +1,32 @@
+{
+    "description": "Next Day: Survival",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "next day survival/nextday_game.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e31f076227048bb30b97a4cbe36fea3d",
+    "id": "460831278799912960",
+    "name": "Next Day: Survival",
+    "publishers": [
+        {
+            "id": "521816760387764249",
+            "name": "Last Level"
+        }
+    ],
+    "splash": "b54a8b987c7b2dd71bb9b4f46c52acc5",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "519190",
+            "sku": "519190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0260cdb9d6589f4a33b8b4eb81348ede00d308c1a5879ecb9cfea1bc2f40f107"
+}

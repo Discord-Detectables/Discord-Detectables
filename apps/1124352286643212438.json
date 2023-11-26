@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "contraband police prologue/contrabandpolice.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bad4709d69a6c13dcc8341f42b9deb5f",
+    "id": "1124352286643212438",
+    "name": "Contraband Police: Prologue",
+    "publishers": [
+        {
+            "id": "1124352287104581692",
+            "name": "Crazy Rocks"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1396240",
+            "sku": "1396240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e59893292cc172a4ca1ed0c019ce748dacf334d739da6f7009aeaedd507b9c09"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "patrick's parabox demo/patrick's parabox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dabdda853ac5eb07d19f630ae3eaad8a",
+    "id": "1124359709886009444",
+    "name": "Patrick's Parabox Demo",
+    "publishers": [
+        {
+            "id": "1124357455552466944",
+            "name": "Patrick Traynor"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1320610",
+            "sku": "1320610"
+        }
+    ],
+    "type": 1,
+    "verify_key": "2b276fac498e607afd4c68eba2f1ceb2699df7376856a367e84ddf8e852290dc"
+}

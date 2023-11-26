@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "incremental adventures/incrementaladventures.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16952ce990d72f09a9c801ce1287e514",
+    "id": "1124355272006176879",
+    "name": "Incremental Adventures",
+    "publishers": [
+        {
+            "id": "1124355272467558450",
+            "name": "Gniller"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1371630",
+            "sku": "1371630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b4a1151226f9847e6a3f8e1369551e0be858ce5024fb3b7bfcfc6ea4cf712e2f"
+}

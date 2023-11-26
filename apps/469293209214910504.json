@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816746546561024",
+            "name": "Realmforge Studios GmbH"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeons2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "da6258fd78e8cfda1a48d637e9624ea4",
+    "id": "469293209214910504",
+    "name": "Dungeons 2",
+    "primary_sku_id": "471028128547078157",
+    "publishers": [
+        {
+            "id": "521816629416296449",
+            "name": "Kalypso Media"
+        }
+    ],
+    "slug": "dungeons-2",
+    "splash": "ba51f599a8c192905f3c0c2d033ce8a2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "471028128547078157",
+            "sku": "471028128547078157"
+        },
+        {
+            "distributor": "steam",
+            "id": "262280",
+            "sku": "262280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "be0b69f1184d7f539ed1b8a12b6d4d4e5e973d524552e958f01186a451c085e8"
+}

@@ -1,0 +1,47 @@
+{
+    "cover_image": "6e760cc2c262ffa1d8e96272305fc1b9",
+    "description": "Parkasaurus is a zany Dinosaur Park management game, that challenges the player not only to provide guests with a unique dinosaur zoo experience, but to care for their dino friends by crafting the perfect exhibits, gifting them the cutest hats, and travelling back in time to rescue them from their demise!",
+    "developers": [
+        {
+            "id": "612675234914631680",
+            "name": "Washbear Studio"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "parkasaurus/parkasaurus.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "388052142239252511",
+    "hook": true,
+    "icon": "4606c6feaa803e7c3a9ac53f20b8c92e",
+    "id": "508008071411400724",
+    "name": "Parkasaurus",
+    "primary_sku_id": "508008071411400724",
+    "publishers": [
+        {
+            "id": "612675235015032892",
+            "name": "WashBear Studio"
+        }
+    ],
+    "slug": "parkasaurus",
+    "splash": "7e63ca5a83cb88250e1f4522fdde1095",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "508008071411400724",
+            "sku": "508008071411400724"
+        },
+        {
+            "distributor": "steam",
+            "id": "591460",
+            "sku": "591460"
+        }
+    ],
+    "type": 1,
+    "verify_key": "50db38f5dfdd51f2a486c5c1660b7501a79961c815e585caf25523de545da94f"
+}

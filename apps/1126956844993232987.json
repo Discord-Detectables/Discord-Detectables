@@ -1,0 +1,36 @@
+{
+    "aliases": [
+        "NARAKA: BLADEPOINT"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "naraka bladepoint/narakabladepoint.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "00c5c1ce8e61c382be8499156242b959",
+    "id": "1126956844993232987",
+    "name": "NARAKA: BLADEPOINT",
+    "publishers": [
+        {
+            "id": "1126956845664313395",
+            "name": "24 Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1203220",
+            "sku": "1203220"
+        }
+    ],
+    "type": 1,
+    "verify_key": "eeb0f6995336e6150b609d4e5d784662c3972fe041c1f9317c3390dece8adc0e"
+}

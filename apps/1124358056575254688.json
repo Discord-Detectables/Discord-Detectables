@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "1982/1982.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "234bae3630100d0a1aefa11ce6be3e0f",
+    "id": "1124358056575254688",
+    "name": "1982",
+    "publishers": [
+        {
+            "id": "524351748098228225",
+            "name": "Binary Zoo"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "639650",
+            "sku": "639650"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ead3a6f5ea974a6e2c6bfc7eddb36d6b37e357645504b9e418462461ec90d01a"
+}

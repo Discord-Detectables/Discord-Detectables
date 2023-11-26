@@ -1,0 +1,40 @@
+{
+    "aliases": [
+        "Muse Dash"
+    ],
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "muse dash/musedash.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "037e502ff5576b921193002c80779998",
+    "id": "1129504149915050055",
+    "name": "Muse Dash",
+    "publishers": [
+        {
+            "id": "524353187721904163",
+            "name": "PeroPeroGames"
+        },
+        {
+            "id": "1129504152809132112",
+            "name": "peropero"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "774171",
+            "sku": "774171"
+        }
+    ],
+    "type": 1,
+    "verify_key": "83f4d245190ee9ed75c28e25154878ad478776a6c30dc8163d679a934a1a2e39"
+}

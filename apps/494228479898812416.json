@@ -1,0 +1,38 @@
+{
+    "description": "Planetbase is a strategy game where players guide a group of space settlers trying to establish an outpost on a remote planet.",
+    "developers": [
+        {
+            "id": "521816794722205696",
+            "name": "Madruga Works"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "planetbase.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a92bfaebac8237a254eebeedf0b0f301",
+    "id": "494228479898812416",
+    "name": "Planetbase",
+    "publishers": [
+        {
+            "id": "521816794722205696",
+            "name": "Madruga Works"
+        }
+    ],
+    "splash": "4095fb02a60b752f1c13156d48c2947a",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "403190",
+            "sku": "403190"
+        }
+    ],
+    "type": 1,
+    "verify_key": "757b6aeb38d558e3345f85cb0a38d83c016461e9ff957528e2a5ad7dd94b643d"
+}

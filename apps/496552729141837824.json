@@ -1,0 +1,42 @@
+{
+    "description": "A cel-shaded parkour-infused action platforming game set in the remains of mysterious floating ruins.",
+    "developers": [
+        {
+            "id": "521816700153495556",
+            "name": "Coilworks"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cloudbuilt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "42d15309ab9f6da911f777b8d257c145",
+    "id": "496552729141837824",
+    "name": "Cloudbuilt",
+    "publishers": [
+        {
+            "id": "521816700153495556",
+            "name": "Coilworks"
+        },
+        {
+            "id": "521816519332855818",
+            "name": "Rising Star Games"
+        }
+    ],
+    "splash": "9f01a92ac1e768812dfd62fa870722bf",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "262390",
+            "sku": "262390"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f84f9e5f337a6a9cd03baf1271c29fe0f30663aa6e4d4c35cf1a719230eed1b"
+}

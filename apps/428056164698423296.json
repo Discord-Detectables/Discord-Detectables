@@ -1,0 +1,31 @@
+{
+    "description": "Metro Conflict: The Origin",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "metroconflict.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "86ba61028002eec3a7999df69d36c930",
+    "id": "428056164698423296",
+    "name": "Metro Conflict: The Origin",
+    "publishers": [
+        {
+            "id": "521816790599335987",
+            "name": "RED DUCK, INC."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "662320",
+            "sku": "662320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7dbc588eac88ae552cf4a4c4216bb2f218cfeb37c10492a759a6810a78c02553"
+}

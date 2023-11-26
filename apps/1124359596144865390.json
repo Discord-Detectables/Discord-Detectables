@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idle space raider/isr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "bede0b63c5ec46ea717b66e6f8dcd9d7",
+    "id": "1124359596144865390",
+    "name": "Idle Space Raider",
+    "publishers": [
+        {
+            "id": "1124359418725814272",
+            "name": "Coconut Shavers"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "933540",
+            "sku": "933540"
+        }
+    ],
+    "type": 1,
+    "verify_key": "23763b0b5acb3063c266ee796e0747503712f73e1f29df0e572a1a4bd6788494"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "Coloring Pixels is a pixel based coloring by numbers game where the player colors in pixel art images from predefined pallet.",
+    "developers": [
+        {
+            "id": "521816711532511251",
+            "name": " ToastieLabs"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "coloringpixels.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d010eaa746c29af8da104fc3c538ef05",
+    "id": "495871643432910848",
+    "name": "Coloring Pixels",
+    "publishers": [
+        {
+            "id": "521816711532511251",
+            "name": " ToastieLabs"
+        }
+    ],
+    "splash": "4f08d071b23e4dc8dd7a79aabaaa969b",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "897330",
+            "sku": "897330"
+        }
+    ],
+    "type": 1,
+    "verify_key": "26ee230b7a708a311585ba71764fd890e342010f1353dc8b65e06c39449aff57"
+}

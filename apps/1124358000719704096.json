@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pro cycling manager 2021/pcm64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "49f0dd9c82117233bbc77c0b7d26edbb",
+    "id": "1124358000719704096",
+    "name": "Pro Cycling Manager 2021",
+    "publishers": [
+        {
+            "id": "521816537653444608",
+            "name": "Cyanide Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1453850",
+            "sku": "1453850"
+        }
+    ],
+    "type": 1,
+    "verify_key": "aebe8b6ff02e39d48080fa6d1682cdaa739e97bdc5f8ed40f6a6b93c7700445a"
+}

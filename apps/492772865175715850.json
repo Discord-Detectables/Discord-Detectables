@@ -1,0 +1,41 @@
+{
+    "cover_image": "2319011df03e3e55d4670ce7fb518be0",
+    "description": "Build a civilization that will stand the test of time in the largest space-based strategy game ever! Choose from dozens of unique races and make a name for yourself across the galaxy through diplomacy, espionage, technological advances, and more.",
+    "developers": [
+        {
+            "id": "521816531831750658",
+            "name": "Stardock Entertainment"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "galciv3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "299942486095167489",
+    "hook": true,
+    "icon": "fdca7d88578870e5b48cb46c90f338cb",
+    "id": "492772865175715850",
+    "name": "Galactic Civilizations III",
+    "primary_sku_id": "498203870363910145",
+    "publishers": [
+        {
+            "id": "521816531831750658",
+            "name": "Stardock Entertainment"
+        }
+    ],
+    "slug": "galactic-civilizations-iii",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "498203870363910145",
+            "sku": "498203870363910145"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b298fc07d21675c142585cbd842a00de3a1c7d67b6740cd9eb39e12d04e37755"
+}

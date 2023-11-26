@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cattle and crops/cattleandcrops.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "330df1bb528947376ce350d698cc58e8",
+    "id": "1124359696233549934",
+    "name": "Professional Farmer: Cattle and Crops",
+    "publishers": [
+        {
+            "id": "524352771110076429",
+            "name": "Masterbrain Bytes"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "704030",
+            "sku": "704030"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8b164fc8346423996bd34b34c213f188a08761ed59ff7dcd5a34f954c96ea029"
+}

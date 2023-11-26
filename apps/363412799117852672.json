@@ -1,0 +1,43 @@
+{
+    "description": "A post-apocalyptic massively multiplayer online car combat game.",
+    "developers": [
+        {
+            "id": "521816790083567631",
+            "name": "Targem Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "crossout-d3d9.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "crossout.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "86657c66b007c140372b22ce084270a8",
+    "id": "363412799117852672",
+    "name": "Crossout",
+    "publishers": [
+        {
+            "id": "521816505688522752",
+            "name": "Gaijin Entertainment"
+        }
+    ],
+    "splash": "f1986f1002e6076d6aa922d33b5ca907",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "386180",
+            "sku": "386180"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f1cb18685c959dc3c22d2bdefdf2d0a2352010fe2af9b86e417d2a813eef29b4"
+}

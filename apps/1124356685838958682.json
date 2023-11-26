@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/enslaved.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f01a81479bbb7bda28f73a97838d1e3a",
+    "id": "1124356685838958682",
+    "name": "ENSLAVED™: Odyssey to the West™ Premium Edition",
+    "publishers": [
+        {
+            "id": "521816785801052162",
+            "name": "Ninja Theory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "245280",
+            "sku": "245280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "54ac7f507786d2964c7a117f515a74248405a01864e82fe86c57ef46c8457c6a"
+}

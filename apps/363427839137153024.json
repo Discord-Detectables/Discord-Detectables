@@ -1,0 +1,39 @@
+{
+    "description": "Dying Light is a first-person, open world game set in a zombie apocalypse. The player character is able to free-run to get around the environment quickly.",
+    "developers": [
+        {
+            "id": "521816637956161558",
+            "name": "Techland Sp. z o.o."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dyinglightgame.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e9465677c4f03394da82e8107ab73d70",
+    "id": "363427839137153024",
+    "name": "Dying Light",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816499464306690",
+            "name": "WB Games"
+        }
+    ],
+    "splash": "d83e6e087f91f562c7c72f9730d753f2",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "239140",
+            "sku": "239140"
+        }
+    ],
+    "type": 1,
+    "verify_key": "790861051bcc0404b88b93c44e40115a1580bb4024f86138e4fab1fd8213d890"
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "developers": [
+        {
+            "id": "521816544385171489",
+            "name": "RedWolf Design"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "clonk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "295f46ab97078a31f7a4cf2cc68045a0",
+    "id": "496552591111618565",
+    "name": "Clonk Rage",
+    "publishers": [
+        {
+            "id": "521816544385171488",
+            "name": "RedWolf Design GmbH"
+        },
+        {
+            "id": "521816544385171489",
+            "name": "RedWolf Design"
+        }
+    ],
+    "summary": "",
+    "type": 1,
+    "verify_key": "3c8e2fc247be61694fcc3e3de925c0e861e006778b419dfb037917838dda7064"
+}

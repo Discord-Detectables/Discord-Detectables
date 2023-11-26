@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "date a live rio reincarnation/date a live rio-reincarnation.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fc05be7c48ccc678991cc9d65cc1f4cc",
+    "id": "1124357367153307698",
+    "name": "DATE A LIVE: Rio Reincarnation",
+    "publishers": [
+        {
+            "id": "521816626203459620",
+            "name": "Idea Factory"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1047440",
+            "sku": "1047440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "06f02131c265d0b8774ca7600663129279de5f16c5d08d4d94e62bea3a943195"
+}

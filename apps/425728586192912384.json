@@ -1,0 +1,32 @@
+{
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "silent hunters wolves of the pacific/sh4.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "017849fd4dfd616679e4723ddc9334cd",
+    "id": "425728586192912384",
+    "name": "Silent Hunter: Wolves of the Pacific",
+    "publishers": [
+        {
+            "id": "521816683233411082",
+            "name": "Ubisoft Romania"
+        }
+    ],
+    "splash": "1c14e5183b8df57b6310e45adfa1cbac",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "15200",
+            "sku": "15200"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f5aaf8a00ebe5a5142d0a7e60333548c38069866e9412de5715b27e106384055"
+}

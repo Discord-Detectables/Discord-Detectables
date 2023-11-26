@@ -1,0 +1,46 @@
+{
+    "cover_image": "1a576b74827ea60d0d93a30848988e92",
+    "description": "Oddworld: New 'n' Tasty is the ground-up remake of our first ever adventure, Abe's Oddysee.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nnt.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "293291256736382976",
+    "hook": true,
+    "icon": "e2d05fb2c3d0e4db0b0f3fb71822954e",
+    "id": "492146632511586313",
+    "name": "Oddworld: New 'n' Tasty",
+    "primary_sku_id": "492374183238696966",
+    "publishers": [
+        {
+            "id": "521816771745939467",
+            "name": "Oddworld Inhabitants, Inc."
+        }
+    ],
+    "slug": "oddworld-new-n-tasty",
+    "splash": "3fb237f933af85d5175dc846a28d0bdc",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "discord",
+            "id": "492374183238696966",
+            "sku": "492374183238696966"
+        },
+        {
+            "distributor": "steam",
+            "id": "314660",
+            "sku": "314660"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "f933c993dd99d491765ab896a8e2cfcd8d1d1465cecc29d91c09e9bc54ef334e"
+}

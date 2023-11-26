@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "indivisible/indivisible.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f2d4e3e51fe1eac5a9222c39648354cf",
+    "id": "1124354461960261812",
+    "name": "Indivisible",
+    "publishers": [
+        {
+            "id": "524352180862320668",
+            "name": "Lab Zero Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "421170",
+            "sku": "421170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9c80ba9da2b77395c98ec745b2427fa580fd30654a32ea4990b8a6454c500a53"
+}

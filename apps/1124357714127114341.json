@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ghostbusters the video game remastered/ghost.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dfb75be63959670906c31cfd1f9b5509",
+    "id": "1124357714127114341",
+    "name": "Ghostbusters: The Video Game Remastered",
+    "publishers": [
+        {
+            "id": "521816571581038634",
+            "name": "Saber Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1449280",
+            "sku": "1449280"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d700fa470ef93dceb83b7895af11feaecef4eaf08591540ba25de4437e18310b"
+}

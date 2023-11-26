@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "idle wizard/idlewizard.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b2b919591d0111cc38745c5dd3d12954",
+    "id": "1124353976389873795",
+    "name": "Idle Wizard",
+    "publishers": [
+        {
+            "id": "1124353976863838288",
+            "name": "TwoWizards"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "992070",
+            "sku": "992070"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e724917c71a254d6a444b942593951378ace6c3adde8724b3a0c7f4759d278da"
+}

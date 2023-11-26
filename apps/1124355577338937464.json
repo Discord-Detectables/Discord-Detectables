@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "starbreak/mvmmoclient.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "822fbbd0145295c7e61db4379df68734",
+    "id": "1124355577338937464",
+    "name": "StarBreak",
+    "publishers": [
+        {
+            "id": "524352456411447300",
+            "name": "Crunchy Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "420790",
+            "sku": "420790"
+        }
+    ],
+    "type": 1,
+    "verify_key": "93874408f2ee028c5a9592d5aa6f88848f5d906c7992d1385f776d7da1d7d5ee"
+}

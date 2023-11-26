@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/frontiers-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "511eacf63c6dc3167b31a40ecbb5be08",
+    "id": "1124352855919312967",
+    "name": "Torchlight III",
+    "publishers": [
+        {
+            "id": "1124352856397459536",
+            "name": "Echtra Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1030210",
+            "sku": "1030210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "d3ec73a7e09d30a0a19e97df0235ac64d5ba2de73c8061c052cb9f8d9a2ba225"
+}

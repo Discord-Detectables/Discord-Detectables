@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "war robots vr the skirmish/wr-vr.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "dbfcdbd83b8e85a7b4da1ae40a2ee216",
+    "id": "1124358097973031072",
+    "name": "War Robots VR: The Skirmish",
+    "publishers": [
+        {
+            "id": "521816773629181954",
+            "name": "Pixonic"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "672640",
+            "sku": "672640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4959c175ce85d846f7d4a7db17721a1ba023f28eec71bc9a9e90fc776c6d3e6a"
+}

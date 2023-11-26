@@ -1,0 +1,38 @@
+{
+    "description": "Orwell: Keeping an Eye On You is an adventure game played entirely on a virtual desktop in which players must collect data on their targets to solve a mysterious terror attack.",
+    "developers": [
+        {
+            "id": "521816625020928011",
+            "name": "Osmotic Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "orwell.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d11987aff00964dda18de33c11a7611a",
+    "id": "479821376975405066",
+    "name": "Orwell",
+    "publishers": [
+        {
+            "id": "521816625020928007",
+            "name": "Fellow Traveller"
+        }
+    ],
+    "splash": "6a9b14519af0f893e68dc47bf8aa65cb",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "491950",
+            "sku": "491950"
+        }
+    ],
+    "type": 1,
+    "verify_key": "085c08ca31cc71122169d80afb49956faa2a0ef6f7c26fc87111eebf8c0dfd02"
+}

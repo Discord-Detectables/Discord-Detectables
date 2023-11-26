@@ -1,0 +1,32 @@
+{
+    "description": "Spellbreak",
+    "developers": [
+        {
+            "id": "524352243445661701",
+            "name": "Proletariat Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "spellbreak.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "116173324647661575",
+    "hook": true,
+    "icon": "f032c1b8a6e649aa5adbb210ada28e00",
+    "id": "549512435585908756",
+    "name": "Spellbreak",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "803370",
+            "sku": "803370"
+        }
+    ],
+    "type": 1,
+    "verify_key": "95793930ad4382954c9da2bc9c0326e3b993f4901c34fbffe9a4507865f610cb"
+}

@@ -1,0 +1,38 @@
+{
+    "description": "For the King is an online co-op, turn-based, hex-based, strategy RPG.",
+    "developers": [
+        {
+            "id": "521816633392627712",
+            "name": "IronOak Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ftk.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "57dd0b3b55c8bffd2f700ae0efbc91e0",
+    "id": "451540626270584833",
+    "name": "For The King",
+    "publishers": [
+        {
+            "id": "521816633392627712",
+            "name": "IronOak Games"
+        }
+    ],
+    "splash": "4ea1461616f561885243d4fc81484866",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "527230",
+            "sku": "527230"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b529c0f82bba491a456bff608eba6bd2fda851e2e383289ac134aa2f7ea78d0a"
+}

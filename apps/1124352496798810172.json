@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeons 3/dungeons3bin.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "1abcf62a2b2c99a7548dfe8ae68556c7",
+    "id": "1124352496798810172",
+    "name": "Dungeons 3",
+    "publishers": [
+        {
+            "id": "1124352497289539594",
+            "name": "Realmforge Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "493900",
+            "sku": "493900"
+        }
+    ],
+    "type": 1,
+    "verify_key": "afa0850a1a10f3a097a78080c7b71dbb6ac508fc1215937c3a8aa3c5a06e88eb"
+}

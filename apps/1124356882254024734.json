@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mosaique neko waifus 2/mosaique neko waifus 2.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "6d2728274f2acae213b593bbd4e1cef5",
+    "id": "1124356882254024734",
+    "name": "Mosaique Neko Waifus 2",
+    "publishers": [
+        {
+            "id": "1124354724766957731",
+            "name": "Lil Hentai Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1299120",
+            "sku": "1299120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "c86266000415bb06aa18a77e84a0c9555615bd4adc91039f32b10995a976bc37"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cotl_demo_win/cult of the lamb.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "a9659588eeaadc27287bdfdc65ed8553",
+    "id": "1124352422807097415",
+    "name": "Cult of the Lamb Demo",
+    "publishers": [
+        {
+            "id": "524352475835400203",
+            "name": "Massive Monster"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2013570",
+            "sku": "2013570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "876da40962b5e4fa6121b7fef878fccdf472013454827f1d9f13b1ba73119098"
+}

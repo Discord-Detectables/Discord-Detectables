@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "turbo overkill/turbo overkill.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "16f82de045c100b6e54e32ae1ba4807f",
+    "id": "1124357840048509090",
+    "name": "Turbo Overkill",
+    "publishers": [
+        {
+            "id": "1124355368793948240",
+            "name": "Trigger Happy Interactive"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1328350",
+            "sku": "1328350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "409f37a5e298f0cc8dde90860b82f72b2c78e96b13b1fff9e5cd9d6b44bdc028"
+}

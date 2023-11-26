@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "lake/lake.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b1e662960644ff5981a8ce279895dc44",
+    "id": "1124355285419577394",
+    "name": "Lake",
+    "publishers": [
+        {
+            "id": "521816641772847126",
+            "name": "Gamious"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1118240",
+            "sku": "1118240"
+        }
+    ],
+    "type": 1,
+    "verify_key": "064cc321118124dc5d34d5757e6bd173a04b7cffd9f2773b84c94f30e941e7a8"
+}

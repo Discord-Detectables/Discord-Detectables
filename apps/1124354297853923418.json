@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "darksburg/darksburg.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e6b90720d05ee6a560bc8fefe3d40ab8",
+    "id": "1124354297853923418",
+    "name": "Darksburg",
+    "publishers": [
+        {
+            "id": "521816589570408450",
+            "name": "Shiro Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "939100",
+            "sku": "939100"
+        }
+    ],
+    "type": 1,
+    "verify_key": "6bfb3a3a32a1fc66b45f7fadcec3df0f3211becd7d367ad85754daf2733df671"
+}

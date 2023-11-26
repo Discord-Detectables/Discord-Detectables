@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/vikingoyunu-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "28a1b52d14da8af1c981e44abafd8d00",
+    "id": "1124356947441889430",
+    "name": "Land of the Vikings",
+    "publishers": [
+        {
+            "id": "1124356947941019729",
+            "name": "Laps Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1981570",
+            "sku": "1981570"
+        }
+    ],
+    "type": 1,
+    "verify_key": "8f6833924a20c75810ce9df6e4a3a00df6f0395ff1577e52341d55602a6a7d55"
+}

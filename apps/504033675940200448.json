@@ -1,0 +1,37 @@
+{
+    "description": "SinaRun is a minimalist 3D platform/racing game.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "sinarun.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sinarun.app",
+            "os": "darwin"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "32ace2d56ee99adf6b4d0c6a97277aa7",
+    "id": "504033675940200448",
+    "name": "SinaRun",
+    "publishers": [
+        {
+            "id": "521816606901534726",
+            "name": "Princesseuh"
+        }
+    ],
+    "splash": "6d05a644216b7a6d8aa77c7222366738",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "324470",
+            "sku": "324470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4539816fbf4a21b657c6d9622e99d2d15311f51ff8f103bdf8839f2304def11e"
+}

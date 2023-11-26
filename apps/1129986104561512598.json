@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mythgard/mythgard.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "fdaebcd83823e0419a7d25d2f07ae922",
+    "id": "1129986104561512598",
+    "name": "Mythgard",
+    "publishers": [
+        {
+            "id": "1129986105689767967",
+            "name": "Rhino Games Inc"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "839910",
+            "sku": "839910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9e33fcf6f621e82c7fad23105bff943441822c99104cdddb8bf1d43deee2c803"
+}

@@ -1,0 +1,39 @@
+{
+    "description": "A cross-platform MMO in development by Sandbox Interactive.",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "albion-online.app",
+            "os": "darwin"
+        },
+        {
+            "is_launcher": false,
+            "name": "albion-online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "guild_id": "105651127692881920",
+    "hook": true,
+    "icon": "d02f9a9e52c633a16ca27750eaa08553",
+    "id": "496526645671231488",
+    "name": "Albion Online",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816582570377228",
+            "name": "Sandbox Interactive GmbH"
+        }
+    ],
+    "splash": "0f4827eb7b5f91bec7471f461d4abb0f",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "761890",
+            "sku": "761890"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e448b024b247df37fb9c119973197d8c3f9b39debcfdbf4d2eced23a0d07e304"
+}

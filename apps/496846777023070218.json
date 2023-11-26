@@ -1,0 +1,42 @@
+{
+    "description": "A free-to-play sandbox game by SOE in which players can use detailed editing tools to create items, structures, and worlds in collaboration with thousands of other players. The game started as an EverQuest side project with some user-created content intended to carry over to EverQuest Next. But EQ Next was canceled.",
+    "developers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "landmark/launchpad.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "landmark64.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3629e6a5f8ec545a679be15d2fb5f4a6",
+    "id": "496846777023070218",
+    "name": "Landmark",
+    "publishers": [
+        {
+            "id": "521816500974256130",
+            "name": "Daybreak Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "297810",
+            "sku": "297810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e41c9a169b9dfc7bdad5050f5a9cb02dce19c9976cd799ba217e3931a877b67f"
+}

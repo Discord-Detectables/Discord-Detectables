@@ -1,0 +1,39 @@
+{
+    "description": "A party-based roguelike game with elements of 4X resource management and tower defense.",
+    "developers": [
+        {
+            "id": "521816527343845459",
+            "name": "Amplitude Studios"
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dungeonoftheendless.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "940df9bdc80735755914ec167417fe47",
+    "id": "444853958977126400",
+    "name": "Dungeon of the Endless",
+    "overlay": true,
+    "publishers": [
+        {
+            "id": "521816527343845450",
+            "name": "AMPLITUDE Studios"
+        }
+    ],
+    "splash": "bbfb79f3099fff739f6be1b5f67ff183",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "249050",
+            "sku": "249050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "48988bde83029850dc6f7bbb5977800b0808408838cddeba357493181f1ff7fa"
+}

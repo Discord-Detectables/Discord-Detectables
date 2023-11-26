@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "game of thrones/thrones.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "354d85ebdf3657ca5a0d9215240219b2",
+    "id": "1124356286507667546",
+    "name": "Game of Thrones - A Telltale Games Series",
+    "publishers": [
+        {
+            "id": "521816542258790401",
+            "name": "Telltale Games"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "330840",
+            "sku": "330840"
+        }
+    ],
+    "type": 1,
+    "verify_key": "3aa45a2f9e8350fbe61edfd1f9efe6644aa332737ffb5a9798f28f3f34f7b331"
+}

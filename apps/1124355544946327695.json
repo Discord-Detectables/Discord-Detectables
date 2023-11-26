@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warhammer underworlds online/wuo.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "daaabc9b026ca6a4cb94b61f064affe1",
+    "id": "1124355544946327695",
+    "name": "Warhammer Underworlds: Online",
+    "publishers": [
+        {
+            "id": "580992240378183680",
+            "name": "Steel Sky Productions"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1022310",
+            "sku": "1022310"
+        }
+    ],
+    "type": 1,
+    "verify_key": "115edb0a1835cce458b9263dfd10843a51c12a51915fa86f15c1f5f55c68ab21"
+}

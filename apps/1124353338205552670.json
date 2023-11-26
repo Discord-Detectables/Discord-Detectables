@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "supercratebox/supercratebox.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "3a7205997df048bd2b8d99fcc1fbe7fb",
+    "id": "1124353338205552670",
+    "name": "Super Crate Box",
+    "publishers": [
+        {
+            "id": "521816521249521688",
+            "name": "Vlambeer"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "212800",
+            "sku": "212800"
+        }
+    ],
+    "type": 1,
+    "verify_key": "61b7b927540b33d747eb3f20f2d9297ee09c1fb9f202e62842c08db67d674fb0"
+}

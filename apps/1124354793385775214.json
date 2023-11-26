@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "x64/galaxy life.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b4a578b0f7c63433a9aa0aeb4812cce6",
+    "id": "1124354793385775214",
+    "name": "Galaxy Life",
+    "publishers": [
+        {
+            "id": "771758870703767603",
+            "name": "Phoenix Network"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1927780",
+            "sku": "1927780"
+        }
+    ],
+    "type": 1,
+    "verify_key": "f3abdd8558e3636668fdc1b27c3050c4330bd0844a5d01729a0baa8c1ce554b5"
+}

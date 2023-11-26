@@ -1,0 +1,38 @@
+{
+    "description": "A single-player turn-based tactical strategy game developed by Double Fine Productions.",
+    "developers": [
+        {
+            "id": "521816518871220235",
+            "name": "Double Fine Productions, Inc."
+        }
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "massive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "e1c9a50846eda737308557624f067b62",
+    "id": "496853196346621982",
+    "name": "Massive",
+    "publishers": [
+        {
+            "id": "521816518871220235",
+            "name": "Double Fine Productions, Inc."
+        }
+    ],
+    "splash": "91072ca7519192d3875154957229b49e",
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "461400",
+            "sku": "461400"
+        }
+    ],
+    "type": 1,
+    "verify_key": "387decaf6543f0c081a9c43a922c170f03319c86b740443df9086403733f82de"
+}
