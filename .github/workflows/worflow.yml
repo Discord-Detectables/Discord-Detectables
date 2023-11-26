@@ -21,10 +21,7 @@ jobs:
               working-directory: ./src
               run: node index.js
        # commit to github if changes are made with message as New Detections and add full timestamp
-            - name: Commit to GitHub
-              run: |
-                git config --global user.name 'GitHub Actions'
-                git config --global user.email 'actions@github.com'
-                git add .
-                git commit -m "New Detections $(date -u)"
-                git push
+            - name: Commit & Push changes
+              uses: actions-js/push@master
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
