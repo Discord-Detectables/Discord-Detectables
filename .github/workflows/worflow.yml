@@ -1,0 +1,30 @@
+on:
+    schedule:
+        - cron: "*/5 * * * *"
+    # run workflow with button
+    workflow_dispatch:
+name: Post Changes
+jobs:
+    main:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                node-version: "18"
+        # change directory to src
+            - name: Change directory to src
+              run: cd src
+        # install dependencies
+            - name: Install dependencies
+              run: npm install
+        # run index.js
+            - name: Run index.js
+              run: node index.js
+       # commit to github if changes are made with message as New Detections and add full timestamp
+            - name: Commit to GitHub
+              run: |
+                git config --global user.name 'GitHub Actions'
+                git config --global user.email '
+                git add .
+                git commit -m "New Detections $(date -u)"
