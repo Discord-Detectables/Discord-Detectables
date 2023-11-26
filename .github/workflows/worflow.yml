@@ -12,14 +12,13 @@ jobs:
             - uses: actions/setup-node@v4
               with:
                 node-version: "18"
-        # change directory to src
-            - name: Change directory to src
-              run: cd src
         # install dependencies
             - name: Install dependencies
+              working-directory: ./src
               run: npm install
         # run index.js
             - name: Run index.js
+              working-directory: ./src
               run: node index.js
        # commit to github if changes are made with message as New Detections and add full timestamp
             - name: Commit to GitHub
