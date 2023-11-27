@@ -16,17 +16,7 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "monkeyisland101.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "monkeyisland104.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "monkeyisland105.exe",
+            "name": "monkeyisland102.exe",
             "os": "win32"
         },
         {
@@ -36,7 +26,17 @@
         },
         {
             "is_launcher": false,
-            "name": "monkeyisland102.exe",
+            "name": "monkeyisland105.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "monkeyisland101.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "monkeyisland104.exe",
             "os": "win32"
         }
     ],
@@ -56,13 +56,13 @@
     "third_party_skus": [
         {
             "distributor": "steam",
-            "id": "31170",
-            "sku": "31170"
+            "id": "31210",
+            "sku": "31210"
         },
         {
             "distributor": "steam",
-            "id": "31180",
-            "sku": "31180"
+            "id": "31170",
+            "sku": "31170"
         },
         {
             "distributor": "steam",
@@ -71,13 +71,13 @@
         },
         {
             "distributor": "steam",
-            "id": "31210",
-            "sku": "31210"
+            "id": "31200",
+            "sku": "31200"
         },
         {
             "distributor": "steam",
-            "id": "31200",
-            "sku": "31200"
+            "id": "31180",
+            "sku": "31180"
         }
     ],
     "type": 1,
