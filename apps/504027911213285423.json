@@ -9,13 +9,13 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "reus.exe",
-            "os": "win32"
+            "name": "reus.app",
+            "os": "darwin"
         },
         {
             "is_launcher": false,
-            "name": "reus.app",
-            "os": "darwin"
+            "name": "reus.exe",
+            "os": "win32"
         }
     ],
     "flags": 0,
@@ -33,14 +33,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "steam",
             "id": "222730",
             "sku": "222730"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,

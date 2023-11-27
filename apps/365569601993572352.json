@@ -14,12 +14,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "call of duty wwii/s2_sp64_ship.exe",
+            "name": "call of duty wwii/s2_mp64_ship.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "call of duty wwii/s2_mp64_ship.exe",
+            "name": "call of duty wwii/s2_sp64_ship.exe",
             "os": "win32"
         }
     ],
@@ -48,13 +48,13 @@
         },
         {
             "distributor": "steam",
-            "id": "476620",
-            "sku": "476620"
+            "id": "476600",
+            "sku": "476600"
         },
         {
             "distributor": "steam",
-            "id": "476600",
-            "sku": "476600"
+            "id": "476620",
+            "sku": "476620"
         }
     ],
     "type": 1,
