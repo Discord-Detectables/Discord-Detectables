@@ -12,12 +12,7 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "_retail_/wow-64.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "_ptr_/wow-64.exe",
+            "name": "_retail_/wow.exe",
             "os": "win32"
         },
         {
@@ -27,8 +22,8 @@
         },
         {
             "is_launcher": false,
-            "name": "world of warcraft.app",
-            "os": "darwin"
+            "name": "_ptr_/wow.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -37,13 +32,18 @@
         },
         {
             "is_launcher": false,
-            "name": "_retail_/wow.exe",
+            "name": "_ptr_/wow-64.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "_ptr_/wow.exe",
+            "name": "_retail_/wow-64.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "world of warcraft.app",
+            "os": "darwin"
         }
     ],
     "flags": 0,
@@ -64,13 +64,13 @@
     "third_party_skus": [
         {
             "distributor": "battlenet",
-            "id": null,
-            "sku": null
+            "id": "WoW",
+            "sku": "WoW"
         },
         {
             "distributor": "battlenet",
-            "id": "WoW",
-            "sku": "WoW"
+            "id": null,
+            "sku": null
         }
     ],
     "type": 1,

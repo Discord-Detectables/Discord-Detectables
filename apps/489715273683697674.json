@@ -10,12 +10,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "trine3_32bit.exe",
+            "name": "trine3_64bit.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "trine3_64bit.exe",
+            "name": "trine3_32bit.exe",
             "os": "win32"
         }
     ],
@@ -36,14 +36,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "319910",
-            "sku": "319910"
-        },
-        {
             "distributor": "discord",
             "id": "494710602921541634",
             "sku": "494710602921541634"
+        },
+        {
+            "distributor": "steam",
+            "id": "319910",
+            "sku": "319910"
         }
     ],
     "type": 1,

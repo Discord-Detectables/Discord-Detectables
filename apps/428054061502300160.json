@@ -13,22 +13,22 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "jamp.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "gamedata/movieduels.x86.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
             "name": "jasp.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
+            "name": "jamp.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "jediacademy.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "gamedata/movieduels.x86.exe",
             "os": "win32"
         }
     ],
@@ -52,14 +52,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "6020",
-            "sku": "6020"
-        },
-        {
             "distributor": "discord",
             "id": "492359223028482049",
             "sku": "492359223028482049"
+        },
+        {
+            "distributor": "steam",
+            "id": "6020",
+            "sku": "6020"
         }
     ],
     "type": 1,
