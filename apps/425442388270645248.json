@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "metro last light redux/metro.exe",
+            "name": "metroll.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "metroll.exe",
+            "name": "metro last light redux/metro.exe",
             "os": "win32"
         }
     ],
@@ -44,14 +44,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "469990965608710145",
-            "sku": "469990965608710145"
-        },
-        {
             "distributor": "steam",
             "id": "287390",
             "sku": "287390"
+        },
+        {
+            "distributor": "discord",
+            "id": "469990965608710145",
+            "sku": "469990965608710145"
         }
     ],
     "type": 1,

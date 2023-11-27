@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "win64/abzugame-win64-shipping.exe",
+            "name": "abzugame-win64-shipping.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "abzugame-win64-shipping.exe",
+            "name": "win64/abzugame-win64-shipping.exe",
             "os": "win32"
         }
     ],
@@ -47,14 +47,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "492134997591851023",
-            "sku": "492134997591851023"
-        },
-        {
             "distributor": "steam",
             "id": "384190",
             "sku": "384190"
+        },
+        {
+            "distributor": "discord",
+            "id": "492134997591851023",
+            "sku": "492134997591851023"
         }
     ],
     "type": 1,
