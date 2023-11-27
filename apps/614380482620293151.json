@@ -45,14 +45,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "960090",
-            "sku": "960090"
-        },
-        {
             "distributor": "google_play",
             "id": "com.ninjakiwi.bloonstd6",
             "sku": "com.ninjakiwi.bloonstd6"
+        },
+        {
+            "distributor": "steam",
+            "id": "960090",
+            "sku": "960090"
         }
     ],
     "type": 1,

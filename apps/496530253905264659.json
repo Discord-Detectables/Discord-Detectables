@@ -45,13 +45,13 @@
         },
         {
             "distributor": "uplay",
-            "id": "1253",
-            "sku": "1253"
+            "id": null,
+            "sku": null
         },
         {
             "distributor": "uplay",
-            "id": null,
-            "sku": null
+            "id": "1253",
+            "sku": "1253"
         }
     ],
     "type": 1,

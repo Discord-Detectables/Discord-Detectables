@@ -9,17 +9,17 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "hoi3game.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
             "name": "hoi3_tfh_kor.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
             "name": "hoi3.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "hoi3game.exe",
             "os": "win32"
         },
         {
@@ -54,14 +54,14 @@
             "sku": "492142950487293983"
         },
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "steam",
             "id": "25890",
             "sku": "25890"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,
