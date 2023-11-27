@@ -34,14 +34,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "steam",
             "id": "17460",
             "sku": "17460"
+        },
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,

@@ -45,14 +45,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "uplay",
-            "id": "1771",
-            "sku": "1771"
-        },
-        {
             "distributor": "steam",
             "id": "460930",
             "sku": "460930"
+        },
+        {
+            "distributor": "uplay",
+            "id": "1771",
+            "sku": "1771"
         }
     ],
     "type": 1,
