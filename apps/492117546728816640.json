@@ -9,12 +9,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "eu3game.exe",
+            "name": "eu3.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "eu3.exe",
+            "name": "eu3game.exe",
             "os": "win32"
         }
     ],
@@ -39,14 +39,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "492141866628808715",
-            "sku": "492141866628808715"
-        },
-        {
             "distributor": "steam",
             "id": "25800",
             "sku": "25800"
+        },
+        {
+            "distributor": "discord",
+            "id": "492141866628808715",
+            "sku": "492141866628808715"
         }
     ],
     "type": 1,

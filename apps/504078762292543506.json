@@ -21,14 +21,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "400430",
-            "sku": "400430"
-        },
-        {
             "distributor": "gog",
             "id": "",
             "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "400430",
+            "sku": "400430"
         }
     ],
     "type": 1,

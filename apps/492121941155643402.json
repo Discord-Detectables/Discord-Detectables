@@ -39,6 +39,11 @@
     "summary": "",
     "third_party_skus": [
         {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
+        },
+        {
             "distributor": "steam",
             "id": "41500",
             "sku": "41500"
@@ -47,11 +52,6 @@
             "distributor": "discord",
             "id": "492147454469472257",
             "sku": "492147454469472257"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
         }
     ],
     "type": 1,

@@ -30,14 +30,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "385560",
-            "sku": "385560"
-        },
-        {
             "distributor": "epic",
             "id": "Viper",
             "sku": "Viper"
+        },
+        {
+            "distributor": "steam",
+            "id": "385560",
+            "sku": "385560"
         }
     ],
     "type": 1,

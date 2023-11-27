@@ -16,12 +16,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "sshock.exe",
+            "name": "system shock.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "system shock.exe",
+            "name": "sshock.exe",
             "os": "win32"
         }
     ],
@@ -43,14 +43,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "471028545271889920",
-            "sku": "471028545271889920"
-        },
-        {
             "distributor": "steam",
             "id": "410710",
             "sku": "410710"
+        },
+        {
+            "distributor": "discord",
+            "id": "471028545271889920",
+            "sku": "471028545271889920"
         }
     ],
     "type": 1,
