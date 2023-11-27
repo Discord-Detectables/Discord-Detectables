@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "vcredist/vc_redist.x64.exe",
+            "name": "acodyssey.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "acodyssey.exe",
+            "name": "vcredist/vc_redist.x64.exe",
             "os": "win32"
         }
     ],
@@ -50,14 +50,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "uplay",
-            "id": "5059",
-            "sku": "5059"
-        },
-        {
             "distributor": "steam",
             "id": "812140",
             "sku": "812140"
+        },
+        {
+            "distributor": "uplay",
+            "id": "5059",
+            "sku": "5059"
         }
     ],
     "type": 1,
