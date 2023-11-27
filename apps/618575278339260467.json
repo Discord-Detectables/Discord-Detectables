@@ -36,14 +36,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "google_play",
-            "id": "com.ninjakiwi.towerkeepers",
-            "sku": "com.ninjakiwi.towerkeepers"
-        },
-        {
             "distributor": "steam",
             "id": "881490",
             "sku": "881490"
+        },
+        {
+            "distributor": "google_play",
+            "id": "com.ninjakiwi.towerkeepers",
+            "sku": "com.ninjakiwi.towerkeepers"
         }
     ],
     "type": 1,
