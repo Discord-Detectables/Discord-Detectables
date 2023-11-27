@@ -33,9 +33,9 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "9480",
-            "sku": "9480"
+            "distributor": "discord",
+            "id": "489227469711474699",
+            "sku": "489227469711474699"
         },
         {
             "distributor": "gog",
@@ -43,9 +43,9 @@
             "sku": ""
         },
         {
-            "distributor": "discord",
-            "id": "489227469711474699",
-            "sku": "489227469711474699"
+            "distributor": "steam",
+            "id": "9480",
+            "sku": "9480"
         }
     ],
     "type": 1,

@@ -8,12 +8,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "knockoutcity/knockoutcity.exe",
+            "name": "knockout city/knockoutcity.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "knockout city/knockoutcity.exe",
+            "name": "knockoutcity/knockoutcity.exe",
             "os": "win32"
         }
     ],
@@ -39,14 +39,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "1301210",
-            "sku": "1301210"
-        },
-        {
             "distributor": "origin",
             "id": null,
             "sku": null
+        },
+        {
+            "distributor": "steam",
+            "id": "1301210",
+            "sku": "1301210"
         }
     ],
     "type": 1,

@@ -40,14 +40,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "251150",
-            "sku": "251150"
-        },
-        {
             "distributor": "gog",
             "id": "",
             "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "251150",
+            "sku": "251150"
         }
     ],
     "type": 1,
