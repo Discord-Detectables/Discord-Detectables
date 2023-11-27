@@ -18,14 +18,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "discord",
             "id": "472483394085715979",
             "sku": "472483394085715979"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,
