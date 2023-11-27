@@ -12,8 +12,13 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "terraria.app",
-            "os": "darwin"
+            "name": "terraria.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "terraria/terraria.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -22,13 +27,8 @@
         },
         {
             "is_launcher": false,
-            "name": "terraria.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "terraria/terraria.exe",
-            "os": "win32"
+            "name": "terraria.app",
+            "os": "darwin"
         }
     ],
     "flags": 0,
