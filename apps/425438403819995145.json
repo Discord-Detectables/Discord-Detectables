@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "forhonor.exe",
+            "name": "for honor/forhonor.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "for honor/forhonor.exe",
+            "name": "forhonor.exe",
             "os": "win32"
         }
     ],
@@ -48,11 +48,6 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "304390",
-            "sku": "304390"
-        },
-        {
             "distributor": "uplay",
             "id": "569",
             "sku": "569"
@@ -61,6 +56,11 @@
             "distributor": "steam",
             "id": null,
             "sku": null
+        },
+        {
+            "distributor": "steam",
+            "id": "304390",
+            "sku": "304390"
         }
     ],
     "type": 1,

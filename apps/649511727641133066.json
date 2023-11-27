@@ -38,14 +38,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "1172380",
-            "sku": "1172380"
-        },
-        {
             "distributor": "origin",
             "id": "",
             "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "1172380",
+            "sku": "1172380"
         }
     ],
     "type": 1,
