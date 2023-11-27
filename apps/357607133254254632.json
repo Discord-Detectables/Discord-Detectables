@@ -17,12 +17,12 @@
         },
         {
             "is_launcher": false,
-            "name": "deadbydaylight-win64-shipping.exe",
+            "name": "dead by daylight/deadbydaylight.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "dead by daylight/deadbydaylight.exe",
+            "name": "deadbydaylight-win64-shipping.exe",
             "os": "win32"
         }
     ],

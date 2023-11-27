@@ -38,11 +38,6 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "steam",
             "id": "33250",
             "sku": "33250"
@@ -51,6 +46,11 @@
             "distributor": "uplay",
             "id": "89",
             "sku": "89"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,
