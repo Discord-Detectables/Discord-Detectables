@@ -12,13 +12,13 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "move or die/love/win/love.exe",
-            "os": "win32"
+            "name": "move or die/love/linux32/love",
+            "os": "linux"
         },
         {
             "is_launcher": false,
-            "name": "move or die/love/linux32/love",
-            "os": "linux"
+            "name": "move or die/love/win/love.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -44,14 +44,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "491699415904550923",
-            "sku": "491699415904550923"
-        },
-        {
             "distributor": "steam",
             "id": "323850",
             "sku": "323850"
+        },
+        {
+            "distributor": "discord",
+            "id": "491699415904550923",
+            "sku": "491699415904550923"
         }
     ],
     "type": 1,

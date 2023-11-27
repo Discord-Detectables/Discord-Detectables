@@ -9,12 +9,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "csdsteambuild.exe",
+            "name": "csdgogbuild.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "csdgogbuild.exe",
+            "name": "csdsteambuild.exe",
             "os": "win32"
         }
     ],
@@ -37,14 +37,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "steam",
             "id": "247020",
             "sku": "247020"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,

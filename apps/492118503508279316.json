@@ -9,7 +9,7 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "hoi3game.exe",
+            "name": "hoi3_tfh.exe",
             "os": "win32"
         },
         {
@@ -19,12 +19,12 @@
         },
         {
             "is_launcher": false,
-            "name": "hoi3_tfh.exe",
+            "name": "hoi3.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "hoi3.exe",
+            "name": "hoi3game.exe",
             "os": "win32"
         }
     ],
@@ -54,14 +54,14 @@
             "sku": ""
         },
         {
-            "distributor": "steam",
-            "id": "25890",
-            "sku": "25890"
-        },
-        {
             "distributor": "discord",
             "id": "492142950487293983",
             "sku": "492142950487293983"
+        },
+        {
+            "distributor": "steam",
+            "id": "25890",
+            "sku": "25890"
         }
     ],
     "type": 1,

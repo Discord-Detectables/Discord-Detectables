@@ -9,12 +9,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe",
+            "name": "tales from the borderlands/borderlands.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "tales from the borderlands/borderlands.exe",
+            "name": "b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe",
             "os": "win32"
         }
     ],
@@ -33,9 +33,9 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "twitch",
-            "id": "",
-            "sku": ""
+            "distributor": "steam",
+            "id": "330830",
+            "sku": "330830"
         },
         {
             "distributor": "gog",
@@ -43,9 +43,9 @@
             "sku": ""
         },
         {
-            "distributor": "steam",
-            "id": "330830",
-            "sku": "330830"
+            "distributor": "twitch",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,

@@ -31,14 +31,14 @@
             "sku": "314660"
         },
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "discord",
             "id": "492374183238696966",
             "sku": "492374183238696966"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,
