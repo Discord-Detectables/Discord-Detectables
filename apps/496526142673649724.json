@@ -36,14 +36,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "202750",
-            "sku": "202750"
-        },
-        {
             "distributor": "gog",
             "id": "",
             "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "202750",
+            "sku": "202750"
         }
     ],
     "type": 1,

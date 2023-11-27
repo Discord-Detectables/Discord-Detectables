@@ -10,12 +10,6 @@
         {
             "arguments": "-game hl2",
             "is_launcher": false,
-            "name": ">hl2.exe",
-            "os": "win32"
-        },
-        {
-            "arguments": "-game hl2",
-            "is_launcher": false,
             "name": ">hl2_osx",
             "os": "darwin"
         },
@@ -23,6 +17,12 @@
             "arguments": "-game hl2",
             "is_launcher": false,
             "name": "hl2hl2.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game hl2",
+            "is_launcher": false,
+            "name": ">hl2.exe",
             "os": "win32"
         }
     ],

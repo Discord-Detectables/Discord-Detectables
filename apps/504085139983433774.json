@@ -28,14 +28,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "1510",
-            "sku": "1510"
-        },
-        {
             "distributor": "gog",
             "id": "",
             "sku": ""
+        },
+        {
+            "distributor": "steam",
+            "id": "1510",
+            "sku": "1510"
         }
     ],
     "type": 1,

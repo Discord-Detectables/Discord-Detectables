@@ -9,7 +9,7 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "pathofexile.exe",
+            "name": "pathofexile_x64steam.exe",
             "os": "win32"
         },
         {
@@ -19,7 +19,7 @@
         },
         {
             "is_launcher": false,
-            "name": "pathofexile_x64steam.exe",
+            "name": "pathofexile.exe",
             "os": "win32"
         },
         {
