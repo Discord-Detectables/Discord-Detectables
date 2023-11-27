@@ -9,12 +9,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "the division.exe",
+            "name": "thedivision.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "thedivision.exe",
+            "name": "the division.exe",
             "os": "win32"
         }
     ],
@@ -46,14 +46,14 @@
             "sku": null
         },
         {
-            "distributor": "uplay",
-            "id": "568",
-            "sku": "568"
-        },
-        {
             "distributor": "steam",
             "id": "365590",
             "sku": "365590"
+        },
+        {
+            "distributor": "uplay",
+            "id": "568",
+            "sku": "568"
         }
     ],
     "type": 1,

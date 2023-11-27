@@ -31,13 +31,13 @@
     "third_party_skus": [
         {
             "distributor": "battlenet",
-            "id": null,
-            "sku": null
+            "id": "Pro",
+            "sku": "Pro"
         },
         {
             "distributor": "battlenet",
-            "id": "Pro",
-            "sku": "Pro"
+            "id": null,
+            "sku": null
         }
     ],
     "type": 1,

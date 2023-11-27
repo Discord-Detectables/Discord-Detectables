@@ -30,14 +30,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "327500",
-            "sku": "327500"
-        },
-        {
             "distributor": "discord",
             "id": "512789427462995988",
             "sku": "512789427462995988"
+        },
+        {
+            "distributor": "steam",
+            "id": "327500",
+            "sku": "327500"
         }
     ],
     "type": 1,
