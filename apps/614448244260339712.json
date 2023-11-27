@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "bloons adventure time td/btdadventuretime.exe",
+            "name": "btdadventuretime.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "btdadventuretime.exe",
+            "name": "bloons adventure time td/btdadventuretime.exe",
             "os": "win32"
         }
     ],
@@ -36,14 +36,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "979060",
-            "sku": "979060"
-        },
-        {
             "distributor": "google_play",
             "id": "com.ninjakiwi.btdadventuretime",
             "sku": "com.ninjakiwi.btdadventuretime"
+        },
+        {
+            "distributor": "steam",
+            "id": "979060",
+            "sku": "979060"
         }
     ],
     "type": 1,

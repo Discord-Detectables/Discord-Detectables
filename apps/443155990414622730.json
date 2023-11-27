@@ -12,13 +12,13 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "wakfu.app",
-            "os": "darwin"
+            "name": "wakfu.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "wakfu.exe",
-            "os": "win32"
+            "name": "wakfu.app",
+            "os": "darwin"
         }
     ],
     "flags": 0,
