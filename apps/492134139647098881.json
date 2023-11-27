@@ -9,17 +9,17 @@
     "executables": [
         {
             "is_launcher": false,
+            "name": "jedi.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "jediknight.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
             "name": "jk.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "jedi.exe",
             "os": "win32"
         }
     ],
@@ -40,14 +40,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "32380",
-            "sku": "32380"
-        },
-        {
             "distributor": "discord",
             "id": "492427369257369610",
             "sku": "492427369257369610"
+        },
+        {
+            "distributor": "steam",
+            "id": "32380",
+            "sku": "32380"
         }
     ],
     "type": 1,

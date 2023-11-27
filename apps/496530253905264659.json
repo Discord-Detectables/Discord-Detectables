@@ -39,11 +39,6 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "375910",
-            "sku": "375910"
-        },
-        {
             "distributor": "uplay",
             "id": "1253",
             "sku": "1253"
@@ -52,6 +47,11 @@
             "distributor": "uplay",
             "id": null,
             "sku": null
+        },
+        {
+            "distributor": "steam",
+            "id": "375910",
+            "sku": "375910"
         }
     ],
     "type": 1,
