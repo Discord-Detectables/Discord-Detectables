@@ -12,12 +12,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "darksiderspc.exe",
+            "name": "darksiders1.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "darksiders1.exe",
+            "name": "darksiderspc.exe",
             "os": "win32"
         }
     ],
@@ -39,14 +39,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "471030197421080597",
-            "sku": "471030197421080597"
-        },
-        {
             "distributor": "steam",
             "id": "462780",
             "sku": "462780"
+        },
+        {
+            "distributor": "discord",
+            "id": "471030197421080597",
+            "sku": "471030197421080597"
         }
     ],
     "type": 1,
