@@ -12,6 +12,21 @@
     "executables": [
         {
             "is_launcher": false,
+            "name": "subprocess/fivem_dumpserver",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "gta5.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "installers/social-club-setup.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "subprocess/fivem_gtaprocess.exe",
             "os": "win32"
         },
@@ -22,27 +37,12 @@
         },
         {
             "is_launcher": false,
-            "name": "lspdfr/lspdfr configurator.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "gta5.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "subprocess/fivem_dumpserver",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
             "name": "grand theft auto v/ragepluginhook.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "installers/social-club-setup.exe",
+            "name": "lspdfr/lspdfr configurator.exe",
             "os": "win32"
         }
     ],
@@ -92,14 +92,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "491748506516717599",
-            "sku": "491748506516717599"
-        },
-        {
             "distributor": "steam",
             "id": "271590",
             "sku": "271590"
+        },
+        {
+            "distributor": "discord",
+            "id": "491748506516717599",
+            "sku": "491748506516717599"
         }
     ],
     "type": 1,
