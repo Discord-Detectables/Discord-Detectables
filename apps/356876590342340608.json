@@ -18,22 +18,22 @@
         },
         {
             "is_launcher": false,
-            "name": "rainbowsixgame.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
             "name": "rainbowsix.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "tom clancy's rainbow six siege/rainbowsix.exe",
+            "name": "rainbowsix_be.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "rainbowsix_be.exe",
+            "name": "rainbowsixgame.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "tom clancy's rainbow six siege/rainbowsix.exe",
             "os": "win32"
         }
     ],
@@ -67,14 +67,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "359550",
-            "sku": "359550"
-        },
-        {
             "distributor": "uplay",
             "id": "635",
             "sku": "635"
+        },
+        {
+            "distributor": "steam",
+            "id": "359550",
+            "sku": "359550"
         }
     ],
     "type": 1,

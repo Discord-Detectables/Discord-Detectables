@@ -10,12 +10,6 @@
         {
             "arguments": "-game tf",
             "is_launcher": false,
-            "name": ">hl2.exe",
-            "os": "win32"
-        },
-        {
-            "arguments": "-game tf",
-            "is_launcher": false,
             "name": ">hl2_osx",
             "os": "darwin"
         },
@@ -23,6 +17,12 @@
             "arguments": "-game tf",
             "is_launcher": false,
             "name": "hl2tf.exe",
+            "os": "win32"
+        },
+        {
+            "arguments": "-game tf",
+            "is_launcher": false,
+            "name": ">hl2.exe",
             "os": "win32"
         }
     ],

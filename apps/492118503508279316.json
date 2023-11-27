@@ -19,12 +19,12 @@
         },
         {
             "is_launcher": false,
-            "name": "hoi3_tfh.exe",
+            "name": "hoi3game.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "hoi3game.exe",
+            "name": "hoi3_tfh.exe",
             "os": "win32"
         }
     ],
@@ -49,9 +49,9 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "25890",
-            "sku": "25890"
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         },
         {
             "distributor": "discord",
@@ -59,9 +59,9 @@
             "sku": "492142950487293983"
         },
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
+            "distributor": "steam",
+            "id": "25890",
+            "sku": "25890"
         }
     ],
     "type": 1,
