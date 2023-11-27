@@ -17,13 +17,13 @@
         },
         {
             "is_launcher": false,
-            "name": "roblox.app",
-            "os": "darwin"
+            "name": "robloxplayerbeta.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "robloxplayerbeta.exe",
-            "os": "win32"
+            "name": "roblox.app",
+            "os": "darwin"
         }
     ],
     "flags": 0,
