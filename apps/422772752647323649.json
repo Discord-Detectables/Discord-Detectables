@@ -15,12 +15,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "warframe.exe",
+            "name": "warframe.x64.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "warframe.x64.exe",
+            "name": "warframe.exe",
             "os": "win32"
         }
     ],
@@ -43,14 +43,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "discord",
-            "id": "494959992483348480",
-            "sku": "494959992483348480"
-        },
-        {
             "distributor": "steam",
             "id": "230410",
             "sku": "230410"
+        },
+        {
+            "distributor": "discord",
+            "id": "494959992483348480",
+            "sku": "494959992483348480"
         }
     ],
     "type": 1,

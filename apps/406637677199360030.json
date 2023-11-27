@@ -12,12 +12,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "ac4bfsp.exe",
+            "name": "ac4bfmp.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "ac4bfmp.exe",
+            "name": "ac4bfsp.exe",
             "os": "win32"
         }
     ],
@@ -40,14 +40,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "242050",
-            "sku": "242050"
-        },
-        {
             "distributor": "uplay",
             "id": "273",
             "sku": "273"
+        },
+        {
+            "distributor": "steam",
+            "id": "242050",
+            "sku": "242050"
         }
     ],
     "type": 1,

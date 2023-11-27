@@ -16,7 +16,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "monkeyisland104.exe",
+            "name": "monkeyisland105.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "monkeyisland102.exe",
             "os": "win32"
         },
         {
@@ -31,12 +36,7 @@
         },
         {
             "is_launcher": false,
-            "name": "monkeyisland105.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "monkeyisland102.exe",
+            "name": "monkeyisland104.exe",
             "os": "win32"
         }
     ],
@@ -61,6 +61,11 @@
         },
         {
             "distributor": "steam",
+            "id": "31180",
+            "sku": "31180"
+        },
+        {
+            "distributor": "steam",
             "id": "31210",
             "sku": "31210"
         },
@@ -68,11 +73,6 @@
             "distributor": "steam",
             "id": "31200",
             "sku": "31200"
-        },
-        {
-            "distributor": "steam",
-            "id": "31180",
-            "sku": "31180"
         },
         {
             "distributor": "steam",
