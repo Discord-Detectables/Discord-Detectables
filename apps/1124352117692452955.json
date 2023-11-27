@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pga tour 2k21/golf.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ec7b875d6c023cd8c00bfb3fe70f8859",
+    "id": "1124352117692452955",
+    "name": "PGA TOUR 2K21",
+    "publishers": [
+        {
+            "id": "1124352118195765258",
+            "name": "HB Studios Multimedia Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1016120",
+            "sku": "1016120"
+        }
+    ],
+    "type": 1,
+    "verify_key": "40096ff904b38caf4be4d9b2147ea3d84fbdf412b57ec63eb55f53ca9b0083d5"
+}

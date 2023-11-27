@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win32/starter.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "67c89419ad7e5bf49cac53dcb6acefcd",
+    "id": "1124351899806740570",
+    "name": "City Car Driving",
+    "publishers": [
+        {
+            "id": "1124351900259733514",
+            "name": "Forward Development, Ltd."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "493490",
+            "sku": "493490"
+        }
+    ],
+    "type": 1,
+    "verify_key": "5ade036e7ae46b11de47a26c9059151d533558bbcee6f023cf98a8da8c0cb360"
+}

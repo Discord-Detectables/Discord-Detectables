@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "outer wilds/outerwilds.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "f37dd58f6155799f3d8c9b38d9c5f90b",
+    "id": "1124351860376096858",
+    "name": "Outer Wilds",
+    "publishers": [
+        {
+            "id": "1124351860854243378",
+            "name": "Mobius Digital"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "753640",
+            "sku": "753640"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0fab5e743e639182a0769baf08684c226f13050b7a3aef0a3004805b2897f3d4"
+}

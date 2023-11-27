@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "we become what we behold/we-become-what-we-behold.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "391a5811f22104cbb383b05750ecf133",
+    "id": "1124352042924789850",
+    "name": "We Become What We Behold",
+    "publishers": [
+        {
+            "id": "1124352043457462372",
+            "name": "Mismatch Studio"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1103210",
+            "sku": "1103210"
+        }
+    ],
+    "type": 1,
+    "verify_key": "ceb3d080a7526e531881e6d84a354de32ce99e6103b2abf9cbae6a9c308f1a94"
+}

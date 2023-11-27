@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/spyro-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d98b536bcf64a5995984cc1c9afb3f25",
+    "id": "1124351995663368222",
+    "name": "Spyro™ Reignited Trilogy",
+    "publishers": [
+        {
+            "id": "524351575024730142",
+            "name": "Toys for Bob"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "996580",
+            "sku": "996580"
+        }
+    ],
+    "type": 1,
+    "verify_key": "0de2dea954c40b9c5a4566ccae20e8e873fea1bfd7cc06048c8ff11eea454273"
+}

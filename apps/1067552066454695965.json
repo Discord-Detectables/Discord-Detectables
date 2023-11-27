@@ -1,0 +1,48 @@
+{
+    "aliases": [
+        "MARVEL SNAP",
+        "마블스냅"
+    ],
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "snap.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "marvel snap/snap.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": null,
+    "id": "1067552066454695965",
+    "name": "MARVEL SNAP",
+    "publishers": [
+        {
+            "id": "1067552067163537478",
+            "name": "Second Dinner Studios, Inc."
+        },
+        {
+            "id": "1067552067163537478",
+            "name": "Second Dinner Studios, Inc."
+        },
+        {
+            "id": "1067552067163537478",
+            "name": "Second Dinner Studios, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1997040",
+            "sku": "1997040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7e1ec1d5992c768903c5dd0e60ec05a54917ffc6d55ae96a25f251747d4f7d6f"
+}

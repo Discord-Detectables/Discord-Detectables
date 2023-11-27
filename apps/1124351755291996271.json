@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grandchase/grandchase.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c5231a378521e48981ca3c3aab033ad7",
+    "id": "1124351755291996271",
+    "name": "GrandChase",
+    "publishers": [
+        {
+            "id": "572588407914758154",
+            "name": "KOG"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "985810",
+            "sku": "985810"
+        }
+    ],
+    "type": 1,
+    "verify_key": "186f14756079b7d621ddfce9d67953ec82bcc6cd9e5e97ed74ee21ed45fe7de2"
+}

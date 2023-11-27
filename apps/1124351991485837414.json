@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "untitled goose game/untitled.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cc93f6bc48c14534efd910e3d2e04fce",
+    "id": "1124351991485837414",
+    "name": "Untitled Goose Game",
+    "publishers": [
+        {
+            "id": "524352554939973632",
+            "name": "House House"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "837470",
+            "sku": "837470"
+        }
+    ],
+    "type": 1,
+    "verify_key": "527954ae095513a5770aa6418ff2cfa10a9746e8299ea2c6618d099c5333654e"
+}

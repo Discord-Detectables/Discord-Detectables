@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "the two of us/the two of us.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "cca2e0739e746b7424c8f8cc36c47962",
+    "id": "1124351941263245342",
+    "name": "The Two of Us",
+    "publishers": [
+        {
+            "id": "1124351941762363442",
+            "name": "Ethan Fitzgerald"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1820170",
+            "sku": "1820170"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a8d220c481b50f4dbae039c40f3d26365c9f7aa4072189bbbd35efeff9045ab6"
+}

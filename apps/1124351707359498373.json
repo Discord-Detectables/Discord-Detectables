@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pixel strike 3d/pixelstrike3d.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "267f9014ee5b784747a6eb4b433d03e4",
+    "id": "1124351707359498373",
+    "name": "Pixel Strike 3D",
+    "publishers": [
+        {
+            "id": "1124351707850227722",
+            "name": "Vulcron"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "915320",
+            "sku": "915320"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4488c32782889177a14986c95ec2d4180d0424eac01f2b2433cbb11c50cbab8b"
+}

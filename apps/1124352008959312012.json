@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/tropico6-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "ff48ed206666af21c77ac74008690449",
+    "id": "1124352008959312012",
+    "name": "Tropico 6",
+    "publishers": [
+        {
+            "id": "521816585132834835",
+            "name": "Limbic Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "492720",
+            "sku": "492720"
+        }
+    ],
+    "type": 1,
+    "verify_key": "739841e71676ed7078d5c5a826bad863239ee71f5e7577845f75ca5c8df5064b"
+}

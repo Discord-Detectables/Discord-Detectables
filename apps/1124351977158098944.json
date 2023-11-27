@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "areyoureadyforvalveindex/compatapp.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b487d40246f9d83e9f6604701703bcaa",
+    "id": "1124351977158098944",
+    "name": "Are You Ready for Valve Index?",
+    "publishers": [
+        {
+            "id": "521816507102003200",
+            "name": "Valve"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1070910",
+            "sku": "1070910"
+        }
+    ],
+    "type": 1,
+    "verify_key": "287203d30f2795b4ae0162affc24e206e451fab536a3cd1a1514d16f564f9bd2"
+}

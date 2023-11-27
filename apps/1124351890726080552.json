@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "super bomberman r online/superbombermanr_online.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "52b69150a91ef4f7a19a5a76f1436125",
+    "id": "1124351890726080552",
+    "name": "Super Bomberman R Online",
+    "publishers": [
+        {
+            "id": "521816738807939112",
+            "name": "Konami Digital Entertainment"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1308380",
+            "sku": "1308380"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4056ff75c82257ba64e7c538c82d479aa5001027ba47a7caf7f5f317962009ae"
+}

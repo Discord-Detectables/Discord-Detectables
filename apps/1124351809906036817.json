@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/projectcoop-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "b216df5ad0c17d1904f8617b83554f75",
+    "id": "1124351809906036817",
+    "name": "Lunch Lady",
+    "publishers": [
+        {
+            "id": "1124351810400960614",
+            "name": "Manic Mice"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1571440",
+            "sku": "1571440"
+        }
+    ],
+    "type": 1,
+    "verify_key": "7ab20aa4d4f412ce67a3b0142c4abf57f6d0a269003887def53444dcb876b9bb"
+}

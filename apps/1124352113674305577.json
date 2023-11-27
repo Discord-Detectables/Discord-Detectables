@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cube world/cubeworld.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "4a12bfd52b9b3abb9370cfacb925a655",
+    "id": "1124352113674305577",
+    "name": "Cube World",
+    "publishers": [
+        {
+            "id": "524352232066646031",
+            "name": "Picroma"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1128000",
+            "sku": "1128000"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4e8a5590bab5beea063b9bfbf3f5943768bdc9eca20eb064a5402b497cdd9403"
+}

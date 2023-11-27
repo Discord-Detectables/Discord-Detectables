@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/doubleclutch-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d6bdf7e9138477a94da68e0f31ceda7e",
+    "id": "1124352007193514024",
+    "name": "3on3 FreeStyle: Rebound",
+    "publishers": [
+        {
+            "id": "521816533270396928",
+            "name": "Joycity"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1292630",
+            "sku": "1292630"
+        }
+    ],
+    "type": 1,
+    "verify_key": "fbc3d27f82b968276c18b823f36b07053a113b748e6bc46f31742504ff561f62"
+}

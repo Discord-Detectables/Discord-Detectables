@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/thechase-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7b4e80a742e4a2ac5a5f72a74d8662df",
+    "id": "1124351693220491355",
+    "name": "KurtzPel",
+    "publishers": [
+        {
+            "id": "572588407914758154",
+            "name": "KOG"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "844870",
+            "sku": "844870"
+        }
+    ],
+    "type": 1,
+    "verify_key": "b9b1b95d5bf6fa51626337b6904256d05722dd09e4ae7e4cbe7042d39254de06"
+}

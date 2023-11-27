@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blushblush/blushblush.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "c64e1ae2034a0319152f316b6cdcd6b0",
+    "id": "1124352052454240276",
+    "name": "Blush Blush",
+    "publishers": [
+        {
+            "id": "521816603671920663",
+            "name": "Sad Panda Studios"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "777130",
+            "sku": "777130"
+        }
+    ],
+    "type": 1,
+    "verify_key": "647d3432176a5ecfbcddf10d31c5a5e88f1dd845ab1a8cecec670e2122fc844c"
+}

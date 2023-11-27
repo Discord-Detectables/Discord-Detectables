@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "dead space 3/deadspace3.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "d5fbe8539e2ee2eda12fec226f395fad",
+    "id": "1124352073316716604",
+    "name": "Dead Space™ 3",
+    "publishers": [
+        {
+            "id": "542075586886107157",
+            "name": "Electronic Arts, Inc."
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "origin",
+            "id": "",
+            "sku": ""
+        }
+    ],
+    "type": 1,
+    "verify_key": "22a6c3fa2b2818bcde49e9fa2456daa5a6c06ba77b710919b9bfd07d028fbbb2"
+}

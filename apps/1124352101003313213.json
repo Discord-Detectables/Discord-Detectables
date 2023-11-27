@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "secret neighbor alpha/secret neighbour.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "7c8b0915ba32f8d47add17a4c7f7d43f",
+    "id": "1124352101003313213",
+    "name": "Secret Neighbor Beta",
+    "publishers": [
+        {
+            "id": "1124351871176425564",
+            "name": "Hologryph"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "999730",
+            "sku": "999730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "4d82461affce3ee42118413867bc906567f984e01e3a9a33e7a1bc70db0d2a40"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "unsolved case/unsolved case.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "8a6684b90b3bc2fa47582c1a272a36db",
+    "id": "1124351897915117610",
+    "name": "Unsolved Case",
+    "publishers": [
+        {
+            "id": "1124351898359709807",
+            "name": "Eleven Puzzles"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "2084050",
+            "sku": "2084050"
+        }
+    ],
+    "type": 1,
+    "verify_key": "a208cae5aa6ca8000dec4f40400964244ff017c19c9fdb0f07104ad8aa6bf06b"
+}

@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ninja kiwi archive/ninja kiwi archive.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "71daff7b62bc0048ce0bf12a0a4eef25",
+    "id": "1124351834283327559",
+    "name": "Ninja Kiwi Archive",
+    "publishers": [
+        {
+            "id": "521816733728768032",
+            "name": "Ninja Kiwi"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1275350",
+            "sku": "1275350"
+        }
+    ],
+    "type": 1,
+    "verify_key": "79b35684135deadf355035d714195f3baa82f916a228b50c07702e1d1647b8b5"
+}

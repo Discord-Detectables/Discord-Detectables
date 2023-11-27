@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mx bikes/mxbikes.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "9696996a73619c125975058b620bcc07",
+    "id": "1124352181441679441",
+    "name": "MX Bikes",
+    "publishers": [
+        {
+            "id": "524353068158943266",
+            "name": "Piboso"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "655500",
+            "sku": "655500"
+        }
+    ],
+    "type": 1,
+    "verify_key": "e7a0f1ed6b97e28dc91af5a84d20273fc07935e3a26e01be7c4b7818eb6e113a"
+}

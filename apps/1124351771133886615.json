@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/borderlandsgoty.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "78714ed15117d33d7edc1d06b5225131",
+    "id": "1124351771133886615",
+    "name": "Borderlands GOTY Enhanced",
+    "publishers": [
+        {
+            "id": "521816503960600578",
+            "name": "Gearbox Software"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "729040",
+            "sku": "729040"
+        }
+    ],
+    "type": 1,
+    "verify_key": "9e928fa3bf56ac47114da6928d819abf9561c616908b328497e64aed71a95971"
+}

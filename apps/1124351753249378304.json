@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blade & sorcery/bladeandsorcery.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "de9adbf9c14cee6087a7cd09c9e709f6",
+    "id": "1124351753249378304",
+    "name": "Blade & Sorcery",
+    "publishers": [
+        {
+            "id": "1124351753685581906",
+            "name": "WarpFrog"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "629730",
+            "sku": "629730"
+        }
+    ],
+    "type": 1,
+    "verify_key": "1a4a082b5acedf26956b54d2bdd6c58f462ae81f91b6490236b8a743dafc1e56"
+}

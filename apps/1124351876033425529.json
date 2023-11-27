@@ -1,0 +1,33 @@
+{
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "description": "",
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "stumble guys/stumble guys.exe",
+            "os": "win32"
+        }
+    ],
+    "flags": 0,
+    "hook": true,
+    "icon": "402bf37b1f6587aa2b82da6b20cdf36c",
+    "id": "1124351876033425529",
+    "name": "Stumble Guys",
+    "publishers": [
+        {
+            "id": "524352696564580363",
+            "name": "Scopely"
+        }
+    ],
+    "summary": "",
+    "third_party_skus": [
+        {
+            "distributor": "steam",
+            "id": "1677740",
+            "sku": "1677740"
+        }
+    ],
+    "type": 1,
+    "verify_key": "309d386632b5a10ba2f98e1c8c0fca34fa0130b28426095dfb053664fc812cd8"
+}
