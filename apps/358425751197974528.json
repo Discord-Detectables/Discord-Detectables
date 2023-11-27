@@ -13,6 +13,11 @@
     "executables": [
         {
             "is_launcher": false,
+            "name": "diablo iii.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "diablo iii64.exe",
             "os": "win32"
         },
@@ -20,11 +25,6 @@
             "is_launcher": false,
             "name": "diablo iii.app",
             "os": "darwin"
-        },
-        {
-            "is_launcher": false,
-            "name": "diablo iii.exe",
-            "os": "win32"
         }
     ],
     "flags": 0,
@@ -44,13 +44,13 @@
     "third_party_skus": [
         {
             "distributor": "battlenet",
-            "id": null,
-            "sku": null
+            "id": "D3",
+            "sku": "D3"
         },
         {
             "distributor": "battlenet",
-            "id": "D3",
-            "sku": "D3"
+            "id": null,
+            "sku": null
         }
     ],
     "type": 1,

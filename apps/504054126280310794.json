@@ -30,9 +30,9 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "steam",
-            "id": "442780",
-            "sku": "442780"
+            "distributor": "twitch",
+            "id": "",
+            "sku": ""
         },
         {
             "distributor": "gog",
@@ -40,9 +40,9 @@
             "sku": ""
         },
         {
-            "distributor": "twitch",
-            "id": "",
-            "sku": ""
+            "distributor": "steam",
+            "id": "442780",
+            "sku": "442780"
         }
     ],
     "type": 1,

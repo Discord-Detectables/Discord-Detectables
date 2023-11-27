@@ -17,13 +17,13 @@
         },
         {
             "is_launcher": false,
-            "name": "brawlhalla.app",
-            "os": "darwin"
+            "name": "brawlhalla.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "brawlhalla.exe",
-            "os": "win32"
+            "name": "brawlhalla.app",
+            "os": "darwin"
         }
     ],
     "flags": 0,

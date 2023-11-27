@@ -12,12 +12,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "doom.exe",
+            "name": "doom3.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "doom3.exe",
+            "name": "doom.exe",
             "os": "win32"
         }
     ],
