@@ -27,7 +27,7 @@ for (let app of current) {
     const newapp = json.find(c => c.id === app.id)
     if (!_.isEqual(app, newapp)) {
         console.log(`Updated app: ${app.name} (${app.id})`)
-        writeFileSync(`../apps/${app.id}.json`, JSON.stringify(json, null, 4))
+        writeFileSync(`../apps/${app.id}.json`, JSON.stringify(newapp, null, 4))
         app = newapp
         changes++
     }
