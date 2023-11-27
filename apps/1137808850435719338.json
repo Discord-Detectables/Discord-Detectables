@@ -31,13 +31,13 @@
     "third_party_skus": [
         {
             "distributor": "steam",
-            "id": "905370",
-            "sku": "905370"
+            "id": "835570",
+            "sku": "835570"
         },
         {
             "distributor": "steam",
-            "id": "835570",
-            "sku": "835570"
+            "id": "905370",
+            "sku": "905370"
         }
     ],
     "type": 1,

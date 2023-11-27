@@ -33,11 +33,6 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        },
-        {
             "distributor": "twitch",
             "id": "",
             "sku": ""
@@ -46,6 +41,11 @@
             "distributor": "steam",
             "id": "330830",
             "sku": "330830"
+        },
+        {
+            "distributor": "gog",
+            "id": "",
+            "sku": ""
         }
     ],
     "type": 1,

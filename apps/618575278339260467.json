@@ -13,12 +13,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "tower keepers/tower keepers.exe",
+            "name": "tower keepers.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "tower keepers.exe",
+            "name": "tower keepers/tower keepers.exe",
             "os": "win32"
         }
     ],
@@ -36,14 +36,14 @@
     "summary": "",
     "third_party_skus": [
         {
-            "distributor": "google_play",
-            "id": "com.ninjakiwi.towerkeepers",
-            "sku": "com.ninjakiwi.towerkeepers"
-        },
-        {
             "distributor": "steam",
             "id": "881490",
             "sku": "881490"
+        },
+        {
+            "distributor": "google_play",
+            "id": "com.ninjakiwi.towerkeepers",
+            "sku": "com.ninjakiwi.towerkeepers"
         }
     ],
     "type": 1,
