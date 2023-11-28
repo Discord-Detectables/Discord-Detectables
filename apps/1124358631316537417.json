@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9fc185c9153ad9a792e76b1fc3c8faeb",
     "id": "1124358631316537417",
-    "name": "Penumbra: Black Plague",
-    "publishers": [
-        {
-            "id": "521816498541428770",
-            "name": "Frictional Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "22120",
-            "sku": "22120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c47caccf6a23be2b85bce8183ee383361f4e936414ee2419f8052e79d02459d6"
+    "name": "Penumbra: Black Plague"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A simple clicker game.",
-    "developers": [
-        {
-            "id": "521816685938868250",
-            "name": "CakeEaterGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7dae2be931d191b9a48d08217c0488d5",
     "id": "451542208257064961",
-    "name": "Loading Screen Simulator",
-    "publishers": [
-        {
-            "id": "521816685938868250",
-            "name": "CakeEaterGames"
-        }
-    ],
-    "splash": "fc34fea64182f6d91388ae1473621e52",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "652980",
-            "sku": "652980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bcbd98fa0ff2bf0204f827fd73659f04882767f49ad210f23ec104c30956320e"
+    "name": "Loading Screen Simulator"
 }

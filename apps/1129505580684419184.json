@@ -2,9 +2,6 @@
     "aliases": [
         "Winter Resort Simulator Season 2"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "adeb71b98696867c32d0008c38bc8640",
     "id": "1129505580684419184",
-    "name": "Winter Resort Simulator 2",
-    "publishers": [
-        {
-            "id": "1124360530660966450",
-            "name": "HR Innoways"
-        },
-        {
-            "id": "1129505583607861278",
-            "name": "HR Innoways GmbH"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1420770",
-            "sku": "1420770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "70d1dcb9c48e6230edb4c3bcb90c2066184480e8235a450d74948b814e5afb9d"
+    "name": "Winter Resort Simulator 2"
 }

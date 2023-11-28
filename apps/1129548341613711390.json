@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3b6db2ea7749dec786eb179997baf8d2",
     "id": "1129548341613711390",
-    "name": "Brewmaster: Beer Brewing Simulator",
-    "publishers": [
-        {
-            "id": "524352486010781728",
-            "name": "Auroch Digital"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1569200",
-            "sku": "1569200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b833a33bf57cad92f60a4f491d5197891855729d2ba70ecd121f21c154c4cf94"
+    "name": "Brewmaster: Beer Brewing Simulator"
 }

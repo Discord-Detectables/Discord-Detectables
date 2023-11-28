@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b89bf8a426665ae68649cf027fc77ef0",
     "id": "1124353682562105435",
-    "name": "No One Survived",
-    "publishers": [
-        {
-            "id": "1124353683019280485",
-            "name": "Cat Play Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1963370",
-            "sku": "1963370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a42d3130446433b2a3ccd829e236d758fd7912fa10467b854fb00426fb07c319"
+    "name": "No One Survived"
 }

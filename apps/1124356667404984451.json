@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bac48bfd5f9444f7fa9151735b532057",
     "id": "1124356667404984451",
-    "name": "DARQ",
-    "publishers": [
-        {
-            "id": "1124356667866370139",
-            "name": "Unfold Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "433550",
-            "sku": "433550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f520b37ce00eb33e22906c648c893199a7fb64d3474eb9d01de35c36164822f3"
+    "name": "DARQ"
 }

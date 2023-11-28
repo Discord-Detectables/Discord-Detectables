@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb4cdb56d3688d79e0364d42f65b1884",
     "id": "1124356465113714718",
-    "name": "Super Amazing Wagon Adventure",
-    "publishers": [
-        {
-            "id": "1124356465600249987",
-            "name": "sparsevector"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250500",
-            "sku": "250500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d64112abbd0218d9bff4b015f40a22dbcb999576d5fa5caf764e06d4d92336a3"
+    "name": "Super Amazing Wagon Adventure"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Travel across Europe as a trucker delivering cargo in a variety of trucks.",
-    "developers": [
-        {
-            "id": "521816662261891072",
-            "name": "SCS Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "46bfdfc58e4eacbfde29b2461e118e78",
     "id": "359508713658253318",
     "name": "Euro Truck Simulator 2",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816662261891072",
-            "name": "SCS Software"
-        }
-    ],
-    "splash": "2a901aa3dc38e84d9cc46f7b5f712ff8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "227300",
-            "sku": "227300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "495bddf835a15af54a9616e9f1f1798897e3a1d1e8f7576fed0134468e00d3f4"
+    "overlay": true
 }

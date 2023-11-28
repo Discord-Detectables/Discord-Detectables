@@ -2,13 +2,6 @@
     "aliases": [
         "Trackmania Nations Forever"
     ],
-    "description": "TrackMania Nations Forever is the updated version of the game TrackMania Nations ESWC and is available for download for free.  It was released at the same time as Trackmania United Forever and uses the same physics engine.",
-    "developers": [
-        {
-            "id": "521816570029146113",
-            "name": "Nadeo"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ecd3128d3352f68386cb1d648709fc98",
     "id": "425749438573707264",
-    "name": "TrackMania Nations Forever",
-    "publishers": [
-        {
-            "id": "521816570029146113",
-            "name": "Nadeo"
-        },
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "11020",
-            "sku": "11020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ec8fb2f6969864d99af8bd7ca2f48e76c90f77d8205d3dde100ca67da6aed023"
+    "name": "TrackMania Nations Forever"
 }

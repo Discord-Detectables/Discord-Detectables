@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7ccb6bf3c9c06afbdf13286675fd4cf7",
     "id": "1124360467486363760",
-    "name": "Interplanetary",
-    "publishers": [
-        {
-            "id": "524352306670731268",
-            "name": "Team Jolly Roger"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "278910",
-            "sku": "278910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9b8955748a3ee9a1a17d364ce1801d0344aa8078503168f2d4c194f5a90632c"
+    "name": "Interplanetary"
 }

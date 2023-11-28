@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c354c96dfaedd36e3d4f396222f14fec",
     "id": "1124359659441111133",
-    "name": "Mage and Monsters",
-    "publishers": [
-        {
-            "id": "1124359659931840613",
-            "name": "Lasse Zacho Malver"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1950440",
-            "sku": "1950440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6e367105d1093de84ed09cb39abddcaa1fb2aa11d9e6ca191a75419d466b3ecc"
+    "name": "Mage and Monsters"
 }

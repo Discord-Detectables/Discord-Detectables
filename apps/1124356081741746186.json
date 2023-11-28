@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e72d5459fe93dec6f83167ba3e65c454",
     "id": "1124356081741746186",
-    "name": "Farm Manager 2018",
-    "publishers": [
-        {
-            "id": "1124356082412830800",
-            "name": "Cleversan Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "495560",
-            "sku": "495560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e3b7d2f69780a0d348e5397c78e1d12c7e93601317b5aa75e002440e8eb221ac"
+    "name": "Farm Manager 2018"
 }

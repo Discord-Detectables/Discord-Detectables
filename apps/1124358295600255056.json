@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3b78f5183db49856dedb4882e507a605",
     "id": "1124358295600255056",
-    "name": "Duck Season PC",
-    "publishers": [
-        {
-            "id": "524352807856242723",
-            "name": "Stress Level Zero"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "746510",
-            "sku": "746510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "38db52ba0be33736e2c7cdb6a97d317afb60ea9e06e4d322234d2c5d28b5b4fb"
+    "name": "Duck Season PC"
 }

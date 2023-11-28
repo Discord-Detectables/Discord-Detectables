@@ -2,55 +2,20 @@
     "aliases": [
         "Rocket League"
     ],
-    "description": "The sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars, Rocket League is the second vehicular sports-action game developed by Psyonix.",
-    "developers": [
-        {
-            "id": "521816547430236211",
-            "name": "Psyonix Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "bakkesmod/plugininstaller.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "rocketleague.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "bakkesmod/plugininstaller.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "152517096104919042",
     "hook": true,
-    "icon": "a74899a5190c48a3e6ce9f8d2eaff348",
     "id": "356877880938070016",
     "name": "Rocket League",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816547430236211",
-            "name": "Psyonix Studios"
-        },
-        {
-            "id": "521816547430236229",
-            "name": "Psyonix, Inc."
-        },
-        {
-            "id": "1124356677420990494",
-            "name": "Psyonix LLC"
-        }
-    ],
-    "splash": "39a82b92cc95af7a11d024fec8540d28",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "252950",
-            "sku": "252950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b96ea74324e2833bb715a7d8aa9908d7962bca7acb408e97533bf5f4374f4e89"
+    "overlay": true
 }

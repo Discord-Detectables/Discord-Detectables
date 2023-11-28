@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f67f7b5fd68b67a5877c2915012dde19",
     "id": "1124359061148815400",
-    "name": "Subway Midnight",
-    "publishers": [
-        {
-            "id": "1124359061605990572",
-            "name": "Bubby Darkstar"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1750570",
-            "sku": "1750570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1dbeb436927fdbebbd3aa58a554170e2d45be763a8e6f856e5529103b616282a"
+    "name": "Subway Midnight"
 }

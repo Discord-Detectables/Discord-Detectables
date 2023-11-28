@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "81d938f75b1b556c611f82ad73465f65",
     "id": "1124357226971283516",
-    "name": "Dark Devotion",
-    "publishers": [
-        {
-            "id": "524353127743357011",
-            "name": "Hibernian Workshop"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "718590",
-            "sku": "718590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "04c244bdc2992bc2df5ae5e86e24e4717a205d567357e446a814bd9fede04a46"
+    "name": "Dark Devotion"
 }

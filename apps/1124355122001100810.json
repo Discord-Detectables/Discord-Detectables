@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d3ff1f5b466fa91fcde2d2a41452b53",
     "id": "1124355122001100810",
-    "name": "Mad Games Tycoon",
-    "publishers": [
-        {
-            "id": "524352383984074755",
-            "name": "Eggcode"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "341000",
-            "sku": "341000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b79e5c4e049c50a2548793bd24802fa813009bf99a8d8282e8808a7e2cb83b0b"
+    "name": "Mad Games Tycoon"
 }

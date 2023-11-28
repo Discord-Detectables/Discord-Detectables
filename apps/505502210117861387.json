@@ -2,19 +2,6 @@
     "aliases": [
         "Spy Party"
     ],
-    "bot_public": false,
-    "bot_require_code_grant": false,
-    "description": "SpyParty is a competitive espionage game about subtle human behavior. A Spy hides in plain sight at a fancy cocktail party, trying to accomplish missions while blending in with the other guests, while a Sniper with a single bullet looks inward, searching for the Spy.",
-    "developers": [
-        {
-            "id": "521816630808805385",
-            "name": "Chris Hecker"
-        },
-        {
-            "id": "634913929952493587",
-            "name": "John Cimino"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,27 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 524288,
-    "guild_id": "83138207679516672",
     "hook": true,
-    "icon": "a6f9922ecbd9eee2b61dcd5b71ad1fa9",
     "id": "505502210117861387",
-    "name": "SpyParty",
-    "publishers": [
-        {
-            "id": "521816630808805385",
-            "name": "Chris Hecker"
-        }
-    ],
-    "splash": "5b5e89e16637def16d2e86e18d295caa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329070",
-            "sku": "329070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a1dbc860e4566f281166c510f2beb0d8b6ef2ba0f80962d2417f0783d9c71630"
+    "name": "SpyParty"
 }

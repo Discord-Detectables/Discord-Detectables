@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fdd1bd52ae544cb76b34bf246b64ecc0",
     "id": "1124355431993725028",
-    "name": "Hashiriya Drifter",
-    "publishers": [
-        {
-            "id": "1124355432509620284",
-            "name": "Midnight Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1336560",
-            "sku": "1336560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "88afdfd98412b71a055f08a90429ac9d989610384bfef00a5c4c81c140cfeeb6"
+    "name": "Hashiriya Drifter"
 }

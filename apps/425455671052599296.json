@@ -1,11 +1,4 @@
 {
-    "description": "An adventure game developed by Daedalic Entertainment that follows the adventures of Sadwick, a depressed 12-year-old clown, who is part of a traveling circus and has been having recurring nightmares about the end of the world.",
-    "developers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eb01c390255483ca3a3b8c1d9f324b76",
     "id": "425455671052599296",
-    "name": "The Whispered World Special Edition",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "3eb42180e35de1792feca8b0fa2093db",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "268540",
-            "sku": "268540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "75e72b1414f4971bdbacbe150bdcdda455f1f1ec27ccf4ce8aca58d08280ea3e"
+    "name": "The Whispered World Special Edition"
 }

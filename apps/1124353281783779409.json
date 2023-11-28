@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f126c2c192d41e13c3b8e3fa61efdf8f",
     "id": "1124353281783779409",
-    "name": "Bendy and the Dark Revival",
-    "publishers": [
-        {
-            "id": "1124352663748882463",
-            "name": "Joey Drew Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1063660",
-            "sku": "1063660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf4b6e3392865d4b6fc87f231a4080634e1ae98b8aa34b0b0aa41957f2dbec68"
+    "name": "Bendy and the Dark Revival"
 }

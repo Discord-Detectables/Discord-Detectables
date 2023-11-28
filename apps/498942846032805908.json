@@ -1,11 +1,4 @@
 {
-    "description": "Mothergunship is a first-person bullet hell game from Grip Digital and Terrible Posture Games.",
-    "developers": [
-        {
-            "id": "521816763332165656",
-            "name": "Terrible Posture Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb4aa81b7d73c835438364410e148a37",
     "id": "498942846032805908",
-    "name": "MOTHERGUNSHIP",
-    "publishers": [
-        {
-            "id": "521816762904477709",
-            "name": "Grip Digital"
-        }
-    ],
-    "splash": "190ef822da1f32c784deffb81c38ab92",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "574090",
-            "sku": "574090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "21c05a2031ba6e7c79f0bb2236ee53ee0af15fd7257310bbaa7248d15a8e4401"
+    "name": "MOTHERGUNSHIP"
 }

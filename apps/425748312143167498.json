@@ -2,7 +2,6 @@
     "aliases": [
         "Age of Empires III"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,25 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f04efd0f7f11469af7cc28cd3e956fde",
     "id": "425748312143167498",
-    "name": "Age of Empires® III: Complete Collection",
-    "publishers": [
-        {
-            "id": "521816567940513807",
-            "name": "Ensemble Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "105450",
-            "sku": "105450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "92a17d281049c3ab46555c8225b61485ce10d1d777414bcd8bacfd121f570fb6"
+    "name": "Age of Empires® III: Complete Collection"
 }

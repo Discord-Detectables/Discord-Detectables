@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "206b0b99ac2bb968ebe73d93489d568e",
     "id": "1165771599031566346",
-    "name": "The Coffin of Andy and Leyley",
-    "publishers": [
-        {
-            "id": "1165771602890334308",
-            "name": "Nemlei"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2378900",
-            "sku": "2378900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c04125e80d9e95db362d62707bdf86def51f225b44acf7bf041a0b5bf2d722b6"
+    "name": "The Coffin of Andy and Leyley"
 }

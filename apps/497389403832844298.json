@@ -1,11 +1,4 @@
 {
-    "description": "Isometric single-player RPG based on the Pathfinder Roleplaying Game Kingmaker Adventure Path.",
-    "developers": [
-        {
-            "id": "521816691479674882",
-            "name": "Owlcat Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c47e8f5a424dd9c235e40d47b8a54b56",
     "id": "497389403832844298",
-    "name": "Pathfinder: Kingmaker",
-    "publishers": [
-        {
-            "id": "521816691479674882",
-            "name": "Owlcat Games"
-        },
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "999684d3ae98a1e652df3281309f928d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "640820",
-            "sku": "640820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "26d05ebab5776152cafe9e30fe9ca08b5563f6f61d8de739af013f1e20e58cba"
+    "name": "Pathfinder: Kingmaker"
 }

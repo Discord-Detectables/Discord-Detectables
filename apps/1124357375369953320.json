@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1124357375369953320",
-    "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-    "publishers": [
-        {
-            "id": "1124357375881654412",
-            "name": "Spike Chunsoft Co. Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "991560",
-            "sku": "991560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89cbb3eca5d9b7776c11936d4c2fdab05dd33b4bf502b16a53bcffe0355f24b3"
+    "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS"
 }

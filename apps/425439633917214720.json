@@ -2,13 +2,6 @@
     "aliases": [
         "Rocksmith2014"
     ],
-    "description": "The second edition of Rocksmith from Ubisoft features a new soundtrack, enhancements to the user interface, and a slew of new games and lessons aimed at helping learn how to play the guitar.",
-    "developers": [
-        {
-            "id": "521816683913150494",
-            "name": "Ubisoft San Francisco"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0d907cdfb235e57a69d737bccb692959",
     "id": "425439633917214720",
-    "name": "Rocksmith 2014",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "ebfd43289e349591b8ea93179e183cba",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "221680",
-            "sku": "221680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "95b649f1112bb48f9ee162dbaae51cc985fd98885309e588a41e291192ec1412"
+    "name": "Rocksmith 2014"
 }

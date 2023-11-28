@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1c27ce8cf150df1502a49157a1a5b28e",
     "id": "1124352468223012984",
-    "name": "Lords Mobile",
-    "publishers": [
-        {
-            "id": "1124352468730531912",
-            "name": "IGG SINGAPORE PTE. LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1041320",
-            "sku": "1041320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "52cc75b07d428b4bdc3c8fe1fb67934fc14d8bcba0d919930716d5192a0659f4"
+    "name": "Lords Mobile"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "My Summer Car - Part Car Mechanic Simulator, part basic needs simulator and part mid 90s Finland lifestyle simulator.",
-    "developers": [
-        {
-            "id": "521816802674737155",
-            "name": "Amistech Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "622659bd5040df6e22a5efb8a8289fbc",
     "id": "443158342026788884",
-    "name": "My Summer Car",
-    "publishers": [
-        {
-            "id": "521816802674737155",
-            "name": "Amistech Games"
-        }
-    ],
-    "splash": "c999777955641efb911a732b46b3fe1d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "516750",
-            "sku": "516750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a22b28ab7580f8fdcb4e301774e4ad0848aa54313a3380ce1dc39c1b09aa4f1e"
+    "name": "My Summer Car"
 }

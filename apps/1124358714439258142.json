@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4410cb250a3dc8191da9776b2ffc3724",
     "id": "1124358714439258142",
-    "name": "The Settlers : Rise of an Empire - History Edition",
-    "publishers": [
-        {
-            "id": "521816707132555285",
-            "name": "Ubisoft Blue Byte"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "965310",
-            "sku": "965310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "06cecd50c2b033d785ca03f4e8903238437aaf150025993e5a4fecfd65727ea9"
+    "name": "The Settlers : Rise of an Empire - History Edition"
 }

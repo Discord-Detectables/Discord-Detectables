@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ac052fd224a915e966ee83657052969d",
     "id": "1124351756931977307",
-    "name": "Half-Life: Alyx",
-    "publishers": [
-        {
-            "id": "521816507102003200",
-            "name": "Valve"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "546560",
-            "sku": "546560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79dc7154a1392110862974bc9f0fa02f5ddaafc93fd95e43ab7055da0afbf4a0"
+    "name": "Half-Life: Alyx"
 }

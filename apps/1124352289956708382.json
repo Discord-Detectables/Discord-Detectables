@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e95bd636a3c6ce4ac8b610b39e0f5c99",
     "id": "1124352289956708382",
-    "name": "Marvel's Guardians of the Galaxy",
-    "publishers": [
-        {
-            "id": "521816520817639457",
-            "name": "Eidos-Montréal"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1088850",
-            "sku": "1088850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c93769f46dc02f6e166b8dc31a50fbd554df33d57e93b4e110584f3de328d99d"
+    "name": "Marvel's Guardians of the Galaxy"
 }

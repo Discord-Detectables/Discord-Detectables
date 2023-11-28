@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df64214d47fdce9707fa39f84dda3616",
     "id": "1124352602138759241",
-    "name": "Road to Vostok Demo",
-    "publishers": [
-        {
-            "id": "1124352602608504923",
-            "name": "Road to Vostok"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2141300",
-            "sku": "2141300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3024e4a3b41d683ccb918ba10091950e4968503fbd5d09c512bef0fba071e313"
+    "name": "Road to Vostok Demo"
 }

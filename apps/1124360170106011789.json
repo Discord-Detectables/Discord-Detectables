@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "308465b048d3ffa3803d227a1a5cfd4f",
     "id": "1124360170106011789",
-    "name": "Tokyo 42",
-    "publishers": [
-        {
-            "id": "524352545506721817",
-            "name": "SMAC Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "490450",
-            "sku": "490450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "094ff3457eb969bd75bcc5673bd70eeebadedf9a5908e1fd5c7ee62e06862b55"
+    "name": "Tokyo 42"
 }

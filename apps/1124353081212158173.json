@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0e9ecbf8ea5ecd5db952f226accb031d",
     "id": "1124353081212158173",
-    "name": "The Pirate: Caribbean Hunt",
-    "publishers": [
-        {
-            "id": "1124353081677721710",
-            "name": "Home Net Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "512470",
-            "sku": "512470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b46c362a215c2acf84a48fdca3ddffb0eb01499437d2bfc7bfd832b212ac488"
+    "name": "The Pirate: Caribbean Hunt"
 }

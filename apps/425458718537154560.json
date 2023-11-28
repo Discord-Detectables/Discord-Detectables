@@ -1,11 +1,4 @@
 {
-    "description": "Super Treasure Arena is a 4-player brawler with pixel graphics.",
-    "developers": [
-        {
-            "id": "521816806176980992",
-            "name": "Treasure Arena"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aad52599d4ebc69dbb7c677b11c4aff7",
     "id": "425458718537154560",
-    "name": "Super Treasure Arena",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "da04249ee981204b7a5d675e826f9729",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "338330",
-            "sku": "338330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "06acd2b530c8c46d2eb31837baff8379e4841340f64b999368f78529f45b21f1"
+    "name": "Super Treasure Arena"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2a65d2f379235271c925828234cbcd7",
     "id": "1124359740957409321",
-    "name": "Wilson Chronicles - Beta",
-    "publishers": [
-        {
-            "id": "1124359741418778664",
-            "name": "Frere d'Arme"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "313240",
-            "sku": "313240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "12019416c2c55e1b860a61f5b1116594b481bdfb08bfe056fecd751d611499aa"
+    "name": "Wilson Chronicles - Beta"
 }

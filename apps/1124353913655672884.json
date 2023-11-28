@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "afcdc43e65d675584a6689a100354130",
     "id": "1124353913655672884",
-    "name": "Untrusted",
-    "publishers": [
-        {
-            "id": "1124353914121232504",
-            "name": "evolvedlabs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1502660",
-            "sku": "1502660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bc2c201122d7bd05ffaee5a79e0bd0dd7a0f61699a63dd61436b9fd6d4348bbd"
+    "name": "Untrusted"
 }

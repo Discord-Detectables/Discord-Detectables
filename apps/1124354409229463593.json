@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "32934c7240610d9881c5f42d20c3b770",
     "id": "1124354409229463593",
-    "name": "Incremental Cubes",
-    "publishers": [
-        {
-            "id": "1124354409690845254",
-            "name": "TENPA-Studio-"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1690730",
-            "sku": "1690730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "583b3ad72028e642d76bb37489fab3a31052ccce5ada65ded38305bdab4066d4"
+    "name": "Incremental Cubes"
 }

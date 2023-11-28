@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3a8debb1112b2a0ca938e87c42ce456",
     "id": "1124358959042674759",
-    "name": "Shantae and the Seven Sirens",
-    "publishers": [
-        {
-            "id": "521816607408914448",
-            "name": "WayForward"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1191630",
-            "sku": "1191630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "11c64169a1fa2eb2c0b724e8e9efc7ea94401663f77ebac6c6c9cc8b0c47a920"
+    "name": "Shantae and the Seven Sirens"
 }

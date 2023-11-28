@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e43545588da70a8838dbdc375e83969d",
     "id": "1124353613590970388",
-    "name": "Animal Shelter: Prologue",
-    "publishers": [
-        {
-            "id": "1124353614052339803",
-            "name": "Games Incubator"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1661260",
-            "sku": "1661260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "04356d968e451cd22ef2b5a0f9a361ae832dba35ca14703eb793e7e11817adac"
+    "name": "Animal Shelter: Prologue"
 }

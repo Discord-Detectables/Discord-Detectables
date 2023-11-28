@@ -1,11 +1,4 @@
 {
-    "description": "Turmoil is an oil drilling simulation game available on Steam.",
-    "developers": [
-        {
-            "id": "521816641772847126",
-            "name": "Gamious"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0040d5a1305ee93f6f7263fa31c8a10",
     "id": "451545009938759710",
-    "name": "Turmoil",
-    "publishers": [
-        {
-            "id": "521816641772847126",
-            "name": "Gamious"
-        }
-    ],
-    "splash": "b48958bbbdb653f55d911f7a0a963f81",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "361280",
-            "sku": "361280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "837566ba648887e41b553269ab5343426776b5c216321cd344c2a2bed099fadb"
+    "name": "Turmoil"
 }

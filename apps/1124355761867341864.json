@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f4b00b9eee9e2a0222188cd94b17bc10",
     "id": "1124355761867341864",
-    "name": "killer7",
-    "publishers": [
-        {
-            "id": "521816539746271242",
-            "name": "Grasshopper Manufacture inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "868520",
-            "sku": "868520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "816c09efa338e9a3a202b7ae64f1d031f8fe2802faee6ae3aef0cf907a6dfe8e"
+    "name": "killer7"
 }

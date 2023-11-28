@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9283fd829a9803e3dca7c0e65a6814c3",
     "id": "1124353464491847792",
-    "name": "The Incredible Adventures of Van Helsing",
-    "publishers": [
-        {
-            "id": "521816736274841640",
-            "name": "NeocoreGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "215530",
-            "sku": "215530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9fa5cdc611e77fa04281b9f974695d91693a2e9d05f5d6c478951cf859bd6e53"
+    "name": "The Incredible Adventures of Van Helsing"
 }

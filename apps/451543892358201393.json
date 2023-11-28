@@ -1,11 +1,4 @@
 {
-    "description": "Aion: Tower of Eternity is an MMORPG by NCSoft with a unique PvPvE system using the first CryEngine. Originally released in Korea, it was relaunched for China, Japan, Taiwan, North America and Europe in 2009.",
-    "developers": [
-        {
-            "id": "521816560051159044",
-            "name": "NCsoft Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,22 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe0db058834506b095f32a63ab4fd679",
     "id": "451543892358201393",
-    "name": "Aion",
-    "publishers": [
-        {
-            "id": "521816560051159044",
-            "name": "NCsoft Corporation"
-        },
-        {
-            "id": "521816594675138613",
-            "name": "NC Interactive, LLC"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "9c864defb23c8f800a140ab492f148f4c816eb92f29fed8153ca8cce8ae0ec05"
+    "name": "Aion"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e10f70a07a16997ada16dd2f5e10f19f",
     "id": "1124352926719168604",
-    "name": "Devolverland Expo",
-    "publishers": [
-        {
-            "id": "521816530397298689",
-            "name": "Flying Wild Hog"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1283220",
-            "sku": "1283220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "25f62c9eab1d23dfd20da62611004194a4ed966f5733a9ad7f79bad75e5ee6c2"
+    "name": "Devolverland Expo"
 }

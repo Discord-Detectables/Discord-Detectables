@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "37922da50ab4e887a4ed6f4446967bde",
     "id": "1124360478072787044",
-    "name": "Imperivm RTC - HD Edition \"Great Battles of Rome\"",
-    "publishers": [
-        {
-            "id": "1124360478542545017",
-            "name": "Dinamic Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "752580",
-            "sku": "752580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5d0d79f0891ba341e6ae974a78fb67d6a61c82943341f1b13b2f2ad554816379"
+    "name": "Imperivm RTC - HD Edition \"Great Battles of Rome\""
 }

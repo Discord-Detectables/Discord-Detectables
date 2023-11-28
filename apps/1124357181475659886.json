@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b188f8767d9cba1251d7eb2e9f7bec1f",
     "id": "1124357181475659886",
-    "name": "Master of Orion 2",
-    "publishers": [
-        {
-            "id": "524351710941151253",
-            "name": "Simtex"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "410980",
-            "sku": "410980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b0d225d74dcb360015e0055d6e3d8054f2ad4861ccc76a5a5d4594316c5679bd"
+    "name": "Master of Orion 2"
 }

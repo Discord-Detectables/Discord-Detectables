@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "212c015d1b063423814e58d10c61a10c",
     "id": "1175163467318182018",
-    "name": "Pizza Possum",
-    "publishers": [
-        {
-            "id": "1175163469637632084",
-            "name": "Cosy Computer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1951230",
-            "sku": "1951230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1e5af26d1273691cd706d4d14113645d5568134210def0f3bd68c46ec864faa6"
+    "name": "Pizza Possum"
 }

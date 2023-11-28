@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c2f771baf17792c17e52d9e86b7f404c",
     "id": "1124359178106978424",
-    "name": "Fight of Animals",
-    "publishers": [
-        {
-            "id": "524352726507978763",
-            "name": "Digital Crafter"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1160330",
-            "sku": "1160330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0be0b1d6bbb58343eb2f9547b216ba9e1c54053425730eb5420f36c3e74720d4"
+    "name": "Fight of Animals"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "87a84587f73d2a01026d758d5019d454",
     "id": "1124360595035140126",
-    "name": "Trainz Simulator 12",
-    "publishers": [
-        {
-            "id": "1124357398707060767",
-            "name": "N3V Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "24670",
-            "sku": "24670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4af7eb208db754a391f8abaeff296809b379b04fd499729b9e1bd094e361b56f"
+    "name": "Trainz Simulator 12"
 }

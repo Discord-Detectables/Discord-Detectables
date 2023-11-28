@@ -2,13 +2,6 @@
     "aliases": [
         "Hawken"
     ],
-    "description": "Hawken is a free to play, multiplayer-only first-person shooter featuring enormous mechs and micro-transactions from independent studio Adhesive Games.",
-    "developers": [
-        {
-            "id": "521816540186935348",
-            "name": "Adhesive Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,29 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e19eeb6a612d5f68fdd19eeb1b77a925",
     "id": "496778224433627156",
-    "name": "HAWKEN",
-    "publishers": [
-        {
-            "id": "521816540186935346",
-            "name": "Reloaded Games"
-        },
-        {
-            "id": "521816540186935347",
-            "name": "Meteor Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "271290",
-            "sku": "271290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5411249fb1ebd58d70c4242865d3713cffb7d951e849343f2e61725f7fb437a"
+    "name": "HAWKEN"
 }

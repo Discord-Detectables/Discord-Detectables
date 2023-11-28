@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "504422264599609344",
-    "name": "Age of Wushu",
-    "publishers": [
-        {
-            "id": "521816522302423051",
-            "name": "Snail Games USA"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "15d117d73dbc9739fa3f38308a6cae6d7cb0910ed1dccfd6bf025826b8b73cee"
+    "name": "Age of Wushu"
 }

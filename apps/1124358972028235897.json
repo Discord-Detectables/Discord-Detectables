@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b99ec0f1abb69b53a21f4315b8d3e918",
     "id": "1124358972028235897",
-    "name": "Total War: ROME II - Emperor Edition",
-    "publishers": [
-        {
-            "id": "521816568473059338",
-            "name": "Creative Assembly"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "214950",
-            "sku": "214950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "51ce5df08779ece27172a718b4c30d65cb68966a9e9c536bdebfd9454a682472"
+    "name": "Total War: ROME II - Emperor Edition"
 }

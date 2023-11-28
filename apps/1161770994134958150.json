@@ -2,9 +2,6 @@
     "aliases": [
         "Persona 4 Golden"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fae5b6cd13413ec0f8539662adc7baea",
     "id": "1161770994134958150",
-    "name": "Persona 4 Golden",
-    "publishers": [
-        {
-            "id": "604017941759000594",
-            "name": "Atlus"
-        },
-        {
-            "id": "604017941759000594",
-            "name": "Atlus"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1113000",
-            "sku": "1113000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "211fd79496d5ab13e670442895171d38661daaac54243155540c1427afaf627f"
+    "name": "Persona 4 Golden"
 }

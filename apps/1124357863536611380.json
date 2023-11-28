@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5f610aa480cc6023365d8aad4124f9e",
     "id": "1124357863536611380",
-    "name": "WWE 2K17",
-    "publishers": [
-        {
-            "id": "521816587586633731",
-            "name": "Visual Concepts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "510510",
-            "sku": "510510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "453cf6bb5630e614b0f5c71fd4a5d63f83de90487cdbebacddfa76c6cc8f0c56"
+    "name": "WWE 2K17"
 }

@@ -2,20 +2,7 @@
     "aliases": [
         "Trine"
     ],
-    "cover_image": "fdce17de02df4743f981aa32e6bf820f",
-    "description": "Trine Enchanted Edition",
-    "developers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "trine/wmfdist11-windowsxp-x86-enu.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "trine.exe",
@@ -28,41 +15,16 @@
         },
         {
             "is_launcher": false,
+            "name": "trine/wmfdist11-windowsxp-x86-enu.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "trine.app",
             "os": "darwin"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0cf966c347621aeacc626048632b4241",
     "id": "489705172453425173",
-    "name": "Trine Enchanted Edition",
-    "primary_sku_id": "494709638487343107",
-    "publishers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        },
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
-    "slug": "trine-enchanted-edition",
-    "splash": "084195dd544814ac6660f0f1a838fc56",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "494709638487343107",
-            "sku": "494709638487343107"
-        },
-        {
-            "distributor": "steam",
-            "id": "35700",
-            "sku": "35700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f162a02ce13687a245ac8a9a84e6fd4969f199de79bc4323e4909b1ea350c20b"
+    "name": "Trine Enchanted Edition"
 }

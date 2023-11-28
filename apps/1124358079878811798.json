@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b3d9448ea6778ee2b1d218da029b283f",
     "id": "1124358079878811798",
-    "name": "Arcana Heart 3 LOVE MAX!!!!!",
-    "publishers": [
-        {
-            "id": "1124358080331792525",
-            "name": "EXAMU Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "370460",
-            "sku": "370460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b6ac9e2e88ae414a81d26452c506051daa0798770afb2eac4d37b960db836d1c"
+    "name": "Arcana Heart 3 LOVE MAX!!!!!"
 }

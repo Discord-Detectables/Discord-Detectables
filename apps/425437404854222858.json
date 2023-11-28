@@ -2,13 +2,6 @@
     "aliases": [
         "Beyond Good & Evil"
     ],
-    "description": "The story of a young, curious, and green-loving photojournalist named Jade, out to unravel an alien conspiracy on her home planet of Hillys.",
-    "developers": [
-        {
-            "id": "521816592674193443",
-            "name": "Ubisoft Montpellier Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eefa89c1b9b263bb24d2a7a15dece0d4",
     "id": "425437404854222858",
-    "name": "Beyond Good and Evil",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "232",
-            "sku": "232"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cbe963248925167ac4f36a0cf72cc7c8d0c14d38df197c88ea32be18b50f508e"
+    "name": "Beyond Good and Evil"
 }

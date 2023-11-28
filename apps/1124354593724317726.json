@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "592a796fd10d5989c29e2d90dae3e0e1",
     "id": "1124354593724317726",
-    "name": "Be Funny Now!",
-    "publishers": [
-        {
-            "id": "524352466561794068",
-            "name": "Galvanic Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1644990",
-            "sku": "1644990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "170ddfc860574db6bd762c129c87f1bb9557690f51e632daa03ea4c892379e47"
+    "name": "Be Funny Now!"
 }

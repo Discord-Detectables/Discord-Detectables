@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "02c9e1f72da6f477a558bb0ffd430c3f",
     "id": "1124355998006653030",
-    "name": "Dealer's Life",
-    "publishers": [
-        {
-            "id": "1124354822888501358",
-            "name": "Abyte Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "982270",
-            "sku": "982270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "35c7520f02e70ef678938bc676e9037ea4fa83f358cefaec53cc3535a7d7de1e"
+    "name": "Dealer's Life"
 }

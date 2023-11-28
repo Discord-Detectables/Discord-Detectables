@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f701140c8d2d2cf0b6b50f214298eae",
     "id": "1124359428179771422",
-    "name": "Medal of Honor™: Above and Beyond",
-    "publishers": [
-        {
-            "id": "521816569601458178",
-            "name": "Respawn Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1402320",
-            "sku": "1402320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "66b509f21c5e370121f8e0fda6b52e1756705d49776c82ea09fdf0984dcd04da"
+    "name": "Medal of Honor™: Above and Beyond"
 }

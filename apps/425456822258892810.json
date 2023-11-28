@@ -1,11 +1,4 @@
 {
-    "description": "The Universim is a planet simulation and management game from Crytivo Games.",
-    "developers": [
-        {
-            "id": "521816764376678402",
-            "name": "Crytivo Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d5709a3fa71cf2e663be2ad3bafe3520",
     "id": "425456822258892810",
-    "name": "The Universim",
-    "publishers": [
-        {
-            "id": "521816764376678402",
-            "name": "Crytivo Games"
-        }
-    ],
-    "splash": "8bbc3809bef0e75b5be24e54e633a75c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "352720",
-            "sku": "352720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f1a81a58cf0fd158476ea210e7821a39c46264f0e08cda6169b896f7c23e0577"
+    "name": "The Universim"
 }

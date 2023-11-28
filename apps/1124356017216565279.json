@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b77e030dedc3800adf6861ce4cbeaf00",
     "id": "1124356017216565279",
-    "name": "Life is Strange Remastered",
-    "publishers": [
-        {
-            "id": "1124352950261792788",
-            "name": "Deck Nine"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1265920",
-            "sku": "1265920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b84c03b6cf27f728b2ea88001a7603f62de058ffc427bb5a0202693704b94a80"
+    "name": "Life is Strange Remastered"
 }

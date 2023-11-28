@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "44be7ff51f4e411cf37253cab5bb5729",
     "id": "1124358685133652088",
-    "name": "Super Bomberman R",
-    "publishers": [
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "702700",
-            "sku": "702700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b06482f6b742167ea7c7af2a087667c35da755471ef7cbd3913aeea90db33e73"
+    "name": "Super Bomberman R"
 }

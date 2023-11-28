@@ -2,53 +2,19 @@
     "aliases": [
         "Dungeons & Dragons Online"
     ],
-    "description": "Play as Humans, Dwarves, Elves, Halflings, and more in this 2006 MMO based on the beloved pen-and-paper RPG, and developed by Turbine, Inc.",
-    "developers": [
-        {
-            "id": "521816685502791730",
-            "name": "Turbine, Inc."
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "dndclient64.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "dndclient.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "dndclient64.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "912cd5d13f5198da6c7dad065f11e373",
     "id": "496579889063919616",
-    "name": "Dungeons & Dragons Online®",
-    "publishers": [
-        {
-            "id": "521816753920016388",
-            "name": "Atari SA"
-        },
-        {
-            "id": "521816754356486154",
-            "name": "Standing Stone Games, LLC"
-        },
-        {
-            "id": "521816754356486155",
-            "name": "Turbine, Inc"
-        }
-    ],
-    "splash": "c08ef95a1da02edeab71fdc9d2aea424",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "206480",
-            "sku": "206480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a8c0079c6023af07b814a16134095257976826cb6b63a99472a0581cb2dc6d80"
+    "name": "Dungeons & Dragons Online®"
 }

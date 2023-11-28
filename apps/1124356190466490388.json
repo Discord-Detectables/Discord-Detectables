@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d55f47d76dd20bc9ef891fdef8ed72dd",
     "id": "1124356190466490388",
-    "name": "Heat",
-    "publishers": [
-        {
-            "id": "1124356191183712356",
-            "name": "Code}{atch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "656240",
-            "sku": "656240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd34926949108d29f424fe7ad3cc6537468ba9c3fd9c03e21b4b88ee3460ebd0"
+    "name": "Heat"
 }

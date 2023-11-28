@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d8af01836f16c35da21c466b87f275e3",
     "id": "1124356659234488400",
-    "name": "Fruit Ninja VR",
-    "publishers": [
-        {
-            "id": "1124356659754577960",
-            "name": "Halfbrick Studios Pty Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "486780",
-            "sku": "486780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "71675fdfd3bc46d5526863bfbf1d56814ee538d69c705e0c41856b879e97a182"
+    "name": "Fruit Ninja VR"
 }

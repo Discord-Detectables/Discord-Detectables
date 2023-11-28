@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e37d35cbe41a0ab99ebcb0420766ae4b",
     "id": "1124351935185694872",
-    "name": "Hired Ops",
-    "publishers": [
-        {
-            "id": "1124351935668027535",
-            "name": "Absolut Soft LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "374280",
-            "sku": "374280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15ca0ca806911548652f6d572894d5f7cf364976e3cfa7215809b7ecf33065dc"
+    "name": "Hired Ops"
 }

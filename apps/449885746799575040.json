@@ -1,5 +1,4 @@
 {
-    "description": "Dungreed is a 2D side-scrolling action game with 2D Rogue-LITE elements.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed1b5bb47c7be46aff6a0b34cda8ef4f",
     "id": "449885746799575040",
-    "name": "Dungreed",
-    "publishers": [
-        {
-            "id": "521816760949669900",
-            "name": "TEAM HORAY"
-        }
-    ],
-    "splash": "fa37970af8dc5f36fa67f64332d3bb7d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "753420",
-            "sku": "753420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8a1f006b50bb8cb9135a42c38bdc2562a9545930b74eb04cac029676516a0e04"
+    "name": "Dungreed"
 }

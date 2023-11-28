@@ -1,11 +1,4 @@
 {
-    "description": "A visual novel dating sim where players control a human girl attending a high school for pigeons.",
-    "developers": [
-        {
-            "id": "521816729849036802",
-            "name": "PigeoNation Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,31 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "76dde0c1218b205bb1304117192e3d1a",
     "id": "496777244090302490",
-    "name": "Hatoful Boyfriend",
-    "publishers": [
-        {
-            "id": "521816729849036802",
-            "name": "PigeoNation Inc."
-        }
-    ],
-    "splash": "703a136fc6eec0cd52489bbd2a11b8ef",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "310080",
-            "sku": "310080"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "6ec8b8d52ecd1af6f402bd49b331f789f2fe2ba45d54b23b7fa14c1acf425813"
+    "name": "Hatoful Boyfriend"
 }

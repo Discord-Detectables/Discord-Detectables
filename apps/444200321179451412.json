@@ -1,11 +1,4 @@
 {
-    "description": "TrackMania 2 gets a proper Stadium setting with this expansion.",
-    "developers": [
-        {
-            "id": "521816570029146113",
-            "name": "Nadeo"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "61d855eff4190699da8c3e950b738f1e",
     "id": "444200321179451412",
-    "name": "TrackMania² Stadium",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816570029146113",
-            "name": "Nadeo"
-        }
-    ],
-    "splash": "469f1c2468ba89ad65f00d56c22b6d6f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "232910",
-            "sku": "232910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9b1149c590d2a11e3f1879120f9228e33d836a4551e618b2f6c85dd69fdde7dc"
+    "name": "TrackMania² Stadium"
 }

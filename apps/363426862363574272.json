@@ -1,11 +1,4 @@
 {
-    "description": "Take control of fierce female warriors in a 1940s dark Deco world in this stylish indie fighting game developed by (and for) hardcore fighting game enthusiasts.",
-    "developers": [
-        {
-            "id": "521816603210285067",
-            "name": "Reverge Labs, LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fab1e8e55b89bfb779790b4a54507ca0",
     "id": "363426862363574272",
-    "name": "Skullgirls",
-    "publishers": [
-        {
-            "id": "521816603210285066",
-            "name": "Autumn Games"
-        }
-    ],
-    "splash": "06e97c876b8ba05cc904d662384914d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "245170",
-            "sku": "245170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "babc8f489545360e818b4d513726e83c4bdaa5ced2fd80bc5d27d5574419637a"
+    "name": "Skullgirls"
 }

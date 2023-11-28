@@ -1,11 +1,4 @@
 {
-    "description": "Abstract puzzle-platformer focused on two player co-op.",
-    "developers": [
-        {
-            "id": "521816713746972682",
-            "name": "Sparpweed"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d97db81a0a7237cb9bf97a3ae5726489",
     "id": "496838264506941473",
-    "name": "ibb & obb",
-    "publishers": [
-        {
-            "id": "521816713746972682",
-            "name": "Sparpweed"
-        }
-    ],
-    "splash": "7fc68d678c7814bc3c6f4da9613ed2c9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "95400",
-            "sku": "95400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ec35bea9f629247f54fb52dc88482bd2700754c6f11bfc3b79321c38712a8114"
+    "name": "ibb & obb"
 }

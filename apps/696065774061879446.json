@@ -2,7 +2,6 @@
     "aliases": [
         "Return of the Obra Dinn"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b36e78e41cb56c9d1e089193c187556e",
     "id": "696065774061879446",
-    "name": "Return of the Obra Dinn",
-    "publishers": [
-        {
-            "id": "521816540853698567",
-            "name": "Lucas Pope"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "653530",
-            "sku": "653530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f5a3ca6c101d7b9b4e796c830ce3dfb9c2b79a669da38e05454a646c3bf1bcd3"
+    "name": "Return of the Obra Dinn"
 }

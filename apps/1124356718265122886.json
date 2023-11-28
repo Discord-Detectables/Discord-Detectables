@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "76916d8a16544c34ad8712748c1ce874",
     "id": "1124356718265122886",
-    "name": "Press Any Button",
-    "publishers": [
-        {
-            "id": "1124356718755852350",
-            "name": "Eugene Zubko"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1448030",
-            "sku": "1448030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3b94152f4db1f4913cd3b9bdfadb51a151d06e3903404b0f0f8dcebc7ad3e88b"
+    "name": "Press Any Button"
 }

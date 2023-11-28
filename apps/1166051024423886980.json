@@ -2,9 +2,6 @@
     "aliases": [
         "Recettear: An Item Shop's Tale"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5bc16972f771783a64855941f572af2",
     "id": "1166051024423886980",
-    "name": "Recettear: An Item Shop's Tale",
-    "publishers": [
-        {
-            "id": "524352074272604198",
-            "name": "EasyGameStation"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "70400",
-            "sku": "70400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d1023f0c40ab53c476342aea539380f7a81744ad84120a1aa83757285f3f61c"
+    "name": "Recettear: An Item Shop's Tale"
 }

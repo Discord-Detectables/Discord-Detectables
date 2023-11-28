@@ -1,11 +1,4 @@
 {
-    "description": "Golf It! is a multiplayer Minigolf game with a multiplayer Editor.",
-    "developers": [
-        {
-            "id": "521816806176980994",
-            "name": "Perfuse Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,20 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8e7525be642175127627a6b9d03f9e2d",
     "id": "363409575321403402",
-    "name": "Golf It!",
-    "splash": "afda5a5980333a68e688527cbb6e05d2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "571740",
-            "sku": "571740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ba0cfea5674bc108087f7561c81891c58164d4b4b7953846a1d66af03b58ce5d"
+    "name": "Golf It!"
 }

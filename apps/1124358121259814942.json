@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "909155153bc2bf4bfdce78c3d21e42cc",
     "id": "1124358121259814942",
-    "name": "Terraformers",
-    "publishers": [
-        {
-            "id": "1124358121712795668",
-            "name": "Asteroid Lab"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1244800",
-            "sku": "1244800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9950cc15aec946ca2c3e626bda3bcc7d497d5637d0d7699862f6ce72b4bafb08"
+    "name": "Terraformers"
 }

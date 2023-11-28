@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f09d49c91d41e88e0b72cbadf52601df",
     "id": "1124357146159624312",
-    "name": "Mineirinho Director's Cut",
-    "publishers": [
-        {
-            "id": "1124357146637783100",
-            "name": "Sinned Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1201630",
-            "sku": "1201630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c8028ecc848414e05ac286d5c94b52c82c372ad5a321c9439ae34d583da1c98d"
+    "name": "Mineirinho Director's Cut"
 }

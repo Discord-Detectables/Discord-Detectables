@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5f0cc3ee56bfce0caba9ea906645208e",
     "id": "1138683327470108773",
-    "name": "Hentai Asmodeus",
-    "publishers": [
-        {
-            "id": "1138683329374339203",
-            "name": "Hega Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1147510",
-            "sku": "1147510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fcf6a6f24bae9b596527fcd10dd0a622958cdc1715d61261bb636506594fa157"
+    "name": "Hentai Asmodeus"
 }

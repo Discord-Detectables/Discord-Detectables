@@ -2,12 +2,10 @@
     "aliases": [
         "Ghost Recon Breakpoint"
     ],
-    "cover_image": "436feb813d4342cb66661496b910bac5",
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
-            "name": "grb.exe",
+            "name": "grb_upp.exe",
             "os": "win32"
         },
         {
@@ -17,7 +15,7 @@
         },
         {
             "is_launcher": false,
-            "name": "grb_upp.exe",
+            "name": "grb.exe",
             "os": "win32"
         },
         {
@@ -26,30 +24,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "53535ec6a104658b0ac426c22799cd31",
     "id": "540120593576493057",
     "name": "Ghost Recon Breakpoint",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "11903",
-            "sku": "11903"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9e0b460e1bd74728f8511dd2ce598086572d16c5c998a695a2e0f118da156147"
+    "overlay": true
 }

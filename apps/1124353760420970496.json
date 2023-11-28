@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4f6c10b1b89284d667c6d75ba4a0cfa0",
     "id": "1124353760420970496",
-    "name": "PAC-MAN Championship Edition DX+",
-    "publishers": [
-        {
-            "id": "1124353760911700040",
-            "name": "Mine Loader Software Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "236450",
-            "sku": "236450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "267adc5999a56b444a8e27176e00183302c11f20ad9e3aecb7ea886c90d766c0"
+    "name": "PAC-MAN Championship Edition DX+"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816635749695509",
-            "name": "ClockStone"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b26e1be6d45c72c67de34880516851fe",
     "id": "425442642680348692",
-    "name": "Bridge Constructor",
-    "primary_sku_id": "456264683608080394",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "slug": "bridge-constructor",
-    "splash": "836f8f474d53baad24f2fb01050e903d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250460",
-            "sku": "250460"
-        },
-        {
-            "distributor": "discord",
-            "id": "456264683608080394",
-            "sku": "456264683608080394"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9878ea1c170ae988b1941617ce4bcaafc09cd9f7cc11513d5a77bbeb74b6017"
+    "name": "Bridge Constructor"
 }

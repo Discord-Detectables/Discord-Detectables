@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7607b6767c064a28287093e72bc7c76",
     "id": "1124353985042731008",
-    "name": "KHOLAT",
-    "publishers": [
-        {
-            "id": "521816617571581965",
-            "name": "IMGN.PRO"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "343710",
-            "sku": "343710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c6ec7344694aab2671b0f0fa3b3a3e0ae82c39021b9ee3a845e24e6178b498c2"
+    "name": "KHOLAT"
 }

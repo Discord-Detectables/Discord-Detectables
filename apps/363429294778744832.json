@@ -1,11 +1,4 @@
 {
-    "description": "Players are shipwrecked on a mysterious island and then forced to partake in deadly \"performances\" for the entertainment of a crowd of cats.",
-    "developers": [
-        {
-            "id": "521816647678558213",
-            "name": "The Behemoth"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "195951483789901835",
     "hook": true,
-    "icon": "0460513c2fa63f260453130ad62bd4a8",
     "id": "363429294778744832",
-    "name": "BattleBlock Theater",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "583d3c9486c5824592c3663f980aeae3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "238460",
-            "sku": "238460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "01a40e2562d5940dc7d9174e43dda83ad8e0e645d13d512d8ef718143f22f452"
+    "name": "BattleBlock Theater"
 }

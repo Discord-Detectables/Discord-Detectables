@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0dfe6c7ad0d132feddd429302eb9e5a3",
     "id": "1124354160985387130",
-    "name": "Haven",
-    "publishers": [
-        {
-            "id": "521816539087896596",
-            "name": "The Game Bakers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "983970",
-            "sku": "983970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c387b70ef781c540134dddc9d0dc55b11edb69d2f4e804dca053c20903dcb23"
+    "name": "Haven"
 }

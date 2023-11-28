@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f17087b35f3c6560899f372a2abc9445",
     "id": "1124359889028919296",
-    "name": "FIM Speedway Grand Prix 15",
-    "publishers": [
-        {
-            "id": "524353072487464961",
-            "name": "SoftPlanet"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "348820",
-            "sku": "348820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ab7c63b411c26bc7a7ce6565b19be926aae9213af25d49318656f1be5fa2efd1"
+    "name": "FIM Speedway Grand Prix 15"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cbb769a8cab558dcb77fdf7d764be93b",
     "id": "1124352171987714088",
-    "name": "GreedFall",
-    "publishers": [
-        {
-            "id": "524352111820013569",
-            "name": "Spiders"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "606880",
-            "sku": "606880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bbf2d32200abb09158a1d7de7b595493d0b73e83ea897e56f6802da0b947d17e"
+    "name": "GreedFall"
 }

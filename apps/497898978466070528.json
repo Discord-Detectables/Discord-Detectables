@@ -3,13 +3,6 @@
         "Assassin's Creed Odyssey",
         "Assassin's Creed: Odyssey"
     ],
-    "description": "Assassin's Creed Odyssey brings the franchise to Greece in 431 BCE, the earliest setting in the series thus far.",
-    "developers": [
-        {
-            "id": "521816510730338327",
-            "name": "Ubisoft Quebec"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,44 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "215838530889318401",
     "hook": true,
-    "icon": "7e8926a9de441adc0d78cda2df1fc490",
     "id": "497898978466070528",
-    "name": "Assassin's Creed Odyssey",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        },
-        {
-            "id": "521816510730338327",
-            "name": "Ubisoft Quebec"
-        },
-        {
-            "id": "521816510730338327",
-            "name": "Ubisoft Quebec"
-        }
-    ],
-    "splash": "ea8a53fd1866a596031c9de676ed4022",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "5059",
-            "sku": "5059"
-        },
-        {
-            "distributor": "steam",
-            "id": "812140",
-            "sku": "812140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "16a0e02bd42e4a41e4a1f18804e73ba0858bd92c6ecb0768a971d29ede7dfd4c"
+    "name": "Assassin's Creed Odyssey"
 }

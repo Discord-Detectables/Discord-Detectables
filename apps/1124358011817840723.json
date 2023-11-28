@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8a556f054d710a02dfe2cf12f5c567d5",
     "id": "1124358011817840723",
-    "name": "OlliOlli World",
-    "publishers": [
-        {
-            "id": "521816670004576270",
-            "name": "Roll7"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1190170",
-            "sku": "1190170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5ef37ed8ab429ef7dab504b613cc77a72d3edbbecd06801bf31b7ab163ac93fe"
+    "name": "OlliOlli World"
 }

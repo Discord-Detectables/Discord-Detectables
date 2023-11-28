@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "acd56b0149ac6f8faf22446380e60794",
     "id": "1129505613420961832",
-    "name": "Out of the Park Baseball 19",
-    "publishers": [
-        {
-            "id": "521816801995390976",
-            "name": "Out of the Park Developments"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "619290",
-            "sku": "619290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "abb6f4787d0c33fe572ddea387e4e49a74408a4951d37bec5d22fb745428a54d"
+    "name": "Out of the Park Baseball 19"
 }

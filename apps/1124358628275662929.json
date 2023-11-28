@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e65bd855aefe8acdb9d24e322cf0b943",
     "id": "1124358628275662929",
-    "name": "Grand Tactician: The Civil War (1861-1865)",
-    "publishers": [
-        {
-            "id": "524353058881142797",
-            "name": "Oliver Keppelmüller"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "654890",
-            "sku": "654890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "31d6f0c346157842503a58fb03f27168c7829d7cfd651c70fa027283a83adeb0"
+    "name": "Grand Tactician: The Civil War (1861-1865)"
 }

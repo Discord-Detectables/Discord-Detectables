@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "22ff66f3e5f19aad333abf0a8ea4d0ca",
     "id": "1124353341850390630",
-    "name": "Diplomacy is Not an Option",
-    "publishers": [
-        {
-            "id": "1124353342299189248",
-            "name": "Door 407"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1272320",
-            "sku": "1272320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eb7591d83c51f4c9e90273cdc8d317b569b1617fa7e8f3f3c1fbe179618a0bcd"
+    "name": "Diplomacy is Not an Option"
 }

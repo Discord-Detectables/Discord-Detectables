@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f78dc2e0d9efc108069c3fcb492f0354",
     "id": "1124359137795526787",
-    "name": "Glass Masquerade 2: Illusions",
-    "publishers": [
-        {
-            "id": "524352810272292870",
-            "name": "Onyx Lute"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "935880",
-            "sku": "935880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f483c7ec3aacecb3c99e464d84248c6950a2f7b9e755d5aa76cea242dba0b276"
+    "name": "Glass Masquerade 2: Illusions"
 }

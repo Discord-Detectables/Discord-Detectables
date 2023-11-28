@@ -1,11 +1,4 @@
 {
-    "description": "Created by Ankama Game, Dofus is a 2D MMORPG using a turn based battle system and features 15 unique classes.  The game has a charming artistic aesthetic instead of a realistic 3D world.",
-    "developers": [
-        {
-            "id": "521816751038791693",
-            "name": "Ankama Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,21 +6,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2183ef1fecfff1a569e6fb01a766e300",
     "id": "363412841862266880",
     "name": "Dofus",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816751038791693",
-            "name": "Ankama Games"
-        }
-    ],
-    "splash": "3ce228309dc4caefe3f65419ca7689de",
-    "summary": "",
-    "type": 1,
-    "verify_key": "4f41c2db9a5ef3bf46209085421268ee385bffac54f427722528e9e54c8ea8af"
+    "overlay_compatibility_hook": true
 }

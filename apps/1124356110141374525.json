@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dc94a84a35248858b6311f2453a48a27",
     "id": "1124356110141374525",
-    "name": "Zup! 6",
-    "publishers": [
-        {
-            "id": "1124352226966650920",
-            "name": "Quiet River"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "566160",
-            "sku": "566160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6eb2a4fd218d1b48cfa1a98109819532766d57f6d3590a51f8787a7f3d705e32"
+    "name": "Zup! 6"
 }

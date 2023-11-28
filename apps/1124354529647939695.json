@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e35864815d69ae80a029d6c34b3862c4",
     "id": "1124354529647939695",
-    "name": "Children of Silentown: Prologue",
-    "publishers": [
-        {
-            "id": "1124354530142863441",
-            "name": "Elf Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1451740",
-            "sku": "1451740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8bf8e62696d2ccd211e25d3e84de12c94ae07761a58c5bc5eb82e01d79663135"
+    "name": "Children of Silentown: Prologue"
 }

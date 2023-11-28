@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ceded06b5003251b93fcc2340d4248fc",
     "id": "1124353205464215664",
-    "name": "Cat Quest",
-    "publishers": [
-        {
-            "id": "1124353205950763059",
-            "name": "The Gentlebros"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "593280",
-            "sku": "593280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0fd1ee5ed20ca9fd156ac898618067cf068efc97e727d056867869581d7fc47a"
+    "name": "Cat Quest"
 }

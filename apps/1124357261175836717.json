@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4c8818e1ee7a7c6b745fa1914ad3ec9",
     "id": "1124357261175836717",
-    "name": "RIDE: Game",
-    "publishers": [
-        {
-            "id": "524351544951439360",
-            "name": "Milestone s.r.l."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "345660",
-            "sku": "345660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "222dc5113eb6ef0a547e42c37d1163bb031ac00a4e5b055454da46472c3c706c"
+    "name": "RIDE: Game"
 }

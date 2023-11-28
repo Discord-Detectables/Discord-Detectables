@@ -2,19 +2,7 @@
     "aliases": [
         "Counter-Strike Global Offensive"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816507102003200",
-            "name": "Valve"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "csgo_osx64",
-            "os": "darwin"
-        },
         {
             "is_launcher": false,
             "name": "csgo.exe",
@@ -24,35 +12,16 @@
             "is_launcher": false,
             "name": "csgo_linux64",
             "os": "linux"
+        },
+        {
+            "is_launcher": false,
+            "name": "csgo_osx64",
+            "os": "darwin"
         }
     ],
-    "flags": 0,
-    "guild_id": "196409711577268225",
     "hook": true,
-    "icon": "782a3bb612c6f1b3f7deed554935f361",
     "id": "356875057940791296",
     "name": "Counter-Strike: Global Offensive",
     "overlay": true,
-    "overlay_methods": 1,
-    "publishers": [
-        {
-            "id": "521816507102003200",
-            "name": "Valve"
-        },
-        {
-            "id": "521816530393104394",
-            "name": "Valve Corporation"
-        }
-    ],
-    "splash": "84096ee7cf9b0b4c8b08f373f2312576",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "730",
-            "sku": "730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7baad1340e886320ec14c916f51b093d447bdb69d62a284b88f71729f92e4ce7"
+    "overlay_methods": 1
 }

@@ -1,5 +1,4 @@
 {
-    "description": "Last Santa Standing is a Christmas-themed PvP arena fighting game by Doborog Games. You take on the roll of one of many Santas looking to win a battle royale style match and grab the Christmas Dinner prize.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dba293cb3b4113a14fee08e7b461a7b1",
     "id": "406644036963663890",
-    "name": "Long Live Santa!",
-    "publishers": [
-        {
-            "id": "521816652262670339",
-            "name": "Doborog Games"
-        }
-    ],
-    "splash": "a33a175e47ec6d377d89f16cf96866b9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "763410",
-            "sku": "763410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "392f8a0a85753d5b791ece0715c861d18910dd5abdcc345ae5c2979fa4a71c52"
+    "name": "Long Live Santa!"
 }

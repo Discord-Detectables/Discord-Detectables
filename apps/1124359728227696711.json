@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e99927bb001bcd88bbd62643bb487197",
     "id": "1124359728227696711",
-    "name": "Stick Arena",
-    "publishers": [
-        {
-            "id": "1124356487549038603",
-            "name": "XGen Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "879650",
-            "sku": "879650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9c4b0ebafe9d63194ffff5a65c229a96d8879c40605f019069cd8283722fd06b"
+    "name": "Stick Arena"
 }

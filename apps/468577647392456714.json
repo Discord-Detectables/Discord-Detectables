@@ -1,11 +1,4 @@
 {
-    "description": "Rules of Survival is a mobile game available for Android or iOS.",
-    "developers": [
-        {
-            "id": "521816803228254219",
-            "name": "NetEase"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "383908501170290690",
     "hook": true,
-    "icon": "de7bdca0f5ccb98cc1e7329b1a0a16b3",
     "id": "468577647392456714",
-    "name": "Rules Of Survival",
-    "publishers": [
-        {
-            "id": "521816803228254219",
-            "name": "NetEase"
-        }
-    ],
-    "splash": "41132f33119e58ab90cba02eaa7271fb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "788260",
-            "sku": "788260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7deb9037edf5e1cd4514377b1af0a8ece4c203a1003463245fee6f3d84593529"
+    "name": "Rules Of Survival"
 }

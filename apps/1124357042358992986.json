@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f92000c28bf3b44a166984826b0f688",
     "id": "1124357042358992986",
-    "name": "Mist Legacy",
-    "publishers": [
-        {
-            "id": "1124357042824556664",
-            "name": "Virtys"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1259440",
-            "sku": "1259440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "63d279294c084b5a938f3d91b4ed5892b92ef1a0a764b3921e8a16daac122282"
+    "name": "Mist Legacy"
 }

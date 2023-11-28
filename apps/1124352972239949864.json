@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "30abb54b2f5802c595aa9f4dd523ac99",
     "id": "1124352972239949864",
-    "name": "Eden Rising",
-    "publishers": [
-        {
-            "id": "524352554939973634",
-            "name": "Nvizzio Creations"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "345330",
-            "sku": "345330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "47fe38652b7cd5e8641d1ea4d061f960fc80c0c06132fecec4359a80ab8fdc70"
+    "name": "Eden Rising"
 }

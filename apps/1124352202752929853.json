@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e302943c0355681855c4489cc9eede5b",
     "id": "1124352202752929853",
-    "name": "LEGO® Star Wars™ III: The Clone Wars™",
-    "publishers": [
-        {
-            "id": "1124351999513743491",
-            "name": "Traveller's Tales"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "32510",
-            "sku": "32510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b4381e8302f3ab276459293ce0e06685d00ead09785b831c1c2c7ef1fb5b7b2"
+    "name": "LEGO® Star Wars™ III: The Clone Wars™"
 }

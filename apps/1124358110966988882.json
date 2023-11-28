@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "47b8f5109e5d456c18c927721bb300fc",
     "id": "1124358110966988882",
-    "name": "Oddworld: Munch's Oddysee",
-    "publishers": [
-        {
-            "id": "521816747477827596",
-            "name": "Oddworld Inhabitants"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15740",
-            "sku": "15740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3dcf0d32fdf0e267cd5403cc5140586224b0a34e1633752788e4d6aff9233414"
+    "name": "Oddworld: Munch's Oddysee"
 }

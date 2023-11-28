@@ -2,54 +2,19 @@
     "aliases": [
         "Monster Hunter: World"
     ],
-    "description": "The fifth primary title in the Monster Hunter franchise features much larger maps, seamless transitions between zones in the map and four-player online co-op. It allows players from Japan and western countries to play together for the first time in the series.",
-    "developers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "monsterhunterworld.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "monster hunter world/mhw_modmanager.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "monsterhunterworld.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "120889695658967041",
     "hook": true,
-    "icon": "8fd08a2e0440f80334ea403d2300a828",
     "id": "477152881196269569",
-    "name": "MONSTER HUNTER: WORLD",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        },
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "splash": "fdd5d30ff7a802d7ec38f2dff0e63046",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "582010",
-            "sku": "582010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "12c77166a2b2359e0eb61eff5124144b6adee43765c990486dd23447de7613de"
+    "name": "MONSTER HUNTER: WORLD"
 }

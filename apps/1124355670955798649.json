@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "988aeaa9864aaba771b62e988abbb72b",
     "id": "1124355670955798649",
-    "name": "Agent 64: Spies Never Die Demo",
-    "publishers": [
-        {
-            "id": "1124355671433957436",
-            "name": "Replicant D6"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1591770",
-            "sku": "1591770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9b16256fbc4a31dacd1b9ab15a300e8ba845d18d9c6ba49f389d3028e2f0102"
+    "name": "Agent 64: Spies Never Die Demo"
 }

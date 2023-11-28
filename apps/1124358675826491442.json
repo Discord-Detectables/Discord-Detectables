@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "77515cd4fc972ed1d770dc222a150ff0",
     "id": "1124358675826491442",
-    "name": "Agents: Biohunters",
-    "publishers": [
-        {
-            "id": "1124358676258500778",
-            "name": "Playstark"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "765800",
-            "sku": "765800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "545e34091eb1b1a89f8f95bf5e2a50ec95fad9e5e54fc9efac760d9618bfaade"
+    "name": "Agents: Biohunters"
 }

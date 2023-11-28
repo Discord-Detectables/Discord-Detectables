@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7312ae5d7e2cc2ef739dfd8ef0a2373",
     "id": "1124353183670612109",
-    "name": "The Ship",
-    "publishers": [
-        {
-            "id": "521816563456802821",
-            "name": "Outerlight Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2400",
-            "sku": "2400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4ca2cfa58894b92f349c6ef6d1d71f6416310dcdb46d8b8d1a56dd6c27b33e7"
+    "name": "The Ship"
 }

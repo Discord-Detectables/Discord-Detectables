@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a11bd2c523e5da29ea7e92e0978d5138",
     "id": "1153359932255654019",
-    "name": "PAYDAY 3",
-    "publishers": [
-        {
-            "id": "1153359933782364252",
-            "name": "Starbreeze Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1272080",
-            "sku": "1272080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "29d9413ac8bf85fb8143f77c10d3a1d10a06946f060d5e7c6a711983f611c2e7"
+    "name": "PAYDAY 3"
 }

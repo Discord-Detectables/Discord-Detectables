@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ac1fb0eabacf6768272d961396fc6354",
     "id": "1124352424275099669",
-    "name": "What Remains of Edith Finch",
-    "publishers": [
-        {
-            "id": "524352061270130699",
-            "name": "Giant Sparrow"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "501300",
-            "sku": "501300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "378d959cf115c4fc277ec9ece0a2077436f55e31aa3f1e4199ff3d63902ee0b5"
+    "name": "What Remains of Edith Finch"
 }

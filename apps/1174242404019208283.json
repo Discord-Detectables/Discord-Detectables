@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5ae74293d90cbe4b04fb283fdb8edaf",
     "id": "1174242404019208283",
-    "name": "いもむし",
-    "publishers": [
-        {
-            "id": "1174242408540672142",
-            "name": "AMURu"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2620500",
-            "sku": "2620500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0b484a16e75cf828a2e8eb75e4ba44dba466d6bf3095a6e88055fd0f860b3b9c"
+    "name": "いもむし"
 }

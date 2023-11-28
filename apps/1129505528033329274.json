@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fd4560c0903fb5519408b927d110cca7",
     "id": "1129505528033329274",
-    "name": "Haven Demo",
-    "publishers": [
-        {
-            "id": "521816539087896596",
-            "name": "The Game Bakers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1208100",
-            "sku": "1208100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33031dd9f6ef417e6d64716900aa2f39d97e8b9756191b86d2a50cc8d44d8eb8"
+    "name": "Haven Demo"
 }

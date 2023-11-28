@@ -1,11 +1,4 @@
 {
-    "description": "Lost Horizon is the next installment in the graphical adventure series by Deep Silver.",
-    "developers": [
-        {
-            "id": "521816542707449859",
-            "name": "Animation Arts Creative GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0390ee7f82ab7619689a6b34daf33d25",
     "id": "425458269360750592",
-    "name": "Lost Horizon 2",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "fbccba1b695c1ef4aca52fa30f81a454",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "395560",
-            "sku": "395560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e22b4013bc737971710f641fdf950f6bb585c611720ae8e04b17d3711b588b59"
+    "name": "Lost Horizon 2"
 }

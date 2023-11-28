@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a3374db296e38e69bf9e86429c6eb7e3",
     "id": "1124357861707886674",
-    "name": "Prime World: Defenders 2",
-    "publishers": [
-        {
-            "id": "521816529948639233",
-            "name": "Nival"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "429540",
-            "sku": "429540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1579b55c4eb3e968f4026026a994084a3f7c05fe7c0925314338ae8e50990b5c"
+    "name": "Prime World: Defenders 2"
 }

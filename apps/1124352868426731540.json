@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf7ac3e577a44bf80d3e17d8dc62e644",
     "id": "1124352868426731540",
-    "name": "Pirates, Vikings, & Knights II",
-    "publishers": [
-        {
-            "id": "1124352868938432702",
-            "name": "Octoshark Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "17570",
-            "sku": "17570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9870cb2283a449165c1bedde888757b2eb4bc429e297b9353878e0625574865"
+    "name": "Pirates, Vikings, & Knights II"
 }

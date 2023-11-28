@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba630b7978eb24c81f85d709a963fcb6",
     "id": "1124360027646472232",
-    "name": "Indiana Jones® and the Emperor's Tomb™",
-    "publishers": [
-        {
-            "id": "521816522977574924",
-            "name": "LucasArts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "560430",
-            "sku": "560430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1e7200721d911b5706816b4b168b13d240f92b986bf2a1debaeda3a36573920a"
+    "name": "Indiana Jones® and the Emperor's Tomb™"
 }

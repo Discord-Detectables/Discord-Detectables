@@ -2,13 +2,6 @@
     "aliases": [
         "Project Hedra"
     ],
-    "description": "Project hedra is a rouguelike game with RPG elements to it, open-world, replayable, quest-orientated are some of the features that best describe it.",
-    "developers": [
-        {
-            "id": "621984260638769152",
-            "name": "Zaphyk"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5aef2c7f0cc2480fbbf1eeb5c64fc8f",
     "id": "505153723941781523",
-    "name": "Project Hedra",
-    "publishers": [
-        {
-            "id": "621984260638769152",
-            "name": "Zaphyk"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "4fe592509bf3635454ebb3e3511007030da4e2f8f31859cade3f1f43a7548eac"
+    "name": "Project Hedra"
 }

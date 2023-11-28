@@ -2,7 +2,6 @@
     "aliases": [
         "Unreal"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc156cc567e011aaabe7fbd7e7a32218",
     "id": "459581070438825994",
-    "name": "Unreal Gold",
-    "publishers": [
-        {
-            "id": "521816519332855821",
-            "name": "Epic Games, Inc."
-        }
-    ],
-    "splash": "2d32b9ae4d612132d520b00e60a8849d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "13250",
-            "sku": "13250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "acdbfbec1c15b9ac787fe2ecc50e60c9b4a38b8922289abbaf5c0ac2549ba5c5"
+    "name": "Unreal Gold"
 }

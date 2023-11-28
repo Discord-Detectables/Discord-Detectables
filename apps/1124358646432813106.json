@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c5ccf28725d203a7ad0563821bd9c3fb",
     "id": "1124358646432813106",
-    "name": "MX vs ATV Legends",
-    "publishers": [
-        {
-            "id": "521816713746972685",
-            "name": "Rainbow Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1205970",
-            "sku": "1205970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "434cf6f330d03c511664e0fd5b5969b475e2ac06e43445f983e02c1f2cb48fce"
+    "name": "MX vs ATV Legends"
 }

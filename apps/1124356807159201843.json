@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ceba27fbd140b485884b78ba63a91685",
     "id": "1124356807159201843",
-    "name": "The Witcher Adventure Game",
-    "publishers": [
-        {
-            "id": "521816596172505089",
-            "name": "CD Projekt Red"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "303800",
-            "sku": "303800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca2f8bff4c40e6df1d49fb509f0fd2c54cebc715980c29b640cfeff4ec79cc98"
+    "name": "The Witcher Adventure Game"
 }

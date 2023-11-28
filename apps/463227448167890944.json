@@ -2,19 +2,7 @@
     "aliases": [
         "Devil May Cry 4"
     ],
-    "description": "A remastering of Capcom's fourth Devil May Cry game featuring 3 additional playable characters, enhanced graphics and balance tweaks.",
-    "developers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "devilmaycry4_dx9.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "devilmaycry4_dx10.exe",
@@ -29,32 +17,14 @@
             "is_launcher": false,
             "name": "devimaycry4.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "ef81cef3c92f2ff20417ff64ed0ab6f2",
-    "id": "463227448167890944",
-    "name": "Devil May Cry® 4 Special Edition",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
         },
         {
-            "id": "521816574512857088",
-            "name": "Capcom"
+            "is_launcher": false,
+            "name": "devilmaycry4_dx9.exe",
+            "os": "win32"
         }
     ],
-    "splash": "630dc5965fe5f65a563730b08fa3919a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329050",
-            "sku": "329050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f772a0ade657843e4f21ba1cfc403b2452ff6a97c414a98d9db7ad4b4ff1564e"
+    "hook": true,
+    "id": "463227448167890944",
+    "name": "Devil May Cry® 4 Special Edition"
 }

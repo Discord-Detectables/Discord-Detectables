@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "024a9a7f96d31b0baf051d3d460dfd3f",
     "id": "1124351814926614659",
-    "name": "Cell to Singularity - Evolution Never Ends",
-    "publishers": [
-        {
-            "id": "524352562183274496",
-            "name": "Computer Lunch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "977400",
-            "sku": "977400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eae0d3e91c087d83ba1590ee9c8633f119a407efb57e79a159a46698cf92762e"
+    "name": "Cell to Singularity - Evolution Never Ends"
 }

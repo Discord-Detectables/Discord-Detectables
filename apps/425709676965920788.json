@@ -2,13 +2,6 @@
     "aliases": [
         "Trials Evolution Gold Edition"
     ],
-    "description": "The follow up to the best-selling hit Trials HD, Trials Evolution takes motorcycle platforming to a whole new level of ridiculousness.",
-    "developers": [
-        {
-            "id": "521816618024828941",
-            "name": "RedLynx Ltd"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de5b74c9460fd92edec1737d6410dbcf",
     "id": "425709676965920788",
-    "name": "Trials Evolution",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "0961dc547897ccc0d52edd2b1f5a48ed",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "220160",
-            "sku": "220160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e31946366db64a9d76b66b0fc57ada63fd4f015efec37e94823df20dd10cfe0"
+    "name": "Trials Evolution"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "49baae0cbb5594d71eeb542881c6e419",
     "id": "1124353266269044767",
-    "name": "Gum Ball Run",
-    "publishers": [
-        {
-            "id": "1124353266730414132",
-            "name": "Glenn Verheij"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2124930",
-            "sku": "2124930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4cb567b44b1933ab25f6fd476f63054d3b23169e179f408984b515a8833d7b55"
+    "name": "Gum Ball Run"
 }

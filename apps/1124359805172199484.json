@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "69c209f5a247657707a29ccb34ee7090",
     "id": "1124359805172199484",
-    "name": "The Ramp",
-    "publishers": [
-        {
-            "id": "1124359805658746881",
-            "name": "Hyperparadise"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1506510",
-            "sku": "1506510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1bb9ea37e8f1a92b2e96e2193dce04c53112c74eb1d743d684cd182bfee768da"
+    "name": "The Ramp"
 }

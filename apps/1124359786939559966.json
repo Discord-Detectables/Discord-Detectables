@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "86ecf408cfe583c88ea34a7cd487f046",
     "id": "1124359786939559966",
-    "name": "Delicious! Pretty Girls Mahjong Solitaire",
-    "publishers": [
-        {
-            "id": "524351494078857229",
-            "name": "ZOO Corporation"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "540610",
-            "sku": "540610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b1fe5d7c58926621d7605a8911e4ac68413652cac68d590eb1a05779d753c082"
+    "name": "Delicious! Pretty Girls Mahjong Solitaire"
 }

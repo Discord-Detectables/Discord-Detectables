@@ -2,9 +2,6 @@
     "aliases": [
         "Castlevania: Lords of Shadow - Ultimate Edition"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1a8b87505929837295c563950be9c6a7",
     "id": "1129505109387255860",
-    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
-    "publishers": [
-        {
-            "id": "1124354247660679198",
-            "name": "MercurySteam"
-        },
-        {
-            "id": "1129505112180674720",
-            "name": "MercurySteam - Climax Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "234080",
-            "sku": "234080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed4ead19095dcff7788c3ba27deba2d814162fd2d0d6c5c3c5a42bdca7e8d9bb"
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "The third entry in the casual poker series. The first game in the series to feature online multiplayer.",
-    "developers": [
-        {
-            "id": "521816720503996436",
-            "name": "YoudaGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "85679de5c771713b4e9fcee8caa42e72",
     "id": "451539151678865409",
-    "name": "Governor of Poker 3",
-    "publishers": [
-        {
-            "id": "521816720046948395",
-            "name": "OrangeGames"
-        }
-    ],
-    "splash": "c9243342cf5b0bd6399b04787c9431aa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "436150",
-            "sku": "436150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed6cae41688e3c9f6320f9f21e0edc16f7e93e7cd87d80540c27a0a53147dac3"
+    "name": "Governor of Poker 3"
 }

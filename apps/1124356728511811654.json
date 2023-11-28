@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e25ce456a3499a5096e912386c79bdcc",
     "id": "1124356728511811654",
-    "name": "Last Tide",
-    "publishers": [
-        {
-            "id": "521816801995390978",
-            "name": "Digital Confectioners"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "858590",
-            "sku": "858590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "541443acb4c4297936ab43c6324d6981386787a8210e93b416485a4c83990855"
+    "name": "Last Tide"
 }

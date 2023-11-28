@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4bd071b6fd8940acdb8c2260c1271c7e",
     "id": "1124360700630945823",
-    "name": "Back to the Future: Ep 1 - It's About Time",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "31290",
-            "sku": "31290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "40db035ed4d68c973fac5de328d35963ce3c3a218e97cc407b371a0254b22fcb"
+    "name": "Back to the Future: Ep 1 - It's About Time"
 }

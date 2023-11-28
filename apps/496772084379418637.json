@@ -1,11 +1,4 @@
 {
-    "description": "A real-time strategy game by Petroglyph, an indie developer founded by ex-employees of Westwood Studios. It aims to emphasize broad \"macro\" strategy over micromanagement, emulating the design of early RTS games like the Command &amp; Conquer series.",
-    "developers": [
-        {
-            "id": "521816672248791061",
-            "name": "Petroglyph Games Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "14bcad78be8d53180efcdd51871cd11f",
     "id": "496772084379418637",
-    "name": "Grey Goo",
-    "publishers": [
-        {
-            "id": "521816628980219917",
-            "name": "Grey Box"
-        }
-    ],
-    "splash": "8f43c8a2284fe6b9d7447552113f80ce",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "290790",
-            "sku": "290790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b065e4a6064349ff8039ad4656f3e91d7097a0e3743ea3f7c9a54734fdccfbc"
+    "name": "Grey Goo"
 }

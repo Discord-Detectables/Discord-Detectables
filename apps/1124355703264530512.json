@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe67a60a1b9d46c557c408db852395d3",
     "id": "1124355703264530512",
-    "name": "罪業狂襲FrenzyRetribution",
-    "publishers": [
-        {
-            "id": "1124355703746871316",
-            "name": "FrenzyZoneGameworkshop"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1108560",
-            "sku": "1108560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0e55affaa0bd77404d8868b1b916cbf965d93d157922981ca440fe18f2965c68"
+    "name": "罪業狂襲FrenzyRetribution"
 }

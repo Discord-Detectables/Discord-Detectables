@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4f85e2ee7df3f8f9f736a945e76ec00",
     "id": "1124360388201427064",
-    "name": "Harvester",
-    "publishers": [
-        {
-            "id": "1124360388742500352",
-            "name": "DigiFX Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "287020",
-            "sku": "287020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c17b8a8fae62688bbb1006845539faa3dabf0af128cfed0a9da123b5083ef27a"
+    "name": "Harvester"
 }

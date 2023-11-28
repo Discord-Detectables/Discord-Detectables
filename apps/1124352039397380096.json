@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "966f3810c2580651a912784afc7d2623",
     "id": "1124352039397380096",
-    "name": "Superliminal",
-    "publishers": [
-        {
-            "id": "1124352039909081108",
-            "name": "Pillow Castle"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1049410",
-            "sku": "1049410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c004d7246819b9de033b8374bb07456b793fc8146ea7b87b6423875654538063"
+    "name": "Superliminal"
 }

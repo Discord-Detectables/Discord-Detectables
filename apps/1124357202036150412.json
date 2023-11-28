@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f758106d77b4631be7193811497b9c00",
     "id": "1124357202036150412",
-    "name": "METAL SLUG 2",
-    "publishers": [
-        {
-            "id": "1124352523751403580",
-            "name": "SNK CORPORATION"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "366260",
-            "sku": "366260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9193dc8dfae5c8cfdd27587c8facfd2e04bf6844a18d7cce8ab6d0574ffa1a0b"
+    "name": "METAL SLUG 2"
 }

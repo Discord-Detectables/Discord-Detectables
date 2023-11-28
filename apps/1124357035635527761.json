@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "97a49020246fd4d209e532e21ccb3dbf",
     "id": "1124357035635527761",
-    "name": "Jet Island",
-    "publishers": [
-        {
-            "id": "524352649290579979",
-            "name": "Master Indie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "587220",
-            "sku": "587220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fe42b33fac809c9a82a4495724ef10342b829a8163203a4399f1ce0dcc280ada"
+    "name": "Jet Island"
 }

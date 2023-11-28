@@ -1,11 +1,4 @@
 {
-    "description": "Lara travels across the world in search of a legendary artifact. Legend is the first entry in the 2006 reboot of the series and is the first Tomb Raider game developed by Crystal Dynamics after they took over the role from Core Design.",
-    "developers": [
-        {
-            "id": "521816535753555988",
-            "name": "Crystal Dynamics, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5196ffc80fa8bb244f6953b328571a12",
     "id": "504080831396970511",
-    "name": "Tomb Raider: Legend",
-    "publishers": [
-        {
-            "id": "521816520817639456",
-            "name": "Eidos Interactive"
-        }
-    ],
-    "splash": "fa6bba4d301ee1648834c6728c9e4909",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "7000",
-            "sku": "7000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0aaf1aa65d2f1ba9c2e05c0c3ead4bfaf9698b53aad362ff1cf25bf65dd1c156"
+    "name": "Tomb Raider: Legend"
 }

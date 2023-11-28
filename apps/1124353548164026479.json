@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f90a6be4198882297fcb08488efeffb3",
     "id": "1124353548164026479",
-    "name": "Escape From School",
-    "publishers": [
-        {
-            "id": "1124353548667338762",
-            "name": "Tudor Sandru"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1729790",
-            "sku": "1729790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ccdcfb1b7c83696b203bc0c451a85f5b16f973eac1f2ac8cffedcf06fad49f2f"
+    "name": "Escape From School"
 }

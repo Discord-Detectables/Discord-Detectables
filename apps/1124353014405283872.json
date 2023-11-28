@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f3ffca2c85abf60d6fb3b059158a1ae2",
     "id": "1124353014405283872",
-    "name": "Factory Town",
-    "publishers": [
-        {
-            "id": "1124353014916984892",
-            "name": "Erik Asmussen"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "860890",
-            "sku": "860890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "40acb3d549e8749d4c1365bd3583347ab9d9080a8861dafc6c22187b6f4bb14c"
+    "name": "Factory Town"
 }

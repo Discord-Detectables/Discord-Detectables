@@ -2,13 +2,6 @@
     "aliases": [
         "Locomotion"
     ],
-    "description": "A business sim all about building and expanding a Transport Company.",
-    "developers": [
-        {
-            "id": "521816507102003203",
-            "name": "Chris Sawyer Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3b34c17fd60280d7317c8757b396870",
     "id": "496848465301733376",
-    "name": "Chris Sawyer's Locomotion",
-    "publishers": [
-        {
-            "id": "521816601691947038",
-            "name": "Akella"
-        }
-    ],
-    "splash": "1d11e70e1e189ae1db3b642389ddb71e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "356430",
-            "sku": "356430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bcb0636af2ecb9961e5675f3c05429d1f322ea5bb62195d369b15577bd40ba74"
+    "name": "Chris Sawyer's Locomotion"
 }

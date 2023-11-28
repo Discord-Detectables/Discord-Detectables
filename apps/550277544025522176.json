@@ -2,17 +2,12 @@
     "aliases": [
         "Heroes & Generals"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "cover_image": "0e2e80a049ab7970146f35671360babb",
-    "description": "Heroes & Generals WWII is a full on, all-out WAR experience. Thousands of players fighting one massive clash of nations. The first to capture 15 cities takes the glory. Fight alongside newfound brothers from all over the world in multiple battles raging persistently as Generals strategize and deploy resources to assist their men. As a soldier everything you do influences the war.",
-    "developers": [
-        {
-            "id": "562226517950726164",
-            "name": "RETO MOTO"
-        }
-    ],
     "executables": [
+        {
+            "is_launcher": false,
+            "name": "hng.exe",
+            "os": "win32"
+        },
         {
             "is_launcher": false,
             "name": "heroes & generals/hng_be.exe",
@@ -22,40 +17,9 @@
             "is_launcher": false,
             "name": "heroesandgeneralsdesktop.exe",
             "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "hng.exe",
-            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "351987983223750656",
     "hook": true,
-    "icon": "5ef40d1e2e0f8de9e533c3b8976f8ea2",
     "id": "550277544025522176",
-    "name": "Heroes & Generals WWII",
-    "primary_sku_id": "550277544025522176",
-    "publishers": [
-        {
-            "id": "562226517950726164",
-            "name": "RETO MOTO"
-        },
-        {
-            "id": "562226517950726164",
-            "name": "RETO MOTO"
-        }
-    ],
-    "slug": "heroes-generals-wwii",
-    "splash": "2107c405872885eeafad5dd7a29e6ee1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "227940",
-            "sku": "227940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c5883e27271d83659c4f31da7bef91a9f5ebe0d5f0a7153d4bd910ffb969c912"
+    "name": "Heroes & Generals WWII"
 }

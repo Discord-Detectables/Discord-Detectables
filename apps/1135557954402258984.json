@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a116041ffbf8c0f88fd0277389043165",
     "id": "1135557954402258984",
-    "name": "The Average Everyday Adventures of Samantha Browne",
-    "publishers": [
-        {
-            "id": "524352663715053571",
-            "name": "Lemonsucker Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "445130",
-            "sku": "445130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "36a58f839a8ee2c2c7e94f27ee0cb59940c6b4ca2655bb4018d317e23e40ab7e"
+    "name": "The Average Everyday Adventures of Samantha Browne"
 }

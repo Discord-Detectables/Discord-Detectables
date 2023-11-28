@@ -1,5 +1,4 @@
 {
-    "description": "Friday the 13th: Killer Puzzle",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dcc24cb2243dc5b5878999ad60f7f8b5",
     "id": "443158817983692820",
-    "name": "Friday the 13th: Killer Puzzle",
-    "publishers": [
-        {
-            "id": "521816778264018957",
-            "name": "Blue Wizard Digital"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "22b9e7dbd0b7148bc0bbdbdac50b7ce28576cd11c3a4221cd9912f27d395704a"
+    "name": "Friday the 13th: Killer Puzzle"
 }

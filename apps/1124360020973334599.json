@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ae19e6d6e48260e8f9abd65bae96d953",
     "id": "1124360020973334599",
-    "name": "Volcano Princess",
-    "publishers": [
-        {
-            "id": "1124360021464076318",
-            "name": "养蛋人工作室 Egg Hatcher"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1669980",
-            "sku": "1669980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d8618a6cea275ef994f936ba01aac1258dcc1d4b802986f5d0e6849a4da1fb1a"
+    "name": "Volcano Princess"
 }

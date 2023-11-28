@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0569a1e3306ec85548a4cb4047722fb0",
     "id": "1124357106242429028",
-    "name": "Super Mega Baseball 2",
-    "publishers": [
-        {
-            "id": "1124357106716397679",
-            "name": "Metalhead Software Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "414870",
-            "sku": "414870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4d0b950a6cbfaa40fef25dc7f5e9aa1570bd86072d23051de16c19c9f464131"
+    "name": "Super Mega Baseball 2"
 }

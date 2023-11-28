@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e53525febdbd3abc45d79a5336daaa78",
     "id": "1137792671654629376",
-    "name": "Cartel Tycoon Demo",
-    "publishers": [
-        {
-            "id": "1137792673688866997",
-            "name": "Moon Moose"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1321750",
-            "sku": "1321750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5221021689140ee901a991f9355a2c1c55c756996a1571c5df67c6ea4049bed4"
+    "name": "Cartel Tycoon Demo"
 }

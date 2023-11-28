@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f9712f2b71cbc29716e7adcb5434e913",
     "id": "1163084017965486161",
-    "name": "Chants of Sennaar",
-    "publishers": [
-        {
-            "id": "524353108881571850",
-            "name": "Rundisc"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1931770",
-            "sku": "1931770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "52594ded6d2e9f0f2f37b39839c75d6b679fdd9e65e819006e63311f489d1573"
+    "name": "Chants of Sennaar"
 }

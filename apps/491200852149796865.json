@@ -1,11 +1,4 @@
 {
-    "description": "Turn-based wizard combat with the tactical positioning of chess and the bluff of poker. Features wizard customization, 100s of gear items, single player realm adventures, online leagues and co-op play.",
-    "developers": [
-        {
-            "id": "521816647191756815",
-            "name": "Snapshot Games Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "263258801904287745",
     "hook": true,
-    "icon": "5e64161b5531d136ada30d64e822c433",
     "id": "491200852149796865",
-    "name": "Chaos Reborn",
-    "primary_sku_id": "492083360492027913",
-    "publishers": [
-        {
-            "id": "521816647191756815",
-            "name": "Snapshot Games Inc."
-        }
-    ],
-    "slug": "chaos-reborn",
-    "splash": "55a62561cbe0b4243f9fbf85b0b44555",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492083360492027913",
-            "sku": "492083360492027913"
-        },
-        {
-            "distributor": "steam",
-            "id": "319050",
-            "sku": "319050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e783d00469b83965f03d3243a1145b36d47a7a5ec14f8280d134deed904a7462"
+    "name": "Chaos Reborn"
 }

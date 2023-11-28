@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816759913938944",
-            "name": "Ovosonico"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b20e0bef9830d82f4e694b3715e0b970",
     "id": "492114663211925536",
-    "name": "Last Day of June",
-    "primary_sku_id": "492137108656488452",
-    "publishers": [
-        {
-            "id": "521816570520141824",
-            "name": "505 Games"
-        },
-        {
-            "id": "521816759913938944",
-            "name": "Ovosonico"
-        }
-    ],
-    "slug": "last-day-of-june",
-    "splash": "6654e040529d37047f9e7b9e5ed2d2c9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492137108656488452",
-            "sku": "492137108656488452"
-        },
-        {
-            "distributor": "steam",
-            "id": "635320",
-            "sku": "635320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5f5bb1512d9a4eccc7d4f0bdd86849d01afaa31415be29ac5aa0347b0025068e"
+    "name": "Last Day of June"
 }

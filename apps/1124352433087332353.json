@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "10d81eecf59f6b5d731f68e74a3a3493",
     "id": "1124352433087332353",
-    "name": "3tene",
-    "publishers": [
-        {
-            "id": "1124352433573867630",
-            "name": "PLUSPLUS Co.,LTD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "871170",
-            "sku": "871170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ddb5ebdf2a33042e1b2c0421060925d5ff30ee30d31272ce84ff799d3e3572c3"
+    "name": "3tene"
 }

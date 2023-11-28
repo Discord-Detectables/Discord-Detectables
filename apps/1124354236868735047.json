@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d9d736fa11b9eccb0c6d8ce19accc3f0",
     "id": "1124354236868735047",
-    "name": "Order of Battle: World War II",
-    "publishers": [
-        {
-            "id": "1124354237359476857",
-            "name": "The Artistocrats"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "312450",
-            "sku": "312450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "984c6926f9321013a97746e3cef63d4ce269b23b22c1847ada8644e035b380d0"
+    "name": "Order of Battle: World War II"
 }

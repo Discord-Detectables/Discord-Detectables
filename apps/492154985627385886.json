@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0c0f745ceb46067c584da4f081f8ad2a",
     "id": "492154985627385886",
-    "name": "Tropico 3",
-    "primary_sku_id": "492389652125319178",
-    "publishers": [
-        {
-            "id": "521816616602959882",
-            "name": "Haemimont Games"
-        }
-    ],
-    "slug": "tropico-3",
-    "splash": "8813323dbb5e4e30ac6d7cec3b57b582",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492389652125319178",
-            "sku": "492389652125319178"
-        },
-        {
-            "distributor": "steam",
-            "id": "23490",
-            "sku": "23490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2434e58e0671485caee0c177ecfa131f59118e887bdefe0815fe15c009746ec9"
+    "name": "Tropico 3"
 }

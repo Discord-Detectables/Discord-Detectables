@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "98c2e242b5e19d64c8fa168e03964ac5",
     "id": "1124358662404722761",
-    "name": "Awkward Dimensions Redux",
-    "publishers": [
-        {
-            "id": "1124358662857703506",
-            "name": "StevenHarmonGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "529110",
-            "sku": "529110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f7aa388648fc00c4dfbb3121badf0dc82a6d48ec63b4eb958f9a34c28b36f463"
+    "name": "Awkward Dimensions Redux"
 }

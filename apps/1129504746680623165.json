@@ -2,9 +2,6 @@
     "aliases": [
         "ENDLESS™ Space - Definitive Edition"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed7625962813c14101c18c3013b2d920",
     "id": "1129504746680623165",
-    "name": "Endless Space",
-    "publishers": [
-        {
-            "id": "521816527343845459",
-            "name": "Amplitude Studios"
-        },
-        {
-            "id": "521816527343845459",
-            "name": "Amplitude Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "208140",
-            "sku": "208140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e29edf6f6deef0e6a4244f21679c8387d77431bea93bd8111bf2df6973c4256"
+    "name": "Endless Space"
 }

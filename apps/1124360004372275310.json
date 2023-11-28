@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9bbb7f82cdf2c3131d70ff53a24e4a3b",
     "id": "1124360004372275310",
-    "name": "Nickelodeon Kart Racers 2: Grand Prix",
-    "publishers": [
-        {
-            "id": "524352058070007831",
-            "name": "Bamtang Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1383960",
-            "sku": "1383960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e3f9cc7ae60ed3776e8be611cd27620b62fb0f8c3d73d367e79a35418793c321"
+    "name": "Nickelodeon Kart Racers 2: Grand Prix"
 }

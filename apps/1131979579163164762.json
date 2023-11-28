@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5a1623922880a3da207c1ec8cd22b6cb",
     "id": "1131979579163164762",
-    "name": "Starmancer",
-    "publishers": [
-        {
-            "id": "1131979580186578965",
-            "name": "Ominux Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1062000",
-            "sku": "1062000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a206fd8da60ed65cefb510dec190b6cc321c47f4ce3fa355147997ed443ed337"
+    "name": "Starmancer"
 }

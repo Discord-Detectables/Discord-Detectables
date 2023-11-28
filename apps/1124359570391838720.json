@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "702c6e0ba0d40866b0253fd26b53d62f",
     "id": "1124359570391838720",
-    "name": "EroPhone",
-    "publishers": [
-        {
-            "id": "1124359570916135012",
-            "name": "CreamCatGame"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1506280",
-            "sku": "1506280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d2cb2e9bd9d86f30da7e955962b0712ae36d8607360ba2849f2ee8cc0d1176e8"
+    "name": "EroPhone"
 }

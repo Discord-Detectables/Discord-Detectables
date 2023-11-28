@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c0ad63a3d7302cc6ad1ddefa4a172dc",
     "id": "1124355278872264874",
-    "name": "Aven Colony",
-    "publishers": [
-        {
-            "id": "1124355279438491658",
-            "name": "Mothership Entertainment LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "484900",
-            "sku": "484900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "66b32aecb5925e271339cc841d0fbb5617e0126b281d7ea978a0ebf13f49c13b"
+    "name": "Aven Colony"
 }

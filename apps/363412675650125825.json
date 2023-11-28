@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816518871220235",
-            "name": "Double Fine Productions, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "357444624178216961",
     "hook": true,
-    "icon": "c480bb1ecfa5d08bb1b0ef9e2fe24774",
     "id": "363412675650125825",
-    "name": "Psychonauts",
-    "primary_sku_id": "491721925824086046",
-    "publishers": [
-        {
-            "id": "521816518871220235",
-            "name": "Double Fine Productions, Inc."
-        }
-    ],
-    "slug": "psychonauts",
-    "splash": "290ac0ad27fdd1434697954974934c58",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "491721925824086046",
-            "sku": "491721925824086046"
-        },
-        {
-            "distributor": "steam",
-            "id": "3830",
-            "sku": "3830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "39ef43b9d97eabec2a0d2c6c892b784b2db3348d00d974d469cfeee3359e1edd"
+    "name": "Psychonauts"
 }

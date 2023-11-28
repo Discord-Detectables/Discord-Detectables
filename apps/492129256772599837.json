@@ -1,13 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
-    "developers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -15,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7893feb700e602d4a6ec5985361eead0",
     "id": "492129256772599837",
-    "name": "STAR WARS™ Republic Commando™",
-    "primary_sku_id": "492167977492283405",
-    "publishers": [
-        {
-            "id": "570702595178627072",
-            "name": "Lucasfilm, Disney"
-        }
-    ],
-    "slug": "star-wars-tm-republic-commando-tm",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492167977492283405",
-            "sku": "492167977492283405"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18890c7e1ce80eae296198937fc4d798c8b38d053b70ca9efb43a035903c5d8f"
+    "name": "STAR WARS™ Republic Commando™"
 }

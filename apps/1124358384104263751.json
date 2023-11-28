@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "532b1b6844ed0a4a47e58a2ccacc8bba",
     "id": "1124358384104263751",
-    "name": "Tower Tactics: Liberation",
-    "publishers": [
-        {
-            "id": "1124358384582410320",
-            "name": "AsraWorks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1709900",
-            "sku": "1709900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8f498679effa9068be0ce30a74a74efecb95a0420dfd024c54a7800591cfca2"
+    "name": "Tower Tactics: Liberation"
 }

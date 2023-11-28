@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ddff0aefde7de976033d7c4c66e0c55c",
     "id": "1124356793041170462",
-    "name": "Gamecraft",
-    "publishers": [
-        {
-            "id": "521816790599335989",
-            "name": "Freejam"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1078000",
-            "sku": "1078000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea4d9050fce4dcd7e367bc25df75490aa33890c1cc154abd1220253e79f6773c"
+    "name": "Gamecraft"
 }

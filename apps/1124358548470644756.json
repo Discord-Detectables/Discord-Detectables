@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a36ca27f29e64d2cf24e1d43c012564f",
     "id": "1124358548470644756",
-    "name": "memories",
-    "publishers": [
-        {
-            "id": "1124358548969762856",
-            "name": "guiyyu"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2219470",
-            "sku": "2219470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a12e52ed832fa9393637d6a0bb1373df6aff06350609964b350e050860ed85f"
+    "name": "memories"
 }

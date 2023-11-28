@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1313b6a92a924103752bb86ced9cb2a",
     "id": "1124355593596063916",
-    "name": "Veneficium",
-    "publishers": [
-        {
-            "id": "1124355594153902171",
-            "name": "Quarter Moon Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1532170",
-            "sku": "1532170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca676c375a84b7d24c46a8b1fa40e67ee5024b4f1ca17ef8d4a22cf4049e79c5"
+    "name": "Veneficium"
 }

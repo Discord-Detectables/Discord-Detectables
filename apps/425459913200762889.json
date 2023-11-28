@@ -3,7 +3,6 @@
         "Heroes of Might & Magic III - HD Edition",
         "Heroes of Might and Magic III: Horn of the Abyss"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -11,26 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "27af25ec2728542e6e359add2b01aae6",
     "id": "425459913200762889",
-    "name": "Heroes of Might and Magic III HD",
-    "publishers": [
-        {
-            "id": "521816526362247175",
-            "name": "DotEmu"
-        }
-    ],
-    "splash": "49f1b5a4e64b810b0edd4ef6228c0ef4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "297000",
-            "sku": "297000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a8e34e79aaf7c3d7529cbb15159a62b9b2951dc754ded5b0a408e25a0bcdb5fd"
+    "name": "Heroes of Might and Magic III HD"
 }

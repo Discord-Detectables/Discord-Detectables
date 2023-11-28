@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fca59c75006151d373691fca2dc7d842",
     "id": "1124358962461036676",
-    "name": "Call to Arms - Gates of Hell: Ostfront",
-    "publishers": [
-        {
-            "id": "1124358962972737557",
-            "name": "Barbedwire Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "400750",
-            "sku": "400750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8aeeed2c4cd013f3db3ef50ec024c3213f8569b4f4c8b5ec1ae0266d11a3545b"
+    "name": "Call to Arms - Gates of Hell: Ostfront"
 }

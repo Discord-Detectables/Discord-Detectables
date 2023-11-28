@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4b97325c8ff6fa503d79fcacc7b8ced4",
     "id": "1124353493315108875",
-    "name": "Ben and Ed",
-    "publishers": [
-        {
-            "id": "524352496181706765",
-            "name": "Sluggerfly"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "395200",
-            "sku": "395200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a33b3390b6d4c3eb33419da500d9a6c12dbe08ba4f269240f6e1af1508eac11"
+    "name": "Ben and Ed"
 }

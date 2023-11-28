@@ -1,11 +1,4 @@
 {
-    "description": "Pyrite Heart is a free ren'ai adventure game that is available with or without voice acting.",
-    "developers": [
-        {
-            "id": "521816532288798741",
-            "name": "Winged Cloud"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9eacf6e5665ecd8a1905c74d1f039f33",
     "id": "498987613416456220",
-    "name": "Pyrite Heart",
-    "publishers": [
-        {
-            "id": "521816532288798739",
-            "name": "Sekai Project"
-        }
-    ],
-    "splash": "08914ba4fb1585796358f4c244df0de0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324170",
-            "sku": "324170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "156ba991370ba5d7dbe137cc34b130abb691f9e1564c12b0712de2358aa41332"
+    "name": "Pyrite Heart"
 }

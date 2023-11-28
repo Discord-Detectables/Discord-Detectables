@@ -2,13 +2,6 @@
     "aliases": [
         "Command & Conquer: Red Alert 2"
     ],
-    "description": "Take command of Yuri's devastating army in his goal of total domination with the official expansion pack of Command & Conquer: Red Alert 2.",
-    "developers": [
-        {
-            "id": "521816745099395084",
-            "name": "Westwood Studios, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "390c280b69114d0325498eac5fec078c",
     "id": "504801959954612274",
-    "name": "Command & Conquer™ Red Alert 2 and Yuri’s Revenge",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "24f3dead087f8f532e4e109af451934dbc173d15b7c822c5a987a7ff5f190983"
+    "name": "Command & Conquer™ Red Alert 2 and Yuri’s Revenge"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "Yakuza Kiwami"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "10fe75bd90d5de0ecf81e154055886cf",
     "id": "1129504417666834492",
-    "name": "Yakuza Kiwami",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        },
-        {
-            "id": "521816684957270028",
-            "name": "Ryu ga Gotoku Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "834530",
-            "sku": "834530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f0ad19589f9792ab75e7a025541a1fa853b3d5d6d168f4ce03a7fbd3e86eed19"
+    "name": "Yakuza Kiwami"
 }

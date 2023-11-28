@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1f90152606fae8fab1e01a4e8e54cec0",
     "id": "1124354263536119849",
-    "name": "Sherlock Holmes: Crimes and Punishments",
-    "publishers": [
-        {
-            "id": "1124352515316662424",
-            "name": "Frogwares"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "241260",
-            "sku": "241260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18c100c972f6b2abe98c4b452041be5b326c77e2ae7f40d7f93186f12fb31c91"
+    "name": "Sherlock Holmes: Crimes and Punishments"
 }

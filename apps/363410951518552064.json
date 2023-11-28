@@ -1,12 +1,4 @@
 {
-    "cover_image": "243bbdb04525192c279c7f468ae0b1be",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816520267923479",
-            "name": "Landon Podbielski"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,34 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1674e99d96799d387de6ed0cf9eccbc5",
     "id": "363410951518552064",
     "name": "Duck Game",
-    "overlay": true,
-    "primary_sku_id": "363410951518552064",
-    "publishers": [
-        {
-            "id": "521816520267923475",
-            "name": "Adult Swim Games"
-        }
-    ],
-    "slug": "duck-game",
-    "splash": "e407243daef3971783f915db3f4066fc",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "363410951518552064",
-            "sku": "363410951518552064"
-        },
-        {
-            "distributor": "steam",
-            "id": "312530",
-            "sku": "312530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a910a9144479bdaf162d2ee8473140f0e72b10b7953ea25c85e227c4c52daa2a"
+    "overlay": true
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b4392ab0c76bdd80ddc8c5fa4de1e6e4",
     "id": "1124360279665426595",
-    "name": "Take the Throne",
-    "publishers": [
-        {
-            "id": "933333347315372042",
-            "name": "TopVR"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1914570",
-            "sku": "1914570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72e7a01cdf78d8323a1b0d6dc2dfb8df4b9e5cc8be697d74876394a2c65732ae"
+    "name": "Take the Throne"
 }

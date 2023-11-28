@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8fcadf6c2630d1ab3393d71b85e75d61",
     "id": "1124354391294627920",
-    "name": "They Can't Stop All Of Us",
-    "publishers": [
-        {
-            "id": "1124354391789551767",
-            "name": "B Michael B"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1142130",
-            "sku": "1142130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df1cf7e76021bc3b79c921b8b7514738da3b72e3ceba2dc8e5e02ea287ce2647"
+    "name": "They Can't Stop All Of Us"
 }

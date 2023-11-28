@@ -1,11 +1,4 @@
 {
-    "description": "An official throwback to the early-'90s Sega Genesis roots of the Sonic the Hedgehog series from some notable creators of the series's fanwork.",
-    "developers": [
-        {
-            "id": "521816607941459971",
-            "name": "Headcannon"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "57fa3cfa98a6d58d691ed1ea3b75da89",
     "id": "356953520278339584",
-    "name": "Sonic Mania",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "8915e1138913ee47bd9eed3acf6bc9d9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "584400",
-            "sku": "584400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cda57bcccaa9be7b561664f28c9ab19bbb803d9afd7c7acc41744d2196f3b97f"
+    "name": "Sonic Mania"
 }

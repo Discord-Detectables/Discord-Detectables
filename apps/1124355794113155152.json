@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3197905f1d0342e1f467d7a906cc744",
     "id": "1124355794113155152",
-    "name": "ViRo Playspace",
-    "publishers": [
-        {
-            "id": "1124355794582900777",
-            "name": "Virtual Romance LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1121310",
-            "sku": "1121310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "168b33bf5581c0e96037017710c43ac31561e495bd9db3c527b1ec2382823bbc"
+    "name": "ViRo Playspace"
 }

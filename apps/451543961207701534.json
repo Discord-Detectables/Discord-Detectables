@@ -1,11 +1,4 @@
 {
-    "description": "Continuing where Supreme Commander left off, players can now make use of the mighty Seraphim or defend humanity from these new invaders with the remnants of the returning factions.",
-    "developers": [
-        {
-            "id": "521816566543810565",
-            "name": "Gas Powered Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "64da27de247a991fff015f84c07adbc0",
     "id": "451543961207701534",
-    "name": "Supreme Commander: Forged Alliance",
-    "publishers": [
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "splash": "eba93312c5ec66cddfec1924869bd94d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "9420",
-            "sku": "9420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aad9845f946de7d0c3ec85e25e55dc3d4e3648eda4a0fd6f9b345fe24d9e3b9b"
+    "name": "Supreme Commander: Forged Alliance"
 }

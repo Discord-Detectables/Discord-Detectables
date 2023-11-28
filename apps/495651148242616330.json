@@ -1,11 +1,4 @@
 {
-    "description": "Ten years after the events of Chaos Rising, sub-sector Aurelia is still engulfed in all out war. In this third installment of Dawn of War II, you decide the victor!",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4cfcbc0ac64c33ce24c5833843c9057",
     "id": "495651148242616330",
-    "name": "Warhammer 40,000: Dawn of War II - Retribution",
-    "publishers": [
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "splash": "8cb830fc4f6a28ca40678d749bd01aea",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "56400",
-            "sku": "56400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d251b22a4b56294248c55cd0f73e2d21053edc23fa3cdf16502a36ff8684790b"
+    "name": "Warhammer 40,000: Dawn of War II - Retribution"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "LEGO Batman: The Videogame"
     ],
-    "description": "LEGO Batman: The Video Game is an action adventure platformer focused on the combination of the popular Batman universe and the continued licensing of Lego-styled video games.",
-    "developers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e68883a8d4206a9dd5c5eb3e25006e13",
     "id": "425460379624144925",
-    "name": "LEGO Batman",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "089428701b909d7bb1a079ac3b1292e7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "21000",
-            "sku": "21000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "03edfb3ead25f1d0d2ca163382576f373b726f6728ce2f1429ece60ce3824ae1"
+    "name": "LEGO Batman"
 }

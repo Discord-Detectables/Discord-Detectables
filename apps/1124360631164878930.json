@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d82c2850c302b1e332a0a34d8b90791b",
     "id": "1124360631164878930",
-    "name": "Sky Haven",
-    "publishers": [
-        {
-            "id": "1124360631609471066",
-            "name": "Real Welders"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "674090",
-            "sku": "674090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1221c16bfb286eff687b539e50115ba2f576e45716e1c5da4200fdc431a84931"
+    "name": "Sky Haven"
 }

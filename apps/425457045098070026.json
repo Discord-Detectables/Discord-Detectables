@@ -1,11 +1,4 @@
 {
-    "description": "In Between is a mind-bending platformer that defies physics.",
-    "developers": [
-        {
-            "id": "521816787487162388",
-            "name": "Gentlymad"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d98a7f52d563717263545d48b9c87c61",
     "id": "425457045098070026",
-    "name": "In Between",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "e4f3c16203ea2b6e375322e682db7abd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "388420",
-            "sku": "388420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "593393a37092bdaccf615042fb5cdfcf4f20aa16496215aaa4611dea2da6c412"
+    "name": "In Between"
 }

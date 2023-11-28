@@ -1,11 +1,4 @@
 {
-    "description": "A roguelike adventure in a procedurally-generated post-societal America. Created by The Molasses Flood.",
-    "developers": [
-        {
-            "id": "521816499019841602",
-            "name": "The Molasses Flood"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9d4994ed59dcee78be7eedfde9a8b42c",
     "id": "425713116903505930",
-    "name": "The Flame in the Flood",
-    "publishers": [
-        {
-            "id": "521816499019841600",
-            "name": "Limited Run Games"
-        }
-    ],
-    "splash": "83174245f441feebbc8b2b477c54e9a5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "318600",
-            "sku": "318600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "24f9d6ea21f34a96d657b7cb5247a5bcb6badb2e81ea88585c73a85e51a3b1a0"
+    "name": "The Flame in the Flood"
 }

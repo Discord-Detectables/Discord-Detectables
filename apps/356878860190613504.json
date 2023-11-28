@@ -1,16 +1,9 @@
 {
-    "description": "Heroes from Warcraft, StarCraft, Diablo, Overwatch, and other universes are summoned to the Nexus for five-on-five combat in Blizzard's take on the MOBA genre.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "heroes.app",
-            "os": "darwin"
+            "name": "heroes of the storm.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -24,32 +17,13 @@
         },
         {
             "is_launcher": false,
-            "name": "heroes of the storm.exe",
-            "os": "win32"
+            "name": "heroes.app",
+            "os": "darwin"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7b3bc9037909ab14917accca8c6fb8c1",
     "id": "356878860190613504",
     "name": "Heroes of the Storm",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "splash": "69958c0fcb8ce236cbad894d316afa01",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "c5ef2a161a92671c28523fd393713d04032541429fb5cb1aba7096dcdf77735d"
+    "overlay_compatibility_hook": true
 }

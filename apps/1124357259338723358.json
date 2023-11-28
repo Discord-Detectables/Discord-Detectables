@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d8792a36a8def515c34ae99de472d797",
     "id": "1124357259338723358",
-    "name": "Sniper Elite V2",
-    "publishers": [
-        {
-            "id": "521816698534494221",
-            "name": "Rebellion"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "63380",
-            "sku": "63380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2da04cd441c6a5de4cf5b2b15189a3d506dd15cb7fbdf635de16ba2b8facfb56"
+    "name": "Sniper Elite V2"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "An open-world first-person shooter set in central Europe around 10,000 BC.",
-    "developers": [
-        {
-            "id": "521816631782014982",
-            "name": "Ubisoft Toronto Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5193d4e24c63f8ee7afaa92c84473c79",
     "id": "425438207631556608",
-    "name": "Far Cry Primal",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "afd0bb92bc3775eb16edc12c162f59eb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "371660",
-            "sku": "371660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b275097d616df7fdba759efc8c2db6d6bf59ea338d7c043c58d273dfafa6a62d"
+    "name": "Far Cry Primal"
 }

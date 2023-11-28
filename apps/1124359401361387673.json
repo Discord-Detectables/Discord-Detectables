@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a40c89e5af13e8b601be4b761b3a9a19",
     "id": "1124359401361387673",
-    "name": "VRMark",
-    "publishers": [
-        {
-            "id": "1124359401822769344",
-            "name": "UL"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "464170",
-            "sku": "464170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f0265e12858e3d73961ae7560c363e09064e2a8295f13536aca2bf995955a4eb"
+    "name": "VRMark"
 }

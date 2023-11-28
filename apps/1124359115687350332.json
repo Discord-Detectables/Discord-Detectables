@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bd0ae981a0003b7d1da83a55e69c6624",
     "id": "1124359115687350332",
-    "name": "Vacuum Pilot",
-    "publishers": [
-        {
-            "id": "1124359116152914022",
-            "name": "VacuumDev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1677570",
-            "sku": "1677570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a8ec2b6a65a55d6c0b839015e6adbb20a510c685519851651a3a21c8fe3d8f4d"
+    "name": "Vacuum Pilot"
 }

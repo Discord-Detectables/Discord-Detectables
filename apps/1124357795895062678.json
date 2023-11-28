@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e1cffa7844b6d197fbdef26bd282d8e1",
     "id": "1124357795895062678",
-    "name": "The Talos Principle VR",
-    "publishers": [
-        {
-            "id": "1124357796410970226",
-            "name": "Croteam VR"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "552440",
-            "sku": "552440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d8b2fefbb27a9f19c0e42fe245272cee28dd6504555f0c335d1fa6ebd38600d6"
+    "name": "The Talos Principle VR"
 }

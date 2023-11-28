@@ -2,43 +2,19 @@
     "aliases": [
         "Shakes and Fidget"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "shakes and fidget.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "shakes & fidget/shakesandfidget.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "a53209550b9ca66f162ac0f531906ea0",
-    "id": "447038538383622145",
-    "name": "Shakes and Fidget",
-    "publishers": [
-        {
-            "id": "521816664199921685",
-            "name": "Playa Games GmbH"
         },
         {
-            "id": "521816664199921685",
-            "name": "Playa Games GmbH"
+            "is_launcher": false,
+            "name": "shakes and fidget.exe",
+            "os": "win32"
         }
     ],
-    "splash": "5940c054765e5091826e3ffbe25e18f2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "438040",
-            "sku": "438040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c330ad73af8f51fb7b5ae5a68d238e705627e889f57ea4036d42e04090781720"
+    "hook": true,
+    "id": "447038538383622145",
+    "name": "Shakes and Fidget"
 }

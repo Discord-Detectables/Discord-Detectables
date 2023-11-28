@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3a4bb0cf00f006ad1ec9303979e7e616",
     "id": "1124354373535940738",
-    "name": "CASE 2: Animatronics Survival",
-    "publishers": [
-        {
-            "id": "1124354373984727040",
-            "name": "Walnut LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "722960",
-            "sku": "722960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a88d652eafe5d734954f3c12dd11298d4bf0c26f0b37ca241d069b48631267e9"
+    "name": "CASE 2: Animatronics Survival"
 }

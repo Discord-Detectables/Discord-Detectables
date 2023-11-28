@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dadfe3ed91d35a6ccb6175ff6c14771b",
     "id": "1124360129643565116",
-    "name": "Costume Party",
-    "publishers": [
-        {
-            "id": "1124360130100740147",
-            "name": "SinVR"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1648300",
-            "sku": "1648300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9bcd80bfb8afd2925ef92dc8af9c5e7a9817111fb4ea1aa200078b12a1344d0"
+    "name": "Costume Party"
 }

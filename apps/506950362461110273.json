@@ -1,5 +1,4 @@
 {
-    "description": "Get better at aiming in first-person shooters.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "14793cc1393f167f816642690710d59c",
     "id": "506950362461110273",
-    "name": "Aim Lab",
-    "publishers": [
-        {
-            "id": "521816561216913408",
-            "name": "Statespace"
-        }
-    ],
-    "splash": "172f9eb99e935d9231bf2b512cf32fa0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "714010",
-            "sku": "714010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "20c0278f994834fb65dc70a61ea12e0764bd356c996733875b8913f9cfdb7b81"
+    "name": "Aim Lab"
 }

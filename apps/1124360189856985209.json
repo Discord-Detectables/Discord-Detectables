@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "30ca46693f9ba68f50891a8fabd77672",
     "id": "1124360189856985209",
-    "name": "iblis",
-    "publishers": [
-        {
-            "id": "1124360190343532655",
-            "name": "FND game"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1588870",
-            "sku": "1588870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "55bdfaeade8bfcf8c228f372c195bbb839cd752c05d3024baa3c0f4dcfe0c814"
+    "name": "iblis"
 }

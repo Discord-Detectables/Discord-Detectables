@@ -1,12 +1,4 @@
 {
-    "cover_image": "fbe9ccde48bec8794893f4ed039d230b",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816757548351499",
-            "name": "Counterplay Games Inc. "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,22 +6,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "74338e0db00366abe92fb202fc37d70c",
     "id": "357706468843061258",
     "name": "Duelyst",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "splash": "f07b66b3c5d81ba1c31c7278f0b22c1e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "291410",
-            "sku": "291410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a546fd6c73000c5b2a5a0d923e05f4bcad3ab3dce366c9fd26b38292b3eaaeb8"
+    "overlay_compatibility_hook": true
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "洛夫克拉夫特行動：墮落玩偶 Demo"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cac19e147fd91592f7f13a1be58082c8",
     "id": "1129504378257166447",
-    "name": "Operation Lovecraft: Fallen Doll Demo",
-    "publishers": [
-        {
-            "id": "1129504379406401556",
-            "name": "Project Helius"
-        },
-        {
-            "id": "1129504379406401556",
-            "name": "Project Helius"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1811180",
-            "sku": "1811180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "919ab12f8118964fe7852eb6dd663470b71ab153ae28f3380156e24880fe7b1a"
+    "name": "Operation Lovecraft: Fallen Doll Demo"
 }

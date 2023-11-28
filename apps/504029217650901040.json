@@ -1,11 +1,4 @@
 {
-    "description": "rFactor 2 is the sequel to ISI's racing simulator rFactor.",
-    "developers": [
-        {
-            "id": "521816675008380948",
-            "name": "Image Space Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d6296f730892e4d4e9f30d24cc493f8",
     "id": "504029217650901040",
-    "name": "rFactor 2",
-    "publishers": [
-        {
-            "id": "521816675008380948",
-            "name": "Image Space Inc."
-        }
-    ],
-    "splash": "909e5e37846b2ed350d97cd8bec95ed7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "365960",
-            "sku": "365960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ecdf4e3508c0a2335ad0b1f5c68ff097a6d092d792f9245c6c839efb9bb03736"
+    "name": "rFactor 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6c2f89e1980468d63a63a2c9b68afa20",
     "id": "1124356053518270554",
-    "name": "Saurian",
-    "publishers": [
-        {
-            "id": "1124356054055137390",
-            "name": "Urvogel Games, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "587450",
-            "sku": "587450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d31243bd81ff28c2679d5a4260d7c2ea6a0f77e8ee95a78150c2bdd5f38082f8"
+    "name": "Saurian"
 }

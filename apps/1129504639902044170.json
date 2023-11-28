@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef31dea86006757389acd67f0c37a368",
     "id": "1129504639902044170",
-    "name": "Tiny Bunny",
-    "publishers": [
-        {
-            "id": "1129504640833175552",
-            "name": "Saikono"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1421250",
-            "sku": "1421250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3717f938f411b7264aff62d630fa08a30aeef52222830b5a02ca43d2086e4d1"
+    "name": "Tiny Bunny"
 }

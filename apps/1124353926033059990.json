@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "acbd742839d9e40f3a3b05fad86cd660",
     "id": "1124353926033059990",
-    "name": "Mansions of Madness",
-    "publishers": [
-        {
-            "id": "524352273904828426",
-            "name": "Fantasy Flight Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "478980",
-            "sku": "478980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c8ab295122b43c54c994b75b56cf2c9f95c2a251f2e4673e8f6234e6246cb48"
+    "name": "Mansions of Madness"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Hunt: Showdown"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816652262670336",
-            "name": "Crytek GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "350201607788429323",
     "hook": true,
-    "icon": "52ae10d11da1104b8081bfd9c4b1f803",
     "id": "422169383972896768",
-    "name": "Hunt: Showdown",
-    "publishers": [
-        {
-            "id": "521816652262670336",
-            "name": "Crytek GmbH"
-        },
-        {
-            "id": "521816601691947041",
-            "name": "Crytek"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "594650",
-            "sku": "594650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "23bbb989a4dc2e7a416595bd7999e8e6d5fbbc920fd873739a191b0735426510"
+    "name": "Hunt: Showdown"
 }

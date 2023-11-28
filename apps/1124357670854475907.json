@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7090e3e580170095ea817f07a72aa68f",
     "id": "1124357670854475907",
-    "name": "The Fishing Club 3D",
-    "publishers": [
-        {
-            "id": "1124357671378759710",
-            "name": "Robot Riot UG (haftungsbeschränkt)"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "522230",
-            "sku": "522230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0866b0fbf2438f0596a32901cb9d267b39af8b4d720ca3e5558ba342b69c0469"
+    "name": "The Fishing Club 3D"
 }

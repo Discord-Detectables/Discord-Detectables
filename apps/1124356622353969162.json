@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "67f959503a1452014981a3bad369b37a",
     "id": "1124356622353969162",
-    "name": "Coloring Book",
-    "publishers": [
-        {
-            "id": "1124353327925317674",
-            "name": "Peaksel"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1431240",
-            "sku": "1431240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3ad3933ae291711230670cc24cd1e141d9e250b0d509c0ce753ce4ff74c06849"
+    "name": "Coloring Book"
 }

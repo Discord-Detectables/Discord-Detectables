@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3b2ca2777e9b16303c836581221726c9",
     "id": "1124357249842827354",
-    "name": "UBERMOSH",
-    "publishers": [
-        {
-            "id": "524352686867480602",
-            "name": "Walter Machado"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "357070",
-            "sku": "357070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "26c5a8e8570059dcfc8584f2437d92cdb9a3179c0f8a8532249676a04c5bf4fc"
+    "name": "UBERMOSH"
 }

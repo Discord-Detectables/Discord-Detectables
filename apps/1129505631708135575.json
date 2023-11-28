@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e309b3bda6167ebc6a661fc784e517ef",
     "id": "1129505631708135575",
-    "name": "SanctuaryRPG: Black Edition",
-    "publishers": [
-        {
-            "id": "524352409330253846",
-            "name": "Black Shell Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "328760",
-            "sku": "328760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d52f2b7c87f6d3ee6e7f675c68e18369409ca7120f19a8c28dccfa860a8d2017"
+    "name": "SanctuaryRPG: Black Edition"
 }

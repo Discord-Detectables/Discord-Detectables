@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "af64e03f8828e8801467431cef3093ad",
     "id": "1124356085017497712",
-    "name": "Strider",
-    "publishers": [
-        {
-            "id": "1124356085537587281",
-            "name": "Double Helix Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "235210",
-            "sku": "235210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e03319065ecce900438cf6305a09c82c4e187cff1670b568494fa3e9434e3708"
+    "name": "Strider"
 }

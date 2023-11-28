@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fed613341ea2b68eb8a60429252d07d5",
     "id": "1124356456213401710",
-    "name": "RUMBLE",
-    "publishers": [
-        {
-            "id": "1124356457446522971",
-            "name": "Buckethead Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "890550",
-            "sku": "890550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ae0660a94226ca44a3b64accc83a0c90de980c0b26b1928df55316a4e6a91386"
+    "name": "RUMBLE"
 }

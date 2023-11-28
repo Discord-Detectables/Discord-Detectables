@@ -1,11 +1,4 @@
 {
-    "description": "Micro Machines World Series is a new entry in the series developed by Just Add Water and Codemasters.",
-    "developers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7671a3b513670009b80a264f91ca4070",
     "id": "425442430922391552",
-    "name": "Micro Machines World Series",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "splash": "f69794f8fb69ffa8e9b30b2f04ff211e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "535850",
-            "sku": "535850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fbe0c16bedcfee7bb481141b2371f6cd8d34c20cf82288febf3ce60e2c9ab0d2"
+    "name": "Micro Machines World Series"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Online multiplayer minigolf game from Blacklight Interactive.",
-    "developers": [
-        {
-            "id": "521816715760500736",
-            "name": "Blacklight Interactive "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,20 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec82a2f6545fdda0d64ea71a02fbee42",
     "id": "356954034701205504",
-    "name": "Golf With Your Friends",
-    "splash": "1cdc1a7625d66dc230334e597a751efe",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "431240",
-            "sku": "431240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9493130963ceea7ed19329cca4f15990f17a0d3bbbba9a526fede9c363c0b7f7"
+    "name": "Golf With Your Friends"
 }

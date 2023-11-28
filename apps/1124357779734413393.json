@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "82af1a0049295b141c0ac2265898bb94",
     "id": "1124357779734413393",
-    "name": "Citystate",
-    "publishers": [
-        {
-            "id": "1124357780166422558",
-            "name": "Andy Sztark"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "774351",
-            "sku": "774351"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b64967c66f8d6255bf77b0ba72052b32fb388dda3aac850787e68a184d70a126"
+    "name": "Citystate"
 }

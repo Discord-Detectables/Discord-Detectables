@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2835e3cee95fff3e1ea9c09dd7d4223c",
     "id": "1124352607218057286",
-    "name": "DOOM 3: BFG Edition",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "208200",
-            "sku": "208200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3a8ef270c7da18580708f84e559d6287c95deb8665969d95fb4318a569350076"
+    "name": "DOOM 3: BFG Edition"
 }

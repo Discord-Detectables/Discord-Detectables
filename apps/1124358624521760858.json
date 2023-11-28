@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a8ac2b37ad11b69b292bc5bc4ec1e31a",
     "id": "1124358624521760858",
-    "name": "A Castle Full of Cats",
-    "publishers": [
-        {
-            "id": "1124356804349018202",
-            "name": "Devcats"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2070550",
-            "sku": "2070550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "07eb0485b33ed983dc73a422caecc5e9f466864053acc3ff75f9d8d5085c4c23"
+    "name": "A Castle Full of Cats"
 }

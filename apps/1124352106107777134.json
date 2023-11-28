@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "afb25b9cc8230b44e5de52e0a82520fe",
     "id": "1124352106107777134",
-    "name": "Rain World",
-    "publishers": [
-        {
-            "id": "524352895647481859",
-            "name": "Videocult"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "312520",
-            "sku": "312520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cc0456030ff20e23894f992447e0e852a5f709f372a6301c1ade54abc8ef77db"
+    "name": "Rain World"
 }

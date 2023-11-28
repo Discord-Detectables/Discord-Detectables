@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d66bc30d4341177471dffa4556441ae7",
     "id": "1124356010321129483",
-    "name": "Stickman: Trench Wars Demo",
-    "publishers": [
-        {
-            "id": "1124356010774122546",
-            "name": "Big Play Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2158150",
-            "sku": "2158150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e35bf0050e6cba19f83c39bb7112e593895552f0863fa2bfe23260ed4bd4261"
+    "name": "Stickman: Trench Wars Demo"
 }

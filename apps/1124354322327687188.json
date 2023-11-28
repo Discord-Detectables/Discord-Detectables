@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b57aba61e5582ff9ef44764533c1ff2d",
     "id": "1124354322327687188",
-    "name": "Interplanetary: Enhanced Edition",
-    "publishers": [
-        {
-            "id": "524352306670731268",
-            "name": "Team Jolly Roger"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "650220",
-            "sku": "650220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0d633a312c62c9c397443e674df12a3b9a65d8a6854ddf31b64ccea4ed497a9e"
+    "name": "Interplanetary: Enhanced Edition"
 }

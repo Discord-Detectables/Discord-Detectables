@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6f753c592cd15aa9b4408913536f3238",
     "id": "1124351960078897173",
-    "name": "The Outlast Trials",
-    "publishers": [
-        {
-            "id": "521816563972571136",
-            "name": "Red Barrels"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1304930",
-            "sku": "1304930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8bece23dc39aa5bfbe161e9614920299086e86bdac4952c0e99f6794ff1e8c12"
+    "name": "The Outlast Trials"
 }

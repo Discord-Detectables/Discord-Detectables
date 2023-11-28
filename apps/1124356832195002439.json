@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "191c750df550fd07ff51de4c4a3d185e",
     "id": "1124356832195002439",
-    "name": "Ys VIII: Lacrimosa of Dana",
-    "publishers": [
-        {
-            "id": "521816761516163072",
-            "name": "Nihon Falcom"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "579180",
-            "sku": "579180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e51a98ce2d341718e8ec922929026b2372271c809f7333d43cde7edfed31eb5d"
+    "name": "Ys VIII: Lacrimosa of Dana"
 }

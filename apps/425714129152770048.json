@@ -2,13 +2,6 @@
     "aliases": [
         "Risen 3: Titan Lords"
     ],
-    "description": "The third game in the Risen series, developed by Piranha Bytes.",
-    "developers": [
-        {
-            "id": "521816524403638275",
-            "name": "Pluto 13 GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d80add29589fbae8e2a4267743fa7abd",
     "id": "425714129152770048",
-    "name": "Risen 3 - Titan Lords",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "2e8908b03b216652ad2441aa706968a9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "249230",
-            "sku": "249230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "171a3d1bc38681cbc505ac4a5629621e7f3974c281f747e2240c6d57c2e55639"
+    "name": "Risen 3 - Titan Lords"
 }

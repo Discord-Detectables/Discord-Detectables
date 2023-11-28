@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba8448b6f33be25ec1b51eee1d79319f",
     "id": "1124355692426448937",
-    "name": "Creatures of Aether",
-    "publishers": [
-        {
-            "id": "1124355692896206878",
-            "name": "Tako Boy Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1593750",
-            "sku": "1593750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5662b203cfe8650d037a217e1aa5bda19cab462102025c463dbbb43002a74623"
+    "name": "Creatures of Aether"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a300907ef6e883d5fc64dd14fda89835",
     "id": "1124353624076726303",
-    "name": "Cinderella Phenomenon",
-    "publishers": [
-        {
-            "id": "1124353624550690836",
-            "name": "Dicesuki"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "568770",
-            "sku": "568770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a32b83d9f60d38f3d0c139d8684fba1e792c824d649fc14560a11de163fee3a4"
+    "name": "Cinderella Phenomenon"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b7d9d703fc4cae415d6ba8f86b160bde",
     "id": "504055223543922708",
-    "name": "Strife: Veteran Edition",
-    "publishers": [
-        {
-            "id": "521816594675138612",
-            "name": "Rogue Entertainment"
-        }
-    ],
-    "splash": "54b3814c45d69c1be0a49b0bd7773f2f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "317040",
-            "sku": "317040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "52c03a2122ce58935a2f359fbb40dd7a5068edbd5e62aaa5c5d70e98ebb88640"
+    "name": "Strife: Veteran Edition"
 }

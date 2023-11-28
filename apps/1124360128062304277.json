@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "930b89ecb11c85b188809282c5525396",
     "id": "1124360128062304277",
-    "name": "Grand Ages: Medieval",
-    "publishers": [
-        {
-            "id": "1124352734179643422",
-            "name": "Gaming Minds Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "310470",
-            "sku": "310470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6125bac681d284c3fcb961fa1ef83c66ab1f8da680875749d6ea7010a5b144b1"
+    "name": "Grand Ages: Medieval"
 }

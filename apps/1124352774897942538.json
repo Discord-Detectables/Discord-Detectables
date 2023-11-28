@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef257796a9c243df119bb533355f2b1f",
     "id": "1124352774897942538",
-    "name": "Super Bernie World",
-    "publishers": [
-        {
-            "id": "1124352775346729093",
-            "name": "Gamedevs for Bernie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1258040",
-            "sku": "1258040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a162cc685c24c90bf075094706299ec5d0759630970a5dfbe71cc2ed74106943"
+    "name": "Super Bernie World"
 }

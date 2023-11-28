@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "52714063ac6faa30cedb27fa68e6058c",
     "id": "1124358901828169728",
-    "name": "Obama",
-    "publishers": [
-        {
-            "id": "1124358904692887562",
-            "name": "Monkey And Rat Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1763620",
-            "sku": "1763620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b70a6c228210898c613a0053d161856075f342f66369f8af76565cbc37b4a139"
+    "name": "Obama"
 }

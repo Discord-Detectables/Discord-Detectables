@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a770515101a9fea01c3a0eba3fdd8fd6",
     "id": "1124360383289901186",
-    "name": "THE NORMAL THING",
-    "publishers": [
-        {
-            "id": "1124360383763853472",
-            "name": "Orata Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1397980",
-            "sku": "1397980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e8b4ce08370fe151dd1fab12d53f9507bf18663e6f6e9082652c65004e664b05"
+    "name": "THE NORMAL THING"
 }

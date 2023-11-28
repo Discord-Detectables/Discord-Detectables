@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "839e404982420133508c3f16f8a07ecf",
     "id": "1124356762401787904",
-    "name": "Taur",
-    "publishers": [
-        {
-            "id": "1124356762909294744",
-            "name": "Echo Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1227780",
-            "sku": "1227780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "edabdae08f4814b2fc84c8aace0dd4faed29faea17e3790e612af2ee4b96ae9f"
+    "name": "Taur"
 }

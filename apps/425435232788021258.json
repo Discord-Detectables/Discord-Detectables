@@ -2,13 +2,6 @@
     "aliases": [
         "Assassin's Creed: Brotherhood"
     ],
-    "description": "The third installment in the Assassin's Creed franchise, this game's story picks up right after the events of Assassin's Creed II, showing Ezio Auditore traveling to Rome to recruit a new force of assassins. Brotherhood is the first game in the series to offer online multiplayer.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,25 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba50472f858bbd79fcb1f24cb90079f3",
     "id": "425435232788021258",
-    "name": "Assassin's Creed Brotherhood",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "48190",
-            "sku": "48190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89e8922aadc83c96c133cf278b6f7ef43a68557cabb38024f7ad20c3828643c4"
+    "name": "Assassin's Creed Brotherhood"
 }

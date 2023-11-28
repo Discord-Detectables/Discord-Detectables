@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "73823e7b84af71eec54bd2032ea3f4d8",
     "id": "496852479615565834",
-    "name": "Magic Realm: Online",
-    "publishers": [
-        {
-            "id": "521816573485514763",
-            "name": "ITC Studio"
-        }
-    ],
-    "splash": "82fa43d38fa04fa9fc1cb8537d3bb182",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "864610",
-            "sku": "864610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bec24e28b5237672fc2d9fa8b9ef0beb6317768c26fedbde9068f5d407ffcc7a"
+    "name": "Magic Realm: Online"
 }

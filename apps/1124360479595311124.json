@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d983342c2ff9f015c1a765dc9d452713",
     "id": "1124360479595311124",
-    "name": "Chair F*cking Simulator",
-    "publishers": [
-        {
-            "id": "1124360479595311125",
-            "name": "SoSorrySoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1302800",
-            "sku": "1302800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8a15db4a108e679fdc84abba0e053a7e58c5eb50e88c92cd8918ff0bdb67f10d"
+    "name": "Chair F*cking Simulator"
 }

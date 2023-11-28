@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b69ed6153231fac4974fda1105aa66f9",
     "id": "1124351842554495058",
-    "name": "Lost Light",
-    "publishers": [
-        {
-            "id": "521816544939081735",
-            "name": "Netease Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1797880",
-            "sku": "1797880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d36900a3538dc706a14a0c2a696d6970ba2f645aaa7965c07fd5768be2084c04"
+    "name": "Lost Light"
 }

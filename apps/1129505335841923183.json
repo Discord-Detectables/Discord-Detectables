@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "10ba1e28963679547f486e996612659d",
     "id": "1129505335841923183",
-    "name": "Ghosts of war",
-    "publishers": [
-        {
-            "id": "1124354001241124894",
-            "name": "Extreme Developers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1755120",
-            "sku": "1755120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5d3bc9bb4de203072b03e087b7cbaba8f21c82f29b66a2a32281988ab2823ae9"
+    "name": "Ghosts of war"
 }

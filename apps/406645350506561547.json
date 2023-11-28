@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ce7928bb1cf8eb6cf335de11a96b1890",
     "id": "406645350506561547",
-    "name": "CrossFire BR",
-    "publishers": [
-        {
-            "id": "521816791249322006",
-            "name": "Z8Games.com"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "bd6aac96310be6be7a87530e5a2678c9165fef3fc28adc6b0665e73b8e06c133"
+    "name": "CrossFire BR"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d3096ba378a334cf3629ca6bb6be18f3",
     "id": "1137037446647914616",
-    "name": "Thronefall",
-    "publishers": [
-        {
-            "id": "521816712211857409",
-            "name": "GrizzlyGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2239150",
-            "sku": "2239150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "005d6c9f3c9597745618b37ccd9a30a55b1c7907e4ee6d738e9e0bf627539e1d"
+    "name": "Thronefall"
 }

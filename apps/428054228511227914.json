@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816770797895696",
-            "name": "Ghost Ship Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "257785731072786435",
     "hook": true,
-    "icon": "f2eb28103bedcfe67bb4d2da6ff663b9",
     "id": "428054228511227914",
-    "name": "Deep Rock Galactic",
-    "publishers": [
-        {
-            "id": "521816770797895696",
-            "name": "Ghost Ship Games"
-        },
-        {
-            "id": "521816595153158147",
-            "name": "Coffee Stain Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "548430",
-            "sku": "548430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3ae32d8c63fdd953062ed113144de9fc72b76b3a4bc83479391f9652d3c08418"
+    "name": "Deep Rock Galactic"
 }

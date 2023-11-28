@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed8e257a0cb21145847b885f404da589",
     "id": "1124360627666825388",
-    "name": "MX vs. ATV Supercross Encore",
-    "publishers": [
-        {
-            "id": "521816713746972685",
-            "name": "Rainbow Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282050",
-            "sku": "282050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ada3016b7787e0c275a288d3690867080878e0fd214a1285acf4ec54de42b65d"
+    "name": "MX vs. ATV Supercross Encore"
 }

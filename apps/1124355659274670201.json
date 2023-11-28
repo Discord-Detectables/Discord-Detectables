@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f271bf2fbbf486057bd399d558eb8b5d",
     "id": "1124355659274670201",
-    "name": "Persona 3 Portable",
-    "publishers": [
-        {
-            "id": "604017941759000594",
-            "name": "Atlus"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1809700",
-            "sku": "1809700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2542920b119ce8b431bc36cad3be5067d7f11d2ebec5b5419d5e22b3ef76d1a2"
+    "name": "Persona 3 Portable"
 }

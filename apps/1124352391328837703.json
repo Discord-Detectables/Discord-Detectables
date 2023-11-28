@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1c532fb4965439589c0096456fd2806",
     "id": "1124352391328837703",
-    "name": "The Planet Crafter: Prologue",
-    "publishers": [
-        {
-            "id": "1124352311259574303",
-            "name": "Miju Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1830840",
-            "sku": "1830840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9072059de73fde880823037d0f1fdd9d2d071f549b1bb7c36bb07c06d4c72ce1"
+    "name": "The Planet Crafter: Prologue"
 }

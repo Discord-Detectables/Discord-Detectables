@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48fa9c97aa8bfc845a2d2d8778ed0c8a",
     "id": "1124357223347408957",
-    "name": "Mod and Play",
-    "publishers": [
-        {
-            "id": "1124357223863304323",
-            "name": "bucikpro"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1127460",
-            "sku": "1127460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "596c3df2f604a6f966ee8c8a3dddd72ab6943e1c98e9b6161df07bcb0ed1005f"
+    "name": "Mod and Play"
 }

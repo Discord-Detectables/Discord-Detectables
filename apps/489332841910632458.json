@@ -1,11 +1,4 @@
 {
-    "description": "Remake of the first Hyperdimension Neptunia game, featuring a revised plot and the improved battle system introduced in its sequels.",
-    "developers": [
-        {
-            "id": "521816535304503322",
-            "name": "Felistella"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d0b4e4db7e30f981115d3f3126686f21",
     "id": "489332841910632458",
-    "name": "Hyperdimension Neptunia Re;Birth1",
-    "publishers": [
-        {
-            "id": "521816535304503320",
-            "name": "Compile Heart, Inc."
-        }
-    ],
-    "splash": "f66a00ac75ed8b2f239527ad7677dbc6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282900",
-            "sku": "282900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "296c70e26b35b367e5aa8a1155c29a2b574fd8e95e41462745b5d9957c3948c7"
+    "name": "Hyperdimension Neptunia Re;Birth1"
 }

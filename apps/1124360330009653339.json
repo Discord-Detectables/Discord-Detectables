@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5c0d46a734429e13935c2eff1c57b83",
     "id": "1124360330009653339",
-    "name": "Anvil Saga",
-    "publishers": [
-        {
-            "id": "1124360330496200897",
-            "name": "Pirozhok Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1587540",
-            "sku": "1587540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9b33f07b205bf8b93e2c42e720e7a6a1aea544971922eefe3700983ad4f50d9f"
+    "name": "Anvil Saga"
 }

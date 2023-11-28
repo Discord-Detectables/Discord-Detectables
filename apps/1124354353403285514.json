@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e384f1eabc804a37c0e61ccd429d5ab1",
     "id": "1124354353403285514",
-    "name": "Pocket Waifu",
-    "publishers": [
-        {
-            "id": "1124353389631918121",
-            "name": "JNT Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "944110",
-            "sku": "944110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aae7b37c29f61a7a70faa0cac2e3189f3f58730a83100bda1b8172c29f0ad1ba"
+    "name": "Pocket Waifu"
 }

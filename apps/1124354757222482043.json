@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc1c07bd5a0a870df06a10469652464a",
     "id": "1124354757222482043",
-    "name": "Villagers and Heroes",
-    "publishers": [
-        {
-            "id": "524352306670731264",
-            "name": "Mad Otter Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "263540",
-            "sku": "263540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5bea0f2f4dc1978524e22b5f678b151f7c95eb28ab72085e8396dc9b9d77548f"
+    "name": "Villagers and Heroes"
 }

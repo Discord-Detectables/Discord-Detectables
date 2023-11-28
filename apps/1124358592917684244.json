@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8025f1abcf69f0ea946de94be646eb23",
     "id": "1124358592917684244",
-    "name": "Dinosaurs A Prehistoric Adventure",
-    "publishers": [
-        {
-            "id": "1124358593362276433",
-            "name": "Arcupion Art"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "751590",
-            "sku": "751590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "08745cee1b175f560eb67bbb0f5d8ee7f0f8626e3855a813e36d425a8cd562ab"
+    "name": "Dinosaurs A Prehistoric Adventure"
 }

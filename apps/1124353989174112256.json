@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e170b88101c09269764570e399ba572d",
     "id": "1124353989174112256",
-    "name": "Beer Factory - Prologue",
-    "publishers": [
-        {
-            "id": "1124353989622911016",
-            "name": "AKEL"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2173600",
-            "sku": "2173600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ec7a945c74451701ce58188090f1a67910ac0e2b988e8d0d62b0308e13fd264d"
+    "name": "Beer Factory - Prologue"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "131f3db82c33392268973f21dabc16dd",
     "id": "1124360386720841748",
-    "name": "pureya",
-    "publishers": [
-        {
-            "id": "524352733017538576",
-            "name": "Majorariatto"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1268960",
-            "sku": "1268960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "76853de686d4dd456751a5049b4bc47ac2dc5d5d4d731fd88c8981c55281ae23"
+    "name": "pureya"
 }

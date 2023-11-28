@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5daab438b0f7311b0c121fc27fe7acf2",
     "id": "1124352543619829892",
-    "name": "Digimon Story Cyber Sleuth: Complete Edition",
-    "publishers": [
-        {
-            "id": "1124352544089587823",
-            "name": "h.a.n.d., Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1042550",
-            "sku": "1042550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e81345b0aefc9a7ab839a3d0ebad68a6cebce2175c2adc8bb1097c6eb0b05e3e"
+    "name": "Digimon Story Cyber Sleuth: Complete Edition"
 }

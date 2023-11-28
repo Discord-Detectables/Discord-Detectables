@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e56b52d531ac3c3a8f775ed395814692",
     "id": "1124357851696083014",
-    "name": "Atari Vault",
-    "publishers": [
-        {
-            "id": "524352185602146307",
-            "name": "Code Mystics"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "400020",
-            "sku": "400020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f9ab8fd00ff246c2889df7a055406a846651ea2fb4f99dee4a3d2aa7010eca70"
+    "name": "Atari Vault"
 }

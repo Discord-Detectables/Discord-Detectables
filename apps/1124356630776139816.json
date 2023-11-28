@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d0eddcda648a35ea3c0fa18949fdfc86",
     "id": "1124356630776139816",
-    "name": "CARRUMBLE",
-    "publishers": [
-        {
-            "id": "1124356631224926372",
-            "name": "3DClouds"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "743580",
-            "sku": "743580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "280cc5fc3194689d257dc3f3cbb7ff2e696350cd1cf0890dd7a6baf7b26f9b14"
+    "name": "CARRUMBLE"
 }

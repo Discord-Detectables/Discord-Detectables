@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b8aa257e387845a4ce7e16748a84997a",
     "id": "505531160990973952",
-    "name": "Allods Online",
-    "publishers": [
-        {
-            "id": "521816500974256132",
-            "name": "Allods Team"
-        }
-    ],
-    "splash": "a9fb7f701ed7732dfd7c7e402c0b2d00",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "459160",
-            "sku": "459160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ad79ea72449145c405de219d1525a0faf878b85144dce00b26e49423e0c4b83e"
+    "name": "Allods Online"
 }

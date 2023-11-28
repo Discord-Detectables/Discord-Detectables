@@ -1,38 +1,17 @@
 {
-    "description": "A first person multiplayer sports game with rules similar to soccer.",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "supraball/binaries/win32/udk.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "supraball/binaries/win64/udk.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "supraball/binaries/win32/udk.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "265277423329738752",
     "hook": true,
-    "icon": "7ba268107d821db4abe1291dc18d7613",
     "id": "451546491866316800",
-    "name": "Supraball",
-    "publishers": [
-        {
-            "id": "521816612626497539",
-            "name": "Supra Games"
-        }
-    ],
-    "splash": "76b7bdb60e51d5481313c7b03c4bf80e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "321400",
-            "sku": "321400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b7ae5faf5350a95fb1060af53c6fa70e2d08dd87ca56997e1d11bfdfe9e03f52"
+    "name": "Supraball"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "891c773753768a7d6d3234bf802c8605",
     "id": "1124353605017813042",
-    "name": "Spellcaster University",
-    "publishers": [
-        {
-            "id": "1124353605529514014",
-            "name": "Sneaky Yak Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "895620",
-            "sku": "895620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e9b44a5f8cf2e2ee7a45e5c7a3bd8755e32ac75f9b737529763e99402fc1869"
+    "name": "Spellcaster University"
 }

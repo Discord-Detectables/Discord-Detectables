@@ -1,12 +1,4 @@
 {
-    "cover_image": "c4cceda0855e16e3637c9506c0c277db",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816677101600788",
-            "name": "Powerhoof"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "384541799034912768",
     "hook": true,
-    "icon": "ba6bd7185f1cff008523232ba4939359",
     "id": "491853507507388427",
-    "name": "Regular Human Basketball",
-    "primary_sku_id": "491853507507388427",
-    "publishers": [
-        {
-            "id": "521816677101600788",
-            "name": "Powerhoof"
-        }
-    ],
-    "slug": "regular-human-basketball",
-    "splash": "703e2c62765a958b5fd87773721dba0f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "491853507507388427",
-            "sku": "491853507507388427"
-        },
-        {
-            "distributor": "steam",
-            "id": "661940",
-            "sku": "661940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f5ec87d00d01e398d9bc6c92454ff177cb3a5584453e2182e5be202bff55f070"
+    "name": "Regular Human Basketball"
 }

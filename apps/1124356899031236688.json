@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f48d0226a17e23bb02f720b23b14cebd",
     "id": "1124356899031236688",
-    "name": "ВЗЛОМ ЖОПЫ",
-    "publishers": [
-        {
-            "id": "1124356899542937652",
-            "name": "Filasaf Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1206700",
-            "sku": "1206700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "702528a08604e5cc7078bd595c5649ace5afff39705d3a80b2083c4ed23af217"
+    "name": "ВЗЛОМ ЖОПЫ"
 }

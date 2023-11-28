@@ -2,7 +2,6 @@
     "aliases": [
         "PPSSPP version 1.5.4"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,12 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "799bce165081854988bf7bb848fa204c",
     "id": "457301373592141836",
-    "name": "PPSSPP",
-    "summary": "",
-    "type": 1,
-    "verify_key": "dc97646f76b879c5773e10a3555533ecf90904378628f7aee07123bec2ccfc23"
+    "name": "PPSSPP"
 }

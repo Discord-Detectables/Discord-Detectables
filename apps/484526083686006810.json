@@ -1,5 +1,4 @@
 {
-    "description": "Wesnoth is a free open-source turn-based strategy game that focuses on simple battle mechanics and strong AI.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "231976805987385345",
     "hook": true,
-    "icon": "de80bb59a4a1e326b36c7874d151c735",
     "id": "484526083686006810",
-    "name": "Battle for Wesnoth",
-    "publishers": [
-        {
-            "id": "521816785801052161",
-            "name": "The Battle for Wesnoth Project"
-        }
-    ],
-    "splash": "b1da1f1bf8db016d4ffb1e60e14cd653",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "599390",
-            "sku": "599390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c7d874aa724e45f83fefc97ed2d0da76bd720ef0b0a402c94aa6c1865484e64a"
+    "name": "Battle for Wesnoth"
 }

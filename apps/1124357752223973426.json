@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d562dcca99dd5a80b5de0490572ec56a",
     "id": "1124357752223973426",
-    "name": "Lichdom: Battlemage",
-    "publishers": [
-        {
-            "id": "521816784161079298",
-            "name": "Xaviant"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "261760",
-            "sku": "261760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f21e30778aab6e5e687b95656ed69d759a6b78cde84afb2e59a6d663ea94e346"
+    "name": "Lichdom: Battlemage"
 }

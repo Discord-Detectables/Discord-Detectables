@@ -1,11 +1,4 @@
 {
-    "description": "Originally a separate PVP mode of the open-world survival-horror shooter now known as \"Just Survive\", H1Z1 pits upwards to 150 players in a large empty island to scavenge for gear and fight to the death. It was later made free-to-play.",
-    "developers": [
-        {
-            "id": "521816500974256130",
-            "name": "Daybreak Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,31 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "225995698494111745",
     "hook": true,
-    "icon": "055abe4b445fdf29d47562ea28cf9478",
     "id": "356881342321000448",
-    "name": "H1Z1: King of the Kill",
-    "publishers": [
-        {
-            "id": "521816717291421726",
-            "name": "Daybreak Game Company"
-        },
-        {
-            "id": "521816500974256130",
-            "name": "Daybreak Games"
-        }
-    ],
-    "splash": "595405692aa306885249dd80bf4a805d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "433850",
-            "sku": "433850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "22d9164d593b42740ab9606c883a2e9746bdb144eea0ad3dabc6013e424e5525"
+    "name": "H1Z1: King of the Kill"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff9eca2b8b6cf00053b1eca837853e6d",
     "id": "1124354276127428728",
-    "name": "Resident Evil Village Gold Edition Gameplay Demo",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2062120",
-            "sku": "2062120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9cd0679f709b5a002b6d9898075fee37a048e0dac468129ca307bc9f76a3d083"
+    "name": "Resident Evil Village Gold Edition Gameplay Demo"
 }

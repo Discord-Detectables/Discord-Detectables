@@ -2,14 +2,6 @@
     "aliases": [
         "SOMA"
     ],
-    "cover_image": "33c0a029a3a34bf47721ef95ac0643a0",
-    "description": "Miles below the ocean floor, a facility lies isolated. The inhabitants are losing their minds and its AI has begun to run amock. SOMA is an unsettling story about identity, consciousness, and what it means to be human.\n",
-    "developers": [
-        {
-            "id": "521816498541428770",
-            "name": "Frictional Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,34 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "608260170660708352",
     "hook": true,
-    "icon": "55a2360382f74dc79b9b423bc99495a2",
     "id": "425470408322449418",
-    "name": "Soma",
-    "primary_sku_id": "489230107093893120",
-    "publishers": [
-        {
-            "id": "521816498541428770",
-            "name": "Frictional Games"
-        }
-    ],
-    "slug": "soma",
-    "splash": "ba15976ae2871dd092de1a9c4cb62d4b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282140",
-            "sku": "282140"
-        },
-        {
-            "distributor": "discord",
-            "id": "489230107093893120",
-            "sku": "489230107093893120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9da89773f03a3844c3f73751c9e755923a794b91264cc382e4c38220f395b4c7"
+    "name": "Soma"
 }

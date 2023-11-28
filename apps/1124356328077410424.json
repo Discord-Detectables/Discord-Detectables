@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d50d833dd02347d093dc7fbbdd860c21",
     "id": "1124356328077410424",
-    "name": "Astro Colony",
-    "publishers": [
-        {
-            "id": "1124356328517808261",
-            "name": "Terad Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1614550",
-            "sku": "1614550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dca29e275dc62482ba8345d9259706a56500f8eea960a08319e55b0cfb1b2304"
+    "name": "Astro Colony"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Compete to achieve the fastest times in four crazy environments in this 2016 console-focused entry in the long-running TrackMania series.",
-    "developers": [
-        {
-            "id": "521816570029146113",
-            "name": "Nadeo"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e490010bb287fd3fd5b08c84a364df32",
     "id": "425440195966664704",
-    "name": "Trackmania Turbo",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "f78f2aa7b83d36457f6080dfbb1e6d2f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "375900",
-            "sku": "375900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ad6efba36eec8a5ca065f76ae9a27591e2fbea515991942e88def4ca2f6fa857"
+    "name": "Trackmania Turbo"
 }

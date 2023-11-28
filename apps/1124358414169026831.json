@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eeb3564476b03bef93619c99c329aea4",
     "id": "1124358414169026831",
-    "name": "Tourist Bus Simulator",
-    "publishers": [
-        {
-            "id": "524352092790456397",
-            "name": "TML-Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "953580",
-            "sku": "953580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b833d42c504e41d27b8ff411650570d33c4e29409b4220821ec55d5ea312636"
+    "name": "Tourist Bus Simulator"
 }

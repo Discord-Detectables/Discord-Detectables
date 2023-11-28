@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dbbc0c30950ea7fffb051f4f921899fe",
     "id": "1124351736275021855",
-    "name": "Slapshot: Rebound",
-    "publishers": [
-        {
-            "id": "857581102155169822",
-            "name": "Oddshot Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1173370",
-            "sku": "1173370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "057473e85fb509c35f09f92aace2a722456fc423ccfab1155502bec8654c028d"
+    "name": "Slapshot: Rebound"
 }

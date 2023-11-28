@@ -1,11 +1,4 @@
 {
-    "description": "Starring the demi-god Sphinx, and the undead corpse of Tutankhamen, this action-adventure game is filled with Ancient Egyptian mythology.",
-    "developers": [
-        {
-            "id": "521816551054376970",
-            "name": "Eurocom Entertainment Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f5d9589d87e66be34e1e617e62caf03",
     "id": "425454500883595264",
-    "name": "Sphinx and the Cursed Mummy",
-    "publishers": [
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "splash": "5dab92cae6b5a6a1f0cfe392321f63fa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "606710",
-            "sku": "606710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e1dfa9e4e4a3090d1081116dc73ee8a91be93487d67cca78d0ddc3cd87728e8"
+    "name": "Sphinx and the Cursed Mummy"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Steins;Gate"
     ],
-    "description": "The second, and most popular, entry in the Science Adventure series of visual novels. Centers around a group of friends who accidentally invent a device that can send text messages back in time, sparking a pandemonium of alternate timelines and conspiracies. El Psy Kongroo.",
-    "developers": [
-        {
-            "id": "521816754989694996",
-            "name": "5pb."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c61a00ff15aa2bbde5af4e009e0b6639",
     "id": "504052730042646579",
-    "name": "STEINS;GATE",
-    "publishers": [
-        {
-            "id": "521816806176980996",
-            "name": "Nitroplus"
-        },
-        {
-            "id": "521816754989694996",
-            "name": "5pb."
-        }
-    ],
-    "splash": "b62d51025374c4f7d43623198ad735a2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "412830",
-            "sku": "412830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a31c0e73492f6d8f316d3ddc3a003f39fda00b8b13a6b6db85d6d187077a627e"
+    "name": "STEINS;GATE"
 }

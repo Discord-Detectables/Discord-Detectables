@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b51e0ece91b292814120c8a5d5e7548e",
     "id": "1124351956475981905",
-    "name": "Townscaper",
-    "publishers": [
-        {
-            "id": "1124351956941557961",
-            "name": "Oskar Stålberg"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1291340",
-            "sku": "1291340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "76981dd841eb010f4240a3c1f7633bb26ec5fc507608408ad83aec3ca464d92d"
+    "name": "Townscaper"
 }

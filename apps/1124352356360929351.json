@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5edd2f6202f18c2c95e0b2c5b4988bb0",
     "id": "1124352356360929351",
-    "name": "Imperator: Rome",
-    "publishers": [
-        {
-            "id": "521816507676885007",
-            "name": "Paradox Development Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "859580",
-            "sku": "859580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "beecc93cb5f23ffd098edeace89d0a6c668ec1e21bb562ce6868fd7e46604e43"
+    "name": "Imperator: Rome"
 }

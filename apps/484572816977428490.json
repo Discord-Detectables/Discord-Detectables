@@ -1,11 +1,4 @@
 {
-    "description": "LISA is a side-scrolling RPG set in a post-apocalyptic world.",
-    "developers": [
-        {
-            "id": "521816553679749140",
-            "name": "Dingaling"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3e118857e7bbc9daa86f016e7649fbe3",
     "id": "484572816977428490",
-    "name": "LISA",
-    "publishers": [
-        {
-            "id": "521816553679749140",
-            "name": "Dingaling"
-        }
-    ],
-    "splash": "3cf71bf6adc2ca4d16e5fd5a7f26b643",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "335670",
-            "sku": "335670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b146c432dfa238341b72968b0048f62de4166752be97492c58fc98c08494fa88"
+    "name": "LISA"
 }

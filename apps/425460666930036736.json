@@ -2,13 +2,6 @@
     "aliases": [
         "South Park The Fractured But Whole"
     ],
-    "description": "South Park takes on superheroes in this follow up to The Stick of Truth.",
-    "developers": [
-        {
-            "id": "521816683913150495",
-            "name": "South Park Digital Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,30 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0ca50bb29465623cfafaac0db19f3397",
     "id": "425460666930036736",
-    "name": "South Park Fractured But Whole",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816683913150494",
-            "name": "Ubisoft San Francisco"
-        }
-    ],
-    "splash": "74e4fedb70e54a4f33d571cc3750dad7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "488790",
-            "sku": "488790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "109b20dc79ecfbdf5c6b7adfc6f0b7dd9e0cf9b92325bd428164244cae1c0e09"
+    "name": "South Park Fractured But Whole"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2fa0604c56571f4c2a65eca8a166640d",
     "id": "1152725708871831652",
-    "name": "Wolvesville",
-    "publishers": [
-        {
-            "id": "1152725713825304609",
-            "name": "Wolvesville GmbH &amp; Co. KG"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2502760",
-            "sku": "2502760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "142e394d80277e541ecb2e4da96bf9bf51dfe7cea9afb41ecf18b30faf5664e0"
+    "name": "Wolvesville"
 }

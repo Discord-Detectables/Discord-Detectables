@@ -1,11 +1,4 @@
 {
-    "description": "Farming Simulator 19 is the 8th major installment of the Farming Simulator franchise.",
-    "developers": [
-        {
-            "id": "521816627767934979",
-            "name": "GIANTS Software GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,31 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "299449702599098368",
     "hook": true,
-    "icon": "37b18c2d5633628d936dd3b2b083785b",
     "id": "542474758835535872",
-    "name": "Farming Simulator 19",
-    "publishers": [
-        {
-            "id": "521816627767934979",
-            "name": "GIANTS Software GmbH"
-        },
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        }
-    ],
-    "splash": "feb5890e7f553a2bfbb87e631617d359",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "787860",
-            "sku": "787860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bbba1d6e8a9506f6b721ae413f4c6b72acfaf183dcdb7aac64e85bdff000cdd4"
+    "name": "Farming Simulator 19"
 }

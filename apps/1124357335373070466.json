@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6f596cba960517c4d8f81514ed0dc968",
     "id": "1124357335373070466",
-    "name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
-    "publishers": [
-        {
-            "id": "1124355815474737252",
-            "name": "Gaijin Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "218060",
-            "sku": "218060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bfdc57f8e4f42aea4f7ef0bafc7d0f81f1036365ff815545f7c47f0c08a3f81d"
+    "name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien"
 }

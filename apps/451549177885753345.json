@@ -1,11 +1,4 @@
 {
-    "description": "The first game coming out of the newly created Spiral Game Studios. Based on the Half Life 2 mod Orion.",
-    "developers": [
-        {
-            "id": "521816752649404429",
-            "name": "Spiral Game Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "902b084965ea986fa7c6bf213a666ca1",
     "id": "451549177885753345",
-    "name": "ORION: Prelude",
-    "publishers": [
-        {
-            "id": "521816752649404429",
-            "name": "Spiral Game Studios"
-        }
-    ],
-    "splash": "b96d4e62fdd8011a2e0174665853cce3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "104900",
-            "sku": "104900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9534d3d58baa688f783cbc3f4898c10e4a8272e6205349592680b2971af7f8c6"
+    "name": "ORION: Prelude"
 }

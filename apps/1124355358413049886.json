@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f4ab87beb459e82a967aee1bed6bf617",
     "id": "1124355358413049886",
-    "name": "The Incredible Adventures of Van Helsing: Final Cut",
-    "publishers": [
-        {
-            "id": "521816736274841640",
-            "name": "NeocoreGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "400170",
-            "sku": "400170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c03ddecd0d45b45fda3156666dbdad88b79a5c76918ef766024141ac32418250"
+    "name": "The Incredible Adventures of Van Helsing: Final Cut"
 }

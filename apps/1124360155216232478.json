@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c2d40077a042663a9f5cbb4c6043a514",
     "id": "1124360155216232478",
-    "name": "Get Stuffed!",
-    "publishers": [
-        {
-            "id": "1124352863355809843",
-            "name": "FAT BOMB STUDIOS, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1098130",
-            "sku": "1098130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cc751bf21c55e6ae206c8c78972c73888c74c567076a5a024513735ea3b9341e"
+    "name": "Get Stuffed!"
 }

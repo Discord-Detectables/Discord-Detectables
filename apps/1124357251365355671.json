@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8693a78b16d77ac79bcff7a6e96d74bb",
     "id": "1124357251365355671",
-    "name": "Rollerdrome",
-    "publishers": [
-        {
-            "id": "521816670004576270",
-            "name": "Roll7"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1294420",
-            "sku": "1294420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33d55997a2f977f0c0be7a83f921a2fa75dd09f48a371b32615dc4336f58860a"
+    "name": "Rollerdrome"
 }

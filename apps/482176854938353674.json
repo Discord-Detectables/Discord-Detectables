@@ -2,13 +2,6 @@
     "aliases": [
         "Valkyria Chronicles"
     ],
-    "description": "A turn-based tactics game with real-time elements, that tells the story of Squad 7 as they rally together to fight for the freedom of their country, Gallia.",
-    "developers": [
-        {
-            "id": "521816581433589782",
-            "name": "Basiscape"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "17c75a03b51d5bb869f18f358c421112",
     "id": "482176854938353674",
-    "name": "Valkyria Chronicles™",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "523f4512070fc9f1d28af04cf20271ab",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "294860",
-            "sku": "294860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "210befcb2cfffb5665a98e6afe3ea60c7c63e86745430faf9102d9761324c994"
+    "name": "Valkyria Chronicles™"
 }

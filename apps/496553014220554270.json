@@ -1,11 +1,4 @@
 {
-    "description": "Combat Arms is free-to-play FPS created by Korean developer Nexon. The games attempts to implement themes popularized by mainstream franchises such as Call of Duty, Battlefield and Counter-Strike.  ",
-    "developers": [
-        {
-            "id": "521816511610880011",
-            "name": "Nexon Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,18 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7910f863d11b3f5aede3d7645bda857",
     "id": "496553014220554270",
-    "name": "Combat Arms",
-    "publishers": [
-        {
-            "id": "521816511610880011",
-            "name": "Nexon Corporation"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "f96f4f7f866060ebf360f54efc8febc55a137ea4b6346f0154f993e8b93e3a51"
+    "name": "Combat Arms"
 }

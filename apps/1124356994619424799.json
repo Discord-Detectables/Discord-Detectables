@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4a1cfccae65dd14420c7be7ead357e9",
     "id": "1124356994619424799",
-    "name": "Ethereal Estate",
-    "publishers": [
-        {
-            "id": "1124356994619424800",
-            "name": "Emergence Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1529470",
-            "sku": "1529470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b5b703467ab61f4f93732c09d05e7c721155092226d48806632d668e8aee77c7"
+    "name": "Ethereal Estate"
 }

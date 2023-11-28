@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d2fa75b58e0ae8e5871543cab29109f",
     "id": "1154265900791382111",
-    "name": "Heretic's Fork",
-    "publishers": [
-        {
-            "id": "1154265902959820840",
-            "name": "9FingerGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2181610",
-            "sku": "2181610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7fc42d6449335e21ff0dbcd46f0b5e88b26d4f7564e815f1859a7bee07ed08b2"
+    "name": "Heretic's Fork"
 }

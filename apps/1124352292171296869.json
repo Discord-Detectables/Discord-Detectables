@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4a55d97f8aae762b99bcc1adf0b1505e",
     "id": "1124352292171296869",
-    "name": "PlateUp! Demo",
-    "publishers": [
-        {
-            "id": "1124351821041905745",
-            "name": "It's happening"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1755940",
-            "sku": "1755940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b935fd0cffd1aa19a81c15f4b5e7382f7cdf3d0f2a0e033bee86c3a6a483df35"
+    "name": "PlateUp! Demo"
 }

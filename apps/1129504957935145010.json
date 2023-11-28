@@ -2,9 +2,6 @@
     "aliases": [
         "Mega Man X Legacy Collection / ROCKMAN X ANNIVERSARY COLLECTION"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e12509243e9874f7312c2a8f4b3f095f",
     "id": "1129504957935145010",
-    "name": "Mega Man X Legacy Collection",
-    "publishers": [
-        {
-            "id": "1124355398930014298",
-            "name": "CAPCOM CO., LTD"
-        },
-        {
-            "id": "1124355398930014298",
-            "name": "CAPCOM CO., LTD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "743890",
-            "sku": "743890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ba5efc968427e495c1971bb4ecfd9c997bf869cfa16bbc44bcf2932d4b7c6faa"
+    "name": "Mega Man X Legacy Collection"
 }

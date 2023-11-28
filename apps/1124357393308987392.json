@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6c9aa4ed56849ef07b31e6892b8b795f",
     "id": "1124357393308987392",
-    "name": "Project: Name",
-    "publishers": [
-        {
-            "id": "1124357393816506578",
-            "name": "Marius Angeschrien"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2027400",
-            "sku": "2027400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "91ca609259adcfec82b8ce79099892ad3d9092b22eee8e841bf012bf1773c06f"
+    "name": "Project: Name"
 }

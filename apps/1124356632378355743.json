@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "881f58e256093076cfeef1d0379c8cf9",
     "id": "1124356632378355743",
-    "name": "Fly Dangerous",
-    "publishers": [
-        {
-            "id": "1124356632852320256",
-            "name": "Stargoat Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1781750",
-            "sku": "1781750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "46602eb882244dc9426c53e8e661855963a64386fedc473a139734eb2228feb9"
+    "name": "Fly Dangerous"
 }

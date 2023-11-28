@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1c4bb59fc11dfa4f20fac6985d76411e",
     "id": "1129505885786489053",
-    "name": "Syberia - The World Before",
-    "publishers": [
-        {
-            "id": "1129505887036383232",
-            "name": "Microids Studio Paris"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1410640",
-            "sku": "1410640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "224353de7b9831e003ef677800c0ebf9165103b3510ff9f49b02a09215ada410"
+    "name": "Syberia - The World Before"
 }

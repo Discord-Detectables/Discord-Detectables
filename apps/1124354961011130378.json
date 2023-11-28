@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f6f0a489a380658c4a3a366abfef05e5",
     "id": "1124354961011130378",
-    "name": "Vade Retro : Exorcist",
-    "publishers": [
-        {
-            "id": "1124353463149674496",
-            "name": "Forceight"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1931950",
-            "sku": "1931950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b42bfb3b2624b25dc2340d26ee599cff1266f379cb4457607722fceb07d89f7a"
+    "name": "Vade Retro : Exorcist"
 }

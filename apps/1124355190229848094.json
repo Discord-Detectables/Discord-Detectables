@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8221d0c3ab5e5a4822a164f9fc43ac3d",
     "id": "1124355190229848094",
-    "name": "Carrier Command 2",
-    "publishers": [
-        {
-            "id": "1124355190716383315",
-            "name": "Geometa"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1489630",
-            "sku": "1489630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9bae93dc75dbe07ba63a7b0dfefccfd0c5b0008fafb0634eb3cfeb48f6ea007e"
+    "name": "Carrier Command 2"
 }

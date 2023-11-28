@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb568938bef7b6276cb1a2546be7479d",
     "id": "1124356168425427014",
-    "name": "Infested Planet",
-    "publishers": [
-        {
-            "id": "524352436605812769",
-            "name": "Rocket Bear Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204530",
-            "sku": "204530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5adfe9970a4f0a7f06127aca7fd602a5cb5c96f85f3f6e0fa710150e5f6c3eca"
+    "name": "Infested Planet"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "472b14801d7e5d41b52105f68a035028",
     "id": "1142322148241854484",
-    "name": "To The Core",
-    "publishers": [
-        {
-            "id": "1142322149617565797",
-            "name": "SomethingExtra"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1988550",
-            "sku": "1988550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e38b6fb343eeccea17721d86a4b4f7062a05f75ce2a33d116275b25ac701817f"
+    "name": "To The Core"
 }

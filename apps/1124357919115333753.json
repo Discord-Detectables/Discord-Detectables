@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dfff54c3bafde7d93c5b4c2d4e57bf16",
     "id": "1124357919115333753",
-    "name": "Steel Rats",
-    "publishers": [
-        {
-            "id": "525083554040905759",
-            "name": "Tate Multimedia"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "619700",
-            "sku": "619700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4ed6d35920c0a299909cb55975445d32d408fe46fe9955b3c00407fbb49d28c5"
+    "name": "Steel Rats"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c0d9a8f1d9cc395e557fe04aa1a28ba4",
     "id": "1124358396842364998",
-    "name": "GUN GODZ",
-    "publishers": [
-        {
-            "id": "521816521249521688",
-            "name": "Vlambeer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "522940",
-            "sku": "522940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "737604cf9bc48fd7761673b97e9dadda27e22f4c01fa3c0617d88b988e475db4"
+    "name": "GUN GODZ"
 }

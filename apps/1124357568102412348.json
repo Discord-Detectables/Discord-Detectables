@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "86a63ffc78efb8dde24b63bc82bf2b14",
     "id": "1124357568102412348",
-    "name": "Gentlemen's Club",
-    "publishers": [
-        {
-            "id": "1124357568651874404",
-            "name": "Evil Twin"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1717170",
-            "sku": "1717170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cb53c2e89adbcba323710f47da5d3feddec1db8b7ff889ac24131899b7a5a1a7"
+    "name": "Gentlemen's Club"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b6decf74be70268bc10c0d215c97dbe9",
     "id": "1124360259054616587",
-    "name": "Titan Quest",
-    "publishers": [
-        {
-            "id": "521816722752405505",
-            "name": "Iron Lore Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "4540",
-            "sku": "4540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "47c23fd1c0e2e1116b3eb896262d11270e894d326faa26d9fe93822860cc7534"
+    "name": "Titan Quest"
 }

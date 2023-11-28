@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "379522f1a65c7ab9008dfc70a075fa20",
     "id": "1124356485607075932",
-    "name": "TDP4:Team Battle",
-    "publishers": [
-        {
-            "id": "1124356486064263280",
-            "name": "JAVELIN OÜ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "340540",
-            "sku": "340540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b76c266388a9331b34c5d8cc31873cd7aaaaa6452b23b23c688fe0e107dd3f4"
+    "name": "TDP4:Team Battle"
 }

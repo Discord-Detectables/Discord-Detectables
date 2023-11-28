@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816617571581962",
-            "name": "DrinkBox Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e57cc399b7ad46758b13cbafd89b50dd",
     "id": "491427940135993364",
-    "name": "Guacamelee! Super Turbo Championship Edition",
-    "primary_sku_id": "492074696779497477",
-    "publishers": [
-        {
-            "id": "521816617571581962",
-            "name": "DrinkBox Studios"
-        }
-    ],
-    "slug": "guacamelee-super-turbo-championship-edition",
-    "splash": "0d48ef54ed7215925271f2284c39d84e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "275390",
-            "sku": "275390"
-        },
-        {
-            "distributor": "discord",
-            "id": "492074696779497477",
-            "sku": "492074696779497477"
-        }
-    ],
-    "type": 1,
-    "verify_key": "faff396ac1b6c292405b28d999c464b611959dde7454c3c797660021013969af"
+    "name": "Guacamelee! Super Turbo Championship Edition"
 }

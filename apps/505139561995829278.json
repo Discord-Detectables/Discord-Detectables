@@ -2,7 +2,6 @@
     "aliases": [
         "In The Groove 2"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,12 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea3654f24c43a325885fdc202f121d95",
     "id": "505139561995829278",
-    "name": "OpenITG",
-    "summary": "",
-    "type": 1,
-    "verify_key": "7d58f2c08f4c8bf9ef320ac81835cb0665dd594cae2ca0adf05629080fb7d099"
+    "name": "OpenITG"
 }

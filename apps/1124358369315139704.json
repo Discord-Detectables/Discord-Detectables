@@ -2,9 +2,6 @@
     "aliases": [
         "Hentai Girl Hime"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7f45d1deb40782422c0725cb2fd1f809",
     "id": "1124358369315139704",
-    "name": "Hentai Girl Hime",
-    "publishers": [
-        {
-            "id": "1124357134092611684",
-            "name": "GirlGames"
-        },
-        {
-            "id": "1129504692599279726",
-            "name": "GirlGame"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "963690",
-            "sku": "963690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1165e8dac7fd2367ff8c8d5097fe83a9adf36cb1d4c45966232abab1913f27cc"
+    "name": "Hentai Girl Hime"
 }

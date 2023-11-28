@@ -1,11 +1,4 @@
 {
-    "description": "The sequel to Paradox Interactive's Crusader Kings is a grand strategy game that focuses mostly on the dynasties of medieval Europe. Games begin as early as 769 and can span until 1453. Expansions have expanded the game's scope to include the Middle East, India and the Eurasian Steppe.",
-    "developers": [
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d61dc98937afec90eefad2733e2d75ae",
     "id": "363414742661988352",
     "name": "Crusader Kings II",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
-    "splash": "30c2b61138de0d293e6f486088176f0d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "203770",
-            "sku": "203770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3cd66c26c2c646d8010cd171be908bc9e93cad6069fc981b5e5f55c5a78ea6b4"
+    "overlay": true
 }

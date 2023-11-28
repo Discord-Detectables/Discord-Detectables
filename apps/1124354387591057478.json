@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "268b8646b2d9a7f7830d7f1790108f03",
     "id": "1124354387591057478",
-    "name": "Mojo 2: Mia",
-    "publishers": [
-        {
-            "id": "1124352491715313684",
-            "name": "L. Stotch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "950530",
-            "sku": "950530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "58994dd710e82ef266b9c49ce6c7ed40a6fa2a058977c3da26136f39ecfd5654"
+    "name": "Mojo 2: Mia"
 }

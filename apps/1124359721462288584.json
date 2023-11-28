@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f660f0c653065b13d4d5cacf5c1ce09a",
     "id": "1124359721462288584",
-    "name": "HELLSEED Demo",
-    "publishers": [
-        {
-            "id": "1124359721965600788",
-            "name": "Profenix Studio SRLS"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1325510",
-            "sku": "1325510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "016005958bb99302b63973d19fa144676d95d8b5f8416814d4a91545a52b075f"
+    "name": "HELLSEED Demo"
 }

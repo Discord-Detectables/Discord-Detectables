@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "af382eb717a609c97174e695376aca7f",
     "id": "1124356365004050442",
-    "name": "DEEP SPACE WAIFU: FLAT JUSTICE",
-    "publishers": [
-        {
-            "id": "521816704184090625",
-            "name": "Neko Climax Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "639780",
-            "sku": "639780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0002912a8272f69521b29acf149be722dc09baef70f26fc603ae793d723ea947"
+    "name": "DEEP SPACE WAIFU: FLAT JUSTICE"
 }

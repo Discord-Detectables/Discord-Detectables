@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f28531ca0677ddf8266768109a4e3872",
     "id": "1124359462333984778",
-    "name": "Disciples III: Reincarnation",
-    "publishers": [
-        {
-            "id": "521816601691947038",
-            "name": "Akella"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "10270",
-            "sku": "10270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2394a8926ffc621cdffbad5f851989a13ef3523e51bfc455c07c7afa6645b4a3"
+    "name": "Disciples III: Reincarnation"
 }

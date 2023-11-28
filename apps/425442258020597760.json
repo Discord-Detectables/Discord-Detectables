@@ -2,13 +2,6 @@
     "aliases": [
         "Homefront"
     ],
-    "description": "The sequel to Kaos Studios' 2011 shooter debuts an open-world and a Korean-occupied Philadelphia amid resistance.",
-    "developers": [
-        {
-            "id": "521816604640542742",
-            "name": "Deep Silver Dambuster Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,39 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a57752e04ae6b687935de4e8174d9ae6",
     "id": "425442258020597760",
-    "name": "Homefront: The Revolution",
-    "publishers": [
-        {
-            "id": "521816604640542740",
-            "name": "Kaos Studios"
-        },
-        {
-            "id": "521816604640542741",
-            "name": "Dambuster Studios"
-        },
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "3936b44fa36ffea93d0dd27e149d08e7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "55100",
-            "sku": "55100"
-        },
-        {
-            "distributor": "steam",
-            "id": "223100",
-            "sku": "223100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "62ca7e236a8991f3c86e8c2b700db6fa7fb276d36832cbc8c120670705306c5b"
+    "name": "Homefront: The Revolution"
 }

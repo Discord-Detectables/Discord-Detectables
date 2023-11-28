@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816715248533527",
-            "name": "Denton Designs"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "254025510651297802",
     "hook": true,
-    "icon": "c892436e74c2182ce082216a0bc63190",
     "id": "428055174905331712",
-    "name": "Eco",
-    "publishers": [
-        {
-            "id": "521816715248533525",
-            "name": "Ocean Software Ltd."
-        },
-        {
-            "id": "521816715248533526",
-            "name": "Strange Loop Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "382310",
-            "sku": "382310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "693fde9b7cf616742789d124e5cdc3708bc18c68c52ebf58840155ef0227e0d3"
+    "name": "Eco"
 }

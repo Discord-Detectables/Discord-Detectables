@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "08da959d47dcfaf455313508acd094a6",
     "id": "1124359679968038932",
-    "name": "She Sees Red",
-    "publishers": [
-        {
-            "id": "571555077429657603",
-            "name": "Rhinotales"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1081510",
-            "sku": "1081510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "12ec0878e21878bd83a08449bca39bb2ce93339f44dfb2b4a0ad2e577037161c"
+    "name": "She Sees Red"
 }

@@ -1,35 +1,4 @@
 {
-    "description": "An online-only open-world shooter-RPG sequel that will build upon and improve things from the first game.",
-    "developers": [
-        {
-            "id": "521816652745277460",
-            "name": "Massive Entertainment"
-        },
-        {
-            "id": "521816681228664844",
-            "name": "Ubisoft Annecy Studios"
-        },
-        {
-            "id": "521816510172233759",
-            "name": "Ubisoft Reflections"
-        },
-        {
-            "id": "521816515113385985",
-            "name": "Ubisoft Bucharest"
-        },
-        {
-            "id": "521816583585136661",
-            "name": "Ubisoft Shanghai Studios"
-        },
-        {
-            "id": "521816551955890205",
-            "name": "Ubisoft Sofia"
-        },
-        {
-            "id": "524351571421691909",
-            "name": "Red Storm Entertainment, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -37,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "477210626742288384",
     "hook": true,
-    "icon": "aadb17a9cb43c0d24bd270406fecb87d",
     "id": "554921822626381879",
-    "name": "Tom Clancy's The Division 2",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "4932",
-            "sku": "4932"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cfa4d0d5ff434c000d3df2146196dd08e5bf193530e41086c063ce25a72d6363"
+    "name": "Tom Clancy's The Division 2"
 }

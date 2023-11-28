@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d5a3cf1e84be062d48c511e0624636f",
     "id": "1124356156559732956",
-    "name": "Monster Energy Supercross - The Official Videogame 3",
-    "publishers": [
-        {
-            "id": "524351544951439360",
-            "name": "Milestone s.r.l."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1089830",
-            "sku": "1089830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bf9c4ed681250ce8c19d5303fb4d50445edffdf3e7d6edf634ed34e86b40f0ad"
+    "name": "Monster Energy Supercross - The Official Videogame 3"
 }

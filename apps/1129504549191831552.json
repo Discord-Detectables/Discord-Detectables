@@ -2,9 +2,6 @@
     "aliases": [
         "shapez"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5d019c86e5cf63cb030d621f683f176",
     "id": "1129504549191831552",
-    "name": "shapez.io",
-    "publishers": [
-        {
-            "id": "1124357837439647774",
-            "name": "Tobias Springer"
-        },
-        {
-            "id": "1124357837439647774",
-            "name": "Tobias Springer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1318690",
-            "sku": "1318690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2b515f6408e9ab32da6bd5eac092b4c66eb3db061daa3ef8d4d2fe81d46d635c"
+    "name": "shapez.io"
 }

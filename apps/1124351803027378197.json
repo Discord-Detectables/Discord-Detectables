@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2b6b0e393d5461a1f2b5826d4d2b0636",
     "id": "1124351803027378197",
-    "name": "War Selection",
-    "publishers": [
-        {
-            "id": "1124351803518107809",
-            "name": "Glyph Worlds"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1022450",
-            "sku": "1022450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2089f379e91a1f0caba7263efffc51ab228cba257419a6449a719a55807a6c07"
+    "name": "War Selection"
 }

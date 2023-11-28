@@ -1,11 +1,4 @@
 {
-    "description": "To get a bit of relaxation after the last big battle of Grotesque Tactics 2: Dungeons &amp; Donuts Holy Avatar decides to take a trip off-the-cuff with his Guild of Maidens on a Caribbean island, his recently purchased “Holy Island”.",
-    "developers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e709815a0b73675030967fa79c0ec5f6",
     "id": "425458490878984192",
-    "name": "Holy Avatar vs. Maidens of the Dead",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "a00d421284ba94bb3385380753f1049b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "261720",
-            "sku": "261720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9854b91fb128d6cb9d517b97bd66e356da8278bb9e289226cf6dd07ad3c2cec2"
+    "name": "Holy Avatar vs. Maidens of the Dead"
 }

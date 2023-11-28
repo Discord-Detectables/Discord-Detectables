@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "17b26d59834b32bcf9c7d9334d434275",
     "id": "1124355514864775218",
-    "name": "Legacy of Kain: Soul Reaver",
-    "publishers": [
-        {
-            "id": "521816639512248330",
-            "name": "Crystal Dynamics"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "224920",
-            "sku": "224920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "71da3a5884521c7a673fb7405347a1153c1e803decccb0bc5f085c9e56c371cb"
+    "name": "Legacy of Kain: Soul Reaver"
 }

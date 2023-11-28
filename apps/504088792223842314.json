@@ -2,13 +2,6 @@
     "aliases": [
         "Zombi"
     ],
-    "description": "A first-person survival horror game set in London during a modern-day zombie apocalypse. As a launch title for the Wii U, it features extensive use of the system's GamePad.",
-    "developers": [
-        {
-            "id": "521816592674193443",
-            "name": "Ubisoft Montpellier Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,35 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b9cd242715c296a9da80542a1f747183",
     "id": "504088792223842314",
-    "name": "ZOMBI",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "splash": "db27f92ccd164f6c158a12b4ba8dfa05",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "339230",
-            "sku": "339230"
-        },
-        {
-            "distributor": "uplay",
-            "id": "1653",
-            "sku": "1653"
-        }
-    ],
-    "type": 1,
-    "verify_key": "47dfd96e813f799f6c5234b10afdc4812118d9340948200ff354ee1352a7ab5e"
+    "name": "ZOMBI"
 }

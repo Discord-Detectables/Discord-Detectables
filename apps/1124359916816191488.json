@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a0be3af8a13b21e11dc92d2a6333051",
     "id": "1124359916816191488",
-    "name": "ECHO",
-    "publishers": [
-        {
-            "id": "524352620257869827",
-            "name": "Ultra Ultra"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "551770",
-            "sku": "551770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3c1463e2c4f2c798f329c15dfbd4f608d3f666b8c54980b282e04f0aa695f8ad"
+    "name": "ECHO"
 }

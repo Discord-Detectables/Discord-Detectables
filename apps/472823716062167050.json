@@ -1,5 +1,4 @@
 {
-    "description": "Epic battles of giant robots in a giant war machine and battle in 6 vs 6 online multiplayer.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e86f979e91fdb40470e83aff57fd7c95",
     "id": "472823716062167050",
-    "name": "War Robots",
-    "publishers": [
-        {
-            "id": "521816773629181954",
-            "name": "Pixonic"
-        }
-    ],
-    "splash": "11d7ecde74b2c82bf041d709941d3468",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "767560",
-            "sku": "767560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "678393c2b940415fd386e1451293dcf9bcf22a0d042edd2ae73434db767408c3"
+    "name": "War Robots"
 }

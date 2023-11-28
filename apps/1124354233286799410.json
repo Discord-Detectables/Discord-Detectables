@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "261448c910dff587708d32c2d04d2dd2",
     "id": "1124354233286799410",
-    "name": "Tilt Brush",
-    "publishers": [
-        {
-            "id": "524352260935909383",
-            "name": "Google"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "327140",
-            "sku": "327140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4db3f3d4548abcaa075fccc3c3fd68b1702efdc848b3a347274b5cd6193624d8"
+    "name": "Tilt Brush"
 }

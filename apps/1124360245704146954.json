@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db7501e9486cc5bfa224c01e9306f9d9",
     "id": "1124360245704146954",
-    "name": "First Date : Late To Date",
-    "publishers": [
-        {
-            "id": "1124360246194876476",
-            "name": "Digital Fossil"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2080640",
-            "sku": "2080640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b8c60da6d63473c4ad560e69512991150d27f2a50c9c353c2558f14740d7ed3"
+    "name": "First Date : Late To Date"
 }

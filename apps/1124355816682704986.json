@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e32c8569691ae787a4afc93b0e2b67d7",
     "id": "1124355816682704986",
-    "name": "Bus Driver",
-    "publishers": [
-        {
-            "id": "521816662261891072",
-            "name": "SCS Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "302080",
-            "sku": "302080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7c45292721925a1f45c3113d1a8940c08d3b70770450bf8236d8fc2a964c1cc2"
+    "name": "Bus Driver"
 }

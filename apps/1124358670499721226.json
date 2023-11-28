@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cad3c4fbf792dbe835ef4d49bd7c1a98",
     "id": "1124358670499721226",
-    "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
-    "publishers": [
-        {
-            "id": "1124358670948520027",
-            "name": "KISS"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1097580",
-            "sku": "1097580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d7d052f1f93ee4f44d98aae3cfe40f8d7b9dd0fc25b575706b0ff135f5f9028f"
+    "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic"
 }

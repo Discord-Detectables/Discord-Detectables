@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "51c36d30d4a80aaa507bc2303816fabf",
     "id": "1124352197002547380",
-    "name": "Nine to Five",
-    "publishers": [
-        {
-            "id": "1124352197518442626",
-            "name": "Redhill Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1408680",
-            "sku": "1408680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c5a55cb9bf9cff8dae729d3f7dc87bfd57b750eb2c26236c7985f54a37cd80b"
+    "name": "Nine to Five"
 }

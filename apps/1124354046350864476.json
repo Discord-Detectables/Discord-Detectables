@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2c617c55ceec60ec23af1beacf5bab7d",
     "id": "1124354046350864476",
-    "name": "GizmoVR Video Player",
-    "publishers": [
-        {
-            "id": "1124354046866772068",
-            "name": "Gizmo VR LTD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "768100",
-            "sku": "768100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b54b08cfc5f0b22305fed8796e61eba06c4fc09f8e758ab27354e122f99ee012"
+    "name": "GizmoVR Video Player"
 }

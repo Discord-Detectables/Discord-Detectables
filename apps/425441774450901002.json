@@ -3,13 +3,6 @@
         "Battle Chasers Nightwar",
         "Battle Chasers: Night War"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816653646790670",
-            "name": "Airship Syndicate"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,33 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9c8c849b7fe037ee9e39238549f6f80b",
     "id": "425441774450901002",
-    "name": "Battle Chasers: Nightwar",
-    "primary_sku_id": "488811098242547739",
-    "publishers": [
-        {
-            "id": "521816508167487498",
-            "name": "THQ Nordic"
-        }
-    ],
-    "slug": "battle-chasers-nightwar",
-    "splash": "f50060c4851bf86503acf77a0ae7498f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "488811098242547739",
-            "sku": "488811098242547739"
-        },
-        {
-            "distributor": "steam",
-            "id": "451020",
-            "sku": "451020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "91d6ee00ce98701ef24fed34ade36387b5815ab3f69768d823a9c83864c46cc8"
+    "name": "Battle Chasers: Nightwar"
 }

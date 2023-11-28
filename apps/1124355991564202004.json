@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a7822d5f861c79e485bf18e9ef64808e",
     "id": "1124355991564202004",
-    "name": "NEKOPARA Extra",
-    "publishers": [
-        {
-            "id": "521816576895352838",
-            "name": "NEKO WORKs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "899970",
-            "sku": "899970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f354dd06b71127aecb2cdc9b972ebfc1337b94ede582c0d7865b344c2262b4e5"
+    "name": "NEKOPARA Extra"
 }

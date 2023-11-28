@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "97ea6eedc87d2c559e6b5cbd032b9f67",
     "id": "1124358615097167913",
-    "name": "Mega City Police: Prelude",
-    "publishers": [
-        {
-            "id": "1124358615566925854",
-            "name": "Undreamed Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2359850",
-            "sku": "2359850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "296e94fc07720c88164f1ae6e04efb3526d0e65f80d08806071b9d1367a64cf1"
+    "name": "Mega City Police: Prelude"
 }

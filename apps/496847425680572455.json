@@ -2,13 +2,6 @@
     "aliases": [
         "Lightning Returns: Final Fantasy XIII"
     ],
-    "description": "The final game in Lightning's story arc in the Final Fantasy XIII universe.",
-    "developers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "441e41a1a6448b06343aafba37d2396a",
     "id": "496847425680572455",
-    "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "2963a899a24bad3b8cf2cd3fd40dda3b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "345350",
-            "sku": "345350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e1b0d8fc062a75ff25a8885e7d511989e0d9ee9b006bd81bc42ee19ae61a4a4"
+    "name": "LIGHTNING RETURNS: FINAL FANTASY XIII"
 }

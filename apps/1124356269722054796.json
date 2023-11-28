@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0f50b0ae84837bbc5514e145f106766a",
     "id": "1124356269722054796",
-    "name": "DOKA 2 KISHKI EDITION",
-    "publishers": [
-        {
-            "id": "524353210639581306",
-            "name": "Agafonoff"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "967250",
-            "sku": "967250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "44c4a575917cdfc180f42581f647edaa5bf0466a28e44c3c922bd845ef312315"
+    "name": "DOKA 2 KISHKI EDITION"
 }

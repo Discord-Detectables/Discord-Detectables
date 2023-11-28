@@ -1,11 +1,4 @@
 {
-    "description": "World War 3  is a multiplayer FPS.",
-    "developers": [
-        {
-            "id": "521816748744245258",
-            "name": "The Farm 51"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "453170682277134347",
     "hook": true,
-    "icon": "7500a68325d968a32561875797d01d43",
     "id": "503228350761009162",
-    "name": "World War 3",
-    "publishers": [
-        {
-            "id": "521816748744245258",
-            "name": "The Farm 51"
-        }
-    ],
-    "splash": "5674a7f81cb3e7a3a73fb636a8607fdd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "674020",
-            "sku": "674020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4863543d851af1d4d973ad67dd6c7fb0b29325ceadb2f54aae9395efa78b9029"
+    "name": "World War 3"
 }

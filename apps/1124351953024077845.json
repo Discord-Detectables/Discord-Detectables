@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a772cec6b28fcd37794f8f51f0a7e92a",
     "id": "1124351953024077845",
-    "name": "Slime Rancher 2",
-    "publishers": [
-        {
-            "id": "521816656021028865",
-            "name": "Monomi Park"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1657630",
-            "sku": "1657630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "57e0222d9a0d2431df1930cc292a96479d5451bf13490e0a2e7744f1e560e33f"
+    "name": "Slime Rancher 2"
 }

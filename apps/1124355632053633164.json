@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f6b4d7b464316ec27f6c048c1df91850",
     "id": "1124355632053633164",
-    "name": "Drop In - VR F2P",
-    "publishers": [
-        {
-            "id": "1124355632586305636",
-            "name": "Wild Ox Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1144800",
-            "sku": "1144800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "20f265ad4f9724764e25a5131d490f4ba09dcb0b8ea787ddfd4f405511c36f77"
+    "name": "Drop In - VR F2P"
 }

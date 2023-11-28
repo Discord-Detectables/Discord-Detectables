@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9a2800a992f35558cfd99a73e19baf05",
     "id": "1124355091571429556",
-    "name": "Drake Hollow",
-    "publishers": [
-        {
-            "id": "521816499019841602",
-            "name": "The Molasses Flood"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "739650",
-            "sku": "739650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "49b9e1f424cc9199e839016bfcfad0a014f7f3abb814b626f3f62645c5838060"
+    "name": "Drake Hollow"
 }

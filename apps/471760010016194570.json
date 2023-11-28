@@ -1,11 +1,4 @@
 {
-    "description": "Escape from the zombie-infested city of Los Perdidos, California in the third installment of Capcom's Dead Rising franchise.",
-    "developers": [
-        {
-            "id": "521816574512857089",
-            "name": "Capcom Game Studios Vancouver"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b07f0dbe85b90f0afd080d0f1cbc924f",
     "id": "471760010016194570",
-    "name": "Dead Rising 3",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "8450be901f89abc3678d12504b94a444",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "265550",
-            "sku": "265550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d829b4ebf66bfac4e3a6774f927b9bad707e7c1d17029ccf928221dbf79221f9"
+    "name": "Dead Rising 3"
 }

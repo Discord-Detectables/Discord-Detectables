@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b53153b4c29d4c8c994995fb7ca9347d",
     "id": "1124353830700724280",
-    "name": "DIRT 5",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1038250",
-            "sku": "1038250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8ec29db9901666a596d1d09b66ce5a8570cb65759425518d607ca4b553a8ec10"
+    "name": "DIRT 5"
 }

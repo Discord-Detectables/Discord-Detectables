@@ -1,11 +1,4 @@
 {
-    "description": "A procedurally generated roguelike action game developed by Vlambeer. After creating a prototype called Wasteland Kings for Mojam 2, Vlambeer took the prototype and renamed it Nuclear Throne.",
-    "developers": [
-        {
-            "id": "521816521249521688",
-            "name": "Vlambeer"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b3253f21eccdf354cba8bc08c2447e38",
     "id": "363430560942653440",
-    "name": "Nuclear Throne",
-    "publishers": [
-        {
-            "id": "521816521249521688",
-            "name": "Vlambeer"
-        }
-    ],
-    "splash": "7bdc3e8a1f66edb91711a0e636364604",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "242680",
-            "sku": "242680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "785d7825ba2d7aff3c15fa88b516d5762de277eb918b28bba65cbae873906fa2"
+    "name": "Nuclear Throne"
 }

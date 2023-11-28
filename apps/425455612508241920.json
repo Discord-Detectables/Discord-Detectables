@@ -1,11 +1,4 @@
 {
-    "description": "A puzzle adventure game about 12 year old Jeremiah Hazelnut, a budding magician with the help of Marquis de Hoto, a well dressed rabbit. Developed by Daedalic Entertainment, makers of the Deponia series.",
-    "developers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0acc60ed0c9e0629bebc1bb5cd3b18e5",
     "id": "425455612508241920",
-    "name": "The Night of the Rabbit",
-    "publishers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
-    "splash": "8dac142b0734ee07e0220b8b99e3bc6f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "230820",
-            "sku": "230820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b40b4262eed051877b69ba6e87dcab520a815594981877409a952ba5cac4df02"
+    "name": "The Night of the Rabbit"
 }

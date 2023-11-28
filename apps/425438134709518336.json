@@ -1,11 +1,4 @@
 {
-    "description": "Far Cry 4 puts the player in the role of Ajay Ghale and pits him against a deadly antagonist and an even deadlier environment. Caught in the middle of a brutal Civil War while fulfilling his mother's dying wish, Ghale must fight back against the oppression of Kyrat's leader, Pagan Min, while also battling the ruthlessness of the jungle.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4e9a5a656347cfe99fb4913f8517305",
     "id": "425438134709518336",
-    "name": "Far Cry 4",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "5c898c1e87b9f673e1c68064c51d57d1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "298110",
-            "sku": "298110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9f9a098d593f16bedcaedb5677d506761e77f870c906f02d588ae201409c40b5"
+    "name": "Far Cry 4"
 }

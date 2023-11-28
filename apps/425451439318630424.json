@@ -1,11 +1,4 @@
 {
-    "description": "Trainz: A new Era is a realistic train simulator.",
-    "developers": [
-        {
-            "id": "521816781304627216",
-            "name": "N3V Games Pty Ltd"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a37c4f8cbc2ea47e7e863f6f471019a9",
     "id": "425451439318630424",
-    "name": "Trainz: A New Era",
-    "publishers": [
-        {
-            "id": "521816781304627216",
-            "name": "N3V Games Pty Ltd"
-        }
-    ],
-    "splash": "1f0f65203340231430bbc9d72162e319",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "315660",
-            "sku": "315660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd1f5358f0b70f52c7992514dfb4323828920ffeb3c00672eb4ee68c4f2d4709"
+    "name": "Trainz: A New Era"
 }

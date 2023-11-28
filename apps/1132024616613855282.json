@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe620094c42ba04931eaa27c8e88d5a6",
     "id": "1132024616613855282",
-    "name": "Project CARS 2 Demo",
-    "publishers": [
-        {
-            "id": "521816652745277463",
-            "name": "Slightly Mad Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "737770",
-            "sku": "737770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "693f76220db751f0e81c16b59ddda82d1bebb31e6e4a095895d682aa8fd62f92"
+    "name": "Project CARS 2 Demo"
 }

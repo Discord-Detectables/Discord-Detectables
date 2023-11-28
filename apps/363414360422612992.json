@@ -1,14 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "cover_image": "de26aee95bcf5e550f6db127576730b7",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816765186048036",
-            "name": "Motion Twin"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "329403875117236225",
     "hook": true,
-    "icon": "409bdf22e789337764b144046d887bbb",
     "id": "363414360422612992",
-    "name": "Dead Cells",
-    "primary_sku_id": "451550535720501248",
-    "publishers": [
-        {
-            "id": "521816765186048036",
-            "name": "Motion Twin"
-        }
-    ],
-    "slug": "dead-cells",
-    "splash": "9c60428570b5f5185d7995129e95c05c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "451550535720501248",
-            "sku": "451550535720501248"
-        },
-        {
-            "distributor": "steam",
-            "id": "588650",
-            "sku": "588650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3426f3582992b6a9aa681622b4812104ef2d63e72d5e5459925ad8fb78b6fbf8"
+    "name": "Dead Cells"
 }

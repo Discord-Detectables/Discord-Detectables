@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "44efb71bbf2e8a4c44bef038ff2003e6",
     "id": "1124354172440035358",
-    "name": "Pixel Starships",
-    "publishers": [
-        {
-            "id": "1124354172934959174",
-            "name": "SavySoda"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "378760",
-            "sku": "378760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "92006e18c1e2613a2d1c75b845b8076f6bd637d6d1ee39ef961fea41c0a0f21a"
+    "name": "Pixel Starships"
 }

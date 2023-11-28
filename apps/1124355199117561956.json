@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4747023430fa364adaf4dcff265be7c4",
     "id": "1124355199117561956",
-    "name": "Gatewalkers (Alpha)",
-    "publishers": [
-        {
-            "id": "1124355199675412600",
-            "name": "A2 Softworks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1341330",
-            "sku": "1341330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "81184d1602c37e98a9d4aa098dcc7b904213678682f09fd4a2a00d3d7a594537"
+    "name": "Gatewalkers (Alpha)"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9e55c297dc8b07ca5a60424372df997b",
     "id": "1124356013278118088",
-    "name": "RIOT - Civil Unrest",
-    "publishers": [
-        {
-            "id": "524352630970122259",
-            "name": "Leonard Menchiari"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "342310",
-            "sku": "342310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2ce50d61ebf4cef5ad998b75c1dc9086f869c1a7ea2ad8f33caba81205de5d4f"
+    "name": "RIOT - Civil Unrest"
 }

@@ -1,43 +1,17 @@
 {
-    "description": "A 2008 entry into the Prince of Persia franchise titled simply \"Prince of Persia\", this game stars an all-new Prince as he teams up with the mysterious Elika to fight Ahriman and cleanse the world of his corruption.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "princeofpersia_launcher.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "prince of persia/launcher/launcher.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "princeofpersia_launcher.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3562a6927afc6e8c185bfa02101aad9d",
     "id": "425454114999369728",
-    "name": "Prince of Persia",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "8cbbcd61326264044362e2bd2802a561",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "19980",
-            "sku": "19980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "00be8a92df8066694568107a433fa3073fba0270ff3feeab51c78b57e152c486"
+    "name": "Prince of Persia"
 }

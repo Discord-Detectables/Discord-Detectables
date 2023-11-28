@@ -2,13 +2,6 @@
     "aliases": [
         "Banner Saga 2"
     ],
-    "description": "The sequel to The Banner Saga features familiar hand-drawn art, full orchestral soundtrack, and similar gameplay to the initial entry.",
-    "developers": [
-        {
-            "id": "521816799411568641",
-            "name": "Stoic"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,27 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "306957465407324171",
     "hook": true,
-    "icon": "de181699a300eee33070097791dd1a8e",
     "id": "425722711180967946",
-    "name": "The Banner Saga 2",
-    "publishers": [
-        {
-            "id": "521816509111336966",
-            "name": "Versus Evil"
-        }
-    ],
-    "splash": "b931a80cd6701ba74fb694886ccfc795",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "281640",
-            "sku": "281640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cc4b7fe53667e623cc8959784f9064f722059bf9a3b97fcf347fbbe5c82908eb"
+    "name": "The Banner Saga 2"
 }

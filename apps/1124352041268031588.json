@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "def9cf93432f0e15072bfebd288f23b0",
     "id": "1124352041268031588",
-    "name": "My Friend Pedro",
-    "publishers": [
-        {
-            "id": "524353164615483482",
-            "name": "DeadToast Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "557340",
-            "sku": "557340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dbddb0481dd184cdbed160a8478373b608e03b9a4f88488f00869dc1f1459a59"
+    "name": "My Friend Pedro"
 }

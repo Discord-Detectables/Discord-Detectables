@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5101f8370197e0058fed4a01be0306b",
     "id": "1124356046929014825",
-    "name": "Torment: Tides of Numenera",
-    "publishers": [
-        {
-            "id": "521816713746972684",
-            "name": "inXile Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "272270",
-            "sku": "272270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9015f6609ecec5572668dc1aa2b48e971ee8434f546636682a39017bcc46972a"
+    "name": "Torment: Tides of Numenera"
 }

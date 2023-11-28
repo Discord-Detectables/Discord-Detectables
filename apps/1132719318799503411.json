@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ca1cb1f31a27bfc664a35ea728f0a84f",
     "id": "1132719318799503411",
-    "name": "11-11 Memories Retold",
-    "publishers": [
-        {
-            "id": "524352451818815508",
-            "name": "Aardman Animations"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "735580",
-            "sku": "735580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2ba1bd64ad41097d335337f4e68b849453c12eee5019fce2f6f36e2642058df5"
+    "name": "11-11 Memories Retold"
 }

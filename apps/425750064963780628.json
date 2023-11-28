@@ -1,11 +1,4 @@
 {
-    "description": "Banished is a medieval city building and resource management game made by one-man indie studio Shining Rock.",
-    "developers": [
-        {
-            "id": "521816580838129674",
-            "name": "Shining Rock Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4cfdf14e693723cb70f1a2efb469ef7",
     "id": "425750064963780628",
-    "name": "Banished",
-    "publishers": [
-        {
-            "id": "521816580389077014",
-            "name": "Shining Rock Software LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "242920",
-            "sku": "242920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89fe9c7b30049e4f773427bb6daeca6dc1b27e09f346d6f971181431ca0890f9"
+    "name": "Banished"
 }

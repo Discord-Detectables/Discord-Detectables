@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de081664f2b338237edc16b29582422f",
     "id": "1124354493094580414",
-    "name": "FAITH",
-    "publishers": [
-        {
-            "id": "1124354493564338337",
-            "name": "Airdorf Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1179080",
-            "sku": "1179080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e1eaa4d3d6c846e5230a18fc6cbe057c22740796a72eac32f307ae0623a5a326"
+    "name": "FAITH"
 }

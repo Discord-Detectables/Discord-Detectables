@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ae92fc2da9db094e554763c5872680e",
     "id": "1124353523551850646",
-    "name": "Steambirds Alliance",
-    "publishers": [
-        {
-            "id": "1124353224405692556",
-            "name": "Spry Fox LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "386010",
-            "sku": "386010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "678ed2545f4ebe838a3a1ba49d6abe04cdc0fccfe09283b1f1bca18b82606e94"
+    "name": "Steambirds Alliance"
 }

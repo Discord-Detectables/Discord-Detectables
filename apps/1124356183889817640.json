@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f14307bf520c1eb942296b51646c704b",
     "id": "1124356183889817640",
-    "name": "Project CARS 3",
-    "publishers": [
-        {
-            "id": "521816652745277463",
-            "name": "Slightly Mad Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "958400",
-            "sku": "958400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "817eaa36a681523cc64faf8b7350c0d9e6cc409c228b25d6b917bf5e659dcd08"
+    "name": "Project CARS 3"
 }

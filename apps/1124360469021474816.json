@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9386772106e0077c630b065ebcf2ea85",
     "id": "1124360469021474816",
-    "name": "The Fall",
-    "publishers": [
-        {
-            "id": "524352253180641286",
-            "name": "Over The Moon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "290770",
-            "sku": "290770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2031cd81b67580cc78bece657bd4a1a9ba4ca70845401fa60460672b8a4d8425"
+    "name": "The Fall"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cd69e7ddc510c51911a45db3a381580c",
     "id": "1124352361947742339",
-    "name": "Samsara Room",
-    "publishers": [
-        {
-            "id": "524352595905740814",
-            "name": "Rusty Lake"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1281800",
-            "sku": "1281800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ec4851109c0a98eba4735b1a32b313cf01d02cdd585ba01933fad084cb43f5cc"
+    "name": "Samsara Room"
 }

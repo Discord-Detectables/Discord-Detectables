@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3255915b4768c6a20f4288e6f497fb2",
     "id": "1124353243779182602",
-    "name": "Urbek City Builder: Prologue",
-    "publishers": [
-        {
-            "id": "1124353244269924502",
-            "name": "Estudios Kremlinois"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1785820",
-            "sku": "1785820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aca56918b5587fd85c552f9452fd02679c6104522644ef611a644f56493be277"
+    "name": "Urbek City Builder: Prologue"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Sonic and Dr. Eggman unite to take down the Deadly Six as they explore the Lost World in a new platformer exclusive to Nintendo systems.",
-    "developers": [
-        {
-            "id": "521816507676885013",
-            "name": "Sonic Team"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8c226da48c49d749aa29ceb04b71e78e",
     "id": "504044826954694780",
-    "name": "Sonic Lost World",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "669097e726df772d17d46756fada714e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329440",
-            "sku": "329440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fdd1520e2f03274b039a752e633b06d32c244cf8853df56c5dcd59e39c53dcab"
+    "name": "Sonic Lost World"
 }

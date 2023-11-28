@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "abda929387abb0017234a9a3ceff16f7",
     "id": "1124354671683850350",
-    "name": "RollerCoaster Tycoon World",
-    "publishers": [
-        {
-            "id": "524352554939973634",
-            "name": "Nvizzio Creations"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282560",
-            "sku": "282560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18e568573f81e616b0b6efdf160760ae55f68e12d5f1a9724b4379cd1c8f6d39"
+    "name": "RollerCoaster Tycoon World"
 }

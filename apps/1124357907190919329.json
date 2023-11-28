@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e164c4b63def22f4f82e0e95666caf7f",
     "id": "1124357907190919329",
-    "name": "NASCAR '15 Victory Edition",
-    "publishers": [
-        {
-            "id": "1124355508644622356",
-            "name": "Eutechnyx"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "345890",
-            "sku": "345890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d36fa4d6d0b5ef6a8bfccac9d2d95f31e8923b1da97a8dca5c50ebda36c44761"
+    "name": "NASCAR '15 Victory Edition"
 }

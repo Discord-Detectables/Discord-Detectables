@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "be94e31684521f880cfa35362e8b17af",
     "id": "1124358071733465180",
-    "name": "200% Mixed Juice!",
-    "publishers": [
-        {
-            "id": "558969467284094976",
-            "name": "Orange Juice"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "335190",
-            "sku": "335190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9476055b52e31d406f26ae56380c0b8b73d026730db273acf5276541e26d46de"
+    "name": "200% Mixed Juice!"
 }

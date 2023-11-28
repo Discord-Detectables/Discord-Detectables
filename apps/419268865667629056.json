@@ -2,13 +2,6 @@
     "aliases": [
         "DRAGON BALL FighterZ"
     ],
-    "description": "From the developers of the Guilty Gear Xrd series of fighting games comes a more traditional tag-team fighting game adaptation of the Dragon Ball manga and anime.",
-    "developers": [
-        {
-            "id": "521816536743149599",
-            "name": "Arc System Works Co., Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b735bf3f548f4e4dbc697d2a76ab5f3d",
     "id": "419268865667629056",
-    "name": "DRAGON BALL FighterZ",
-    "publishers": [
-        {
-            "id": "521816537653444610",
-            "name": "Bandai Namco Entertainment"
-        },
-        {
-            "id": "521816599095934983",
-            "name": "Arc System Works"
-        }
-    ],
-    "splash": "2a9476b1d658f50372648a534c903160",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "678950",
-            "sku": "678950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4464a7c4022dd9d48aa8d4c4ac64bb52bffe71c7a3691203751ca9b717023aad"
+    "name": "DRAGON BALL FighterZ"
 }

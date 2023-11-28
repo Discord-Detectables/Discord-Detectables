@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7b92aedd92f7f8629b97b60243d43007",
     "id": "1124356093624209438",
-    "name": "STAR WARS™: Rogue Squadron 3D",
-    "publishers": [
-        {
-            "id": "1124356094106550403",
-            "name": "Factor 5"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "455910",
-            "sku": "455910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5891bbc7bc6f695d8c10702c05d5e30ab738713ad19fa8558ca16c03b3bbc00d"
+    "name": "STAR WARS™: Rogue Squadron 3D"
 }

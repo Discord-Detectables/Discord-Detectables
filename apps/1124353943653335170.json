@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2bfdfe1b411e86052cfeee0ab5e959b",
     "id": "1124353943653335170",
-    "name": "Purrgatory",
-    "publishers": [
-        {
-            "id": "1124353944194392115",
-            "name": "Niv (Darvin Heo)"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1713610",
-            "sku": "1713610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1845783177cf19b509839b3db205b36e55be6a79b962525e550b197ec7bde988"
+    "name": "Purrgatory"
 }

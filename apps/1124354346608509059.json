@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e79a0b2076e128bde742731f2d68b28f",
     "id": "1124354346608509059",
-    "name": "Crystal Clash",
-    "publishers": [
-        {
-            "id": "524352415487754244",
-            "name": "Crunchy Leaf Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1839660",
-            "sku": "1839660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "42cd10e11e0377f1e6cc20ccb228ebe0877e4ba87de694b6e6683a929c04a862"
+    "name": "Crystal Clash"
 }

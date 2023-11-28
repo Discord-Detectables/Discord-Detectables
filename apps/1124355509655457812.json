@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a584b14969cb9bd14c0ee70f0f0c0709",
     "id": "1124355509655457812",
-    "name": "Pesterquest",
-    "publishers": [
-        {
-            "id": "1124355510141993132",
-            "name": "What Pumpkin Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1144030",
-            "sku": "1144030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3f263b79ff82928965dab33bbbba189711411ca68272c0d75c9c7676dcb1e646"
+    "name": "Pesterquest"
 }

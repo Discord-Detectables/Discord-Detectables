@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "af4436254b0053404197c87b4814687e",
     "id": "1124359991634186250",
-    "name": "Crazy Taxi",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "71230",
-            "sku": "71230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "99c806939469a1ea4abae195ef5f26b32e9169ad00aab48b681f345fff990449"
+    "name": "Crazy Taxi"
 }

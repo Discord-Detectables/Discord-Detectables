@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "399e9a8a8021fa9d1cc4ae1c909be83a",
     "id": "1124360571605762099",
-    "name": "Umineko When They Cry - Answer Arcs",
-    "publishers": [
-        {
-            "id": "524352102001147904",
-            "name": "07th Expansion"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "639490",
-            "sku": "639490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3b36badb4699b9158934e212a9e831197c98f19b6124df2807c653e22b577a9"
+    "name": "Umineko When They Cry - Answer Arcs"
 }

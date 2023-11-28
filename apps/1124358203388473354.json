@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b7794fdf0e0cf8ad710eccf115b5a195",
     "id": "1124358203388473354",
-    "name": "BARRIER X",
-    "publishers": [
-        {
-            "id": "524352563269730316",
-            "name": "NoClip"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "463150",
-            "sku": "463150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d716867df87f88b5117e73f8cd31934b8104c95f9b1aa3e75dde8d48fe2a7f48"
+    "name": "BARRIER X"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Rift"
     ],
-    "description": "RIFT is a free-to-play fantasy MMORPG, developed by Trion Worlds.",
-    "developers": [
-        {
-            "id": "521816577876951040",
-            "name": "Trion Worlds"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -26,26 +19,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb77c8d9933c2259d20e4465c413384d",
     "id": "451544729763446784",
-    "name": "RIFT",
-    "publishers": [
-        {
-            "id": "521816577876951040",
-            "name": "Trion Worlds"
-        }
-    ],
-    "splash": "5e822f4f5b05fe2c1c402deb31500b17",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "39120",
-            "sku": "39120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b70238b868b4c3fee4d9eb77716fcb0ab3c27baf11b9a3d056572cdbf0b43948"
+    "name": "RIFT"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "Ocean-based warfare MMO.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f05171068f83b4a911a441fd36a2a1ee",
     "id": "504052334960050176",
-    "name": "Steel Ocean",
-    "publishers": [
-        {
-            "id": "521816679085506590",
-            "name": "ICE Entertainment"
-        }
-    ],
-    "splash": "9277d7fca37bb1ac42c27086e2b12e5f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "390670",
-            "sku": "390670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0864549a9f18eb69f6b47d750f5ef8bd8e39a9aa18c95f748ddf8e1d5261bd29"
+    "name": "Steel Ocean"
 }

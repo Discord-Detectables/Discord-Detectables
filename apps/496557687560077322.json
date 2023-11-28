@@ -1,11 +1,4 @@
 {
-    "description": "This action packed strategy game lets you take control of Able Company on the shores of 1944 France, pushing the Nazis back into Germany.",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b9bc0b1371f124a52ea8676574e4f480",
     "id": "496557687560077322",
-    "name": "Company of Heroes",
-    "publishers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        },
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "splash": "74ca943ad7545a493a64c71d62354002",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "228200",
-            "sku": "228200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6d07180f2b02b8e50b0fc4b6a4b503af9d6822f2c0f111ab21a8d75e901fc90b"
+    "name": "Company of Heroes"
 }

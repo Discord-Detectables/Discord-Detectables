@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e9dd59c226abeaf9db70ab7a9fa0c006",
     "id": "1124360202389565481",
-    "name": "Myst: Masterpiece Edition",
-    "publishers": [
-        {
-            "id": "1124358557740052510",
-            "name": "Cyan Worlds Inc"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "63660",
-            "sku": "63660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3bdf4d26a43bafb998b14eb2a2a575f4d64b6f9fe6531847127a191919a3a03a"
+    "name": "Myst: Masterpiece Edition"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Thrillville Off the Rails "
     ],
-    "description": "Thrillville: Off the Rails is a theme park simulation video game developed by Frontier Developments. The sequel to the 2006 game Thrillville, it is again published by LucasArts. It was released in North America on October 16, 2007. ",
-    "developers": [
-        {
-            "id": "521816604175106063",
-            "name": "Frontier Developments Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4337d1c1ce973b258d56e2f1267104f",
     "id": "505504809437364244",
-    "name": "Thrillville: Off the Rails",
-    "publishers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        }
-    ],
-    "splash": "5af5cda40af74c9db028b65a1e9c5c70",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6080",
-            "sku": "6080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "715c4d2152b8b0a6474bf6717fb8a20e8c704c85d0adf4296655927e6adf31d6"
+    "name": "Thrillville: Off the Rails"
 }

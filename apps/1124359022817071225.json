@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "23fe2798f7d93bd38ebb292c6f265289",
     "id": "1124359022817071225",
-    "name": "100 Doors Game - Escape from School",
-    "publishers": [
-        {
-            "id": "1124353327925317674",
-            "name": "Peaksel"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1238280",
-            "sku": "1238280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "53438fea1f54436f8c1da548e64744a3738e5061abc031537f52a96edb1e476e"
+    "name": "100 Doors Game - Escape from School"
 }

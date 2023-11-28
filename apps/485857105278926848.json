@@ -1,11 +1,4 @@
 {
-    "description": "Talisman Digital Edition is a video game adaptation of the Talisman board game.",
-    "developers": [
-        {
-            "id": "521816641772847124",
-            "name": "Nomad Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f3b4cb8d2e0048eaf94eec75ae7926ce",
     "id": "485857105278926848",
-    "name": "Talisman: Digital Edition",
-    "publishers": [
-        {
-            "id": "521816641772847124",
-            "name": "Nomad Games"
-        }
-    ],
-    "splash": "45816dab75c8792e1d6042dc3a51abff",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "247000",
-            "sku": "247000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a4a30fc82f2d977b55a25f7d4ab5789c8ec3187f2ef2d04c9871d9171e4f192"
+    "name": "Talisman: Digital Edition"
 }

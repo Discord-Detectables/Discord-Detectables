@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "05480d996109612a8ecf849f13168721",
     "id": "1124357685651984517",
-    "name": "Sucker for Love: Prelude",
-    "publishers": [
-        {
-            "id": "1124356283613597766",
-            "name": "Akabaka"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1820740",
-            "sku": "1820740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fe3d3005af1f1e0a60fa3a257ec249ef3b1cde6e52f082ff3bf2d38759b8fc6f"
+    "name": "Sucker for Love: Prelude"
 }

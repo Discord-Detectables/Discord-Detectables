@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cabd8f184cca2c406cb13a5e08200086",
     "id": "1124353088619294791",
-    "name": "Firefighting Simulator - The Squad",
-    "publishers": [
-        {
-            "id": "1124353089105842267",
-            "name": "Chronos Unterhaltungssoftware"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "420560",
-            "sku": "420560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb8ec2d1e4888d1811091305ecfbaedcf9ab00b74e2a78923678987b2438bd73"
+    "name": "Firefighting Simulator - The Squad"
 }

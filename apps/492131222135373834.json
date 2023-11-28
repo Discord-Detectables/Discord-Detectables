@@ -1,24 +1,8 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
-            "name": "swgbg.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "battlegrounds_cc.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
             "name": "battlegrounds_x2.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "battlegrounds.exe",
             "os": "win32"
         },
         {
@@ -30,35 +14,24 @@
             "is_launcher": false,
             "name": "swgbwide_x1.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "e20da2055e532789a0f74495535927ab",
-    "id": "492131222135373834",
-    "name": "STAR WARS™ Galactic Battlegrounds Saga",
-    "primary_sku_id": "492426605231341568",
-    "publishers": [
-        {
-            "id": "521816567940513807",
-            "name": "Ensemble Studios"
-        }
-    ],
-    "slug": "star-wars-tm-galactic-battlegrounds-saga",
-    "splash": "7d7d1969be61950ef02ff7ed70d0a8f8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492426605231341568",
-            "sku": "492426605231341568"
         },
         {
-            "distributor": "steam",
-            "id": "356500",
-            "sku": "356500"
+            "is_launcher": false,
+            "name": "battlegrounds_cc.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "battlegrounds.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "swgbg.exe",
+            "os": "win32"
         }
     ],
-    "type": 1,
-    "verify_key": "d874692610532564408900241eb0c826d43d4f3758da8e2f9669ce206858212c"
+    "hook": true,
+    "id": "492131222135373834",
+    "name": "STAR WARS™ Galactic Battlegrounds Saga"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Jackbox Party Pack"
     ],
-    "description": "Five party games (including updates for You Don't Know Jack and Fibbage) that can be played locally using the series's signature multi-device multiplayer (where players with phones, tablets, laptops, and other devices can participate using a web-based service).",
-    "developers": [
-        {
-            "id": "521816532737851443",
-            "name": "Jackbox Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0e58c6bb043d63cd2306b2a5602ab5fd",
     "id": "463963734507782144",
-    "name": "The Jackbox Party Pack",
-    "publishers": [
-        {
-            "id": "521816532737851443",
-            "name": "Jackbox Games"
-        }
-    ],
-    "splash": "529f930bc78fe48a063ccaf2bea008a8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "331670",
-            "sku": "331670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6551d30cec5fc3eb0f530bac9181ba9e82704bb7048d2295b7339061d7e3e25"
+    "name": "The Jackbox Party Pack"
 }

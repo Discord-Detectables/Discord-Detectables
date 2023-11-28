@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c0b0cb903651ddb0cc0c3a0888baaebe",
     "id": "1124352375096889416",
-    "name": "Internet Cafe Simulator",
-    "publishers": [
-        {
-            "id": "1124352273766690897",
-            "name": "Cheesecake Dev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1136160",
-            "sku": "1136160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4fef60399a2d592f0d1929867a7b12e5f9c08128100e5819fae1167f86a12875"
+    "name": "Internet Cafe Simulator"
 }

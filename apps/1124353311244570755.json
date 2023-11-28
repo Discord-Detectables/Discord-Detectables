@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bd84fffa43776587133bb8d08c7e1eb6",
     "id": "1124353311244570755",
-    "name": "Ratz Instagib 2.0",
-    "publishers": [
-        {
-            "id": "1124353311718522990",
-            "name": "Lino Slahuschek"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "338170",
-            "sku": "338170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd87616c22083da99fa7c0dc7dfa8b861395855c5368c61faca23301be3736b5"
+    "name": "Ratz Instagib 2.0"
 }

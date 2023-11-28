@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed21cbb36bdaea53af3eeecd1d51ec12",
     "id": "1124349981453721711",
-    "name": "Bloons TD Battles 2",
-    "publishers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1276390",
-            "sku": "1276390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "07b2a776e512b6675def65a0dc3bc4fd9691149190ac8fa73933a54d3ad99450"
+    "name": "Bloons TD Battles 2"
 }

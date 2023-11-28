@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "655bf9c17f577422584a2c7157b99150",
     "id": "1124359122469523486",
-    "name": "HerrAnwalt: Lawyers Legacy",
-    "publishers": [
-        {
-            "id": "1124359122901544960",
-            "name": "Yannick"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2179290",
-            "sku": "2179290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cc8419bf8dfaaae078c4e4c8dd9ae1826cda87be3a0cc266d09af5ad8648e495"
+    "name": "HerrAnwalt: Lawyers Legacy"
 }

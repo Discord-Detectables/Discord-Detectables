@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a9ac4c59a65985c31021260c8c9a4c03",
     "id": "1124353799952285767",
-    "name": "Warhammer: Chaosbane",
-    "publishers": [
-        {
-            "id": "521816670004576266",
-            "name": "Eko Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "774241",
-            "sku": "774241"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a293c146de9a8ade1e7bd09d90d6da1eb1c45ed547bc8055b7083d8a044de3be"
+    "name": "Warhammer: Chaosbane"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4f9bdee6ddf7fb4065fe0d0a82ddde6",
     "id": "1124352668937240596",
-    "name": "Sign of Silence",
-    "publishers": [
-        {
-            "id": "1124352001996763287",
-            "name": "Renderise"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1346070",
-            "sku": "1346070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8d2d0d718228aced1396f143591246d1424aa9d66bc7709d90527e8c3fd772f"
+    "name": "Sign of Silence"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8b62c8956f06ac1fac7b494824d2bcf4",
     "id": "1124360482778791966",
-    "name": "Them Bombs Demo",
-    "publishers": [
-        {
-            "id": "1124360483252744252",
-            "name": "Yellow Dot"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1147990",
-            "sku": "1147990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "09f297290465d65abfc8333043b08cc2a08f53f0e8247204810441a7d631f66b"
+    "name": "Them Bombs Demo"
 }

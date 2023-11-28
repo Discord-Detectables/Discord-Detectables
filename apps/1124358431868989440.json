@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0712f635c91e16efe8dde5eb1c9377a7",
     "id": "1124358431868989440",
-    "name": "Nom Nom Galaxy",
-    "publishers": [
-        {
-            "id": "524351510633775115",
-            "name": "Q-Games Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "226100",
-            "sku": "226100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "affa74fedc98ff4176452fa051923b9baf4043a3b2d5d03e578d91bc511f61ea"
+    "name": "Nom Nom Galaxy"
 }

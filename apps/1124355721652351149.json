@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9b50d6e918f6523e82d7c7396fa570eb",
     "id": "1124355721652351149",
-    "name": "Unreal Tournament 2004",
-    "publishers": [
-        {
-            "id": "521816519332855821",
-            "name": "Epic Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "13230",
-            "sku": "13230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e8e5f5c4109947a4ec84dc507b7ce44299f03e2b47b771f70dc8d18d8082a866"
+    "name": "Unreal Tournament 2004"
 }

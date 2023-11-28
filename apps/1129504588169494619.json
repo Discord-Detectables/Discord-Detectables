@@ -2,9 +2,6 @@
     "aliases": [
         "チックタック：二人のための物語（Tick Tock: A Tale for Two)"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6a9ed73ebe2a399efd621f014b49d765",
     "id": "1129504588169494619",
-    "name": "Tick Tock: A Tale for Two",
-    "publishers": [
-        {
-            "id": "524353189118607362",
-            "name": "Other Tales Interactive"
-        },
-        {
-            "id": "524353189118607362",
-            "name": "Other Tales Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "790740",
-            "sku": "790740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5d057e3b5bd3616adcc6a8d400efb64b670e5d2dbad3735174d166d12597792d"
+    "name": "Tick Tock: A Tale for Two"
 }

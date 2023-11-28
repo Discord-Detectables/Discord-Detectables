@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "95f1f5c4f996f9d47d649c55665fcdeb",
     "id": "1124352076835729488",
-    "name": "Tap Ninja",
-    "publishers": [
-        {
-            "id": "1124352077276139520",
-            "name": "Broken Glass"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1891700",
-            "sku": "1891700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "841b21508ba9b0bb23e43b3d77c86724b267668ac392af207c32b588afaba672"
+    "name": "Tap Ninja"
 }

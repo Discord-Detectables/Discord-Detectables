@@ -2,53 +2,19 @@
     "aliases": [
         "Knockout City"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "knockoutcity/knockoutcity.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "knockout city/knockoutcity.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "knockoutcity/knockoutcity.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "742100b2c1095b64ddd1835bfb5b3e15",
     "id": "1129504320161861763",
-    "name": "Knockout City™",
-    "publishers": [
-        {
-            "id": "1129504320837140510",
-            "name": "Velan Studios"
-        },
-        {
-            "id": "542075586886107157",
-            "name": "Electronic Arts, Inc."
-        },
-        {
-            "id": "542075586886107157",
-            "name": "Electronic Arts, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1301210",
-            "sku": "1301210"
-        },
-        {
-            "distributor": "origin",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "d59168b87276e01db515ffaef67831b773004152dc7d293de6478c28da51fe6b"
+    "name": "Knockout City™"
 }

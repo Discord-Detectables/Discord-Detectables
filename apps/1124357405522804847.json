@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "deb8d44e5efae5487700712662fb6710",
     "id": "1124357405522804847",
-    "name": "Idle Racing GO: Car Clicker Tycoon",
-    "publishers": [
-        {
-            "id": "1124354855180451910",
-            "name": "T-Bull"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "851110",
-            "sku": "851110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ac4b6185ea4340bc383f7633fa5f1862adb7ed1fad59c8a8df81a9eea2ceda1c"
+    "name": "Idle Racing GO: Car Clicker Tycoon"
 }

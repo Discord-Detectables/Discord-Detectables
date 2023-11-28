@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "44559fcacba7e062b16ba0e1cda8bb18",
     "id": "1124358987786240050",
-    "name": "The Bridge",
-    "publishers": [
-        {
-            "id": "1124358988297941023",
-            "name": "Ty Taylor and Mario Castañeda"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204240",
-            "sku": "204240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4ed4c1d32a8029d6bd35bcd7c3ad7ac95a1e9bbc2a3fa6dfd8e62531bd2eb5e"
+    "name": "The Bridge"
 }

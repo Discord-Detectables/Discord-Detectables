@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f3e33b74decc306bb86c1646ac7f47c0",
     "id": "1124353494921523231",
-    "name": "AfterHours",
-    "publishers": [
-        {
-            "id": "1124353495403876362",
-            "name": "Runway Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1884540",
-            "sku": "1884540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6051cfaabd74e8e38ceb4cbb2f59aa7eb050eca87a33be16f5e36c56a570eab3"
+    "name": "AfterHours"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "Bombergrounds: Reborn"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6f565c84ab7bbe84f40e317451d11352",
     "id": "1129504184849420288",
-    "name": "Bombergrounds: Battle Royale",
-    "publishers": [
-        {
-            "id": "1129504185482756267",
-            "name": "Gigantic Duck Games"
-        },
-        {
-            "id": "1129504185482756267",
-            "name": "Gigantic Duck Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1104450",
-            "sku": "1104450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3b10bccb5b970d4ba6636156aa6bd3d372f32eca6f746f5b40dc993524a7494"
+    "name": "Bombergrounds: Battle Royale"
 }

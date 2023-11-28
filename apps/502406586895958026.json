@@ -1,11 +1,4 @@
 {
-    "description": "Old school and new school collide in this 20th Anniversary celebration of the Sonic franchise.",
-    "developers": [
-        {
-            "id": "521816507676885013",
-            "name": "Sonic Team"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d571406dcb1aa84e60c1e8060921e103",
     "id": "502406586895958026",
-    "name": "Sonic Generations",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "62c3821670d8612d3b02c62943a220fa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "71340",
-            "sku": "71340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f60963d62603299a4c1d4064b664ac5c733afce851a835553687298b56a7da6a"
+    "name": "Sonic Generations"
 }

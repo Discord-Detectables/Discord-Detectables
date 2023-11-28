@@ -2,13 +2,6 @@
     "aliases": [
         "Far Cry 3"
     ],
-    "description": "The third installment in the series sees a reluctant victim battling nature, pirates, and the island's insanity-inducing jungle to rescue his friends and family from an island paradise gone horribly wrong.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,25 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "80220e06769d9fcfc188e17898f0e609",
     "id": "425748544134053888",
-    "name": "Far Cry® 3",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "220240",
-            "sku": "220240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e2b7b6fee48e1f46e1d270ea02601e861da5dca9418a7e42701548e96892a47"
+    "name": "Far Cry® 3"
 }

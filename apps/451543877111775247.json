@@ -1,11 +1,4 @@
 {
-    "description": "Bid on art, defuse a bomb, and more in the second installment of Jackbox Games' annual party game pack (now with audience participation).",
-    "developers": [
-        {
-            "id": "521816532737851443",
-            "name": "Jackbox Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b13d64a8dbe127c6f31b7a2629ab4251",
     "id": "451543877111775247",
-    "name": "The Jackbox Party Pack 2",
-    "publishers": [
-        {
-            "id": "521816532737851443",
-            "name": "Jackbox Games"
-        }
-    ],
-    "splash": "7e096e69ba9ec7d6035cbd40a2cdc6be",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "397460",
-            "sku": "397460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8fbe6d5d954176922285e1f756b877688ba7b5feaa887c1756b76413c8f85060"
+    "name": "The Jackbox Party Pack 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ae6e9e57233a762e8fc9a94c7aa33036",
     "id": "1124358829325430915",
-    "name": "Lemnis Gate",
-    "publishers": [
-        {
-            "id": "1124358829799395358",
-            "name": "Ratloop Games Canada"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "950180",
-            "sku": "950180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "585f590a726bd03c27e1a04f929d22e303cc57c30105748358682df5c7a2cf92"
+    "name": "Lemnis Gate"
 }

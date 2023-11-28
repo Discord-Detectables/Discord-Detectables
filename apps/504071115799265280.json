@@ -1,11 +1,4 @@
 {
-    "description": "A racing game where you can run online with other people, own a farm, hang out at a park, and harvest your dreams.",
-    "developers": [
-        {
-            "id": "521816620771835956",
-            "name": "Rhaon Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1710673b38fbe2247c71c3a9d642e24",
     "id": "504071115799265280",
     "name": "Tales Runner",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816620771835955",
-            "name": "OGPlanet"
-        }
-    ],
-    "splash": "700fc06271e68e7ce6da665e8cf872ed",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "328060",
-            "sku": "328060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ca246df064fc719cf32fd81d52b0685e97e0bcc442f3452fc0fc80f01c2bb59"
+    "overlay": true
 }

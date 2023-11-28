@@ -2,7 +2,6 @@
     "aliases": [
         "ELDEN RING"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,38 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0a0c0a0be069dddfc3f1fbede4e34bfd",
     "id": "946609449680908348",
     "name": "ELDEN RING",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "946609454957338724",
-            "name": "FromSoftware Inc."
-        },
-        {
-            "id": "946609454957338724",
-            "name": "FromSoftware Inc."
-        },
-        {
-            "id": "946609454957338724",
-            "name": "FromSoftware Inc."
-        },
-        {
-            "id": "946609454957338724",
-            "name": "FromSoftware Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1245620",
-            "sku": "1245620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b4f72a8c737a8e9157ccbaddbd1e705af195d8cec53e5642f6ec7869e841cb34"
+    "overlay": true
 }

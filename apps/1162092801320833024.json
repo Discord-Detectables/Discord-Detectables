@@ -2,44 +2,19 @@
     "aliases": [
         "Five Nights at Freddy's 4"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "fivenightsatfreddys4/fivenightsatfreddys4.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "fivenightsatfreddys4/halloweenedition.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "b2852292fae18556d1b7dc887860b412",
-    "id": "1162092801320833024",
-    "name": "Five Nights at Freddy's 4",
-    "publishers": [
-        {
-            "id": "521816617118728205",
-            "name": "Scott Cawthon"
         },
         {
-            "id": "521816617118728205",
-            "name": "Scott Cawthon"
+            "is_launcher": false,
+            "name": "fivenightsatfreddys4/fivenightsatfreddys4.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "388090",
-            "sku": "388090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "85e3b21f4b361d81c5e2b5125c6b32f79b3640a9edcbec303579b2bd72bb8c19"
+    "hook": true,
+    "id": "1162092801320833024",
+    "name": "Five Nights at Freddy's 4"
 }

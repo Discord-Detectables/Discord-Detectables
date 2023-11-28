@@ -1,11 +1,4 @@
 {
-    "description": "Set in an era of classic piracy, Sea of Thieves is a first-person open-world game where players form a crew of pirates and sail off to find treasure. As it is a \"shared world\" game, pirate crews can encounter other crews and engage in epic maritime skirmishes.",
-    "developers": [
-        {
-            "id": "524351477704032270",
-            "name": "Rare, Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,19 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "423075122610700288",
     "hook": true,
-    "icon": "4e7da84318a42170af8d916dacf1988f",
     "id": "535371564850479134",
-    "name": "Sea of Thieves",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "232ebed94a64e6465812955090d7834b1d5c726eaa87659614849e008b983ad6"
+    "name": "Sea of Thieves"
 }

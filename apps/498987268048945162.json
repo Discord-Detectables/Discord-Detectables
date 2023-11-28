@@ -1,5 +1,4 @@
 {
-    "description": "A purely movement-oriented trickjumping game featuring aspects from Quake/defrag, Counter-Strike Surf, Warsow, and a whole lot more.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9d664c3d8c50cc72419c417a9057210a",
     "id": "498987268048945162",
-    "name": "ProjectRIK",
-    "publishers": [
-        {
-            "id": "521816757044772877",
-            "name": "RIK Dev Team"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "4b9ac3543e266134136bf184d16d747214f4a0b3809c177f83dda625134c053c"
+    "name": "ProjectRIK"
 }

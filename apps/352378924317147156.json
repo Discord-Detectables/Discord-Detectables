@@ -2,14 +2,6 @@
     "aliases": [
         "Battlerite "
     ],
-    "cover_image": "9eac24c05b9303526731b7fa6125260a",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816546499362828",
-            "name": "Stunlock Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,28 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "489948029739335690",
     "hook": true,
-    "icon": "f040ba4ff443a12dcfe4ab2a6759c235",
     "id": "352378924317147156",
     "name": "Battlerite",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816546499362828",
-            "name": "Stunlock Studios"
-        }
-    ],
-    "splash": "512d2a91a4ef1ca9cb8c7ffd099f7503",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "504370",
-            "sku": "504370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5e19f2033a64bfbc43cbd9918f74349c464d7aaeeaa18192b21320645696bfa5"
+    "overlay": true
 }

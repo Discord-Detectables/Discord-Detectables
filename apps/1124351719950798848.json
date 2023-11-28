@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f093e77bc3f4f44aff95122eeec7d11",
     "id": "1124351719950798848",
-    "name": "Noita",
-    "publishers": [
-        {
-            "id": "524353156012966032",
-            "name": "Nolla Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "881100",
-            "sku": "881100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e5487cd6cdecfa1b91d8d80ac5200bdb06b0e90fe100defebeb829228a2cca3f"
+    "name": "Noita"
 }

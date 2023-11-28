@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "58dd6befee9ca056d9076b83ed56fc08",
     "id": "1124354944502354001",
-    "name": "SCP: The Foundation",
-    "publishers": [
-        {
-            "id": "524352938949476406",
-            "name": "Danstarr13"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1353100",
-            "sku": "1353100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "887c78f4620438d220d367af9de75c4729a3badfb24292939c44a3d43051a796"
+    "name": "SCP: The Foundation"
 }

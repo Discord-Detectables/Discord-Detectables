@@ -2,13 +2,6 @@
     "aliases": [
         "Guilty Gear XX Accent Core Plus R"
     ],
-    "description": "Guilty Gear XX Accent Core Plus R is the final installment of the cult favorite Guilty Gear XX series of fighting games. It rebalances two console bonus characters to be tournament-legal, adding them to the arcade release, and refines all of the existing characters , in an effort to create the best feeling version of the game to date.",
-    "developers": [
-        {
-            "id": "521816536743149599",
-            "name": "Arc System Works Co., Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a77a7cd3230f33a31cbc6a9d033c8cde",
     "id": "496773998517026816",
-    "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
-    "publishers": [
-        {
-            "id": "521816536743149599",
-            "name": "Arc System Works Co., Ltd."
-        }
-    ],
-    "splash": "8a8f4bbc946c5476edaf3ff14173b70a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "348550",
-            "sku": "348550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4fc30d5fb0e928db90dda38b864196f103f0425afba6ed358e7e22423e1f0551"
+    "name": "GUILTY GEAR XX ACCENT CORE PLUS R"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "KartKraft"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "10aaaf1c2103b7ad4355a3486d2b9b96",
     "id": "1129505158926188595",
-    "name": "KartKraft",
-    "publishers": [
-        {
-            "id": "1129505159907647498",
-            "name": "Motorsport Games"
-        },
-        {
-            "id": "524352530751422465",
-            "name": "Black Delta"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "406350",
-            "sku": "406350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "446bb953610cca6c7a3b9ceac10c48e1dcf725592193a0702759cf372e893cce"
+    "name": "KartKraft"
 }

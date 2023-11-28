@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dfb4e1d9b5b144ae076f38916713f2f7",
     "id": "1124353234715299880",
-    "name": "Oxenfree",
-    "publishers": [
-        {
-            "id": "524352509142237189",
-            "name": "Night School Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "388880",
-            "sku": "388880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8c7ea0c2cce6e0665c3adb74ed7a0390344f53e29284e38a29047bd91028d389"
+    "name": "Oxenfree"
 }

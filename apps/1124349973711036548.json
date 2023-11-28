@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de185b25bea6ea0e24b7074df8ec7455",
     "id": "1124349973711036548",
-    "name": "DEVOUR",
-    "publishers": [
-        {
-            "id": "849322942931140629",
-            "name": "Straight Back Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1274570",
-            "sku": "1274570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4172b7ac8d1b83d82254cde63953bfe1b9d03fbaee82540fef450a30dae6305"
+    "name": "DEVOUR"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "890cdc23d777836e34dcc20dbd0647c1",
     "id": "1124358512173133844",
-    "name": "SUPER DRINK BROS",
-    "publishers": [
-        {
-            "id": "1124358512651292816",
-            "name": "nekogameteacher"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1460750",
-            "sku": "1460750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "815a74700751c55d4c3a73b42c2c151753b5805dd8b59e411ae8fa88ce7c79e4"
+    "name": "SUPER DRINK BROS"
 }

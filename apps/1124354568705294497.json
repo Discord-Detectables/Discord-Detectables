@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "def0acfd0ab648af1def6b4fa9606302",
     "id": "1124354568705294497",
-    "name": "Force of Nature",
-    "publishers": [
-        {
-            "id": "524352979474710529",
-            "name": "A.Y.std"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "568570",
-            "sku": "568570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6230aa26a38196cf2aea63a22293004d57a1c242a13704a9a3ee4d564d42c73"
+    "name": "Force of Nature"
 }

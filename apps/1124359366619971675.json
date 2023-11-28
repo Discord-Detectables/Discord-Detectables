@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "17756d8b1f351d60a8d0283bb7183866",
     "id": "1124359366619971675",
-    "name": "The Watchers",
-    "publishers": [
-        {
-            "id": "847215163358707752",
-            "name": "Joe Fender"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1112830",
-            "sku": "1112830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b74504cc4045e9f4ebb76769521d79c344087f128b8e685c1e12fcd9cee7a3ee"
+    "name": "The Watchers"
 }

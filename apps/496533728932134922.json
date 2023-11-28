@@ -1,11 +1,4 @@
 {
-    "description": "A Bullet Hell Shoot 'Em Up released by the Japanese indie developer Edelweiss.",
-    "developers": [
-        {
-            "id": "521816680276426759",
-            "name": "Edelweiss"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe0de2f98a753f3b57e94e708973093b",
     "id": "496533728932134922",
-    "name": "Astebreed",
-    "publishers": [
-        {
-            "id": "521816680276426759",
-            "name": "Edelweiss"
-        },
-        {
-            "id": "521816561216913409",
-            "name": "AGM Playism"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "283680",
-            "sku": "283680"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "396fe16b9dc2e07741f7170474c95c3b7acb0f508bcd2547a4495c6e4747fda1"
+    "name": "Astebreed"
 }

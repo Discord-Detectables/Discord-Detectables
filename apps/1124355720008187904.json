@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "07cd960d1922584585778997eee984c8",
     "id": "1124355720008187904",
-    "name": "Autobahn Police Simulator 2",
-    "publishers": [
-        {
-            "id": "1124354860414947488",
-            "name": "Z-Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "483770",
-            "sku": "483770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "93e29e683451e4bb1e9de8cc4dd8e75f9126045a813515620c98a3c60099d480"
+    "name": "Autobahn Police Simulator 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0602308e6ef43c51fdc0997b03e2c0fa",
     "id": "1124359546333311096",
-    "name": "Metal Heads - Alpha Demo",
-    "publishers": [
-        {
-            "id": "1124359546815664200",
-            "name": "Nathan Francis"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1215330",
-            "sku": "1215330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b0c823567fa78fbf1418d9cb9d6394b6492a62ecef30cdcf07222df62e512411"
+    "name": "Metal Heads - Alpha Demo"
 }

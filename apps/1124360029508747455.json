@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1f2c0c041da4b093fdd85dbc59828d1",
     "id": "1124360029508747455",
-    "name": "Zup! XS",
-    "publishers": [
-        {
-            "id": "1124352226966650920",
-            "name": "Quiet River"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "673800",
-            "sku": "673800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "710ff7ee59cfa0f6865edaceb05c921556646a8c8c355ad1ed2185e01c14988f"
+    "name": "Zup! XS"
 }

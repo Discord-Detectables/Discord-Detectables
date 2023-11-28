@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e94b23dcbdcd3094854e6466856efbc2",
     "id": "1151955648041468044",
-    "name": "Mortal Kombat 1",
-    "publishers": [
-        {
-            "id": "521816697448038412",
-            "name": "NetherRealm Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1971870",
-            "sku": "1971870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b577a547563539a08934512146523697ff3882e63ef5337a60aa94706c497867"
+    "name": "Mortal Kombat 1"
 }

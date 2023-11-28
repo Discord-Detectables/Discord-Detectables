@@ -2,13 +2,6 @@
     "aliases": [
         "Assassins Creed"
     ],
-    "description": "Assassin's Creed is a stealth action-adventure game developed by Ubisoft Montreal. In the year 2012, Desmond Miles is kidnapped and made to relive his ancestor's memory through a machine called the Animus. As the ancestor, Altaïr, players unveil an assassin conspiracy set in the middle ages.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,27 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "215838530889318401",
     "hook": true,
-    "icon": "640aa8c23c41fcbec2648e0d965ee7a2",
     "id": "425434240784662551",
-    "name": "Assassin's Creed",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "e37329406832667b96fc630aa560aa74",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15100",
-            "sku": "15100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5222cab6067eb089de6e103dc960d9c429a829d84fe0d716057e45883dd1f9e"
+    "name": "Assassin's Creed"
 }

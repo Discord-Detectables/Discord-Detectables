@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1124359603967242352",
-    "name": "BEAR, VODKA, STALINGRAD!",
-    "publishers": [
-        {
-            "id": "1124359604445401199",
-            "name": "Rabotiagi games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1232130",
-            "sku": "1232130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72480f1c8b8413ff3aca9c635fd8f7388ec0502ce736da33460e63dc5b7262e8"
+    "name": "BEAR, VODKA, STALINGRAD!"
 }

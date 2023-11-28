@@ -2,49 +2,19 @@
     "aliases": [
         "The Escapists"
     ],
-    "description": "The Escapists is a game developed by Mouldy Toof Studios that showcases prison life.",
-    "developers": [
-        {
-            "id": "521816796907700225",
-            "name": "Mouldy Toof Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "theescapists.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "the escapists/theescapists_eur.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "a4275235d0191f9e59b47c3ae5c2b7bb",
-    "id": "451429730416197669",
-    "name": "The Escapists",
-    "publishers": [
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
         },
         {
-            "id": "521816796907700225",
-            "name": "Mouldy Toof Studios"
+            "is_launcher": false,
+            "name": "theescapists.exe",
+            "os": "win32"
         }
     ],
-    "splash": "3a406bd8636ac66779c1f9f37a8aefb0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "298630",
-            "sku": "298630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1fe962a87b2d989a987f002e29b1fd11c03aadd8257cb6790f6c12f953221cab"
+    "hook": true,
+    "id": "451429730416197669",
+    "name": "The Escapists"
 }

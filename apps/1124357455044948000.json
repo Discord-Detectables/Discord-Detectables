@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dabdda853ac5eb07d19f630ae3eaad8a",
     "id": "1124357455044948000",
-    "name": "Patrick's Parabox",
-    "publishers": [
-        {
-            "id": "1124357455552466944",
-            "name": "Patrick Traynor"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1260520",
-            "sku": "1260520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3907d8eaf6f90f3ef9518fd27f99c02be08b76f45947ac232a3caec6b41fe50c"
+    "name": "Patrick's Parabox"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cd87236b3296d689bd1cb2f5020e8f1b",
     "id": "1124354354997117022",
-    "name": "Sub Rosa",
-    "publishers": [
-        {
-            "id": "524352311938514947",
-            "name": "Cryptic Sea"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "272230",
-            "sku": "272230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eda2a96db5e8f6ea34dfe43c9b6034d4dd39911522c538a29a8b8ec1493f9954"
+    "name": "Sub Rosa"
 }

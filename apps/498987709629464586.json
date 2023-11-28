@@ -1,11 +1,4 @@
 {
-    "description": "The second game in id Software's Quake series. Not actually a direct sequel to Quake, Quake II tells a story of an alien invasion. It casts the player as a lone space marine named Bitterman who must fight the villainous alien Strogg on their home planet of Stroggos.",
-    "developers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "694027f4545195a485bec39770fd8e64",
     "id": "498987709629464586",
-    "name": "Quake II",
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
-        }
-    ],
-    "splash": "df239bf24e9f572dfee83aee750f7a34",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2320",
-            "sku": "2320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8d8a1468d72f5ceed0d1b36b451e365daf9a7c8c2a64f6d150a7842f75a42d09"
+    "name": "Quake II"
 }

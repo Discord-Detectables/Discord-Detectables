@@ -1,11 +1,4 @@
 {
-    "description": "A simulation game where players can build planes and fly them. Now available on the PC.",
-    "developers": [
-        {
-            "id": "521816698534494225",
-            "name": "Jundroo"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f75c55b3149a9f92d2c6890a961afa96",
     "id": "451549534993252362",
-    "name": "SimplePlanes",
-    "publishers": [
-        {
-            "id": "521816698534494225",
-            "name": "Jundroo"
-        }
-    ],
-    "splash": "448e8d288a62a3e07fba55dc59823543",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "397340",
-            "sku": "397340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc22e41426f8283c56ac7107204e3911615c98d6a7ee52e62c17e3c6d021b1ff"
+    "name": "SimplePlanes"
 }

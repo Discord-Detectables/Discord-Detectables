@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c14c446390a6f82244243a373770e2d8",
     "id": "1124354417760677999",
-    "name": "Captain of Industry",
-    "publishers": [
-        {
-            "id": "1124354418238836797",
-            "name": "MaFi Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1594320",
-            "sku": "1594320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "58e14f2a56778d25f8e39c99119e611606d8a5d214c95a374846646efbb8d58e"
+    "name": "Captain of Industry"
 }

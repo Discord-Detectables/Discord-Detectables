@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7e685f5b18f3ac064c1dccf79590a9d3",
     "id": "1124358159058882621",
-    "name": "Spirit Hunters: Infinite Horde",
-    "publishers": [
-        {
-            "id": "1124358159591555333",
-            "name": "Creature Cauldron"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1914580",
-            "sku": "1914580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "94873eca83020636e15c1c4cd0481573a21b4ab9efe8bbe31e9d77b8529d3863"
+    "name": "Spirit Hunters: Infinite Horde"
 }

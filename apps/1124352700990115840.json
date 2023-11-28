@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef22c2d590ba699a924adaa751f0a619",
     "id": "1124352700990115840",
-    "name": "Griftlands",
-    "publishers": [
-        {
-            "id": "521816687612395520",
-            "name": "Klei Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "601840",
-            "sku": "601840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b6d608801e8f36afc56035f79b58bf47764bd0809fb35aad6a73611bada8bf4e"
+    "name": "Griftlands"
 }

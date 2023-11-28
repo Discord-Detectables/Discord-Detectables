@@ -2,13 +2,6 @@
     "aliases": [
         "Allegiance"
     ],
-    "description": "Allegiance is a hybrid RTS/action space sim originally developed by Microsoft Research Games, made open source in 2004 and now completely free and community-maintained. The game features 2 or more teams building bases and dogfighting it out with a variety of ships over multiple star sectors.",
-    "developers": [
-        {
-            "id": "521816598017867788",
-            "name": "Microsoft Research Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9e47f6f6fa1ab144fa4b6eb93b748e19",
     "id": "504444177413701632",
-    "name": "Microsoft Allegiance",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "1a60053a29fa2ba53ab49ab36f19904a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "700480",
-            "sku": "700480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "328fc69dc8f23b51bf351a0044e78d0eb5436164f40787ef15de58cb42552931"
+    "name": "Microsoft Allegiance"
 }

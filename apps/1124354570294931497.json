@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a74fa65aad43d3f51751ddcef45d6b94",
     "id": "1124354570294931497",
-    "name": "Wizard with a Gun Demo",
-    "publishers": [
-        {
-            "id": "524352466561794068",
-            "name": "Galvanic Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2312630",
-            "sku": "2312630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5a633b4381ae58f485fc9a9c7e95f3edc251cc52e62dfb9c656aa479c27a2c7d"
+    "name": "Wizard with a Gun Demo"
 }

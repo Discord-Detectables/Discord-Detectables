@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4b748772788480f9628dae22a2f8998f",
     "id": "1124351826486116372",
-    "name": "BIGFOOT",
-    "publishers": [
-        {
-            "id": "1124351826993623152",
-            "name": "CyberLight Game Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "509980",
-            "sku": "509980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3683d0468de1c2fd29a14338b34fabf569792eea7c5af8ce4f6548257f45778d"
+    "name": "BIGFOOT"
 }

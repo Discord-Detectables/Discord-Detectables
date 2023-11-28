@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816608445038604",
-            "name": "Matt Makes Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5c74efe85ae802ba1445391ba52ac611",
     "id": "454814894596816907",
-    "name": "Celeste",
-    "primary_sku_id": "500428425362931713",
-    "publishers": [
-        {
-            "id": "521816608445038604",
-            "name": "Matt Makes Games"
-        }
-    ],
-    "slug": "celeste",
-    "splash": "e5f8c81e62a8d2bc5fe3b9cbd4214238",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "504230",
-            "sku": "504230"
-        },
-        {
-            "distributor": "discord",
-            "id": "500428425362931713",
-            "sku": "500428425362931713"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9cf02af64f8e490c52aa67248a8fefe9b3c51c9fda2d5ed8ac7b9d77facec6cf"
+    "name": "Celeste"
 }

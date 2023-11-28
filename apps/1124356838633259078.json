@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a10f06ffa533ecf1e9897bec7dd6c8d5",
     "id": "1124356838633259078",
-    "name": "Black Skylands",
-    "publishers": [
-        {
-            "id": "1124356839098822656",
-            "name": "Hungry Couch Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1143810",
-            "sku": "1143810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5c334c0f559adb9721e6a9bc4fb5449454636312dd2cb653732935c687203a22"
+    "name": "Black Skylands"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "Battle Carnival",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3f63674e575c18647d5fcbcf409bdf7",
     "id": "454759028187463700",
-    "name": "Battle Carnival",
-    "publishers": [
-        {
-            "id": "521816698018332683",
-            "name": "Zepetto"
-        }
-    ],
-    "splash": "29c377a7de187e4fda6abe9a2dec004f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "803140",
-            "sku": "803140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "49e6941c717d9597bd415203b6d25cc8bfbe564988c48679955a38f2af6356a2"
+    "name": "Battle Carnival"
 }

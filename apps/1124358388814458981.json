@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9c1c24ee51aa7f4c6a22527569a250e3",
     "id": "1124358388814458981",
-    "name": "Crayon Physics Deluxe",
-    "publishers": [
-        {
-            "id": "524351542241918979",
-            "name": "Kloonigames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "26900",
-            "sku": "26900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9dfce343a313ccaccf2db6641b2f02a59788c83c9f0cd9f95abd3ff40e154c40"
+    "name": "Crayon Physics Deluxe"
 }

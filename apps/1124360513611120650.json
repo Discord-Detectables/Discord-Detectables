@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de72f6d435149ff4f91ed5e3129cd704",
     "id": "1124360513611120650",
-    "name": "Bob Was Hungry",
-    "publishers": [
-        {
-            "id": "524352327717617665",
-            "name": "Shorebound Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "343560",
-            "sku": "343560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf495afb1e17e41759a06379f9cb2565e7c13175c5be74d3714dbd201bc5d125"
+    "name": "Bob Was Hungry"
 }

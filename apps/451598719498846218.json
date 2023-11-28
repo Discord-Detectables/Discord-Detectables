@@ -1,11 +1,4 @@
 {
-    "description": "A sci-fi action MMO developed by Allods Team in collaboration with Obsidian Entertainment.",
-    "developers": [
-        {
-            "id": "521816500974256132",
-            "name": "Allods Team"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,28 +6,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f9976f17faa0312f23cb9a1746bb91b0",
     "id": "451598719498846218",
     "name": "Skyforge",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816512085098549",
-            "name": "My.com"
-        }
-    ],
-    "splash": "354e6d10d03cdbca1e99b550b65b3794",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "414530",
-            "sku": "414530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bbc64658d8a824d7ac8801ad5d1b23ed58c0e78d2144cdce7673e98a5058c45d"
+    "overlay_compatibility_hook": true
 }

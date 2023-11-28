@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816783196258335",
-            "name": "Digital Sun"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "beee02c73c8f3904c46d903d3c3bbe4b",
     "id": "457269337137348613",
-    "name": "Moonlighter",
-    "primary_sku_id": "471501020006973451",
-    "publishers": [
-        {
-            "id": "521816628980219914",
-            "name": "11 Bit Studios"
-        }
-    ],
-    "slug": "moonlighter",
-    "splash": "03516bc0756f08ed8913de57e533b2eb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "606150",
-            "sku": "606150"
-        },
-        {
-            "distributor": "discord",
-            "id": "471501020006973451",
-            "sku": "471501020006973451"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ef9f135fb43421a59f55722412d9b0d7f4c5072f77a13b031e7f1b451e05d28e"
+    "name": "Moonlighter"
 }

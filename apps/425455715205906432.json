@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816661138079766",
-            "name": "Clifftop Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "853004cfe38a86899714af3c1f6d311d",
     "id": "425455715205906432",
-    "name": "Kathy Rain",
-    "primary_sku_id": "469319616481460235",
-    "publishers": [
-        {
-            "id": "521816607941459969",
-            "name": "Raw Fury"
-        }
-    ],
-    "slug": "kathy-rain",
-    "splash": "1c596e3b615db44eee7ce5d477c2675a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "370910",
-            "sku": "370910"
-        },
-        {
-            "distributor": "discord",
-            "id": "469319616481460235",
-            "sku": "469319616481460235"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5fbe2c262a588a9d16c22c1630f7010f672d663bfd9bb5b0b2f0ce7480b5a341"
+    "name": "Kathy Rain"
 }

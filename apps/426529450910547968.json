@@ -1,11 +1,4 @@
 {
-    "description": "Following up two years after Deus Ex: Human Revolution, Mankind Divided sees Adam Jensen working to thwart a terrorist organization bent on promoting human augmentation. It serves as a prequel to Deus Ex, the first entry in the series.",
-    "developers": [
-        {
-            "id": "521816520817639457",
-            "name": "Eidos-Montréal"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9e46dd60d47ae6d7e5f5f3b7d257e4ac",
     "id": "426529450910547968",
-    "name": "Deus Ex: Mankind Divided™",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        },
-        {
-            "id": "521816675516153861",
-            "name": "Eidos Montreal"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "337000",
-            "sku": "337000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15a6f94a328cadc7cdfa5507143c5abca10ba62f348e92fe30bc4767c5296938"
+    "name": "Deus Ex: Mankind Divided™"
 }

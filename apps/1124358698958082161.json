@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cc361a7003518d16e1e62e760c15ee5d",
     "id": "1124358698958082161",
-    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
-    "publishers": [
-        {
-            "id": "521816560537567257",
-            "name": "Rockstar Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1547000",
-            "sku": "1547000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6bc5f30a1796805611ac27b10476c11585700cc6efb5a1888c4b867c6783e144"
+    "name": "Grand Theft Auto: San Andreas - The Definitive Edition"
 }

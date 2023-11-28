@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "43bb2d2e0dedc61cee39f870ea8c32b6",
     "id": "1124357856565674167",
-    "name": "Monument Valley",
-    "publishers": [
-        {
-            "id": "1124354920154419210",
-            "name": "ustwo games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1927720",
-            "sku": "1927720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9460c1034c1f99f0a03ae1f7797e11a1f5223e03d28063f396fd084eaa1be25f"
+    "name": "Monument Valley"
 }

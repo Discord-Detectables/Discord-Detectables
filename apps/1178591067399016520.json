@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "951b5d5452a6964b77e4dd1447276a22",
     "id": "1178591067399016520",
-    "name": "Quickie: Fantasy Adventure",
-    "publishers": [
-        {
-            "id": "1124358939748872253",
-            "name": "Oppai Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2668050",
-            "sku": "2668050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8423eae72d15f4934970d5676584139a7f8da63ec34675528b6a8a4ad9a03c0b"
+    "name": "Quickie: Fantasy Adventure"
 }

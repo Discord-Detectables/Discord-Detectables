@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "816d5b7204ed743ce8984ba35b565921",
     "id": "1124359900911390910",
-    "name": "Swords and Sandals Immortals",
-    "publishers": [
-        {
-            "id": "1124353445311303762",
-            "name": "Whiskeybarrel Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1707650",
-            "sku": "1707650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c516c6eda0ee15c7ce546b9f24453cdbe5729d34e6f4ee24bb649799ef0d22b3"
+    "name": "Swords and Sandals Immortals"
 }

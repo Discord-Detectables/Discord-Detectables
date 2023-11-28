@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "055c2a9dc56a2979b7eacb3bc3a17f18",
     "id": "1177745497654558720",
-    "name": "Gym Simulator 24",
-    "publishers": [
-        {
-            "id": "1177745501014216704",
-            "name": "Quatech"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2559270",
-            "sku": "2559270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "677f5594da89b669a4fa610da4c2253a86809e2c7e68b91f17a83aece23f387c"
+    "name": "Gym Simulator 24"
 }

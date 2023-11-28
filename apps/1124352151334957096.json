@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b51e6e43e1c22710a6c6dd84e0d27929",
     "id": "1124352151334957096",
-    "name": "Bitburner",
-    "publishers": [
-        {
-            "id": "1124352151846670386",
-            "name": "Fulcrum Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1812820",
-            "sku": "1812820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "50531a586a1253e41704e67372491e01546d6ff01df54b49b887897998172de8"
+    "name": "Bitburner"
 }

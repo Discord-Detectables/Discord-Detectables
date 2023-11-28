@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816709057740812",
-            "name": "Art in Heart"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "97f4724f9ec3a584dfeae0f8b827fa33",
     "id": "425443673698861066",
-    "name": "GoNNER",
-    "primary_sku_id": "471029710965440533",
-    "publishers": [
-        {
-            "id": "521816607941459969",
-            "name": "Raw Fury"
-        }
-    ],
-    "slug": "gonner",
-    "splash": "c2775852c8c76fe92f04c9f2c810b66b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "437570",
-            "sku": "437570"
-        },
-        {
-            "distributor": "discord",
-            "id": "471029710965440533",
-            "sku": "471029710965440533"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6a603a9565fb3e9ec4345509180f63c8ff27212845b410d6b384e8dfa022f24"
+    "name": "GoNNER"
 }

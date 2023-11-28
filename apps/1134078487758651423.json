@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "49e8b4d1017d537f28a9bcf3004ca2f3",
     "id": "1134078487758651423",
-    "name": "O2Jam",
-    "publishers": [
-        {
-            "id": "1124359504386085004",
-            "name": "VALOFE"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2016940",
-            "sku": "2016940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eb7f44bbb6d29b932af23d639cb758b4f7706ad7269299bf570ba63bbf733c2d"
+    "name": "O2Jam"
 }

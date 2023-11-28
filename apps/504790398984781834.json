@@ -2,13 +2,6 @@
     "aliases": [
         "Chronicle - Runescape Legends"
     ],
-    "description": "A collectible card game set in the same universe as Runescape. The game shut down on August 6th, 2018.",
-    "developers": [
-        {
-            "id": "521816499950714881",
-            "name": "Jagex Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7f11c02a1c8aef3d9afdd4317de374c9",
     "id": "504790398984781834",
-    "name": "Chronicle: RuneScape Legends",
-    "publishers": [
-        {
-            "id": "521816499950714881",
-            "name": "Jagex Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "205890",
-            "sku": "205890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2bf846f4b84799f094d3cb764511422595d05bfb9d6f8d8ad9163e3fb7a111c1"
+    "name": "Chronicle: RuneScape Legends"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef90d34fc591effd4abddadbe5f8f97f",
     "id": "1124358454845386824",
-    "name": "APICO Demo",
-    "publishers": [
-        {
-            "id": "1124358455302574100",
-            "name": "TNgineers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1421750",
-            "sku": "1421750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f8949ffa6ef6ac28970efaeca4f3b323eeac12a06103a8ba624344c897c1db73"
+    "name": "APICO Demo"
 }

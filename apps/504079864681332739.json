@@ -1,11 +1,4 @@
 {
-    "description": "The second title in the Tomb Raider franchise. Lara Croft races against the forces of Marco Bartoli in search of clues that will lead her to the Dagger of Xian, a powerful relic that allowed the Emperor of China to command his armies.",
-    "developers": [
-        {
-            "id": "521816511178997818",
-            "name": "Core Design Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2072b617738f0e9753ba2004cea52c9",
     "id": "504079864681332739",
-    "name": "Tomb Raider II",
-    "publishers": [
-        {
-            "id": "521816520817639456",
-            "name": "Eidos Interactive"
-        }
-    ],
-    "splash": "071e3c6baa3bc9fc08cf7c2dcdee1392",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "225300",
-            "sku": "225300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89edd1e345f8628129c1e254cd647ffcc2b2daba28e3e400c012c7987fefd349"
+    "name": "Tomb Raider II"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0ae1399d94b707be75d7388351ddfeee",
     "id": "1124358094470791299",
-    "name": "Gunman And The Witch",
-    "publishers": [
-        {
-            "id": "1124358094944743534",
-            "name": "Phun Peeticharoenthum"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1195220",
-            "sku": "1195220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a0a07a0f798c959d6f9f9129ac233db6a83ffadc1b16554a766887ea400dabd"
+    "name": "Gunman And The Witch"
 }

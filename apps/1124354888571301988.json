@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5a0140d8380c8dc4e79a8e378543f14",
     "id": "1124354888571301988",
-    "name": "WHAT THE GOLF?",
-    "publishers": [
-        {
-            "id": "524352792459083800",
-            "name": "Triband"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "785790",
-            "sku": "785790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1c5405f2b1d60f270e50adece978a1c24555c8ce4347e2f94cadfa4c3e4aa5a4"
+    "name": "WHAT THE GOLF?"
 }

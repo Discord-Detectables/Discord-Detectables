@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7f4346adc28133dd08e90b0f543cd5b",
     "id": "1124356886389604372",
-    "name": "FOS",
-    "publishers": [
-        {
-            "id": "1124356886901305414",
-            "name": "Enoops"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1225810",
-            "sku": "1225810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "44e66b55b93379359f5cae6ffd3aebf4d52cc15fcaf83c541f975f47e0b6988e"
+    "name": "FOS"
 }

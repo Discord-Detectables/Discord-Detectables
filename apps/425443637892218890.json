@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816607941459968",
-            "name": "Noio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f001bb8255d0b8cfe6695fe80fc6caeb",
     "id": "425443637892218890",
-    "name": "Kingdom: New Lands",
-    "primary_sku_id": "471029879891034123",
-    "publishers": [
-        {
-            "id": "521816607941459968",
-            "name": "Noio"
-        },
-        {
-            "id": "521816607941459969",
-            "name": "Raw Fury"
-        }
-    ],
-    "slug": "kingdom-new-lands",
-    "splash": "868173d133ba818149cf12e010d837d6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "496300",
-            "sku": "496300"
-        },
-        {
-            "distributor": "discord",
-            "id": "471029879891034123",
-            "sku": "471029879891034123"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dcee1c92c05830a134eaf6d852ab2e7172b1551751783d863c63ec3659ffd430"
+    "name": "Kingdom: New Lands"
 }

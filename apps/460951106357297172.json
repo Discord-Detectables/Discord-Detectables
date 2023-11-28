@@ -1,11 +1,4 @@
 {
-    "description": "A sandbox game set in the Middle Ages. Players can modify the land as they please and build what they want.",
-    "developers": [
-        {
-            "id": "521816615457783813",
-            "name": "Bitbox Ltd. "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "83e3713b9954bd60c586bff5114b338d",
     "id": "460951106357297172",
-    "name": "Life is Feudal: Your Own",
-    "publishers": [
-        {
-            "id": "521816615457783813",
-            "name": "Bitbox Ltd. "
-        }
-    ],
-    "splash": "296d54d127cb36431b681a5b5834b80d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "290080",
-            "sku": "290080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "603e548b834525df4b09d8ef766dcd412bf58edb3ae84694b84770deeba472ba"
+    "name": "Life is Feudal: Your Own"
 }

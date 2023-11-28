@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a0b4a2adb975734bef704750fb83dba9",
     "id": "1130532030539640923",
-    "name": "Super Raft Boat Together Demo",
-    "publishers": [
-        {
-            "id": "1130532040937312299",
-            "name": "Shattered Journal Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2273150",
-            "sku": "2273150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aa02bd0ac1dbc7696d282f5cded5853adc82fb592b5f3f034f6f59874f27889b"
+    "name": "Super Raft Boat Together Demo"
 }

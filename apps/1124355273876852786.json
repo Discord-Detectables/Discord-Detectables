@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ed823cc69a91a455fc791606683bb0d",
     "id": "1124355273876852786",
-    "name": "Sakura Dungeon",
-    "publishers": [
-        {
-            "id": "521816532288798741",
-            "name": "Winged Cloud"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "407330",
-            "sku": "407330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a5b518ad1e18f04df975c2309b21100575a8ec21c441b395310e1c5cb4b655d"
+    "name": "Sakura Dungeon"
 }

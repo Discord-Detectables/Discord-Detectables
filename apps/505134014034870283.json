@@ -2,7 +2,6 @@
     "aliases": [
         "FCEUX"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "789de8df52d312851a53d348599079c6",
     "id": "505134014034870283",
-    "name": "FCEUX 2.2.3",
-    "publishers": [
-        {
-            "id": "521816621732462601",
-            "name": "FCEUX"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "0f174f4bdeab357d6526ee4d0176ae56e3c5dee4953562ae695a450fe2618fb8"
+    "name": "FCEUX 2.2.3"
 }

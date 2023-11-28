@@ -1,43 +1,17 @@
 {
-    "description": "A multiplayer FPS sandbox platform.",
-    "developers": [
-        {
-            "id": "521816592208756746",
-            "name": "Bankroll Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "hurtworldclient.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "hurtworld.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "hurtworldclient.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5e2ce3c6c8255a3283903daf197d54a4",
     "id": "443157375260688395",
-    "name": "Hurtworld",
-    "publishers": [
-        {
-            "id": "521816592208756746",
-            "name": "Bankroll Studios"
-        }
-    ],
-    "splash": "328241cb85ac1f11e81a6be5e278b5f5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "393420",
-            "sku": "393420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "011c444c9ffa61a894c89db693314e6a0c36f63af7b955bfc2812a1f135fe8f1"
+    "name": "Hurtworld"
 }

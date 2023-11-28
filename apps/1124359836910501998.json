@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c2351e57e0834885657640926c0f0839",
     "id": "1124359836910501998",
-    "name": "Cultures - Northland",
-    "publishers": [
-        {
-            "id": "1124359661588594709",
-            "name": "Funatics Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "351860",
-            "sku": "351860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "788e3aebc04cc687e795a95e8da872282e5469416c4187a30d8e7b3a667f450e"
+    "name": "Cultures - Northland"
 }

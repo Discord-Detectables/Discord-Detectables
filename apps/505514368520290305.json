@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,18 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5bbcf1fb52629879b88c4e98bf5e308b",
     "id": "505514368520290305",
-    "name": "Touhou 13.5 Hopeless Mascarade",
-    "publishers": [
-        {
-            "id": "521816550596935690",
-            "name": "黄昏フロンティア"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "bc29ba7526edbf203592c19eecf790375e823369eaa18ceadb6b97fd1111c391"
+    "name": "Touhou 13.5 Hopeless Mascarade"
 }

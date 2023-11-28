@@ -1,11 +1,4 @@
 {
-    "description": "Explore, build, fight and survive the universe of Boundless. A new voxel MMORPG sandbox built and shaped by real players. Explore the vast universe as different character races. Mine, gather, craft weapons and equipment. Claim land, start a guild, amass gold, power and become loved… or feared.",
-    "developers": [
-        {
-            "id": "521816519332855819",
-            "name": "Wonderstruck"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5c24d5ff325b3766a569ac00648e5b3",
     "id": "504768467724140544",
-    "name": "Boundless",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "07c9758e9c7ba909cf17ce3c13270f96",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324510",
-            "sku": "324510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "587e48ca1ef40900c1bbf97c19ef0bf30c12e9bc6319212ccfc404ce770be445"
+    "name": "Boundless"
 }

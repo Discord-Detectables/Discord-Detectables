@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7db9e818f6175b66e202428ed38cc1c",
     "id": "1124351914943992018",
-    "name": "I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator",
-    "publishers": [
-        {
-            "id": "524351754142220295",
-            "name": "PSYOP"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1121910",
-            "sku": "1121910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4ed044d9009452bb9960b07457d173e4a15a5c1a0fc5ce8e4c16706f4a58aa1d"
+    "name": "I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator"
 }

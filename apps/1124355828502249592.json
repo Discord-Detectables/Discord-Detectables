@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7576c25805ee5eda7d6f4f4c13b7e81",
     "id": "1124355828502249592",
-    "name": "Yoku's Island Express",
-    "publishers": [
-        {
-            "id": "524352816123215882",
-            "name": "Villa Gorilla"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "334940",
-            "sku": "334940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea7141f1cbe5db003be4e65f771ad04b908f57aa821c4af5d1fe85c8768e909b"
+    "name": "Yoku's Island Express"
 }

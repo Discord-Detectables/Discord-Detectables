@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e692984bd5b6bf41fc882a2c934a072a",
     "id": "1124359907064430672",
-    "name": "Sweet Dream Succubus - Nightmare Edition",
-    "publishers": [
-        {
-            "id": "1124359907555160145",
-            "name": "The Poundry"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1103490",
-            "sku": "1103490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9f8d205477d3406fe26aeb779e43881ba28747580ea22087b2e4be7529e8f9ae"
+    "name": "Sweet Dream Succubus - Nightmare Edition"
 }

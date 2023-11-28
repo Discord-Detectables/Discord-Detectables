@@ -2,13 +2,6 @@
     "aliases": [
         "Return to Castle Wolfenstein"
     ],
-    "description": "B.J. Blazkowicz returns to fight elite Nazi troopers, supernatural creatures, and mechanized super soldiers in this reboot of the original 1991 classic Wolfenstein 3D.",
-    "developers": [
-        {
-            "id": "521816800560939009",
-            "name": "Gray Matter Interactive Studios, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,22 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dfe66d021c254119db8a0e5c6e34bd4d",
     "id": "505497930292133908",
-    "name": "Return To Castle Wolfenstein",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        },
-        {
-            "id": "521816800560939008",
-            "name": "Master Media"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "6b4a16d1b519f7b2432acdf5bf5f6bc3f7e92265ed16b8d1d908348afc19ef28"
+    "name": "Return To Castle Wolfenstein"
 }

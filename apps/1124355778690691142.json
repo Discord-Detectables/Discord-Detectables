@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f6c18a298474ec841e9144c324266e2",
     "id": "1124355778690691142",
-    "name": "Knights of Honor II: Sovereign",
-    "publishers": [
-        {
-            "id": "1124355779152072745",
-            "name": "Black Sea Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "736820",
-            "sku": "736820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7eec33523011126d75011ed00064cfaf3453b65028fdb5278076b61695729f46"
+    "name": "Knights of Honor II: Sovereign"
 }

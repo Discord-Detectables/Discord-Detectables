@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe1fe2c3339e5a9af6dd89df96140675",
     "id": "1124352741209288795",
-    "name": "League of Maidens",
-    "publishers": [
-        {
-            "id": "524352779783897102",
-            "name": "Maiden Gaming Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "557180",
-            "sku": "557180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ebc78aee437c08ee75abc664d052cd188a9054b3f94618fc91b0cfdb751abcf2"
+    "name": "League of Maidens"
 }

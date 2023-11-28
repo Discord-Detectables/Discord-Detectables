@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b265e59b13543037af8e0f553b621a68",
     "id": "1124351684131442728",
-    "name": "Dying Light 2",
-    "publishers": [
-        {
-            "id": "521816514106621962",
-            "name": "Techland"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "534380",
-            "sku": "534380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "abb89a72f1453e4f283800b49297ac6a1abeaa00d1164f0fdebb27156856e364"
+    "name": "Dying Light 2"
 }

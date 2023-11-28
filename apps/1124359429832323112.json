@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5f624101812e551629a7ac3ed07a9f6a",
     "id": "1124359429832323112",
-    "name": "Act of Aggression",
-    "publishers": [
-        {
-            "id": "521816690066194454",
-            "name": "Eugen Systems"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "318020",
-            "sku": "318020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7a2aa3ead62ca72adea313b041e116dcb6635fafe66a1fad941564f549c987f3"
+    "name": "Act of Aggression"
 }

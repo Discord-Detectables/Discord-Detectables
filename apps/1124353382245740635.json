@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f8c1ba552adc3361910ecf77ff1f74c9",
     "id": "1124353382245740635",
-    "name": "Age of Darkness: Final Stand",
-    "publishers": [
-        {
-            "id": "524352586955096078",
-            "name": "PlaySide"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1426450",
-            "sku": "1426450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6830e9c1c2ee5cc27721c32906a568a6fc51dbc77894d2e94f9b238690f8573"
+    "name": "Age of Darkness: Final Stand"
 }

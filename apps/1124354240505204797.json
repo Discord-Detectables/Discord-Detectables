@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7183acaa3e6975ef9ef5823be345d8e",
     "id": "1124354240505204797",
-    "name": "Divinity II: Developer's Cut",
-    "publishers": [
-        {
-            "id": "521816603671920661",
-            "name": "Larian Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "219780",
-            "sku": "219780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7c55c58d41d0e255898314efed352394ae30e8129ba766e99d2d19c17a7e0415"
+    "name": "Divinity II: Developer's Cut"
 }

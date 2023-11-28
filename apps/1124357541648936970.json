@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e1c8e082f735740c014e4ebc20a2be27",
     "id": "1124357541648936970",
-    "name": "Jesus Christ RPG Trilogy",
-    "publishers": [
-        {
-            "id": "524352534391816210",
-            "name": "Wholetone Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "449040",
-            "sku": "449040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4d11370a5f989bb76261fe99a84062e17a0f312c9f8898c028191620e3fb432"
+    "name": "Jesus Christ RPG Trilogy"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c794f34d1645c71dd18d228e0416002",
     "id": "1124352309183402035",
-    "name": "Neverwinter Nights: Enhanced Edition",
-    "publishers": [
-        {
-            "id": "524352139942821997",
-            "name": "Beamdog"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "704450",
-            "sku": "704450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fc3d1b21f88a968f728cc9caeaa9969b4fcfeab2c84df02d18364afd047d6b91"
+    "name": "Neverwinter Nights: Enhanced Edition"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Assassin's Creed: Revelations"
     ],
-    "description": "Assassin's Creed: Revelations is the fourth installment in the Assassin's Creed franchise and the final entry in Ezio Auditore's main storyline. A few levels also put players back in control of the original Assassin's Creed's Altair, and depict his rise to the Mentorship of the Crusades-era Brotherhood of Assassins.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,31 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cba9e70f7d9925da919af3eb66f15a39",
     "id": "425436928041680931",
-    "name": "Assassin's Creed Revelations",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "a01a28a9a21c4f11dd2eb0e1239b6c05",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "40",
-            "sku": "40"
-        },
-        {
-            "distributor": "steam",
-            "id": "201870",
-            "sku": "201870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "25171c7a701e21736ce3fd8f0efceb22f1640f63b81ef01a2ca6615cdcacd30e"
+    "name": "Assassin's Creed Revelations"
 }

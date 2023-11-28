@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0cd4e4d0bbbfff647927a2647e3ed5b5",
     "id": "1124356847076397056",
-    "name": "Submerged",
-    "publishers": [
-        {
-            "id": "1124356847634235442",
-            "name": "Uppercut Games Pty Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "301860",
-            "sku": "301860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1c88582d8dd0e573aab6b74c05aba1e44bc90e52da0a0475d38e50b447e42acd"
+    "name": "Submerged"
 }

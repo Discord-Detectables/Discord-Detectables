@@ -2,45 +2,19 @@
     "aliases": [
         "Guilty Gear Xrd -REVELATOR-"
     ],
-    "description": "The first revision in the Guilty Gear Xrd series.",
-    "developers": [
-        {
-            "id": "521816536743149599",
-            "name": "Arc System Works Co., Ltd."
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "guilty gear xrd -revelator-/binaries/win32/bootggxrd.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "guiltygearxrd.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "guilty gear xrd -revelator-/binaries/win32/bootggxrd.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1354aa2ed3120a448ebf9d16304bc6af",
     "id": "451543838847139850",
-    "name": "GUILTY GEAR Xrd -REVELATOR-",
-    "publishers": [
-        {
-            "id": "521816536743149599",
-            "name": "Arc System Works Co., Ltd."
-        }
-    ],
-    "splash": "aef72b056a8d8ff4ab5168eea9de5ae1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "520440",
-            "sku": "520440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c2e186e8e9d71ed7bd139678874dfa6c82eb69a9f104a2501c2ab1442d6fb720"
+    "name": "GUILTY GEAR Xrd -REVELATOR-"
 }

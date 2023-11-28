@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d70868ac1858325012dc6c90af372c8f",
     "id": "1124357508782370877",
-    "name": "HoneySelect2Libido DX",
-    "publishers": [
-        {
-            "id": "1124353525623828500",
-            "name": "ILLUSION"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1631080",
-            "sku": "1631080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "02892f3dcbeb058ac8c745e8390e852b69771b2b2c758b5a6cc472a27bd4fffa"
+    "name": "HoneySelect2Libido DX"
 }

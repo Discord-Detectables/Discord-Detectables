@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab2d399979967fdef79c74cc3407d9e0",
     "id": "1124355799095980205",
-    "name": "Nova Lands: Emilia's Mission",
-    "publishers": [
-        {
-            "id": "524352691003064338",
-            "name": "BEHEMUTT"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2083040",
-            "sku": "2083040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "acad0b2ddf2b4c744eeed1212a1cd84903eb76be4e10adebbf6eb6c6b3dd47fc"
+    "name": "Nova Lands: Emilia's Mission"
 }

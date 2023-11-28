@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b04b6c4d832e8631b9e57b7c140c3a8a",
     "id": "1124358764989005916",
-    "name": "The Jackbox Party Starter",
-    "publishers": [
-        {
-            "id": "1124351743136903320",
-            "name": "Jackbox Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1755580",
-            "sku": "1755580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d1593b1253ef70555934f03589b8377ddc95c1d1867cf0999124f6439dfbc51c"
+    "name": "The Jackbox Party Starter"
 }

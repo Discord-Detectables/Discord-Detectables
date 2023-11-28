@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0f4f7acc98e0ed32d88834a24cc19cd0",
     "id": "1124358832508907652",
-    "name": "Blood Rage: Digital Edition",
-    "publishers": [
-        {
-            "id": "1124358833033203934",
-            "name": "Exozet"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1015930",
-            "sku": "1015930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6f719b225d9328248d9834a3d9bfc022437f90774691eaa9d542f091f9fc7815"
+    "name": "Blood Rage: Digital Edition"
 }

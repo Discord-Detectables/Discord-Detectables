@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2be0d8532af545c8b53715a0339897b",
     "id": "1124358192277762078",
-    "name": "Dogs Organized Neatly",
-    "publishers": [
-        {
-            "id": "1124351970178781235",
-            "name": "DU&amp;I"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1597730",
-            "sku": "1597730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "26c4136d0f4c25ee68cf797d71e093a1a9b7d16929389f9ba8370d746362ccc8"
+    "name": "Dogs Organized Neatly"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f8a849ae4a4ba54365dd0ef065d5e332",
     "id": "1124358353422925934",
-    "name": "Priest Simulator: Heavy Duty",
-    "publishers": [
-        {
-            "id": "1124358353905266779",
-            "name": "Asmodev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1675670",
-            "sku": "1675670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd1218cd2b157ec01e11e358a6d631baaf5dc540ea59fe7a57ef3f7f9b5ea3fa"
+    "name": "Priest Simulator: Heavy Duty"
 }

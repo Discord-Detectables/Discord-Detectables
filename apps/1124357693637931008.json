@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b62d257c5714afeb91c86ab415a73ad9",
     "id": "1124357693637931008",
-    "name": "Merge Nymphs",
-    "publishers": [
-        {
-            "id": "1124357694162227341",
-            "name": "Fadorable Games LTD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1460200",
-            "sku": "1460200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb96bf812f551f30f78a0b6a5501cd813c9b0152b3f98292c61db9bfd2843a1c"
+    "name": "Merge Nymphs"
 }

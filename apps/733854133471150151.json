@@ -2,7 +2,6 @@
     "aliases": [
         "The Surge 2"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "733854133471150151",
-    "name": "The Surge 2",
-    "publishers": [
-        {
-            "id": "733854134301753396",
-            "name": "Deck13"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "644830",
-            "sku": "644830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "81d6733e51bf9f7483d5ee00c38613ed79c22f9d455d0d55fdcc7a1cd37c11eb"
+    "name": "The Surge 2"
 }

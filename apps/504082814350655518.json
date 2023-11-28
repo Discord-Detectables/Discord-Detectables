@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "504082814350655518",
-    "name": "TransforBest",
-    "publishers": [
-        {
-            "id": "521816662723526657",
-            "name": "TransforBest"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "127c330148e8fb179761df3136709dd226b19d729e3c6fb7ace3dda1e30be0b9"
+    "name": "TransforBest"
 }

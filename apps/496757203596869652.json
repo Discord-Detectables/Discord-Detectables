@@ -2,19 +2,7 @@
     "aliases": [
         "Final Fantasy VIII"
     ],
-    "description": "Squall and his band of mercenaries fight to save their world from conquest and destruction in the eighth numbered Final Fantasy title. It introduced several new concepts to the franchise, including a subplot with an alternate main character, level-scaling enemies and the Junction system.",
-    "developers": [
-        {
-            "id": "521816676157751326",
-            "name": "Squaresoft"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "ff8_en.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "ff8_es.exe",
@@ -24,32 +12,14 @@
             "is_launcher": false,
             "name": "ff8_fr.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "3cbb617add029b412b36bbe0245f2c4e",
-    "id": "496757203596869652",
-    "name": "FINAL FANTASY VIII",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
         },
         {
-            "id": "521816676157751326",
-            "name": "Squaresoft"
+            "is_launcher": false,
+            "name": "ff8_en.exe",
+            "os": "win32"
         }
     ],
-    "splash": "9e770ef9befbd851bdd7533429f7e4c3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "39150",
-            "sku": "39150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5296d90f921642468b6cf6abb54827eb81ba0e5e7f03ff2f86479765ad74da3"
+    "hook": true,
+    "id": "496757203596869652",
+    "name": "FINAL FANTASY VIII"
 }

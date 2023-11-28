@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe4262f60ea6c7cc89c80c3f7b243a6e",
     "id": "1124357720355655741",
-    "name": "I MAED A GAM3 W1TH Z0MB1ES 1NIT!!!1",
-    "publishers": [
-        {
-            "id": "1124355108252172349",
-            "name": "Ska Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1800730",
-            "sku": "1800730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "286557d942ff63512ac6e4c541c93fd960faa307a9a86c6a71a29fbed91fb4d8"
+    "name": "I MAED A GAM3 W1TH Z0MB1ES 1NIT!!!1"
 }

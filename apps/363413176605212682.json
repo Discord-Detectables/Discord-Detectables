@@ -1,11 +1,4 @@
 {
-    "description": "An Xbox Indie game that allows players to take the stage or participate in lauding or loathing those up in front of the brick wall.",
-    "developers": [
-        {
-            "id": "521816608931446836",
-            "name": "Lighthouse Games Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d25b701133e1a4280994cf664de34a10",
     "id": "363413176605212682",
-    "name": "Comedy Night",
-    "publishers": [
-        {
-            "id": "521816608931446836",
-            "name": "Lighthouse Games Studio"
-        }
-    ],
-    "splash": "d0fd898ff0821edc3872184061fae4ca",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "665360",
-            "sku": "665360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4d6302d63e08d28421d162f64f469460ff8c504d3a09dfdcb3019abb7a841c9b"
+    "name": "Comedy Night"
 }

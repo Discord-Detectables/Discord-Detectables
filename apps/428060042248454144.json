@@ -1,11 +1,4 @@
 {
-    "description": "Dawn of War III is the 8th release in Relics esteemed Warhammer 40.000 RTS franchise and will have a much larger strategic component to it than previous titles, focusing on a more of a global battle while still retaining the squad-based action from previous titles.",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eb47397a14e75738402857967faca15e",
     "id": "428060042248454144",
-    "name": "Warhammer 40,000: Dawn of War III",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        },
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "285190",
-            "sku": "285190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e6f781408ac30520d0b286f17206779f6c78843e6bb2371b0ed4a04ce9f16c6"
+    "name": "Warhammer 40,000: Dawn of War III"
 }

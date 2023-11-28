@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7475156b3e67cf2447762a806238264f",
     "id": "1124359654617665556",
-    "name": "Classroom Aquatic Demo",
-    "publishers": [
-        {
-            "id": "524352310038626323",
-            "name": "Sunken Places"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "317560",
-            "sku": "317560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a30309886d14dcca2d5de4b03ca7feab3464b243fd73a34a8e4efa36c44930f9"
+    "name": "Classroom Aquatic Demo"
 }

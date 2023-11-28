@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f83ef7cc43832a01b7a995aae5d226e3",
     "id": "1129505589148536952",
-    "name": "Rogue Heist",
-    "publishers": [
-        {
-            "id": "1129505590419406958",
-            "name": "Lifelike Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "891430",
-            "sku": "891430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1714caebcf1bde92873c502fb9e708778d5fe9d93e92b727eaf8fd32266a068b"
+    "name": "Rogue Heist"
 }

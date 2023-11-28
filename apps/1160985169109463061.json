@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6ae30eb606cda14bf0ed1c2b83aa1385",
     "id": "1160985169109463061",
-    "name": "AHEGAL",
-    "publishers": [
-        {
-            "id": "1160985170875269230",
-            "name": "Oppai Reveal Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "865090",
-            "sku": "865090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f36273e3718208a17dd1b075cd3f0e89f26bcba80975afc77b694385cf86ac26"
+    "name": "AHEGAL"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2cec16fabbc367005637e748e6c5a811",
     "id": "1124360625963946054",
-    "name": "NEKO ARENA",
-    "publishers": [
-        {
-            "id": "1124360626433703958",
-            "name": "Neko Cloud"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1173380",
-            "sku": "1173380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd03487c05a623e1d448d5dbae8b44b074928d4b7986a29429c2757bb6aab2a0"
+    "name": "NEKO ARENA"
 }

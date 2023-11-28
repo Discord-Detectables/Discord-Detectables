@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e0ce2cd2e609c9d31c489ed97a224e63",
     "id": "1124359029628620860",
-    "name": "DREDGE: CHAPTER ONE",
-    "publishers": [
-        {
-            "id": "1124352341202718790",
-            "name": "Black Salt Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2057380",
-            "sku": "2057380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ca9645fabde1e217206aefe6dfb08aa8004535f72761739730399e75103892f"
+    "name": "DREDGE: CHAPTER ONE"
 }

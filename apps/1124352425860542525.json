@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f53db92d4b016294279ffb0e41c19a74",
     "id": "1124352425860542525",
-    "name": "Streamer Life Simulator",
-    "publishers": [
-        {
-            "id": "1124352273766690897",
-            "name": "Cheesecake Dev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1261040",
-            "sku": "1261040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e5eea391cb1a64d8a16ea41210ec620932a827a3edb9d1d746088108ceab1b0c"
+    "name": "Streamer Life Simulator"
 }

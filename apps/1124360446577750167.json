@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f30914bfcf730023cf3d4f45f844669",
     "id": "1124360446577750167",
-    "name": "Hush Hush - Only Your Love Can Save Them",
-    "publishers": [
-        {
-            "id": "521816603671920663",
-            "name": "Sad Panda Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "782250",
-            "sku": "782250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a03aeb8e794e7f39ff0e09d5366849e5b178d888257f4df2db0c2135710920c9"
+    "name": "Hush Hush - Only Your Love Can Save Them"
 }

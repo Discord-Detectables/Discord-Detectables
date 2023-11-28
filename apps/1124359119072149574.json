@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "74e84c1df9833a74e34f1a6958842bbe",
     "id": "1124359119072149574",
-    "name": "Samurai Jack: Battle Through Time",
-    "publishers": [
-        {
-            "id": "524352733948411905",
-            "name": "Soleil Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1150590",
-            "sku": "1150590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9312cfdd42e03b12da5b3dfa73e3d55748396ea46fbd60328062ed2c82ecc1b4"
+    "name": "Samurai Jack: Battle Through Time"
 }

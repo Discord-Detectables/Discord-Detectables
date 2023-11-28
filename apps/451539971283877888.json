@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c5870d06e0c4104f002623649fae605b",
     "id": "451539971283877888",
-    "name": "ESEA",
-    "publishers": [
-        {
-            "id": "521816675516153857",
-            "name": "ESEA"
-        }
-    ],
-    "splash": "3d470db297c043869c0113846407bd21",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "479130",
-            "sku": "479130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0beb18e297f5b37521edcb5d60d256fc46ad53c5234c39c4d761827c97fa1ce4"
+    "name": "ESEA"
 }

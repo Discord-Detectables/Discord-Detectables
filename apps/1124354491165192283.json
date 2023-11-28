@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f865fba2a17cc514bae542383de3b78",
     "id": "1124354491165192283",
-    "name": "Wargame: AirLand Battle",
-    "publishers": [
-        {
-            "id": "521816690066194454",
-            "name": "Eugen Systems"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "222750",
-            "sku": "222750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "36cec1096ed232982e2fee57dacec417c04e6ae4b0a65d8b7505dd02dd854243"
+    "name": "Wargame: AirLand Battle"
 }

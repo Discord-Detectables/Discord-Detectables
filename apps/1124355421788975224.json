@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "383ac5f940b6bbe1b051fabbd42142fd",
     "id": "1124355421788975224",
-    "name": "Trophy Fishing 2",
-    "publishers": [
-        {
-            "id": "1124355422246162503",
-            "name": "Overgroup"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "645260",
-            "sku": "645260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ef2e3d67cf3994cacb1428ac3d0a556810484b99431086789c56f730167aaf1b"
+    "name": "Trophy Fishing 2"
 }

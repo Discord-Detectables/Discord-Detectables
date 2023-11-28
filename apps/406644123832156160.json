@@ -1,14 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "cover_image": "76749088d71479056503609cbb654c2f",
-    "description": " We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire! ",
-    "developers": [
-        {
-            "id": "521816713294118913",
-            "name": "Mega Crit"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "309399445785673728",
     "hook": true,
-    "icon": "5c9cdfe6a46f49ee5f2a3c134d62902b",
     "id": "406644123832156160",
-    "name": "Slay the Spire",
-    "primary_sku_id": "489493235924992012",
-    "publishers": [
-        {
-            "id": "521816713294118912",
-            "name": "Mega Crit Games"
-        }
-    ],
-    "slug": "slay-the-spire",
-    "splash": "2fa1b09d03906ba688fa2ec78862bf78",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489493235924992012",
-            "sku": "489493235924992012"
-        },
-        {
-            "distributor": "steam",
-            "id": "646570",
-            "sku": "646570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e0ad1c79cd30137a1810168270beb3cd4f64a546cabc40200e3e4dca717ef875"
+    "name": "Slay the Spire"
 }

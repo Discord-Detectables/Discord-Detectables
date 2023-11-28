@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c43de068f49a4d376d472704d919414c",
     "id": "1124356922473201804",
-    "name": "HellSign",
-    "publishers": [
-        {
-            "id": "524353233318051861",
-            "name": "Ballistic Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "606500",
-            "sku": "606500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e65a5f26a93907411a571ed263543d9304988f2a9c757edb7dfac9565d26f812"
+    "name": "HellSign"
 }

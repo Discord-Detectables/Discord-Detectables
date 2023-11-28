@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4e6185aa210b5912b6d1e6f0f0a76cdc",
     "id": "1124352421007736893",
-    "name": "5D Chess With Multiverse Time Travel",
-    "publishers": [
-        {
-            "id": "1124352421532020766",
-            "name": "Conor Petersen"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1349230",
-            "sku": "1349230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "034083be0e97c84861b8525b6007a1d2ad567c125d3b2d315c9e087817ab5a4f"
+    "name": "5D Chess With Multiverse Time Travel"
 }

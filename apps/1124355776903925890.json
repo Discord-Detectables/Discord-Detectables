@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fcd53eb6b383009276cbfb550aa41f3e",
     "id": "1124355776903925890",
-    "name": "Death Trash Demo",
-    "publishers": [
-        {
-            "id": "1124355777390461039",
-            "name": "Crafting Legends"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1361550",
-            "sku": "1361550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c90b9e235dc0ae3b01f7442ab64325c941691148495bd641606cd358bf4e2c95"
+    "name": "Death Trash Demo"
 }

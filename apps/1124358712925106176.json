@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d09a39e66f77c02de5e72e94841cfb37",
     "id": "1124358712925106176",
-    "name": "My Name is Mayo",
-    "publishers": [
-        {
-            "id": "524352310982475797",
-            "name": "Green Lava Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "434260",
-            "sku": "434260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ab705f4f94f86bad4e7225ca4df6177e19500e361817997e73548205b4544d78"
+    "name": "My Name is Mayo"
 }

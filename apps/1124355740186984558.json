@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2dfd04fb9a68476e81312d03e3e41e8",
     "id": "1124355740186984558",
-    "name": "CHRONOSHOT",
-    "publishers": [
-        {
-            "id": "1124355740736434186",
-            "name": "Quickfire Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1326700",
-            "sku": "1326700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "190da3af57c8c1f409693f46bbd7b6258cdffe4c060e6288397381583caf7f29"
+    "name": "CHRONOSHOT"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a5bff0439d44eceaa956d15add32a03f",
     "id": "1124360562265047122",
-    "name": "TT Isle of Man - Ride on the Edge 2",
-    "publishers": [
-        {
-            "id": "1124353520053801030",
-            "name": "KT Racing"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1082180",
-            "sku": "1082180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c9fe721e8f6773bd4ca1ff1e96c1632d262e49716ce9f216f1bba44e9ecf3770"
+    "name": "TT Isle of Man - Ride on the Edge 2"
 }

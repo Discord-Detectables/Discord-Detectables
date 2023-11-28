@@ -1,11 +1,4 @@
 {
-    "description": "Get Dungeon Defenders: Complete Edition FREE with Nitro!",
-    "developers": [
-        {
-            "id": "521816518871220239",
-            "name": "Trendy Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "98499414632448000",
     "hook": true,
-    "icon": "21300741a8048086876802198547bcdb",
     "id": "488858705836900355",
-    "name": "Dungeon Defenders",
-    "primary_sku_id": "489181101609320449",
-    "publishers": [
-        {
-            "id": "521816518871220239",
-            "name": "Trendy Entertainment"
-        }
-    ],
-    "slug": "dungeon-defenders",
-    "splash": "8edda5258985d28816fb8ad081ee4de1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "65800",
-            "sku": "65800"
-        },
-        {
-            "distributor": "discord",
-            "id": "489181101609320449",
-            "sku": "489181101609320449"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8987d15a2c0d9635b8ba3c32d7c51f0a8387281a55c1c816b3c4aafe9c106dc6"
+    "name": "Dungeon Defenders"
 }

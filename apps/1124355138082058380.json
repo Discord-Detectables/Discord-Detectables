@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f30fa6cad3b05b40d12024f1d5742792",
     "id": "1124355138082058380",
-    "name": "Ultra Fight Da Kyanta 2",
-    "publishers": [
-        {
-            "id": "1124355138543439986",
-            "name": "羽良麻セルフ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1026840",
-            "sku": "1026840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "294eced895d9ee95111b3876d5801eb29123e9112430173431731a54f933bf7d"
+    "name": "Ultra Fight Da Kyanta 2"
 }

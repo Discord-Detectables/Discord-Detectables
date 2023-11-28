@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb4103236d03dbe3a1035b34c3f13f03",
     "id": "1124353368882696232",
-    "name": "Angvik",
-    "publishers": [
-        {
-            "id": "1124353369386008686",
-            "name": "Alastair John Jack"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "278890",
-            "sku": "278890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "16199ee8370f5398e831916cc6c5035a350355ae965a76ec5e02932c489831ed"
+    "name": "Angvik"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d9c89a14541fbbdf70b3fb9742b983a7",
     "id": "1124360010886041640",
-    "name": "Cardfight!! Vanguard Dear Days Demo",
-    "publishers": [
-        {
-            "id": "1124360011393548388",
-            "name": "FURYU Corporation"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2124630",
-            "sku": "2124630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b4023aabf8ad06ae2d68f12debd9d571005d1f14d84710a2a679e50f9056686"
+    "name": "Cardfight!! Vanguard Dear Days Demo"
 }

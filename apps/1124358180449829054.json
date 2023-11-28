@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d923a2e22f60f2f8efe83cf45c9e273c",
     "id": "1124358180449829054",
-    "name": "Rebirth:Mr Wang",
-    "publishers": [
-        {
-            "id": "1124355224841244702",
-            "name": "DSGame"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1394800",
-            "sku": "1394800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b41b25a821c6e4a0495050274c1eb298cba452112fc8017da1fe58529f9e47e9"
+    "name": "Rebirth:Mr Wang"
 }

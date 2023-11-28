@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5a17d39332f5386fbda3ca3a9cb82dcd",
     "id": "1124354745759449098",
-    "name": "LEGO® Builder's Journey",
-    "publishers": [
-        {
-            "id": "1124354746254372924",
-            "name": "Light Brick Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1544360",
-            "sku": "1544360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b69660c42d45a7a87b085db623a0a11f0943e1ee75ae63d6c55c92a252015d51"
+    "name": "LEGO® Builder's Journey"
 }

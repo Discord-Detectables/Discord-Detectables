@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1a6b4be8aa0131ee8f796e712999278",
     "id": "1124353940348223628",
-    "name": "Industry Idle",
-    "publishers": [
-        {
-            "id": "1124353940847341659",
-            "name": "Fish Pond Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1574000",
-            "sku": "1574000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5676b38a9f28dc6f144e6809ca9685fac45f906c9aa0395022290c0dba6d096a"
+    "name": "Industry Idle"
 }

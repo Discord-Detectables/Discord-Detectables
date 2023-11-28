@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b9827842f62f77252cd74ae2f46769b9",
     "id": "1124359172767625346",
-    "name": "Dialtown: Phone Dating Sim",
-    "publishers": [
-        {
-            "id": "1124358908098658365",
-            "name": "DirectDoggo"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1035990",
-            "sku": "1035990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cb59d29754dbeceee16810d65c0e136ecddf09ba8af2160c44df375373065650"
+    "name": "Dialtown: Phone Dating Sim"
 }

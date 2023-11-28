@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab129d4dbb5a01a751e1e53275664090",
     "id": "1124359956964065440",
-    "name": "Scrap Garden",
-    "publishers": [
-        {
-            "id": "1124359957454794824",
-            "name": "Egidijus Bachur"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "465760",
-            "sku": "465760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bc20fbe99e359c36e40dd79d0bdaf38bb05cb0a48e6966984554650824d66e97"
+    "name": "Scrap Garden"
 }

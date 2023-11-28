@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7d75303f3773a6a1167b59c12b021cc5",
     "id": "1124360158601039913",
-    "name": "DEATHVERSE: LET IT DIE",
-    "publishers": [
-        {
-            "id": "1124360159121129483",
-            "name": "SUPERTRICK GAMES, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1149560",
-            "sku": "1149560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1e7e20fa77f39acb2afc2d68100b4619898d02d44994da54a803dba8a694a5b4"
+    "name": "DEATHVERSE: LET IT DIE"
 }

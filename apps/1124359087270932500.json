@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0ab9eff7b8819d99f6ac8c2c8c1c3dc3",
     "id": "1124359087270932500",
-    "name": "Renegade Ops",
-    "publishers": [
-        {
-            "id": "521816537192202241",
-            "name": "Avalanche Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "99300",
-            "sku": "99300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15897abdf558580cfd77f447b3dc73ea6e96139043c97ccaa9413f916a69a2c3"
+    "name": "Renegade Ops"
 }

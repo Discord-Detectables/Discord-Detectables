@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0711030e61b734a55ab39315d60009c",
     "id": "1129505778303246456",
-    "name": "Wrestling Empire Demo",
-    "publishers": [
-        {
-            "id": "524352454221889566",
-            "name": "MDickie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1646420",
-            "sku": "1646420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5716535a35a419f94b2423955b91c2f2f708e61e0fc3e9f98e1bc6dd0e74155"
+    "name": "Wrestling Empire Demo"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8a02b855cc07ea71db786c649610370a",
     "id": "1124358915417706517",
-    "name": "Contra Anniversary Collection",
-    "publishers": [
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1018020",
-            "sku": "1018020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "32181edaebd92a974506c260d9fc9471429cc70059b610908ce9c514937144f7"
+    "name": "Contra Anniversary Collection"
 }

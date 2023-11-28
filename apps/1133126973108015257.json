@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5cc0121f76b087c0430399af22506059",
     "id": "1133126973108015257",
-    "name": "Techtonica",
-    "publishers": [
-        {
-            "id": "521816712778350615",
-            "name": "Fire Hose Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1457320",
-            "sku": "1457320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "74d15f6c2ff783f9f5b03f579b04f277de7928662674c3813abb84b76ecb1cbf"
+    "name": "Techtonica"
 }

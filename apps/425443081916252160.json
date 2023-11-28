@@ -1,48 +1,17 @@
 {
-    "description": "Borderlands is a first-person shooter RPG from Gearbox Software that puts players into the shoes of one of four playable characters as they traverse the hostile planet of Pandora in search of a mysterious \"Vault\", said to contain priceless unknown riches and alien technologies.",
-    "developers": [
-        {
-            "id": "521816607408914450",
-            "name": "Gearbox Software LLC"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "binaries/borderlands.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "borderlands/borderlands.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "132671445376565248",
-    "hook": true,
-    "icon": "c63623102b12e3f7c6c3814a656180a4",
-    "id": "425443081916252160",
-    "name": "Borderlands",
-    "publishers": [
-        {
-            "id": "521816503960600578",
-            "name": "Gearbox Software"
         },
         {
-            "id": "521816504392482816",
-            "name": "2K Games"
+            "is_launcher": false,
+            "name": "binaries/borderlands.exe",
+            "os": "win32"
         }
     ],
-    "splash": "a62900b8f40148661814418d77d4c7ac",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "8980",
-            "sku": "8980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "da555050ee16ea626f8763d4e10a5adfa3ff6c27cc6ac9a40b4a5a5f9c01df1e"
+    "hook": true,
+    "id": "425443081916252160",
+    "name": "Borderlands"
 }

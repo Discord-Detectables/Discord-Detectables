@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "271aa0a78f40ec34548c55f41374f972",
     "id": "1124358740901122220",
-    "name": "Boogeyman",
-    "publishers": [
-        {
-            "id": "524352842497261580",
-            "name": "Barry McCabe"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "412770",
-            "sku": "412770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "abd1691abefe5b7d16ec2e67a7eed5f7a7ef20ef5b173709dad9c201b889dac0"
+    "name": "Boogeyman"
 }

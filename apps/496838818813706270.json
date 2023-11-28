@@ -1,12 +1,4 @@
 {
-    "cover_image": "bf5c7f0f675c5aca66d0af810127f946",
-    "description": "Intruder is a Squad-Based First-Person Stealth Shooter with deadly gunplay, interactive environments, and spatial audio.",
-    "developers": [
-        {
-            "id": "638895525848154112",
-            "name": "Superboss Games Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "103933666417217536",
     "hook": true,
-    "icon": "f3e9c48de966038092f6d41d3ae0ff83",
     "id": "496838818813706270",
-    "name": "Intruder",
-    "publishers": [
-        {
-            "id": "638895525848154112",
-            "name": "Superboss Games Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "518150",
-            "sku": "518150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9074622082943d117f21186d8c428af71464c009da713b253d0c92d5821a2467"
+    "name": "Intruder"
 }

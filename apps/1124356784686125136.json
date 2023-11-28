@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7cab6e87b3083202f82c63cfbda6d29",
     "id": "1124356784686125136",
-    "name": "ANNO: Mutationem Demo",
-    "publishers": [
-        {
-            "id": "1124356785139105952",
-            "name": "ThinkingStars"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1483420",
-            "sku": "1483420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d2cc2b3cb2ae1111e29a4ce6971a2b0adaaddc558b447608e1bf41b969b9fc5"
+    "name": "ANNO: Mutationem Demo"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "In this sequel to Sunless Sea, London has left the dark caverns and the Unterzee behind them and ventured out among the stars.",
-    "developers": [
-        {
-            "id": "521816707850043394",
-            "name": "Failbetter Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7c9816e260af9100369b77180926137",
     "id": "425451303985217536",
-    "name": "Sunless Skies",
-    "publishers": [
-        {
-            "id": "521816707850043394",
-            "name": "Failbetter Games"
-        }
-    ],
-    "splash": "263bcba24aafe5dc54d63da172d9cd4b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "596970",
-            "sku": "596970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1cee75da1455007e500b0df9c7254f440446c0d3a675cf48478ac7151eb29789"
+    "name": "Sunless Skies"
 }

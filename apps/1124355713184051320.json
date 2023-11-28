@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "185e0e0d6b6afecfd432da52e5a02c25",
     "id": "1124355713184051320",
-    "name": "Apotheon Arena",
-    "publishers": [
-        {
-            "id": "521816723729416212",
-            "name": "Alientrap"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "417890",
-            "sku": "417890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca90b736c8a9e70d58c6cb7de1fffaec60ee422b0e8abefd83319ebce6961ca1"
+    "name": "Apotheon Arena"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "88035ff1eb91e0b3ef8fb53dbd3ff354",
     "id": "1124358237190377602",
-    "name": "God's Trigger",
-    "publishers": [
-        {
-            "id": "524352807378223133",
-            "name": "One More Level"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "488730",
-            "sku": "488730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "430608e98933e1e21fef97d0dd0d353a88c9cea3e9ae107fe6fa2028daf335af"
+    "name": "God's Trigger"
 }

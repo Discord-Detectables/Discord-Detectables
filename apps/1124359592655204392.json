@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "274c826cb41437da7d47c351d9400753",
     "id": "1124359592655204392",
-    "name": "DEAD CIDE CLUB",
-    "publishers": [
-        {
-            "id": "1124359593166917773",
-            "name": "PressA"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1443350",
-            "sku": "1443350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78292e0f702cbb22dee50466a5443d0dbb1e31d38a775aa166c054542d567358"
+    "name": "DEAD CIDE CLUB"
 }

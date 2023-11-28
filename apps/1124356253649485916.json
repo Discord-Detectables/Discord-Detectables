@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5f0cfca1a6f25931ae3bc73515d355fe",
     "id": "1124356253649485916",
-    "name": "古銭プッシャーフレンズ",
-    "publishers": [
-        {
-            "id": "1124356254148604006",
-            "name": "STP WORKS"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1722020",
-            "sku": "1722020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7a8dd1644f5096d045bb9f1cbee8741f740a07b91aa7e7a41a0b3f4717e90273"
+    "name": "古銭プッシャーフレンズ"
 }

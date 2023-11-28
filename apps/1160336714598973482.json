@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "53a5146998c3307e456bc64a2b57dca5",
     "id": "1160336714598973482",
-    "name": "Thief Simulator 2",
-    "publishers": [
-        {
-            "id": "1160336737969651782",
-            "name": "CookieDev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1332720",
-            "sku": "1332720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7d34a21884cb41e63de0306db51c09004bc76dd83d7689c6dad9e2af8fb5c95b"
+    "name": "Thief Simulator 2"
 }

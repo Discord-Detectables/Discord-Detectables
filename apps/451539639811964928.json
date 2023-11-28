@@ -1,5 +1,4 @@
 {
-    "description": "Heroes of Hammerwatch is a roguelite spin-off of the 2013 dungeon crawler Hammerwatch",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a269fce17a004e5977a0b65204836654",
     "id": "451539639811964928",
-    "name": "Heroes of Hammerwatch",
-    "publishers": [
-        {
-            "id": "521816573485514762",
-            "name": "Crackshell"
-        }
-    ],
-    "splash": "7bde3f6b46bfcf67a01c1533eba664e6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "677120",
-            "sku": "677120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e1f2c5ac658b2ee65737536f3b50e91434822fb11dbfde6e42adde5631983cfe"
+    "name": "Heroes of Hammerwatch"
 }

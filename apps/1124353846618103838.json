@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cb294c5fe282b14b9edd0867d9a61dce",
     "id": "1124353846618103838",
-    "name": "Track and Burn",
-    "publishers": [
-        {
-            "id": "1124353847075295353",
-            "name": "Tayasui"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1668170",
-            "sku": "1668170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b68bcca6735f3c32584a6bf8d3e08775128460ab658c54995d03a41ec789235"
+    "name": "Track and Burn"
 }

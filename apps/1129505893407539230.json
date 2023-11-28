@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "040328f05e335486c25381e77c420cee",
     "id": "1129505893407539230",
-    "name": "Beat Banger",
-    "publishers": [
-        {
-            "id": "1129505894661627994",
-            "name": "BunFan Games LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1813430",
-            "sku": "1813430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f3099d3814ee8865d5aceb4da1cd8237664562a9af9f3ea1c5544d0b29d635d4"
+    "name": "Beat Banger"
 }

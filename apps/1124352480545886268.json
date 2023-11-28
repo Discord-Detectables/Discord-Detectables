@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6a5522cad681ebc934d6e8c2fad4c87b",
     "id": "1124352480545886268",
-    "name": "Video Horror Society",
-    "publishers": [
-        {
-            "id": "524351982597832705",
-            "name": "Hellbent Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "611360",
-            "sku": "611360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2f05e969a6e1e53f828a2982b7446ad70a0b347a90908282fac5c6e3f0e0c265"
+    "name": "Video Horror Society"
 }

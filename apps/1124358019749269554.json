@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2d91bdbefb952a7541b9cd24729822e",
     "id": "1124358019749269554",
-    "name": "Love, Money, Rock'n'Roll",
-    "publishers": [
-        {
-            "id": "521816629844377636",
-            "name": "Soviet Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "615530",
-            "sku": "615530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2f61b44df50df52c00a4ad89883ae9408321cd4ee7210258c795bd40efd63eb8"
+    "name": "Love, Money, Rock'n'Roll"
 }

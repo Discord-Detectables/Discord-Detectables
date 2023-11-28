@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "94f4c7f8ef29eab9811b65623162f4ca",
     "id": "1124354576628330506",
-    "name": "Mr. Prepper",
-    "publishers": [
-        {
-            "id": "1124354577102295162",
-            "name": "Rejected Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "761830",
-            "sku": "761830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fc5c30ba21c3baeabbb288c1efed3f83df4dc523dca9f03f389067db0cabc9d8"
+    "name": "Mr. Prepper"
 }

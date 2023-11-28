@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a50e9fda9996e542b28197819480bc1a",
     "id": "1124357104371777536",
-    "name": "Swarmlake",
-    "publishers": [
-        {
-            "id": "524352679862861826",
-            "name": "Dominique Grieshofer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "793350",
-            "sku": "793350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ef577d8321b69991a98403379584bf85faf7087f2cc5bf80de93a29f9ed59f4d"
+    "name": "Swarmlake"
 }

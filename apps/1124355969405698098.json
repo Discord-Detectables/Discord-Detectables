@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1bad42291e12350ba5c85d7e2c036c7a",
     "id": "1124355969405698098",
-    "name": "FlatOut 4: Total Insanity",
-    "publishers": [
-        {
-            "id": "1124355969925787748",
-            "name": "Kylotonn"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "402130",
-            "sku": "402130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "43ae5285af1e55c8a035f403c9cb6ea759c655dbd5d0c16d7906e49c0ee9c54f"
+    "name": "FlatOut 4: Total Insanity"
 }

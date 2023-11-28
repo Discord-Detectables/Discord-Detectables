@@ -3,13 +3,6 @@
         "Metro Last Light",
         "Metro Last Light Redux"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816528417718311",
-            "name": "4A Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,38 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "369451281879662594",
     "hook": true,
-    "icon": "ae7449bb463c0d51bddb4c29dcc375a0",
     "id": "425442388270645248",
-    "name": "Metro: Last Light Redux",
-    "primary_sku_id": "469990965608710145",
-    "publishers": [
-        {
-            "id": "521816528417718311",
-            "name": "4A Games"
-        },
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "slug": "metro-last-light-redux",
-    "splash": "e0b1acfb6319887559de57f5dafeba02",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "287390",
-            "sku": "287390"
-        },
-        {
-            "distributor": "discord",
-            "id": "469990965608710145",
-            "sku": "469990965608710145"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dcc4d7402fb4c4b27251e87533569a31f50eabf561f8e417202331cd76dfcfe7"
+    "name": "Metro: Last Light Redux"
 }

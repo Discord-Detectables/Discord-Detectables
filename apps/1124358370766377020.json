@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c37a20bd3dd042388ba806bb77e86bea",
     "id": "1124358370766377020",
-    "name": "Finnish Army Simulator Demo",
-    "publishers": [
-        {
-            "id": "524353209901514763",
-            "name": "Please Be Patient"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2127950",
-            "sku": "2127950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2249653d9cf79667ed72a4a657af17c22bf43a949b896237e35032ad5da17531"
+    "name": "Finnish Army Simulator Demo"
 }

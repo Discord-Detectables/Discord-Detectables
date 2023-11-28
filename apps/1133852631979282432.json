@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a432f1ada20e03373098821d29c80449",
     "id": "1133852631979282432",
-    "name": "SimRail - The Railway Simulator",
-    "publishers": [
-        {
-            "id": "1124354195982667796",
-            "name": "SimRail S.A."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1422130",
-            "sku": "1422130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2aaa32d68a248299a0aa51037197192df3020d615bdc927823749bf5c880ad6f"
+    "name": "SimRail - The Railway Simulator"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7a0d67706817a8df8ec57475abb0cc2",
     "id": "1124358510449279016",
-    "name": "Planet of Lana Demo",
-    "publishers": [
-        {
-            "id": "854466231079272508",
-            "name": "Wishfully"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2283030",
-            "sku": "2283030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8a7f4a645510b69ab9861c589fffc74386218b6dc7e7c9012369fceb28698745"
+    "name": "Planet of Lana Demo"
 }

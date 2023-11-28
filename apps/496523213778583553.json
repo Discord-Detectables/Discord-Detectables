@@ -2,7 +2,6 @@
     "aliases": [
         "A Sky Full Of Stars"
     ],
-    "description": "A Sky Full of Stars",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3946397f5736e7dbe2057bee4c1411f",
     "id": "496523213778583553",
-    "name": "A Sky Full of Stars",
-    "publishers": [
-        {
-            "id": "521816612626497537",
-            "name": "MoeNovel"
-        }
-    ],
-    "splash": "95210737581aacf69d078312c0e4f84a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "745960",
-            "sku": "745960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e2b127712ee8d8bf2dcdc259a5e3ae71ac165eaa79608ceb16cc9866d9d1e65"
+    "name": "A Sky Full of Stars"
 }

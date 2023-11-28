@@ -1,11 +1,4 @@
 {
-    "description": "A sequel to the first Blood Bowl. A game based on the Games Workshop table top mini figures game of the same name that pits fantasy races from the Warhammer universe against one another in turn-based American football.",
-    "developers": [
-        {
-            "id": "521816537653444608",
-            "name": "Cyanide Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2dc24a2f96ca80129a25f9cb56f42bf",
     "id": "460987469756629005",
-    "name": "Blood Bowl 2",
-    "publishers": [
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        }
-    ],
-    "splash": "f7c00061a2858cec43deab752b7a7ab9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "236690",
-            "sku": "236690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bfd81c297c476379b677d08e52f130063f12de622d0bbb2af385a52eb22beab7"
+    "name": "Blood Bowl 2"
 }

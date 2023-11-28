@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2201d33ac9e6796584d242fc525e771",
     "id": "1124355153357721670",
-    "name": "Eroico",
-    "publishers": [
-        {
-            "id": "1124355153814896740",
-            "name": "Kyrieru"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "947600",
-            "sku": "947600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b1b92c31531668da63a830f38b5d6723ee221d324ee55b539b5d96e5f2d9285"
+    "name": "Eroico"
 }

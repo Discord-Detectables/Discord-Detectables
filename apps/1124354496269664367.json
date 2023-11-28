@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e43545588da70a8838dbdc375e83969d",
     "id": "1124354496269664367",
-    "name": "Animal Shelter",
-    "publishers": [
-        {
-            "id": "1124353614052339803",
-            "name": "Games Incubator"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1239320",
-            "sku": "1239320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89e69effffd952933758ac912ba91316d7ad04d31bb2e7b746faa6dc10bf67ba"
+    "name": "Animal Shelter"
 }

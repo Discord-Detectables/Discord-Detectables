@@ -2,9 +2,6 @@
     "aliases": [
         "Travellers Rest"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "37d16537bb218ff1eda77e5460d3554f",
     "id": "1129504604736995328",
-    "name": "Travellers Rest",
-    "publishers": [
-        {
-            "id": "524353288804761627",
-            "name": "Isolated Games"
-        },
-        {
-            "id": "1129504622525030560",
-            "name": "Louqou"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1139980",
-            "sku": "1139980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "07f8e715f5df2d92a7450ab6c2f08ec1c20333cbdf475d5154b4e64eda23eef6"
+    "name": "Travellers Rest"
 }

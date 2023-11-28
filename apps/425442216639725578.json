@@ -1,11 +1,4 @@
 {
-    "description": "The eighth installment in the Formula 1 franchise developed by Codemasters.",
-    "developers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba45e3980dc47c2910d76b39fd256803",
     "id": "425442216639725578",
-    "name": "F1 2017",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "splash": "906d978ca06058ee2114aa098a632958",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "515220",
-            "sku": "515220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "93038fbdde26de33cf55700820fbb5e832e0b21e31b791dc110e183f1fd85d23"
+    "name": "F1 2017"
 }

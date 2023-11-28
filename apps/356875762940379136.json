@@ -2,24 +2,7 @@
     "aliases": [
         "World of Warcraft™"
     ],
-    "description": "World of Warcraft is an MMORPG that takes place in Blizzard Entertainment's Warcraft universe; at its peak, it boasted a player base of over 12.5 million subscribers, making it the most popular MMO of all time.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "_ptr_/wow-64.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "_retail_/wow.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "_beta_/wow-64.exe",
@@ -37,6 +20,16 @@
         },
         {
             "is_launcher": false,
+            "name": "_retail_/wow.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "_ptr_/wow-64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "_ptr_/wow.exe",
             "os": "win32"
         },
@@ -46,33 +39,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "113103747126747136",
     "hook": true,
-    "icon": "fc92f820c44e72085dc6205e5e746850",
     "id": "356875762940379136",
     "name": "World of Warcraft",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "splash": "a04bfb0f10a2a531447e713a9e2443f0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "WoW",
-            "sku": "WoW"
-        },
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "fab1671f200efba924715de7fc3f6e2c418bb24a2b06ee6bd0b3cd4c8d5b67e0"
+    "overlay": true
 }

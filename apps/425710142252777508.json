@@ -2,13 +2,6 @@
     "aliases": [
         "The Guild 2"
     ],
-    "description": "Sequel to PSP game Fairy Tail: Portable Guild.",
-    "developers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f25bb2b794092b07a922ee1ba82880c6",
     "id": "425710142252777508",
-    "name": "The Guild II",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
-    "splash": "0fc83afe86c783d089492fbe68bd9c8a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "39650",
-            "sku": "39650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "36942a14b60d70a20d43c085badb99cd6d32d2067ee9f7c97c282667c4b35dac"
+    "name": "The Guild II"
 }

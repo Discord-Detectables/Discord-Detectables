@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b901f72be922f188bbc8ac47fab41c67",
     "id": "1124357981367189594",
-    "name": "Sexy Mystic Survivors",
-    "publishers": [
-        {
-            "id": "1124357981853724875",
-            "name": "Fantasize Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1964360",
-            "sku": "1964360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89e2ef6a0ad9978b4472cec0561d8f5d279353f73c5b2d3750235a612e6197dc"
+    "name": "Sexy Mystic Survivors"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "70cb13ee7023df923b30cac7cced89bc",
     "id": "1166511460600512532",
-    "name": "The Genesis Order",
-    "publishers": [
-        {
-            "id": "1124353883632848907",
-            "name": "NLT Media"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2553870",
-            "sku": "2553870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "298df97b864477514bd4c7a8a0fa31b0bdf6e5d5e0abc091835b436fdb7941c0"
+    "name": "The Genesis Order"
 }

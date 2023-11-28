@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "da7a454f4d7698c15f6c4f8665bb08a1",
     "id": "1124360354525368360",
-    "name": "Sounds of Her Love",
-    "publishers": [
-        {
-            "id": "1124360354961571981",
-            "name": "ds-sans"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "603880",
-            "sku": "603880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8ff0dc6c1c7def838a30c8e051add302d80224c4a8a483f44edf43c898c3a41"
+    "name": "Sounds of Her Love"
 }

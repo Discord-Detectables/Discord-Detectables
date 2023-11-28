@@ -1,11 +1,4 @@
 {
-    "description": "A puzzle game from Thomas Bowker.",
-    "developers": [
-        {
-            "id": "521816644985683968",
-            "name": "Thomas Bowker"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d99b50d65073c0c7f3836ceb37d278c3",
     "id": "496852270080851977",
-    "name": "LYNE",
-    "publishers": [
-        {
-            "id": "521816644985683968",
-            "name": "Thomas Bowker"
-        }
-    ],
-    "splash": "831b63def91802fc6203a34336d28bb7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "266010",
-            "sku": "266010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2fc28d685f7f1e15d05c12ec3b8b0c055de3aaafdc8dd2ff190d9422b4d40d76"
+    "name": "LYNE"
 }

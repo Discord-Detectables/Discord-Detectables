@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "03479cd7a9ac75b7f1743ab9ec36a19f",
     "id": "1156576033613553675",
-    "name": "Greed of Man",
-    "publishers": [
-        {
-            "id": "1156576035811381268",
-            "name": "NIK"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2336720",
-            "sku": "2336720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "096c2e047673fbb800e4dbd9cbb1795cc789e6670222552fdf6299f9cc65a521"
+    "name": "Greed of Man"
 }

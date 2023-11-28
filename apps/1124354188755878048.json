@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a17ea7b3fd05b1708bfc2df8b0ebd6ac",
     "id": "1124354188755878048",
-    "name": "Maximum Action",
-    "publishers": [
-        {
-            "id": "598965780364787713",
-            "name": "George Mandell"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "853770",
-            "sku": "853770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7693d0d8f16a25ad8076d3d83034be10743db23cb426d3a5bbc14501fd10de23"
+    "name": "Maximum Action"
 }

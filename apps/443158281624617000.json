@@ -1,11 +1,4 @@
 {
-    "description": "A free-to-play battle royale 80's themed game from Boss Key Productions",
-    "developers": [
-        {
-            "id": "521816742675218462",
-            "name": "Boss Key Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b6ddbf1ab7d16f7285c673c99b88cbea",
     "id": "443158281624617000",
-    "name": "Radical Heights",
-    "publishers": [
-        {
-            "id": "521816742675218462",
-            "name": "Boss Key Productions"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "809960",
-            "sku": "809960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "70a97fb7dada76a675b19effdf35df0c551d9f5673d9dd760144925e1a2d4aa9"
+    "name": "Radical Heights"
 }

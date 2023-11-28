@@ -1,11 +1,4 @@
 {
-    "description": "The worlds first side-scrolling massively multiplayer online role-playing game",
-    "developers": [
-        {
-            "id": "521816758462578698",
-            "name": "Wizet"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,20 +6,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d92a0da6cbe1561b98e9f9146600b219",
     "id": "359510095811444736",
     "name": "MapleStory",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816511610880011",
-            "name": "Nexon Corporation"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "2a0f6a864c85973065a54f1be133b2b2717938181813253499a4f86dc16c2a13"
+    "overlay_compatibility_hook": true
 }

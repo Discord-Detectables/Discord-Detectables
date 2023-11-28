@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5b5a693aae0ee0b662749aa291ad69b1",
     "id": "1124355790153728170",
-    "name": "Red Solstice 2: Survivors",
-    "publishers": [
-        {
-            "id": "521816772534337538",
-            "name": "Ironward"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "768520",
-            "sku": "768520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "58be20f329776d9147717cc99ca63a440875f3a43897477164e9c6db5533bed7"
+    "name": "Red Solstice 2: Survivors"
 }

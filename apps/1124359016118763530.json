@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "852fafd4983b6b55efc44756a1b5f454",
     "id": "1124359016118763530",
-    "name": "STORY OF SEASONS: Pioneers of Olive Town",
-    "publishers": [
-        {
-            "id": "1124354203360444596",
-            "name": "Marvelous Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1392960",
-            "sku": "1392960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "55c55c859dd90320245dabad9db397f3d53d7675f6838d4209fd9c947952ce81"
+    "name": "STORY OF SEASONS: Pioneers of Olive Town"
 }

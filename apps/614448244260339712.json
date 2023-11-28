@@ -2,50 +2,19 @@
     "aliases": [
         "Bloons Adventure Time TD"
     ],
-    "cover_image": "516d2a9ab85b64c98396d12f01bedd4e",
-    "description": "The Bloons have invaded the Land of Ooo and it’s up to Finn, Jake and the monkeys to stop them! Bloons Adventure Time TD is an awesome crossover between the award-winning animated series Adventure Time and the #1 Tower Defense game, Bloons TD!",
-    "developers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "btdadventuretime.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "bloons adventure time td/btdadventuretime.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "3ca95883382eece466bb7bda81cb5062",
-    "id": "614448244260339712",
-    "name": "Bloons Adventure Time TD",
-    "publishers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "google_play",
-            "id": "com.ninjakiwi.btdadventuretime",
-            "sku": "com.ninjakiwi.btdadventuretime"
         },
         {
-            "distributor": "steam",
-            "id": "979060",
-            "sku": "979060"
+            "is_launcher": false,
+            "name": "btdadventuretime.exe",
+            "os": "win32"
         }
     ],
-    "type": 1,
-    "verify_key": "a7db260cfc717c170598e7f8c20beead09e010b0acea514599575d6b2496b9dd"
+    "hook": true,
+    "id": "614448244260339712",
+    "name": "Bloons Adventure Time TD"
 }

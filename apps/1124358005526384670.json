@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "951b7916ec314619ba1f133339196745",
     "id": "1124358005526384670",
-    "name": "Apex Point",
-    "publishers": [
-        {
-            "id": "1124358006008725544",
-            "name": "Apex Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2102520",
-            "sku": "2102520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "14c9467b9bbbd91df3ceaa1e8fab1b9b29d653172d71a5d4359118d258aa2ceb"
+    "name": "Apex Point"
 }

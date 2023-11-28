@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1b3698cb758f29a078ad183c58a0ad29",
     "id": "1124357174248878090",
-    "name": "Friendship with Benefits",
-    "publishers": [
-        {
-            "id": "1124357174735425556",
-            "name": "TwistedScarlett60"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1299370",
-            "sku": "1299370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "29e93dfc320c8884c72b32c7f5fe94aa508be6acb598438183e205cb28fe6611"
+    "name": "Friendship with Benefits"
 }

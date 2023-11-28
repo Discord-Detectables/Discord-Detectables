@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9bcafba236f87dd2bfa039b95ec798a0",
     "id": "1124358935747510383",
-    "name": "Phantom Brave PC",
-    "publishers": [
-        {
-            "id": "521816533270396929",
-            "name": "Nippon Ichi Software, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "409870",
-            "sku": "409870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8aad47efe27842a60269a7f7395520e92ee15ac3a05d13828e8b6682e3c2bff"
+    "name": "Phantom Brave PC"
 }

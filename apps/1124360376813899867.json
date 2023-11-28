@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0d60c6872b5c713f83cadf68fe99b41",
     "id": "1124360376813899867",
-    "name": "Out There: Ω Edition",
-    "publishers": [
-        {
-            "id": "524352297950642187",
-            "name": "Mi-Clos Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "334420",
-            "sku": "334420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed40b95532bd83ec9b592f1e027aa2b9daa8b96ba12f45c1e4ed5c1f85446fac"
+    "name": "Out There: Ω Edition"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "An official free-to-play conversion of Arma 3.",
-    "developers": [
-        {
-            "id": "521816510172233760",
-            "name": "Bohemia Interactive Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e9b1fe296cae7ed54a6cf3e4d138093c",
     "id": "451539926417408000",
-    "name": "Argo",
-    "publishers": [
-        {
-            "id": "521816510172233760",
-            "name": "Bohemia Interactive Studio"
-        }
-    ],
-    "splash": "6a2368d5554fac1620cec787907f69d7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "530700",
-            "sku": "530700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9d3cec1df9ec228059182b9a18b8121e08953e1d7f61ddbf66aa487cc3a77e3b"
+    "name": "Argo"
 }

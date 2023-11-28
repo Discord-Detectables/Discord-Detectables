@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c20bec045bcaa37a348833530227fbbd",
     "id": "1124358616749715637",
-    "name": "Pretty Angel",
-    "publishers": [
-        {
-            "id": "1124357134092611684",
-            "name": "GirlGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1148510",
-            "sku": "1148510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f93dfe8fa74fe53bb9bdc52ce546c2a55bc93e6af13cc5183ca8dc1b90542262"
+    "name": "Pretty Angel"
 }

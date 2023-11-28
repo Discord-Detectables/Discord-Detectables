@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5c728de53b8b267e4028234795bf00b",
     "id": "1124358500634603521",
-    "name": "Billie Bust Up Demo",
-    "publishers": [
-        {
-            "id": "556503564441354240",
-            "name": "Blueprint Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1483200",
-            "sku": "1483200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6e773f9384e0e88598b4e67e9cc88ea21350c55019cf831c70e7bc6868a913bb"
+    "name": "Billie Bust Up Demo"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7f72ac3007ac0194b2597668fa51dff0",
     "id": "1124353877735657583",
-    "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
-    "publishers": [
-        {
-            "id": "521816779509465099",
-            "name": "KOEI TECMO GAMES CO., LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "278080",
-            "sku": "278080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "05f356330cd43aab8945a15649924d735fa4d23f60062b0fe4e3cff930c74e20"
+    "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition"
 }

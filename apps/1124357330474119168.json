@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cb29af1051ec65fbd40583691da35ac3",
     "id": "1124357330474119168",
-    "name": "OkIPullUp",
-    "publishers": [
-        {
-            "id": "1124357330994221149",
-            "name": "AAAAAUGH"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2200470",
-            "sku": "2200470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e96da4cbcf29d8217e40a69eddde2ccf7019a2190fba38cbd41c4fea16d61518"
+    "name": "OkIPullUp"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Ruiner is a top down cyberpunk shooter from developer Reikon Games and publisher Devolver Digital",
-    "developers": [
-        {
-            "id": "521816648278212633",
-            "name": "Reikon Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3547985c6144e72365c5e83fdf99104d",
     "id": "451544819555237888",
-    "name": "RUINER",
-    "publishers": [
-        {
-            "id": "521816648278212633",
-            "name": "Reikon Games"
-        },
-        {
-            "id": "521816510730338331",
-            "name": "Devolver Digital"
-        }
-    ],
-    "splash": "2f5a26f4c0028d718b611e3333f4ca4d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "464060",
-            "sku": "464060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b7c816ee0b644ecda6bf3756bd61ae5129e0a5b0fc95ba89620defc4251b0f2"
+    "name": "RUINER"
 }

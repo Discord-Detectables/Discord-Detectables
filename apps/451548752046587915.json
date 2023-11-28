@@ -1,11 +1,4 @@
 {
-    "description": "Bomber Crew is a game about managing the crew of a Lancaster bomber throughout its WW2 campaign.",
-    "developers": [
-        {
-            "id": "521816568473059339",
-            "name": "Runner Duck"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f3d30214428e568f972c6a929b5a98e5",
     "id": "451548752046587915",
-    "name": "Bomber Crew",
-    "publishers": [
-        {
-            "id": "521816552501411877",
-            "name": "Curve Digital Entertainment"
-        }
-    ],
-    "splash": "bd56789351a718da474c11142fd95ed0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "537800",
-            "sku": "537800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e6f3597d5ec44b92aaf6fd060769b17a81ca2f0a59852768739bc8a16669b294"
+    "name": "Bomber Crew"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f515efecc16c4c5bd27f9ff556883089",
     "id": "1124352903314952224",
-    "name": "Pinball FX3",
-    "publishers": [
-        {
-            "id": "524351982115225612",
-            "name": "Zen Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "442120",
-            "sku": "442120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7fb11b75c7b7a7f797e32b4a96da5b352f09e3cf26005dd6a195eb6b424bb8c7"
+    "name": "Pinball FX3"
 }

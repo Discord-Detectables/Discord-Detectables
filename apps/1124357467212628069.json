@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc6aaed78e0ad5364c029d6c682be55e",
     "id": "1124357467212628069",
-    "name": "Melatonin Demo",
-    "publishers": [
-        {
-            "id": "1124353058000879756",
-            "name": "Half Asleep"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1602790",
-            "sku": "1602790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0c98388cdcc683c5b827f01dcdd7d5dcf90f979f4c86541698a04c1bd517390d"
+    "name": "Melatonin Demo"
 }

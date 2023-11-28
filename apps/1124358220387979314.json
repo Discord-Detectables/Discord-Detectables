@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d55ffb76023684e8ff13d815e13f627a",
     "id": "1124358220387979314",
-    "name": "GNOG",
-    "publishers": [
-        {
-            "id": "565299641705562112",
-            "name": "KO_OP"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "290510",
-            "sku": "290510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2b1f99f0a8f002d72524965a45b618031718b00cd0b93290a4676efc254c296c"
+    "name": "GNOG"
 }

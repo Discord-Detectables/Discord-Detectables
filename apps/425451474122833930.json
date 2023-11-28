@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816738807939111",
-            "name": "Studio Fizbin"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,32 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7e71c55861868330ea8859fb982607b5",
     "id": "425451474122833930",
-    "name": "The Inner World",
-    "primary_sku_id": "469566186133127188",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "slug": "the-inner-world",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "469566186133127188",
-            "sku": "469566186133127188"
-        },
-        {
-            "distributor": "steam",
-            "id": "251430",
-            "sku": "251430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6704b4ef1f6de3a8a92f31e327c850b31c4f6c022c57c1ad5030dcdd78038be3"
+    "name": "The Inner World"
 }

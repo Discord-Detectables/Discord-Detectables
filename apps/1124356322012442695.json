@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9266ab614bdbbff2e65497c38f2dbc17",
     "id": "1124356322012442695",
-    "name": "The Basement Collection",
-    "publishers": [
-        {
-            "id": "1124353190893203627",
-            "name": "Edmund McMillen"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "214790",
-            "sku": "214790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cbef94f9b88346154016d4a7ccc14979027b7148e23dd7446c04a3aacfa45e28"
+    "name": "The Basement Collection"
 }

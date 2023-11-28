@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea650721460855790cab73a9f6d24f98",
     "id": "1124358991133290629",
-    "name": "WW2 Rebuilder Demo",
-    "publishers": [
-        {
-            "id": "1124358991632421004",
-            "name": "Madnetic Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1724250",
-            "sku": "1724250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6c95e4f7225e37c4ecfcb58d26857cb9ad351ea0f51ccd868cd1c6e8cf58ffc"
+    "name": "WW2 Rebuilder Demo"
 }

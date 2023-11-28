@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a65d48edb3dfed804b3a7118a445d8d3",
     "id": "1124359200525537341",
-    "name": "Koi Farm",
-    "publishers": [
-        {
-            "id": "1124359201007878184",
-            "name": "Job Talle"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1518810",
-            "sku": "1518810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "435023fbfb6fc410e71ae21ff58848b7f610f21aba8892ac68c16b78a5461879"
+    "name": "Koi Farm"
 }

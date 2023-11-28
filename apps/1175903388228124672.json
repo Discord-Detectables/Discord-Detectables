@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d26a43c81a26bb94afbfc14344dfffc8",
     "id": "1175903388228124672",
-    "name": "Train Sim World® 4",
-    "publishers": [
-        {
-            "id": "521816625507336192",
-            "name": "Dovetail Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2362300",
-            "sku": "2362300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd3ba4f81040878cfc237a98d86b48dceb3585d19a5b0217be313579e937e760"
+    "name": "Train Sim World® 4"
 }

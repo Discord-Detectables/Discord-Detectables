@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "25530c442e1d79069d5ee5c0f09418c0",
     "id": "1124354012599304224",
-    "name": "Smart Game Booster",
-    "publishers": [
-        {
-            "id": "1124354013094228129",
-            "name": "Smart Game Booster"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1278480",
-            "sku": "1278480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e0a327a7620c0d434baaf775453f0aad1faed2eec0f0ad19d0b4af225831b139"
+    "name": "Smart Game Booster"
 }

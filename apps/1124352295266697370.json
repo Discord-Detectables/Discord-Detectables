@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "29469c6e7eed88555984e23c2049e897",
     "id": "1124352295266697370",
-    "name": "Conflict of Nations: World War 3",
-    "publishers": [
-        {
-            "id": "1124352295702900736",
-            "name": "Dorado Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "784950",
-            "sku": "784950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3e90e205fc997a2e71ad709b55789007e9ffbb0b7cfd72214360900d33f81040"
+    "name": "Conflict of Nations: World War 3"
 }

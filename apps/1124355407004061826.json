@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cde6a3ef2d649e150c74a32d0607b7f4",
     "id": "1124355407004061826",
-    "name": "Plug & Play",
-    "publishers": [
-        {
-            "id": "1124355407486402651",
-            "name": "Mario von Rickenbach"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "353560",
-            "sku": "353560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2bb9c5d52c53a5ed4a081e56c62cdc644680cb55d22bfe8b43c6fb757c10c00a"
+    "name": "Plug & Play"
 }

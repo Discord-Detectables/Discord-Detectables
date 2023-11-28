@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "08459e14e4cb4b33a9d431120612898d",
     "id": "1124359292045242539",
-    "name": "A Place, Forbidden",
-    "publishers": [
-        {
-            "id": "1124359292552761404",
-            "name": "A Team Forbidden"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1333920",
-            "sku": "1333920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2d63e340084a4e28d6e78862f1ffd7e419da770cfe32bf44c06971c0bf04a90f"
+    "name": "A Place, Forbidden"
 }

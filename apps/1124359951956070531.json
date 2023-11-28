@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ee64964e566cdabf6dabf69e647c9699",
     "id": "1124359951956070531",
-    "name": "Let's School Homeroom",
-    "publishers": [
-        {
-            "id": "521816571103019013",
-            "name": "Pathea Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2431660",
-            "sku": "2431660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7118b78514ff04af2b6df0d16a1d715452cd9be19350a4cd3b4e2686674daffc"
+    "name": "Let's School Homeroom"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816672248791067",
-            "name": "NovaLogic, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "991599b3c9afe7777170c99be95d5677",
     "id": "425456638154113044",
-    "name": "Delta Force: Task Force Dagger",
-    "publishers": [
-        {
-            "id": "521816774614974474",
-            "name": "Global Software Publishing Limited"
-        }
-    ],
-    "splash": "745e79566ef20761cd1474b990b0c5b8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "32650",
-            "sku": "32650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea9b34caf8579ebfaf5e7d2b54bc79e1257ed7319cd6cad342513b0ba657071e"
+    "name": "Delta Force: Task Force Dagger"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Legendary swordsman and mercenary Lo Wang is back, and this time he brought friends.",
-    "developers": [
-        {
-            "id": "521816530397298689",
-            "name": "Flying Wild Hog"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d037fa7c6798fcd28e76e21e8ef954d4",
     "id": "451546331639709706",
-    "name": "Shadow Warrior 2",
-    "publishers": [
-        {
-            "id": "521816510730338331",
-            "name": "Devolver Digital"
-        },
-        {
-            "id": "521816530397298689",
-            "name": "Flying Wild Hog"
-        }
-    ],
-    "splash": "f48baae7c630c203e658f3bb01ce68e5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324800",
-            "sku": "324800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b16ae687fe1c70bf28688fca4d992970efd6e035431e53b13801093dab29e4e7"
+    "name": "Shadow Warrior 2"
 }

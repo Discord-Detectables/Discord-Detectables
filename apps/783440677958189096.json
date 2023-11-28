@@ -2,7 +2,6 @@
     "aliases": [
         "Call of Duty Black Ops Cold War"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cefe4242931c2efcf104b8d9e34801ed",
     "id": "783440677958189096",
     "name": "Call of Duty®: Black Ops Cold War",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "599bf81980bfd72a89147a13de746f044372a0c0b7437965a47ddc52f3b376c2"
+    "overlay": true
 }

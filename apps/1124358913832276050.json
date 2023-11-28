@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "82f81781abeb94618dd9d8d5f7a8f595",
     "id": "1124358913832276050",
-    "name": "DoDonPachi Resurrection",
-    "publishers": [
-        {
-            "id": "1124358411006521384",
-            "name": "CAVE Interactive CO.,LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "464450",
-            "sku": "464450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "20000fd1dd5a6ce012718ebb4498f151a7e5b12d6cbe7427181f1c04e8d71f79"
+    "name": "DoDonPachi Resurrection"
 }

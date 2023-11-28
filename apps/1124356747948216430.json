@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "25a0eeae48e2851129b3c7ddff837772",
     "id": "1124356747948216430",
-    "name": "Hotline Miami 2: Wrong Number Digital Comic",
-    "publishers": [
-        {
-            "id": "521816557656080391",
-            "name": "Dennaton Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "341190",
-            "sku": "341190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb3fc4b6dee2be78653a594e42a5d549bfe7d1632e41ab348badb8608543e932"
+    "name": "Hotline Miami 2: Wrong Number Digital Comic"
 }

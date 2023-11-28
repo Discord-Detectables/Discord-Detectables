@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb67d0375d225db6cfad4df00aa4cd53",
     "id": "1124360462469967882",
-    "name": "SAMURAI WARRIORS 4-II",
-    "publishers": [
-        {
-            "id": "521816779509465099",
-            "name": "KOEI TECMO GAMES CO., LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "348470",
-            "sku": "348470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "653e8d9eca51e0e352471093ecf95fe0c03a8a8962787f864eaccc5f4cd15ab3"
+    "name": "SAMURAI WARRIORS 4-II"
 }

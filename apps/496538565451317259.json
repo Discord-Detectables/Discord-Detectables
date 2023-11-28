@@ -2,13 +2,6 @@
     "aliases": [
         "Blake Stone - Planet Strike"
     ],
-    "description": "The sequel to Blake Stone: Aliens of Gold has futuristic secret agent Blake Stone infiltrating an abandoned training facility on the planet Selon, where elusive mad scientist Dr. Goldfire is believed to be creating a dangerous mutant army in a final attempt to conquer humanity.",
-    "developers": [
-        {
-            "id": "521816508167487495",
-            "name": "JAM Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,31 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "193170d756434c1b2eb193f830d51e6e",
     "id": "496538565451317259",
-    "name": "Blake Stone: Planet Strike",
-    "publishers": [
-        {
-            "id": "521816508167487492",
-            "name": "WizardWorks Software"
-        }
-    ],
-    "splash": "31bdd2927be8197652149ba8042152e1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "358310",
-            "sku": "358310"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5d4c34401ebd6f44879ae50698c08a561bd6d6233a83f330214891e0164cde1"
+    "name": "Blake Stone: Planet Strike"
 }

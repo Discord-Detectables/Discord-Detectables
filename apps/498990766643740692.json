@@ -2,13 +2,6 @@
     "aliases": [
         "Ragnarok Online Classic"
     ],
-    "description": "Ragnarok Online is a Korean MMORPG based around the Norse Mythology but with influences from Christianity and Asian Cultures too. It is based off the Korean Manwha \"Ragnarok\".",
-    "developers": [
-        {
-            "id": "521816611036856322",
-            "name": "Gravity Co., Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,26 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "244ecef6723f14a7cb6ca7611d8aab20",
     "id": "498990766643740692",
-    "name": "Ragnarok Online",
-    "publishers": [
-        {
-            "id": "521816610600779778",
-            "name": "Gravity Interactive, Inc."
-        },
-        {
-            "id": "521816611036856320",
-            "name": "Innova Systems"
-        },
-        {
-            "id": "521816611036856321",
-            "name": "Gravity CIS, Inc."
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "48be0a8911eaaa3a0d4758f28aca55a39ed9088389145ba850613f541ee2db92"
+    "name": "Ragnarok Online"
 }

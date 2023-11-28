@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec69e948c023092bc8e6526da7b09a63",
     "id": "1132402453246120006",
-    "name": "The Outer Worlds: Spacer's Choice Edition",
-    "publishers": [
-        {
-            "id": "521816588169510930",
-            "name": "Obsidian Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1920490",
-            "sku": "1920490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e114b1ddea59d5e3e46d4253db35c59f14906f1ce1f358bf59b21f6abd21f199"
+    "name": "The Outer Worlds: Spacer's Choice Edition"
 }

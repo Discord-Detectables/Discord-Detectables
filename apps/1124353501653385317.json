@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f412bf28c95a984a844a14daeaa6f409",
     "id": "1124353501653385317",
-    "name": "Aegis Defenders",
-    "publishers": [
-        {
-            "id": "524352358763986964",
-            "name": "Guts Department"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "371140",
-            "sku": "371140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df3dd988f4ef1f2946e23e57a0150104104b7456844355ee56392f070487449c"
+    "name": "Aegis Defenders"
 }

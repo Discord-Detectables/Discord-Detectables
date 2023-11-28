@@ -2,17 +2,10 @@
     "aliases": [
         "Dead by Daylight"
     ],
-    "description": "Four survivors try to escape a variety of haunted locales, but a supernatural being that feeds on their hope sends a serial murderer to hunt them down in this asymmetrical multiplayer survival-horror game.",
-    "developers": [
-        {
-            "id": "521816611036856323",
-            "name": "Behaviour Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "deadbydaylight.exe",
+            "name": "deadbydaylight-win64-shipping.exe",
             "os": "win32"
         },
         {
@@ -22,40 +15,12 @@
         },
         {
             "is_launcher": false,
-            "name": "deadbydaylight-win64-shipping.exe",
+            "name": "deadbydaylight.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "153566829380370432",
     "hook": true,
-    "icon": "64e7623c9af49f2e7dc7048df16b1013",
     "id": "357607133254254632",
     "name": "Dead by Daylight",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816570520141825",
-            "name": "Starbreeze Studios AB"
-        },
-        {
-            "id": "521816611036856324",
-            "name": "Behaviour Digital Inc."
-        },
-        {
-            "id": "521816611036856324",
-            "name": "Behaviour Digital Inc."
-        }
-    ],
-    "splash": "21f6220ac81c817f2228e4e856b61d23",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "381210",
-            "sku": "381210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f48c74c2e85fb890b82a26ad061487c4df86cdedda1f768dc817eb00ee5783e7"
+    "overlay": true
 }

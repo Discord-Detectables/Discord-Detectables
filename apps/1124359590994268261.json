@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d434be7c479cb6c51726d436dca12b93",
     "id": "1124359590994268261",
-    "name": "Trendpoker 3D: Free Online Poker",
-    "publishers": [
-        {
-            "id": "1124359591505969293",
-            "name": "BufoProject"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1259460",
-            "sku": "1259460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b691cb0edf3d79d5a92d65d0b29a72b7af20510e9afd9497f652b336d2540e4a"
+    "name": "Trendpoker 3D: Free Online Poker"
 }

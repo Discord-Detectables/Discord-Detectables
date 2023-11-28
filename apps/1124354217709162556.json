@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b029ad8d805278b2651417e833a71feb",
     "id": "1124354217709162556",
-    "name": "HighFleet",
-    "publishers": [
-        {
-            "id": "524352113589878792",
-            "name": "Konstantin Koshutin"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1434950",
-            "sku": "1434950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "90c4b24b111b6a1a6343d2f160b0d46c7fdb2e3d6c8b26c8ce318ce5fc2fc589"
+    "name": "HighFleet"
 }

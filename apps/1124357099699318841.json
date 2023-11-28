@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0a2755a0e86e705b225f481c98f73602",
     "id": "1124357099699318841",
-    "name": "Particle Fleet: Emergence",
-    "publishers": [
-        {
-            "id": "521816577876951046",
-            "name": "Knuckle Cracker"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "422900",
-            "sku": "422900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb44d9835381ec52ab63d0178ca72c37f4fed80790359c94381fd1e3db584886"
+    "name": "Particle Fleet: Emergence"
 }

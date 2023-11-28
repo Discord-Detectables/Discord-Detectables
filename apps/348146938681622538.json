@@ -1,12 +1,4 @@
 {
-    "cover_image": "9d413ebc826fc7389496668d1abd2506",
-    "description": "GRIP - return of the Combat Racer!",
-    "developers": [
-        {
-            "id": "521816573485514764",
-            "name": "Caged Element"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,21 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "265503325775069184",
     "hook": true,
-    "icon": "f524b8d55abf434d91148917f6b1ded6",
     "id": "348146938681622538",
-    "name": "GRIP",
-    "splash": "9767329c1db56ac3aee9044f6ddb98a8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "396900",
-            "sku": "396900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c3484586f19ce66bc0dbb38ef1197abb9274b93fa64ab66191dc77c0b3b2f5e2"
+    "name": "GRIP"
 }

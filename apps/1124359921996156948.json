@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dff447bcef8af34fb6a2ebf6e02993ef",
     "id": "1124359921996156948",
-    "name": "Trapped with Jester",
-    "publishers": [
-        {
-            "id": "1124359922428166204",
-            "name": "Anta"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2160000",
-            "sku": "2160000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c5c4bbbf00d3a5ceae4f064b8d3b0f0c30c0b81d03a6c6b3b07087d6ed8e6486"
+    "name": "Trapped with Jester"
 }

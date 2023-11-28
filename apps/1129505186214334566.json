@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "235a5ada4cf165293a91cd351ba61d9b",
     "id": "1129505186214334566",
-    "name": "Tempest",
-    "publishers": [
-        {
-            "id": "1129505187493584987",
-            "name": "Lion's Shade"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "418180",
-            "sku": "418180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b9a48b83cd25acc47698fc0a47e889bd645c2eb50f27523a7187a8ed600b6b10"
+    "name": "Tempest"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "250bab69b94432eea9b9c88e9e5ac0cb",
     "id": "1136661393882492948",
-    "name": "Fortune's Run Demo",
-    "publishers": [
-        {
-            "id": "1136661395413401611",
-            "name": "Team Fortune"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2120860",
-            "sku": "2120860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ba0ff0608b54df38b8ef327b54bccea632d9e83ec01efcd96ce4af1fb459635"
+    "name": "Fortune's Run Demo"
 }

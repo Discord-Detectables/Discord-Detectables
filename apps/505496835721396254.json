@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816572088811559",
-            "name": "Corrupted Pixel LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d817b102363ab23c0bfa89f222b8aed9",
     "id": "505496835721396254",
-    "name": "Rebound Arena",
-    "publishers": [
-        {
-            "id": "521816572088811559",
-            "name": "Corrupted Pixel LLC"
-        }
-    ],
-    "splash": "d6b236c6a0098891036d2a08eb054296",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "701260",
-            "sku": "701260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b968f4f4cfc86ac1f7243b95101599741769503e876de50ab9b7aea3e61687ec"
+    "name": "Rebound Arena"
 }

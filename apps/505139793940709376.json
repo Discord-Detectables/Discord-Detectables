@@ -2,13 +2,6 @@
     "aliases": [
         "Invisible Inc."
     ],
-    "description": "A spy and espionage themed turn-based tactics game from Klei Entertainment.",
-    "developers": [
-        {
-            "id": "521816520817639454",
-            "name": "Klei Entertainment Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,31 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4d2477b49ed2932a1a071a06cfdb12d",
     "id": "505139793940709376",
-    "name": "Invisible, Inc.",
-    "publishers": [
-        {
-            "id": "521816520817639454",
-            "name": "Klei Entertainment Inc."
-        }
-    ],
-    "splash": "6f264b8e1fe7d38e8f79d58cf3238ec7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "243970",
-            "sku": "243970"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc2b5a3cf580e805d1397349d75d0a25b9f86b774b5fe5bc93e60e35287fcf01"
+    "name": "Invisible, Inc."
 }

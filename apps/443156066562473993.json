@@ -1,11 +1,4 @@
 {
-    "description": "A competitive game where up to eight players attempt to penetrate one another using large, colorful phalluses.",
-    "developers": [
-        {
-            "id": "521816734374559754",
-            "name": "Free Lives"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7fc5d523d69169e70eb8b926df4dc06f",
     "id": "443156066562473993",
-    "name": "Genital Jousting",
-    "publishers": [
-        {
-            "id": "521816734374559754",
-            "name": "Free Lives"
-        },
-        {
-            "id": "521816510730338331",
-            "name": "Devolver Digital"
-        }
-    ],
-    "splash": "1986c4b09c9d5fcfa30966ae98bab9e3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "469820",
-            "sku": "469820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7c56311070d0a91c40d603f037cf88ceb7e71d39a4c4c340b0289b4b72042969"
+    "name": "Genital Jousting"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2b5911935565eeefd8d706f150cf41f",
     "id": "1124357600046231622",
-    "name": "Draw a Stickman: EPIC 2",
-    "publishers": [
-        {
-            "id": "524352248998920192",
-            "name": "Hitcents"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "403180",
-            "sku": "403180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e2613e570c1b90328becbe3f81b24939eca3b4e87574e8d90283f19d62ff8255"
+    "name": "Draw a Stickman: EPIC 2"
 }

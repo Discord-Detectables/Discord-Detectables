@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b27e61bc8434611ea46175c82e107b6a",
     "id": "1124358785616592916",
-    "name": "Horse Farm",
-    "publishers": [
-        {
-            "id": "524351667634700312",
-            "name": "Independent Arts Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "821670",
-            "sku": "821670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "382317824f94cadfee7084dd06634a46483720e7bd4a5930992d7df41cfc699f"
+    "name": "Horse Farm"
 }

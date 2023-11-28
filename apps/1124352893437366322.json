@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1c532fb4965439589c0096456fd2806",
     "id": "1124352893437366322",
-    "name": "The Planet Crafter Demo",
-    "publishers": [
-        {
-            "id": "1124352311259574303",
-            "name": "Miju Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1754850",
-            "sku": "1754850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9f511939110528fc4ab543289932dd3ee9f92c73553e9bca83cd75b76f2b0b7"
+    "name": "The Planet Crafter Demo"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,12 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "498981476050927653",
-    "name": "PixelJunk Shooter Ultimate",
-    "summary": "",
-    "type": 1,
-    "verify_key": "a74e5b33a85ce1da95696c77e5be56aff0edda6d362db97b51db540501e78a7c"
+    "name": "PixelJunk Shooter Ultimate"
 }

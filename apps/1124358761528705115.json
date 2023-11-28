@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c88407598db07c7ba088a5c8dea08e77",
     "id": "1124358761528705115",
-    "name": "Party Jousting",
-    "publishers": [
-        {
-            "id": "1124358762078154792",
-            "name": "vikingfabian.com"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "437900",
-            "sku": "437900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9bc61a52ef7c7f8395623df401444848357052f6343f54174c916c5f5104537"
+    "name": "Party Jousting"
 }

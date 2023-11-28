@@ -2,25 +2,19 @@
     "aliases": [
         "The Outer Worlds"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "win64/indianaepicgamestore-win64-shipping.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "indianaepicgamestore-win64-shipping.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "win64/indianaepicgamestore-win64-shipping.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "598ea1149cb3577a1c4b3f3d623071ed",
     "id": "637382434089861160",
-    "name": "The Outer Worlds",
-    "summary": "",
-    "type": 1,
-    "verify_key": "81519c5e8f8b9dd5519e1e732a1c8d3bcf2a6b5c80cd887c93f9641f83903507"
+    "name": "The Outer Worlds"
 }

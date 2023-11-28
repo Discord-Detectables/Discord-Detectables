@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e720fe37a8606ec9d3923925115698d4",
     "id": "1124360555990364312",
-    "name": "Lawyer Guy: Defender of Justice",
-    "publishers": [
-        {
-            "id": "1124360556443357296",
-            "name": "Rob Welch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1451110",
-            "sku": "1451110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "53f73ca160a2a53e59c147d2c2c6debd9364799d1354770ac25cb1dfc17565c9"
+    "name": "Lawyer Guy: Defender of Justice"
 }

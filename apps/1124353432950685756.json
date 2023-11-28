@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2c5951e4653c90d8f0155edba30a8c9",
     "id": "1124353432950685756",
-    "name": "Friends vs Friends",
-    "publishers": [
-        {
-            "id": "524352758510387220",
-            "name": "Brainwash Gang"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1785150",
-            "sku": "1785150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5192170072060fdf359c64b8d615ddb093a89cb7ecf1f61c9849eca7a8017d3b"
+    "name": "Friends vs Friends"
 }

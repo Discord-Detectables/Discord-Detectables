@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "63aa5fea064d6fc4713f0fff462e95da",
     "id": "1124357871124099103",
-    "name": "Blood Bowl 3",
-    "publishers": [
-        {
-            "id": "521816537653444608",
-            "name": "Cyanide Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1016950",
-            "sku": "1016950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "68a880f4e692fbedc23e7b3a94e6dceb901580423b6577c0dea9736f52d24898"
+    "name": "Blood Bowl 3"
 }

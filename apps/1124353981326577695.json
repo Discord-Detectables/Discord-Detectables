@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "27f213e82315bb28532900a0a9b6aa50",
     "id": "1124353981326577695",
-    "name": "UBOAT",
-    "publishers": [
-        {
-            "id": "1124353981871833138",
-            "name": "Deep Water Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "494840",
-            "sku": "494840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1da4600c602523cd71bdaca9430d79ed76eb9dafe4c229b8665086dca813c71d"
+    "name": "UBOAT"
 }

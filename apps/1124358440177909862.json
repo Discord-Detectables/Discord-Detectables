@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb00489e6c4348c3c3af873016096a8f",
     "id": "1124358440177909862",
-    "name": "Power & Revolution 2019 Edition",
-    "publishers": [
-        {
-            "id": "524351999634833410",
-            "name": "Eversim"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1029630",
-            "sku": "1029630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6100fd54a7d105f052942f573b0ecfd0da31af5baf78b3a228f061bb9037fd4"
+    "name": "Power & Revolution 2019 Edition"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "956c000a424f8db9f9a79e628543d903",
     "id": "1124358731895947324",
-    "name": "Sono",
-    "publishers": [
-        {
-            "id": "1124358732457980025",
-            "name": "ChillSwitch Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1218260",
-            "sku": "1218260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9a276ed201f8e9d2724c971ec1aae30190b0e5eb11d401ca8cc698445bde0bcf"
+    "name": "Sono"
 }

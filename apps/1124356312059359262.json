@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab1e70f8043fca850754ed4db5e76a6a",
     "id": "1124356312059359262",
-    "name": "Fate/EXTELLA LINK",
-    "publishers": [
-        {
-            "id": "1124354203360444596",
-            "name": "Marvelous Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "622220",
-            "sku": "622220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "82adc4fc3d56fcffe8bde39c4d1a7ea9c91437075e29b35ecfbc0aedb7b8649f"
+    "name": "Fate/EXTELLA LINK"
 }

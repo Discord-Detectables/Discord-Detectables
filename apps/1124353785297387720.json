@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f664c62e4996955efe48a1075db006b6",
     "id": "1124353785297387720",
-    "name": "Cube Escape Collection",
-    "publishers": [
-        {
-            "id": "524352595905740814",
-            "name": "Rusty Lake"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1292940",
-            "sku": "1292940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9994bc8e3fbe8bd167df84920f7a5f14d126697a678faac9aaa2360c3b08e5d"
+    "name": "Cube Escape Collection"
 }

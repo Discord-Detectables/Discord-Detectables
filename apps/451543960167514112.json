@@ -2,13 +2,6 @@
     "aliases": [
         "Dragon Ball XenoVerse"
     ],
-    "description": "A fighting game for PlayStation 3, PlayStation 4, Xbox 360, Xbox One, and PC set in the Dragon Ball Z universe.",
-    "developers": [
-        {
-            "id": "521816600723324929",
-            "name": "Dimps Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "631ba2ef4d4f062e872afa8084de1c13",
     "id": "451543960167514112",
-    "name": "DRAGON BALL XENOVERSE",
-    "publishers": [
-        {
-            "id": "521816537653444610",
-            "name": "Bandai Namco Entertainment"
-        }
-    ],
-    "splash": "5db10346f9d783458661d53162a0bac8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "323470",
-            "sku": "323470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ee8b87235be31cfc616172ad0fc256b27302ba4dbfba2130bc06ac626697d1af"
+    "name": "DRAGON BALL XENOVERSE"
 }

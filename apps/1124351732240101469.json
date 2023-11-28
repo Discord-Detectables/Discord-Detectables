@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b1197ee2ae1a2ed506a9836133d504ea",
     "id": "1124351732240101469",
-    "name": "Banana Shooter",
-    "publishers": [
-        {
-            "id": "1124351732718260224",
-            "name": "CodingDaniel"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1949740",
-            "sku": "1949740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "95c8c1746eff7448f881f9cd9b02b35b9caa4fa5ba7c66510034a4b98bf5d5a0"
+    "name": "Banana Shooter"
 }

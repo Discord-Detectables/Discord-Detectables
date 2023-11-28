@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1c9f5e903faddd47261390658f3327c5",
     "id": "1124354206090940548",
-    "name": "Tukoni",
-    "publishers": [
-        {
-            "id": "1124354206548115546",
-            "name": "Oksana Bula"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1419860",
-            "sku": "1419860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "41949927838fe2a852d5bc6af29f94c261a31a1ad011e1f89a6aa557e215c11b"
+    "name": "Tukoni"
 }

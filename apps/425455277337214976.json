@@ -2,13 +2,6 @@
     "aliases": [
         "Edna and Harvey Harvey's New Eyes"
     ],
-    "description": "Figure out why Lilli is so sickly sweet in the latest Edna &amp; Harvey release.",
-    "developers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2eb854953bc72ce4851263a8ce1bc7e",
     "id": "425455277337214976",
-    "name": "Edna & Harvey: Harvey's New Eyes",
-    "publishers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
-    "splash": "fe9b681fff8a830b30cab2beb8ec2a71",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "219910",
-            "sku": "219910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1179f56dce5161f026922fd8f9e96fe2de7c184d2f177e2e9d1b7f1399b9398e"
+    "name": "Edna & Harvey: Harvey's New Eyes"
 }

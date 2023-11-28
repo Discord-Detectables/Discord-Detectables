@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b9cb764d8cec99b6d2d71a27ea1e1058",
     "id": "1124351695015661608",
-    "name": "DELTARUNE (Chapter 1 & 2 DEMO)",
-    "publishers": [
-        {
-            "id": "521816499950714883",
-            "name": "tobyfox"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1690940",
-            "sku": "1690940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0da5227f48c34456c2eeba237654106d6ee5e77cbc2332e03c2537fbc958cfa7"
+    "name": "DELTARUNE (Chapter 1 & 2 DEMO)"
 }

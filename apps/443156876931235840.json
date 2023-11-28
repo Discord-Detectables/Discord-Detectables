@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b026b632c235e969b485095ab706b8ae",
     "id": "443156876931235840",
-    "name": "Just Cause™ 3: Multiplayer Mod",
-    "publishers": [
-        {
-            "id": "521816611506880528",
-            "name": "nanos GbR"
-        }
-    ],
-    "splash": "fdb66420db3c232b970bf1965974a6b9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "619910",
-            "sku": "619910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3c21ecaccffc2f28eb6c55e09b6e20d3b85fe93be502f0a9e10f13841fe0deb3"
+    "name": "Just Cause™ 3: Multiplayer Mod"
 }

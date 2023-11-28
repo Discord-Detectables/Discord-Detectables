@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e660f3885b840f19abdc65983bcaab77",
     "id": "1124357529523208292",
-    "name": "Idle Pins",
-    "publishers": [
-        {
-            "id": "1124357530009743400",
-            "name": "Arkshija"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1709920",
-            "sku": "1709920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "08b5b9997d46dee4a0310d7a766e008673f14eb34e3ef199b42207354944e457"
+    "name": "Idle Pins"
 }

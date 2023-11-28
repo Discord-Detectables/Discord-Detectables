@@ -2,13 +2,6 @@
     "aliases": [
         "Descent Underground"
     ],
-    "description": "Descent: Underground is a first person shooter with complete 3D movement, and funded by Kickstarter.",
-    "developers": [
-        {
-            "id": "521816669211983875",
-            "name": "Descendent Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "31f1b94fa55b05d182a42e5f44edd890",
     "id": "425454679854678036",
-    "name": "Descent: Underground",
-    "publishers": [
-        {
-            "id": "521816669211983874",
-            "name": "Descendent Studios Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "360950",
-            "sku": "360950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "867421a5df9a6ee268c8261a2568dbfe7cfdce2debe561ffec3b80a7f27f4473"
+    "name": "Descent: Underground"
 }

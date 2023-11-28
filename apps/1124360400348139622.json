@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4583e65aed7a9ce9dbaad6e5b2f13a0",
     "id": "1124360400348139622",
-    "name": "Painters Guild",
-    "publishers": [
-        {
-            "id": "524352456872689676",
-            "name": "Lucas Molina"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "384550",
-            "sku": "384550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "edc7004248c1d634928519aeafad9eae925367c7d2aea0a3a7070beb47edbd59"
+    "name": "Painters Guild"
 }

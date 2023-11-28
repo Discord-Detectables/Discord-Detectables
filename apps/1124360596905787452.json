@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cac0ad8c590fbc64c99ebc9e23d0d123",
     "id": "1124360596905787452",
-    "name": "Guns, Gore & Cannoli",
-    "publishers": [
-        {
-            "id": "1124356220585783467",
-            "name": "Rogueside"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "322210",
-            "sku": "322210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e341284afb8652f236a9bcd4dd4ab0117b613af052234dcb50748b42ee72e17"
+    "name": "Guns, Gore & Cannoli"
 }

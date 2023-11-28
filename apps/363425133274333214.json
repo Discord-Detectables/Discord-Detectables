@@ -1,11 +1,4 @@
 {
-    "description": "An idle game using the Dungeons &amp; Dragons license.",
-    "developers": [
-        {
-            "id": "521816570029146115",
-            "name": "Codename Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a9ab6c72aad7cae13c18ea1a664900c0",
     "id": "363425133274333214",
-    "name": "Idle Champions of the Forgotten Realms",
-    "publishers": [
-        {
-            "id": "521816570029146115",
-            "name": "Codename Entertainment"
-        }
-    ],
-    "splash": "e48f7f204341f6fbae9d322534a8cd69",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "627690",
-            "sku": "627690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d03a78aafc374ca99f8209e4adaaf52fd111acaba611c6c05e82b2d1b5c30848"
+    "name": "Idle Champions of the Forgotten Realms"
 }

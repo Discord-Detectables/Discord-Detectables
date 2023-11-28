@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fa35305510d63d6839183599f8531a26",
     "id": "1124358586823360592",
-    "name": "SkyIsland",
-    "publishers": [
-        {
-            "id": "1124358587364421702",
-            "name": "Team.Olympus"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2302640",
-            "sku": "2302640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f24088ce424c5b5cad88652fd9ae1ed0cb1d8376d3578a14e740e70c4f01c7fa"
+    "name": "SkyIsland"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e8eeb94bfd33c0bc0aa7fb6fca6d2d69",
     "id": "1124354817482047618",
-    "name": "Drunkn Bar Fight",
-    "publishers": [
-        {
-            "id": "524352888970018829",
-            "name": "The Munky"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "528550",
-            "sku": "528550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "814f5c3831066c77ee65622464a00428175b8951868c9c2a4cbef288080f1dc2"
+    "name": "Drunkn Bar Fight"
 }

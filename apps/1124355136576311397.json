@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1fcb9127adf2601d59d0e5a3bedd5197",
     "id": "1124355136576311397",
-    "name": "Picross Touch",
-    "publishers": [
-        {
-            "id": "1124355137025097839",
-            "name": "Jon Gallant"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "476460",
-            "sku": "476460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "389f7ae163be35437257623ddaaeab7d175560ce0a554df43560c15015b23d69"
+    "name": "Picross Touch"
 }

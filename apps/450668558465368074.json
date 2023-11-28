@@ -1,13 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
-    "developers": [
-        {
-            "id": "521816588169510930",
-            "name": "Obsidian Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -15,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c8c10659f735dd6e7563ebbed483665d",
     "id": "450668558465368074",
-    "name": "Tyranny",
-    "primary_sku_id": "491805220192518146",
-    "publishers": [
-        {
-            "id": "521816588169510930",
-            "name": "Obsidian Entertainment"
-        },
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
-    "slug": "tyranny",
-    "splash": "ed65e97557d94b3464886eba43edbc7e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "491805220192518146",
-            "sku": "491805220192518146"
-        },
-        {
-            "distributor": "steam",
-            "id": "362960",
-            "sku": "362960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca5593a268bc0d7a8d48f3af246163383f675a9421d53182020102f0094dbb05"
+    "name": "Tyranny"
 }

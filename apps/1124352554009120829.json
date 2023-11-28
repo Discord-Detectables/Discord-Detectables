@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16fa1dfcd0282e4d13c97c928f163b7d",
     "id": "1124352554009120829",
-    "name": "Half-Life Deathmatch: Source",
-    "publishers": [
-        {
-            "id": "521816507102003200",
-            "name": "Valve"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "360",
-            "sku": "360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bdefdcb419469c7617e757b3d65a6f208fef173c4a57fe21d785191bce1f8609"
+    "name": "Half-Life Deathmatch: Source"
 }

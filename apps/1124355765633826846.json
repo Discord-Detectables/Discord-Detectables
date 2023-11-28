@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9268c5a370419b0fbe7f9c491f15de63",
     "id": "1124355765633826846",
-    "name": "Burning Daylight",
-    "publishers": [
-        {
-            "id": "1124355766103584859",
-            "name": "Burning Daylight Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1052070",
-            "sku": "1052070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6e2ba2a1df6f840d8b127dc61a460cfd7a6ba622dc66dfb0cafd0b2f38e5cde"
+    "name": "Burning Daylight"
 }

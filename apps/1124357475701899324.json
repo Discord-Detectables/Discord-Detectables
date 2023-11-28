@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e96077e3967863a0ed987934223da982",
     "id": "1124357475701899324",
-    "name": "Airborne Kingdom",
-    "publishers": [
-        {
-            "id": "1124357476175851530",
-            "name": "The Wandering Band LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "982290",
-            "sku": "982290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "407af572346d2096c129db3453b5193b53eb3bcacc52f7709f6615dabe70496e"
+    "name": "Airborne Kingdom"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Race the Sun puts players in a solar-powered aircraft that must avoid obstacles at increasing speeds in an attempt to stay airborne as long as possible in a race against the setting sun. Supports the Oculus Rift for PC.",
-    "developers": [
-        {
-            "id": "521816572088811556",
-            "name": "Flippfly"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "75dbef70aca52c9a1949b78b5c64502a",
     "id": "498988774169116711",
-    "name": "Race The Sun",
-    "publishers": [
-        {
-            "id": "521816572088811556",
-            "name": "Flippfly"
-        }
-    ],
-    "splash": "3506e7b342e352bbcb92325489da9e23",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "253030",
-            "sku": "253030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eae674f04eb91e3c150c7b1e527a8ce8cddfff80f47ff6aa92093e803cb9dcde"
+    "name": "Race The Sun"
 }

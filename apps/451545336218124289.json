@@ -1,11 +1,4 @@
 {
-    "description": "S.T.A.L.K.E.R: Shadow of Chernobyl is a First-Person-Shooter with many Role Playing elements. It's set in the Chernobyl Exclusion Zone after a second fictional explosion in the not too distant future. It is known for its atmosphere and relatively difficult gameplay.",
-    "developers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec70c6b18061d07d52a7d8bcd97b0d94",
     "id": "451545336218124289",
-    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
-    "publishers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        },
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "splash": "d337be244221c9e2d766ae9d4d4675fa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "4500",
-            "sku": "4500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dcbf527b06d63aa970e0c88664f49c38ac0ac0e66173a6fc0065fb18589eaa1d"
+    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl"
 }

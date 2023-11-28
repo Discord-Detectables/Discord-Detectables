@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "43486f6fa57bbb59f24684c74bdfac49",
     "id": "1124353336662052976",
-    "name": "Metal: Hellsinger",
-    "publishers": [
-        {
-            "id": "1124352398366879835",
-            "name": "The Outsiders"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1061910",
-            "sku": "1061910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fe4b8063d62b51d6e76b516ef7672ca4b2c2da33c8e9a4767462207512e2e51c"
+    "name": "Metal: Hellsinger"
 }

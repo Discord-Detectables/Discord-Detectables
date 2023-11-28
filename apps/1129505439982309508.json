@@ -2,9 +2,6 @@
     "aliases": [
         "Lemon Cake"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c62cbdf24ca024e91245f7506343ed19",
     "id": "1129505439982309508",
-    "name": "Lemon Cake",
-    "publishers": [
-        {
-            "id": "1124358656276840479",
-            "name": "Cozy Bee Games"
-        },
-        {
-            "id": "1129505442758934538",
-            "name": "Éloïse Laroche"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1338330",
-            "sku": "1338330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "64d9b78037236e5b2269841b6a7c67a371b36a055121c43cf7985400c857ca86"
+    "name": "Lemon Cake"
 }

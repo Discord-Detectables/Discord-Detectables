@@ -1,11 +1,4 @@
 {
-    "description": "A football management game with new features and improvements.",
-    "developers": [
-        {
-            "id": "521816521731735570",
-            "name": "Sports Interactive Limited"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e29e2af3b7af55c5b2ff782cc96e5f6e",
     "id": "496758937039929370",
-    "name": "Football Manager 2014",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        },
-        {
-            "id": "521816521731735569",
-            "name": "Sports Interactive"
-        }
-    ],
-    "splash": "24784907d28a3c1046d39ff13dc1da04",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "231670",
-            "sku": "231670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "36fbcec6df9eb22f45bb373c3b4690cac4a5d54793f765b6f56213edc0a810e7"
+    "name": "Football Manager 2014"
 }

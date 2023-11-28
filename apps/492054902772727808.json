@@ -1,11 +1,4 @@
 {
-    "description": "Never Split the Party",
-    "developers": [
-        {
-            "id": "521816743828783124",
-            "name": "Legend Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4a8fd2577b2761e940ab9c74caa5319e",
     "id": "492054902772727808",
-    "name": "Never Split the Party",
-    "publishers": [
-        {
-            "id": "521816743828783124",
-            "name": "Legend Studio"
-        }
-    ],
-    "splash": "7a397895be9db081a388a752e2ead291",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "711810",
-            "sku": "711810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "949105b0a5deacfe8458f72df25f23c264908018dc5c62f032cda13e5de3ca3c"
+    "name": "Never Split the Party"
 }

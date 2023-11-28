@@ -1,11 +1,4 @@
 {
-    "description": "A third-person, physics-based puzzle game set within surreal dreamscapes.",
-    "developers": [
-        {
-            "id": "521816552501411879",
-            "name": "No Brakes Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48823134f097206949116832d82dfb28",
     "id": "385538103831429120",
-    "name": "Human: Fall Flat",
-    "publishers": [
-        {
-            "id": "521816552501411877",
-            "name": "Curve Digital Entertainment"
-        },
-        {
-            "id": "521816552501411879",
-            "name": "No Brakes Games"
-        }
-    ],
-    "splash": "0b385438b7e10da626821749ce76c42d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "477160",
-            "sku": "477160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dde32da12bcc94476637002204db9af48200c1a2bda35c1288d70402b13c0388"
+    "name": "Human: Fall Flat"
 }

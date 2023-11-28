@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e0156d7bd17db8edc8519aa0d225c946",
     "id": "1124360118377660416",
-    "name": "Stardeus Demo",
-    "publishers": [
-        {
-            "id": "1124359735387377684",
-            "name": "Kodo Linija"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1719580",
-            "sku": "1719580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "84e553eea195c30b92b5d36a96f4dc48fca346f13aa0bff28e9a142c5d9b9bcc"
+    "name": "Stardeus Demo"
 }

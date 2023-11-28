@@ -1,11 +1,4 @@
 {
-    "description": "Meridian: Squad 22",
-    "developers": [
-        {
-            "id": "521816584612872205",
-            "name": "Elder Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b6f557e1c0dbe201b337461dc79c4a97",
     "id": "425458524865298432",
-    "name": "Meridian: Squad 22",
-    "publishers": [
-        {
-            "id": "521816679785824266",
-            "name": "Merge Games"
-        }
-    ],
-    "splash": "0cdca0d4b0c85629674f67cc2ee77058",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "451400",
-            "sku": "451400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3b289b896b1cefeb8e6e52f2fa9114661719e4af8fa268a7892eaa011114476"
+    "name": "Meridian: Squad 22"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eb12a77220c129f12bdf22f5f5265e26",
     "id": "1124359587387166770",
-    "name": "*NEW* SCUFFED BHOP SIMULATION 2026 GOTY EDITION",
-    "publishers": [
-        {
-            "id": "822638090366746624",
-            "name": "Chris Shanaz"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1823340",
-            "sku": "1823340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4208b15f971f06ae86da290a1a9535c0ed9b1f8f00c5b17006ceee59ce35c31"
+    "name": "*NEW* SCUFFED BHOP SIMULATION 2026 GOTY EDITION"
 }

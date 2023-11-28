@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "318f3ec296511b81f2a823a644c697e5",
     "id": "1124355038677057586",
-    "name": "Axiom Soccer",
-    "publishers": [
-        {
-            "id": "557207877236949016",
-            "name": "Earthbound Games Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "903730",
-            "sku": "903730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e49b6d5e85075c21c4cddb1ecbf3613f153808e4834bf017c16532c2255895f3"
+    "name": "Axiom Soccer"
 }

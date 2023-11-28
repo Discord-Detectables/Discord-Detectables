@@ -1,11 +1,4 @@
 {
-    "description": "An expansion to the Guild 2",
-    "developers": [
-        {
-            "id": "521816804323098635",
-            "name": "4HEAD Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "223545dc35122b7bc16d7ceb21569917",
     "id": "425731435929010195",
-    "name": "The Guild II - Pirates of the European Seas",
-    "publishers": [
-        {
-            "id": "521816528895737860",
-            "name": "JoWooD Productions Software AG"
-        }
-    ],
-    "splash": "5a860de1ae88b3bbd748d748a3d9cf9f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "39660",
-            "sku": "39660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "726dd68d4db247ffd89fd3db8dddc04de1557ec292f3c6915fb7bda2886a6e0e"
+    "name": "The Guild II - Pirates of the European Seas"
 }

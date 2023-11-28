@@ -2,9 +2,6 @@
     "aliases": [
         "여명"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fce82004d5cdf577490ce43051509033",
     "id": "1129504653525143592",
-    "name": "TheDawn",
-    "publishers": [
-        {
-            "id": "1129504654351417344",
-            "name": "LIMITED"
-        },
-        {
-            "id": "1129504654351417344",
-            "name": "LIMITED"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1475380",
-            "sku": "1475380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cbe32990a88dbb57ca0a2359e84fa090eb3e3b46734944298a41cdc96ba35cd2"
+    "name": "TheDawn"
 }

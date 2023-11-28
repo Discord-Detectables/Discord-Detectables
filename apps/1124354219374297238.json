@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e83893d2d746f724ee4fec4c11b65f66",
     "id": "1124354219374297238",
-    "name": "Sexual Void",
-    "publishers": [
-        {
-            "id": "1124354219852443740",
-            "name": "Bad Vices Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1310910",
-            "sku": "1310910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d80be4a3f2c3fb5382cd4ad862b471cb78ba294a4c82906e6e5482546c4b05c"
+    "name": "Sexual Void"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3520197ca19c70b3058f1dca5e5bd060",
     "id": "1124358640959238154",
-    "name": "En Garde! Demo",
-    "publishers": [
-        {
-            "id": "1124358641420619917",
-            "name": "Fireplace Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2375920",
-            "sku": "2375920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7262a9266f14d9227dc7cbcbb69ab1215f23a90ccb8bb2c2d03291f5d0b3a8aa"
+    "name": "En Garde! Demo"
 }

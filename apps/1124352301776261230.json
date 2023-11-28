@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b4c2533d14f88af6913c38edf5d09ba9",
     "id": "1124352301776261230",
-    "name": "PrprLive",
-    "publishers": [
-        {
-            "id": "1124352302250213396",
-            "name": "1-reality"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1279610",
-            "sku": "1279610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "adfa023625489b3a46b84630072f315eb1ab128150d805c5ee15c5ab9beda50a"
+    "name": "PrprLive"
 }

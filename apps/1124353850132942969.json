@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7d4d2e7cfeeda67c81f6258f0cc4f99",
     "id": "1124353850132942969",
-    "name": "Air Brawl",
-    "publishers": [
-        {
-            "id": "521816536210604034",
-            "name": "Landfall"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "375600",
-            "sku": "375600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0da6e4ee3cc63351f04cb3fb851c50c551df2f290e63e565fc1900bf475be7a0"
+    "name": "Air Brawl"
 }

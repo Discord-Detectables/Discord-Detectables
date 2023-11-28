@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1cdff710c25db97db25b1e8e8addabc2",
     "id": "1124353401069776966",
-    "name": "King of Retail",
-    "publishers": [
-        {
-            "id": "1124353401560518806",
-            "name": "Freaking Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "968250",
-            "sku": "968250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b5869658f299e59441fb0f45fa8606551e827c96bf941a9e33a4cf09f6c6dc5b"
+    "name": "King of Retail"
 }

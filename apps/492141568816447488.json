@@ -1,16 +1,4 @@
 {
-    "cover_image": "e02e40b084c89a7e92edcdb6c8ea57c8",
-    "description": "The human race is under assault by a race of machines who seek nothing short of total annihilation.  Wage war on a scale never before seen as your armies battle against a relentless foe in both epic single player matches against powerful AI players or online against human opponents in custom or ranked multiplayer.",
-    "developers": [
-        {
-            "id": "521816531831750658",
-            "name": "Stardock Entertainment"
-        },
-        {
-            "id": "524352523591483414",
-            "name": "Oxide Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "135425716425719809",
     "hook": true,
-    "icon": "e74b85a6234090e7123d91dad3f3c5f2",
     "id": "492141568816447488",
-    "name": "Ashes of the Singularity: Escalation",
-    "primary_sku_id": "492370018450014218",
-    "publishers": [
-        {
-            "id": "521816531831750658",
-            "name": "Stardock Entertainment"
-        }
-    ],
-    "slug": "ashes-of-the-singularity-escalation",
-    "splash": "35aee802f9278f105c663b8c855d315f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "507490",
-            "sku": "507490"
-        },
-        {
-            "distributor": "discord",
-            "id": "492370018450014218",
-            "sku": "492370018450014218"
-        }
-    ],
-    "type": 1,
-    "verify_key": "17efc8bba037e23fc408617b07c6d36f0b93f0f08cce4ad8ca85041a502e6969"
+    "name": "Ashes of the Singularity: Escalation"
 }

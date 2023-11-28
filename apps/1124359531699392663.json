@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ae148f305bffd05f93412010e0ea7d0",
     "id": "1124359531699392663",
-    "name": "Fruity Smoothie",
-    "publishers": [
-        {
-            "id": "1124359532215287839",
-            "name": "Wooden Shoes Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "763230",
-            "sku": "763230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2d8f07095fbd0a50e53f68d49db824c0390a4fd62538ef4a5cc81f97ad1584fc"
+    "name": "Fruity Smoothie"
 }

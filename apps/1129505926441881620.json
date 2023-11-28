@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1df1360dddcb5c049a5404d5285bbfc",
     "id": "1129505926441881620",
-    "name": "A Monster's Expedition",
-    "publishers": [
-        {
-            "id": "1129505927339458580",
-            "name": "Draknek &amp; Friends"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1052990",
-            "sku": "1052990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "99a97ce113ae0b62372f8e8d979855c010d7a5c3e1152cc2f51f22f83a7ac0c0"
+    "name": "A Monster's Expedition"
 }

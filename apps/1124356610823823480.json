@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ce6fd83ccda106fe29698b47f11d955f",
     "id": "1124356610823823480",
-    "name": "Drift Horizon Online",
-    "publishers": [
-        {
-            "id": "1124356611260043314",
-            "name": "JDM4iK Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "491280",
-            "sku": "491280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8361039672b4c8f19d2b90714ecb05d75742060bae3bd3b32a0abdae4c82034f"
+    "name": "Drift Horizon Online"
 }

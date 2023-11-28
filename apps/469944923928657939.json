@@ -2,13 +2,6 @@
     "aliases": [
         "Metal Gear Solid V: Ground Zeroes"
     ],
-    "description": "The stand-alone prelude to Metal Gear Solid V: The Phantom Pain, giving players a taste of the new open-world gameplay mechanics while setting up the main game's story, as Snake (Big Boss) must infiltrate a prison camp to rescue his comrades.",
-    "developers": [
-        {
-            "id": "521816572088811558",
-            "name": "Kojima Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d6c1af42b9748c28334569a3dda3209a",
     "id": "469944923928657939",
-    "name": "METAL GEAR SOLID V: GROUND ZEROES",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
-    "splash": "ba8b78c3b158ee8d02ea5cbbb97477a6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "311340",
-            "sku": "311340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9610b38413a2a3baa37a343bfb1e39564261c253cdb486fabd19780ed6ccf222"
+    "name": "METAL GEAR SOLID V: GROUND ZEROES"
 }

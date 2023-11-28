@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b7b62062ce1f5874804997bd89c51654",
     "id": "1124357473868992522",
-    "name": "Football Manager 2015",
-    "publishers": [
-        {
-            "id": "521816521731735569",
-            "name": "Sports Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "295270",
-            "sku": "295270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "84a96961d0d84a4228e2ace8b8c038da34d6efd62e0f9dd6929b6d796c8052fa"
+    "name": "Football Manager 2015"
 }

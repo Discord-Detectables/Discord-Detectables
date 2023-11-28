@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d6599588b147848defd1dfc7d457de53",
     "id": "1124359069034106940",
-    "name": "Revita",
-    "publishers": [
-        {
-            "id": "556241890664644608",
-            "name": "BenStar"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1175460",
-            "sku": "1175460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cdf8aaf9cad957a674cbba15c2051241750d67db4f2407a6239ef7fb6d652efc"
+    "name": "Revita"
 }

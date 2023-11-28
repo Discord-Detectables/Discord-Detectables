@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "443b27d39e87dde89c68189595ad67c1",
     "id": "1124357633239957614",
-    "name": "AKIBA'S TRIP: Undead & Undressed",
-    "publishers": [
-        {
-            "id": "1124357334139949146",
-            "name": "ACQUIRE Corp."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "333980",
-            "sku": "333980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dbd0896e4688ae713954bc06b8f5ddd3327a139afe1d15fb2523e7b4943e5290"
+    "name": "AKIBA'S TRIP: Undead & Undressed"
 }

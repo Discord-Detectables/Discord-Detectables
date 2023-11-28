@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b7ebe661ce8397ab8e05b91d9f0d8aff",
     "id": "1124355578924380180",
-    "name": "Shoppe Keep 2",
-    "publishers": [
-        {
-            "id": "524353218872999943",
-            "name": "Strange Fire"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "684580",
-            "sku": "684580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b8e701efd53bfb8cf75463c7b3119e5e7224a3ff8af9ceee0fa2922d4d6fdc3"
+    "name": "Shoppe Keep 2"
 }

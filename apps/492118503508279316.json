@@ -1,15 +1,8 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "hoi3_tfh.exe",
+            "name": "hoi3_tfh_kor.exe",
             "os": "win32"
         },
         {
@@ -19,51 +12,16 @@
         },
         {
             "is_launcher": false,
-            "name": "hoi3.exe",
+            "name": "hoi3_tfh.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "hoi3_tfh_kor.exe",
+            "name": "hoi3.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b088017a67047f6669ab10aa61d3a5c8",
     "id": "492118503508279316",
-    "name": "Hearts of Iron III",
-    "primary_sku_id": "492142950487293983",
-    "publishers": [
-        {
-            "id": "521816507676885007",
-            "name": "Paradox Development Studio"
-        },
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
-    "slug": "hearts-of-iron-iii",
-    "splash": "881705024573a232f893b07871060621",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "25890",
-            "sku": "25890"
-        },
-        {
-            "distributor": "discord",
-            "id": "492142950487293983",
-            "sku": "492142950487293983"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "18c808b01265f513653243279433bce651d0c91c9e3f88441133ebdcce8f8709"
+    "name": "Hearts of Iron III"
 }

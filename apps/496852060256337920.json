@@ -1,11 +1,4 @@
 {
-    "description": "Lumini is a relaxing flow-adventure game in which you take your swarm of flying creatures out on an adventure to save your planet.",
-    "developers": [
-        {
-            "id": "521816733200416778",
-            "name": "Speelbaars"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "05db3b55e548267a080a0d7e7bb5fc5f",
     "id": "496852060256337920",
-    "name": "Lumini",
-    "publishers": [
-        {
-            "id": "521816519332855818",
-            "name": "Rising Star Games"
-        }
-    ],
-    "splash": "3dcb709c6b8d958fe5e006451fb06ec1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "360840",
-            "sku": "360840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0b335e74983e19aed157c0bc6268ef097fffcee87c770e8c87fcb003ef36e3a7"
+    "name": "Lumini"
 }

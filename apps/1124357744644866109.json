@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "78cc644c622ba2c3381dbf555e8a43b3",
     "id": "1124357744644866109",
-    "name": "Abandon Ship",
-    "publishers": [
-        {
-            "id": "568470974140383261",
-            "name": "Fireblade Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "551860",
-            "sku": "551860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f0bec13338d8d32b109bd6261e74b9c71e61c6a2410b849fa7f9528674340588"
+    "name": "Abandon Ship"
 }

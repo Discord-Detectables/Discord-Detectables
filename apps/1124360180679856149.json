@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d1038a067cc68c02574400aed0df14d7",
     "id": "1124360180679856149",
-    "name": "Magic Spellslingers",
-    "publishers": [
-        {
-            "id": "1124360181128642681",
-            "name": "Pipeworks Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "720090",
-            "sku": "720090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e8309bad919fa7028f06b0211d3601558788f013751928aca4ea8902347fdedc"
+    "name": "Magic Spellslingers"
 }

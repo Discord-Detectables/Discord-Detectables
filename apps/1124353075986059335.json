@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ac43afabc018e9c81411d4e13323820a",
     "id": "1124353075986059335",
-    "name": "HOT WHEELS UNLEASHED™",
-    "publishers": [
-        {
-            "id": "524351544951439360",
-            "name": "Milestone s.r.l."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1271700",
-            "sku": "1271700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5a0773c5b592b99a7ca28d632a0d575334d7afd7e521381ed03ec1a54f77120"
+    "name": "HOT WHEELS UNLEASHED™"
 }

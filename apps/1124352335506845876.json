@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "91cda988406392da652a002582b0acee",
     "id": "1124352335506845876",
-    "name": "Cockroach Simulator",
-    "publishers": [
-        {
-            "id": "521816572994519040",
-            "name": "HFM Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "527450",
-            "sku": "527450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5f67116a6f53cfb228454b6558f309c546242e82ab1d75123dcbb3e4301c1db1"
+    "name": "Cockroach Simulator"
 }

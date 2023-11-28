@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d9bb7ae29bdb9473de8a4c81137a86fd",
     "id": "1124351858425741404",
-    "name": "MONOPOLY Poker",
-    "publishers": [
-        {
-            "id": "1124351858924859402",
-            "name": "Azerion"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1474700",
-            "sku": "1474700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "77174b11738b00af5bacae9564b0f1c7017ff4a5c06660a7671d58a4b9833e0c"
+    "name": "MONOPOLY Poker"
 }

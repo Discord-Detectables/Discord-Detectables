@@ -2,13 +2,6 @@
     "aliases": [
         "ANNO 2205"
     ],
-    "description": "Latest title in the Anno franchise.",
-    "developers": [
-        {
-            "id": "521816672781336590",
-            "name": "Blue Byte - studio Mainz"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,44 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7b0669639eaa411f686d525789bacfa5",
     "id": "496530253905264659",
-    "name": "Anno 2205",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816672781336584",
-            "name": "Blue Byte"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "splash": "ab7839edb535266a9c54ce394d8e5062",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "375910",
-            "sku": "375910"
-        },
-        {
-            "distributor": "uplay",
-            "id": "1253",
-            "sku": "1253"
-        },
-        {
-            "distributor": "uplay",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "663d74389a0bbf2ad8519ae7d169be0e53b7d7a657c13e4ae09a0279d4e713c4"
+    "name": "Anno 2205"
 }

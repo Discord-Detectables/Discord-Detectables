@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ee3af32f2dd9844c1c1717623dcf2aca",
     "id": "1124358178885357669",
-    "name": "Spellbook Demonslayers",
-    "publishers": [
-        {
-            "id": "1124357885263106129",
-            "name": "Xendra"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2007530",
-            "sku": "2007530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6a2ae7cd3dcd67eef6d1e1bb970a08cd34b290ea23a80b0720d5d141934f1718"
+    "name": "Spellbook Demonslayers"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "410f1e59d218faabac9582e50dd48604",
     "id": "1124357845027147796",
-    "name": "Volgarr the Viking",
-    "publishers": [
-        {
-            "id": "524352230145392662",
-            "name": "Crazy Viking Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "247240",
-            "sku": "247240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2111bf38e07ab003d880d8b722fbfdf51c54ea9ed4799d9f5e6e2b0fa98e3103"
+    "name": "Volgarr the Viking"
 }

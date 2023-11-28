@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "64825f718980a15f61ab2fe58657ff53",
     "id": "1124358792071631028",
-    "name": "Momodora III",
-    "publishers": [
-        {
-            "id": "524352348835807273",
-            "name": "rdein"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "302790",
-            "sku": "302790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1c725a7b48853e611de96f777c50144e0f2d4445be3ad043199684f26f94684c"
+    "name": "Momodora III"
 }

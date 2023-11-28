@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d8160ef99c37b90e1d52dd51b7e53b07",
     "id": "1124356163413229568",
-    "name": "Plokoth",
-    "publishers": [
-        {
-            "id": "1124356163887181914",
-            "name": "Team Plokoth"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1469550",
-            "sku": "1469550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9d20b224c25ac86bae27c1b07a6a7aa0ab81031b07c06205cc963202e1fb4655"
+    "name": "Plokoth"
 }

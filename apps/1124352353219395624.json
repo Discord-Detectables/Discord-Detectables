@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db76961cc0f2491d6776ee2a039cda73",
     "id": "1124352353219395624",
-    "name": "The Survivalists Online Demo",
-    "publishers": [
-        {
-            "id": "521816610600779776",
-            "name": "Team17 Digital Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1311980",
-            "sku": "1311980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d2fd77c9206e6e28cb0c43c4e8fc5f5d9439242203308cd328222c79f436bb0b"
+    "name": "The Survivalists Online Demo"
 }

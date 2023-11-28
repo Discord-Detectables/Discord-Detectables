@@ -2,9 +2,6 @@
     "aliases": [
         "Age of Empires IV: Anniversary Edition"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2377819076ee18e6f4c339cfb509eb94",
     "id": "1129504181414273136",
-    "name": "Age of Empires IV",
-    "publishers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        },
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1466860",
-            "sku": "1466860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1953701ffdbb2f340693cd54bcea34d850055139b7184fb55641fdc78913bf74"
+    "name": "Age of Empires IV"
 }

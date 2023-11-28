@@ -2,9 +2,6 @@
     "aliases": [
         "Resident Evil 0 / biohazard 0 HD REMASTER"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3519b96e560fe92507bd1ec896ed58ff",
     "id": "1129504702879518821",
-    "name": "Resident Evil 0",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "339340",
-            "sku": "339340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0cac0b501c28b9c333077eb2239e6bef347ea719d60f4a7856877b1ac477275f"
+    "name": "Resident Evil 0"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5c2a6bd28f974897d346e9a4cf4d2be",
     "id": "1124355107799191603",
-    "name": "Charlie Murder",
-    "publishers": [
-        {
-            "id": "1124355108252172349",
-            "name": "Ska Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "405290",
-            "sku": "405290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5c6112c454d9758f205ea89bbadac90950d58eee2ccbd1d7af978fc0e9f3a739"
+    "name": "Charlie Murder"
 }

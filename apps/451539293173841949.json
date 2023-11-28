@@ -1,11 +1,4 @@
 {
-    "description": "Armello is a multiplayer card and board game set in a fairy-tale animal kingdom. It is the debut title from League of Geeks.",
-    "developers": [
-        {
-            "id": "521816733728768030",
-            "name": "League of Geeks"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f45ceb2b8c2ac5d4effede49346d21d9",
     "id": "451539293173841949",
-    "name": "Armello",
-    "publishers": [
-        {
-            "id": "521816733728768030",
-            "name": "League of Geeks"
-        }
-    ],
-    "splash": "e24fb113899b8033a9b99a394220c749",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "290340",
-            "sku": "290340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8252f7c157454b60d6b72a3325264fe48509f88769eeac98623b0f22923a0600"
+    "name": "Armello"
 }

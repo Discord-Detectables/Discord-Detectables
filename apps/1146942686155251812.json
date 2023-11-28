@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0fefedc9d3b0df7b84b6bbbb00f1918",
     "id": "1146942686155251812",
-    "name": "Anonymous Hacker Simulator: Prologue",
-    "publishers": [
-        {
-            "id": "1146942687447105566",
-            "name": "Sicarius"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2487070",
-            "sku": "2487070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0f14856d683b267c6bd673804e85e015ff2533f1829c87cf5d1b6d82a4ed2615"
+    "name": "Anonymous Hacker Simulator: Prologue"
 }

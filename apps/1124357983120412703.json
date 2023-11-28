@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a888b576d0a32d4377cc5ce2114f801d",
     "id": "1124357983120412703",
-    "name": "Turing Complete",
-    "publishers": [
-        {
-            "id": "1124357983606947911",
-            "name": "LevelHead"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1444480",
-            "sku": "1444480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "39c7697a476cd410e0a90156729bef300ba868277f8f7f1f388f2499a0cc64a4"
+    "name": "Turing Complete"
 }

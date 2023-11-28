@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d85736d5f00ba53b634d1390aec2112b",
     "id": "1124355506702659644",
-    "name": "Tale of Toast",
-    "publishers": [
-        {
-            "id": "1124355507180818524",
-            "name": "Toasty Leaf AB"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "640150",
-            "sku": "640150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d68b743936eb033899593bcba7322379d8e603d068480f6564b60ded27892be8"
+    "name": "Tale of Toast"
 }

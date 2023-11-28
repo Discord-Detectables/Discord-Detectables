@@ -2,13 +2,6 @@
     "aliases": [
         "Deadly30"
     ],
-    "description": "Deadly 30 is a zombie survival game that combines the run-and-gun and tower defence genres.",
-    "developers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ca6bca632bc9152ec33e492da73cab0f",
     "id": "425454866014404618",
-    "name": "Deadly 30",
-    "publishers": [
-        {
-            "id": "521816623976415269",
-            "name": "Meridian4"
-        }
-    ],
-    "splash": "34f43be1ae72b724839d976a44b77ba7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "264730",
-            "sku": "264730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "09744b03184038d85e7a7290a815a2e1cdcb50a5d8a3d60f2e24f084ef04a49e"
+    "name": "Deadly 30"
 }

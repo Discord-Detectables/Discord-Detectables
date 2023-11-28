@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cbe638b4d217b6b4329a655f9cd738ae",
     "id": "1124358351527104652",
-    "name": "Prey: Typhon Hunter",
-    "publishers": [
-        {
-            "id": "521816618586734593",
-            "name": "Arkane Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "741820",
-            "sku": "741820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a2d49b9269a1e004b1687ee8cdb52abc56f392dabc5bfef10c6d0286ce6e8cd7"
+    "name": "Prey: Typhon Hunter"
 }

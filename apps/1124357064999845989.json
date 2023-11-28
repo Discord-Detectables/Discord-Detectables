@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f11fd0baea431ab485cd23345367a316",
     "id": "1124357064999845989",
-    "name": "Split/Second",
-    "publishers": [
-        {
-            "id": "524351991183310862",
-            "name": "Black Rock Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "297860",
-            "sku": "297860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ced0d3c33210daa170d123282b67e6241bd02d29701d5c289e75c51f31d410c5"
+    "name": "Split/Second"
 }

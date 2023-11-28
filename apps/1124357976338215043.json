@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "250aec82c6ece1c15ed02950ec0ca2b7",
     "id": "1124357976338215043",
-    "name": "Golf Defied",
-    "publishers": [
-        {
-            "id": "1124357976791208057",
-            "name": "Avelog"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1085150",
-            "sku": "1085150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78b628782632513b9bb6606f348b3cc901e21a1b056f86262a69b2f6361e13c7"
+    "name": "Golf Defied"
 }

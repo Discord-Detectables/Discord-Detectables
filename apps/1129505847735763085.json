@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a94aede127abd6f663ed04afa7e37327",
     "id": "1129505847735763085",
-    "name": "Industry Giant 2",
-    "publishers": [
-        {
-            "id": "1129505849006628884",
-            "name": "Fancy Bytes, Reactor"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "271360",
-            "sku": "271360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2f070eb88cd4adbb5efc1e1b5118ece123674750e749e7d01d371caffe141655"
+    "name": "Industry Giant 2"
 }

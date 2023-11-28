@@ -3,19 +3,7 @@
         "Morrowind Launcher",
         "The Elder Scrolls III: Morrowind"
     ],
-    "description": "The third entry in Bethesda's series of expansive first-person role-playing games. Arriving on the island of Vvardenfell as a prisoner, the player character is caught up in an ancient prophecy, as well as a power struggle between factions, races, and gods incarnate.",
-    "developers": [
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "morrowind/mgexegui.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "mlox/mlox.exe",
@@ -23,7 +11,7 @@
         },
         {
             "is_launcher": false,
-            "name": "morrowind/morrowind code patch.exe",
+            "name": "morrowind/mgexegui.exe",
             "os": "win32"
         },
         {
@@ -33,51 +21,17 @@
         },
         {
             "is_launcher": false,
+            "name": "morrowind/morrowind code patch.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "morrowind.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c565e3d039791a8d128a54dc673937e0",
     "id": "451539197044719616",
     "name": "The Elder Scrolls III: Morrowind",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        }
-    ],
-    "splash": "44f0ac79a586d0afd43e3b2227e1b675",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "22320",
-            "sku": "22320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3784173cfff40bd739b644353e08c6e0934120d5e288cba6025e9c4dbbd3ab4d"
+    "overlay": true
 }

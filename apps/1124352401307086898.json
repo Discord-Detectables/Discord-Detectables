@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "da8968f7f001d85dfc3bf14d820842b8",
     "id": "1124352401307086898",
-    "name": "Have a Nice Death",
-    "publishers": [
-        {
-            "id": "524774386838929420",
-            "name": "Magic Design Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1740720",
-            "sku": "1740720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3b9c8176d68cb6f02fab49002477be4e9972be480347dcac5884d2b5c2b076f5"
+    "name": "Have a Nice Death"
 }

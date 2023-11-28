@@ -1,11 +1,4 @@
 {
-    "description": "A Kickstarter-funded platformer that utilizes movement inspired by Super Smash Bros. Melee.",
-    "developers": [
-        {
-            "id": "521816787952599061",
-            "name": "rologfos"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b760863b41ee7bdd56d26cb867d0f167",
     "id": "504086615132733450",
-    "name": "WaveLand",
-    "publishers": [
-        {
-            "id": "521816787952599061",
-            "name": "rologfos"
-        }
-    ],
-    "splash": "1727318af7705bb8c9748ded756706d4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "532170",
-            "sku": "532170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb6ac8d8f8cb7c57881e8328baf7b1bf20c3f95aa1c13818b84b14922d5a8f00"
+    "name": "WaveLand"
 }

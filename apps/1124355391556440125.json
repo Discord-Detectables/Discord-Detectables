@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d75b1b0517a9ddf64b05dd22698b49c9",
     "id": "1124355391556440125",
-    "name": "Good Company",
-    "publishers": [
-        {
-            "id": "524352212718059532",
-            "name": "Chasing Carrots"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "911430",
-            "sku": "911430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "276ea1580be630a9edb1718beefb668822b127dad6f1cbd3dbf13ef072812783"
+    "name": "Good Company"
 }

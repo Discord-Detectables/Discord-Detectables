@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b3d9f97361c09490d65c29997c518174",
     "id": "1124352694002397234",
-    "name": "Dungeon Painter Studio",
-    "publishers": [
-        {
-            "id": "1124352694493139004",
-            "name": "Pyromancers.com"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "592260",
-            "sku": "592260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ee55c52d949780ce0f378186a0c2c005d84d5b006a63c542dcac8920903109b1"
+    "name": "Dungeon Painter Studio"
 }

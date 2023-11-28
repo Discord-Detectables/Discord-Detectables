@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816542707449859",
-            "name": "Animation Arts Creative GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d2812beaf4e91ea612abef5f886a0115",
     "id": "425456853070118922",
-    "name": "Lost Horizon",
-    "primary_sku_id": "474763274060038154",
-    "publishers": [
-        {
-            "id": "521816552501411875",
-            "name": "Animation Arts"
-        },
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "slug": "lost-horizon",
-    "splash": "94bf69d648b9ea4ed7ea819ef0455a0c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "474763274060038154",
-            "sku": "474763274060038154"
-        },
-        {
-            "distributor": "steam",
-            "id": "40350",
-            "sku": "40350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cfce40d265b6818064c5d5d9bf001d0336f39fc540ec39b4dd5246b31e4f6fd8"
+    "name": "Lost Horizon"
 }

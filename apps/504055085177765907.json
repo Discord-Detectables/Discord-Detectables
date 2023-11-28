@@ -1,11 +1,4 @@
 {
-    "description": "Genre veterans S2 Games deliver a \"second generation MOBA\" designed from the ground up to reduce player toxicity.",
-    "developers": [
-        {
-            "id": "521816592674193435",
-            "name": "S2 Games, LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "086553454551539bb4f5512d79aea07b",
     "id": "504055085177765907",
-    "name": "Strife",
-    "publishers": [
-        {
-            "id": "521816592674193435",
-            "name": "S2 Games, LLC"
-        }
-    ],
-    "splash": "682a6b177ac28ebfd56006106692e81c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "339280",
-            "sku": "339280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "764b06e9ef18db5de3a48479fea2ff105e2b465b3e2e67a3cb588ef1ace3ce65"
+    "name": "Strife"
 }

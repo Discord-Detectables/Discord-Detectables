@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "678f2c0beb14a1a025d6a1536baf7dfa",
     "id": "1176190385614246039",
-    "name": "Cuisineer",
-    "publishers": [
-        {
-            "id": "1176190388319563857",
-            "name": "BattleBrew Productions"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1963570",
-            "sku": "1963570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "adffa6579e6395c6b0460a8c34339a598fdb82165386f272943006aa172400d8"
+    "name": "Cuisineer"
 }

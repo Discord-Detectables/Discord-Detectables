@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c5d16bbc2fd8b5d0b9d7bd09753f9e64",
     "id": "425778620187803658",
-    "name": "DiRT 3 Complete Edition",
-    "publishers": [
-        {
-            "id": "521816592208756748",
-            "name": "Codemasters Racing Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "321040",
-            "sku": "321040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a20c971102bd27fac392cee302927eca42d1c2abe644064dc9945f51d6691b9b"
+    "name": "DiRT 3 Complete Edition"
 }

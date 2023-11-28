@@ -1,11 +1,4 @@
 {
-    "description": "Master Reboot is a psychological first person puzzle game by Wales Interactive.",
-    "developers": [
-        {
-            "id": "521816645774082055",
-            "name": "Wales Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8cc0b628d5d7768ebc736ff9f66bf0b0",
     "id": "496853347505012746",
-    "name": "Master Reboot",
-    "publishers": [
-        {
-            "id": "521816645774082055",
-            "name": "Wales Interactive"
-        }
-    ],
-    "splash": "2516d684aa5c91759a5a14afcf28bd30",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "251850",
-            "sku": "251850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d0aa7fcb4eac4c3e917f74743d793b22bfee3adc40ab274a3c2b254d1e79b2bb"
+    "name": "Master Reboot"
 }

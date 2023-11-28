@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4f7fd190335dfdf366761557bc38134",
     "id": "1124358363199852625",
-    "name": "Vox Machinae",
-    "publishers": [
-        {
-            "id": "524352209907875844",
-            "name": "Space Bullet Dynamics Corporation"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "334540",
-            "sku": "334540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9b277733c0bd4c463faf3c1c2753f8833e7aa1a4f96a744735bb73a878d9ad39"
+    "name": "Vox Machinae"
 }

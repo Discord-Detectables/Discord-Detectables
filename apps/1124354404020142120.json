@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4511180b1b8bb9e1a1da4a5a923e514a",
     "id": "1124354404020142120",
-    "name": "The White Door",
-    "publishers": [
-        {
-            "id": "524352595905740814",
-            "name": "Rusty Lake"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1145960",
-            "sku": "1145960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b91a3151179737b49c7f566b2adb70f5590aa35b772f310b031ace43cb1d3e25"
+    "name": "The White Door"
 }

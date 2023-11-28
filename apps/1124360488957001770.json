@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc22450d856ac075f49190cd5549044f",
     "id": "1124360488957001770",
-    "name": "WASTED",
-    "publishers": [
-        {
-            "id": "524352585596141578",
-            "name": "Mr. Podunkian"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "327510",
-            "sku": "327510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "debc83e828a2ae0701ab1972ddfffc4e0fdd4de8396a64f9ec4d672be48c56d2"
+    "name": "WASTED"
 }

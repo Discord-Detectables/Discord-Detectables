@@ -2,9 +2,6 @@
     "aliases": [
         "Mega Man 11 / Rock Man 11"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "681f21b3d89ecaff6fcb7d27a1aae322",
     "id": "1129505212688769175",
-    "name": "Mega Man 11",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "742300",
-            "sku": "742300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4b6f58f7a0559777ecb9ce178ed211cbd9d025432d8163276516a477c484f034"
+    "name": "Mega Man 11"
 }

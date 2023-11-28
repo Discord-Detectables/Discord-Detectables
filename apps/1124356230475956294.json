@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "01b25a0bdfe1d53c0299de3ec8b6ac4c",
     "id": "1124356230475956294",
-    "name": "Digimon Survive",
-    "publishers": [
-        {
-            "id": "1124356230949908570",
-            "name": "HYDE, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "871980",
-            "sku": "871980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0f044feb9ad68642cd60c07798f4a170b30f6174e11d9a95f7742bb50a0586e6"
+    "name": "Digimon Survive"
 }

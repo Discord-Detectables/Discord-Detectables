@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea0821283fb225dea9594d3f9683b034",
     "id": "1124351804977721455",
-    "name": "The Henry Stickmin Collection",
-    "publishers": [
-        {
-            "id": "1124351805539766352",
-            "name": "PuffballsUnited"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1089980",
-            "sku": "1089980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c9bec29b02745d4fa2452c200b8fa14bc7ac1eb053777e9c90b8b90ca1817539"
+    "name": "The Henry Stickmin Collection"
 }

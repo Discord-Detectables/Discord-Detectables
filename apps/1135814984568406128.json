@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5422049ada92d5b5ee9426e7e006321",
     "id": "1135814984568406128",
-    "name": "Only Climb: Better Together",
-    "publishers": [
-        {
-            "id": "1135814987336663082",
-            "name": "Exbyte Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2500750",
-            "sku": "2500750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "994cffec88a3014af46bbfffd5d6238633247e9bfcf5fefb0bcda09fec94b766"
+    "name": "Only Climb: Better Together"
 }

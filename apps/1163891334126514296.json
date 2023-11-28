@@ -2,9 +2,6 @@
     "aliases": [
         "Madden NFL 21"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab7598d810e57565cc549b2e88de17db",
     "id": "1163891334126514296",
-    "name": "Madden NFL 21",
-    "publishers": [
-        {
-            "id": "542075586886107157",
-            "name": "Electronic Arts, Inc."
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "1640f5d250a084f5bc3bb6a5b9ee831a4472656d2ef081e6a60c4a4ab86771f6"
+    "name": "Madden NFL 21"
 }

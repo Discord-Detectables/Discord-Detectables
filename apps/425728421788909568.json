@@ -1,11 +1,4 @@
 {
-    "description": "Prince of Persia: The Sands of Time is an action-adventure game with a heavy focus on platforming. The story revolves around the wry Prince, a time-altering dagger, and a kingdom beset by a plague-like evil.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cb88c9dc052a5bcf35c17900f747fe23",
     "id": "425728421788909568",
-    "name": "Prince of Persia: The Sands of Time",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "a2a50a1615d513a35584165b61f571f1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "13600",
-            "sku": "13600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "60f0756347e4b00e21728926e3b559f010f2e3923cf62b3190c103628e60078f"
+    "name": "Prince of Persia: The Sands of Time"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A sandbox game based on Ark: Survival Evolved developed by Snail Games (licensed by Studio Wildcard).",
-    "developers": [
-        {
-            "id": "521816522302423050",
-            "name": "Snail Games USA Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c0de7bef51e15778e64a185241e7911c",
     "id": "443165450424156160",
-    "name": "PixARK",
-    "publishers": [
-        {
-            "id": "521816522302423050",
-            "name": "Snail Games USA Inc."
-        },
-        {
-            "id": "521816522302423051",
-            "name": "Snail Games USA"
-        }
-    ],
-    "splash": "d1752f0980ec2a4730a69687cb576862",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "593600",
-            "sku": "593600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "db6bf1f11f83804d49562464c3bb7b46655e961ef1c4890a0b97e10892a043dc"
+    "name": "PixARK"
 }

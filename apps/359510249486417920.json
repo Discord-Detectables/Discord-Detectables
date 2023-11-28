@@ -3,13 +3,6 @@
         "The Witcher 3",
         "The Witcher 3: Wild Hunt - Game of the Year Edition"
     ],
-    "description": "CD Projekt RED's third Witcher combines the series' non-linear storytelling with a sprawling open world that concludes the saga of Geralt of Rivia.",
-    "developers": [
-        {
-            "id": "521816536210604032",
-            "name": "CD Projekt RED Sp. z o.o."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,31 +10,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e62d3b1c9f547792347121cac397fd9c",
     "id": "359510249486417920",
     "name": "The Witcher 3: Wild Hunt",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816536210604032",
-            "name": "CD Projekt RED Sp. z o.o."
-        },
-        {
-            "id": "521816596172505088",
-            "name": "CD PROJEKT RED"
-        }
-    ],
-    "splash": "98063feaceb2847e8435496bbda26135",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "292030",
-            "sku": "292030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79a2e846a6368402ba57069a4db66610c7bf2a10453f161be046d30713c3adec"
+    "overlay": true
 }

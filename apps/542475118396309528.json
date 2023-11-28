@@ -2,50 +2,19 @@
     "aliases": [
         "Warhammer: Vermintide 2"
     ],
-    "description": "The rat-like Skaven hordes are teaming up with the Chaos menace from the north to invade the Empire, and it's up to the five Heroes of Ubersreik to fend them off.",
-    "developers": [
-        {
-            "id": "521816633392627715",
-            "name": "Fatshark AB"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "binaries_dx12/vermintide2_dx12.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "binaries/vermintide2.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "283579612695625729",
-    "hook": true,
-    "icon": "3cba3f7745778fc9dba79f7b6a487def",
-    "id": "542475118396309528",
-    "name": "Warhammer: Vermintide 2",
-    "publishers": [
-        {
-            "id": "521816633392627715",
-            "name": "Fatshark AB"
         },
         {
-            "id": "542475118396309529",
-            "name": "Fatshark"
+            "is_launcher": false,
+            "name": "binaries_dx12/vermintide2_dx12.exe",
+            "os": "win32"
         }
     ],
-    "splash": "39db623620249b09f27bb9ed94d481f4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "552500",
-            "sku": "552500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6e508442b8ac570e953f52a1a1434a93541ef247c54263cc9199ba2e59e05c0f"
+    "hook": true,
+    "id": "542475118396309528",
+    "name": "Warhammer: Vermintide 2"
 }

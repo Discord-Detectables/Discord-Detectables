@@ -1,11 +1,4 @@
 {
-    "description": "Survival game based on the Conan universe.",
-    "developers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,30 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d738d2fa8f6d3ab5db02d75ccedfb21",
     "id": "443524051999260672",
-    "name": "Conan Exiles",
-    "publishers": [
-        {
-            "id": "521816606318264330",
-            "name": "Funcom"
-        },
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
-    "splash": "817adefad0fa2370821607da24e4f647",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "440900",
-            "sku": "440900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "22360b9d1aa906847f4b1b71ae71c07c2c0e902373587663850d7abb23e8f833"
+    "name": "Conan Exiles"
 }

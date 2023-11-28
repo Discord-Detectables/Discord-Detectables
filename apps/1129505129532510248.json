@@ -2,9 +2,6 @@
     "aliases": [
         "Star Realms"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b805a86374e070000a7499c49137e306",
     "id": "1129505129532510248",
-    "name": "Star Realms",
-    "publishers": [
-        {
-            "id": "524352391626227716",
-            "name": "White Wizard Games"
-        },
-        {
-            "id": "1129505134683111535",
-            "name": "Wise Wizard Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "438140",
-            "sku": "438140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "592f0538db01009afeb990d60272353e96cc5f6c98cdfb0bfea915addae625fc"
+    "name": "Star Realms"
 }

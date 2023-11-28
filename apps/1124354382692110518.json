@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f283362994738fc553b71fff9e5aa486",
     "id": "1124354382692110518",
-    "name": "Valley",
-    "publishers": [
-        {
-            "id": "524352183655727116",
-            "name": "Blue Isle Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "378610",
-            "sku": "378610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f77493045060f5b07f802080d1f9aa9d144d396e0d16a2fe446cc621fffed404"
+    "name": "Valley"
 }

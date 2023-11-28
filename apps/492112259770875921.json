@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816570520141825",
-            "name": "Starbreeze Studios AB"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "691d2b7a7aef59e74a68713212994b56",
     "id": "492112259770875921",
-    "name": "Brothers - A Tale of Two Sons",
-    "primary_sku_id": "492136230452985864",
-    "publishers": [
-        {
-            "id": "521816570520141824",
-            "name": "505 Games"
-        },
-        {
-            "id": "521816570520141825",
-            "name": "Starbreeze Studios AB"
-        }
-    ],
-    "slug": "brothers-a-tale-of-two-sons",
-    "splash": "9cdb46490aebad90451fa275c1a2aeb0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "225080",
-            "sku": "225080"
-        },
-        {
-            "distributor": "discord",
-            "id": "492136230452985864",
-            "sku": "492136230452985864"
-        }
-    ],
-    "type": 1,
-    "verify_key": "db7a2737a873ed4194065c32ef34576181dc21a35436406afc088be88fbf3104"
+    "name": "Brothers - A Tale of Two Sons"
 }

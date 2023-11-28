@@ -2,7 +2,6 @@
     "aliases": [
         "Assassin's Creed Valhalla"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "605cc6df7de5c999c15ac96819df7698",
     "id": "775754545778786314",
-    "name": "Assassin's Creed Valhalla",
-    "publishers": [
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "13504",
-            "sku": "13504"
-        }
-    ],
-    "type": 1,
-    "verify_key": "09103ffe36096c03497c0e91adde936efcc98dd9f79b651d432e280e882712f6"
+    "name": "Assassin's Creed Valhalla"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a122461d55ffd9626bc13c69049990e",
     "id": "1124354049827942430",
-    "name": "Caveblazers",
-    "publishers": [
-        {
-            "id": "1124354050285129798",
-            "name": "Deadpan Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "452060",
-            "sku": "452060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5031c2acd6c0fe283a420a361d29138fb894220eeaaea1aadeba5c53315ec3fe"
+    "name": "Caveblazers"
 }

@@ -1,19 +1,4 @@
 {
-    "description": "This second installment concludes TT Games' LEGO-based take on the Harry Potter heptalogy, offering more of the standard LEGO smashing, building, and collecting mayhem.",
-    "developers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        },
-        {
-            "id": "524352288249348097",
-            "name": "TT Fusion"
-        },
-        {
-            "id": "521816542707449856",
-            "name": "Traveller's Tales Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "76684936adbfa380dde68bd368e0598c",
     "id": "535384357536399404",
-    "name": "LEGO Harry Potter: Years 5-7",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "4ff6de8702ade1bae8a2f6effb47ef53",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204120",
-            "sku": "204120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72d2755b9fca61d16633628412f349ebe07d71a5ef64b796154d424cbad33d7b"
+    "name": "LEGO Harry Potter: Years 5-7"
 }

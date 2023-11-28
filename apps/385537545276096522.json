@@ -3,51 +3,21 @@
         "H1Z1 LaunchPad",
         "H1Z1 Launcher"
     ],
-    "description": "Originally a separate PVP mode of the open-world survival-horror shooter now known as \"Just Survive\", H1Z1 pits upwards to 150 players in a large empty island to scavenge for gear and fight to the death. It was later made free-to-play.",
-    "developers": [
-        {
-            "id": "521816500974256130",
-            "name": "Daybreak Games"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "h1z1/h1z1.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "h1z1/h1z1_be.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "h1z1/h1z1.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b09790c0ec1826b9f45ab8d00a467a1e",
     "id": "385537545276096522",
     "name": "H1Z1",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816717291421726",
-            "name": "Daybreak Game Company"
-        },
-        {
-            "id": "521816500974256130",
-            "name": "Daybreak Games"
-        }
-    ],
-    "splash": "1453c838e2d55cf3e9a896ae212eb214",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "433850",
-            "sku": "433850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "23606bf307cf949784cec088e54c5600872ae9c58dacde6feb4a628389b1c370"
+    "overlay_compatibility_hook": true
 }

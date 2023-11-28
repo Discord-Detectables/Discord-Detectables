@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7c62aceb2e98e7a1f09079e723ae7cf3",
     "id": "1124358091140513822",
-    "name": "The Drift Challenge",
-    "publishers": [
-        {
-            "id": "1124358091610271764",
-            "name": "Vencious Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1106140",
-            "sku": "1106140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "470c291bbbeb4e4db245a8b01f8b0886b1334ac796e3e926e9ee114b95bf07e6"
+    "name": "The Drift Challenge"
 }

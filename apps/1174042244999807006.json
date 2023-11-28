@@ -2,9 +2,6 @@
     "aliases": [
         "Worms Ultimate Mayhem"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9e6cec069d8d12b18bcbee18cb0eff4a",
     "id": "1174042244999807006",
-    "name": "Worms Ultimate Mayhem",
-    "publishers": [
-        {
-            "id": "521816610600779776",
-            "name": "Team17 Digital Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "70600",
-            "sku": "70600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "57e7fbac72c9847bf0e4e20263df42ecc05cd88a49619dc729c25eb273d447c8"
+    "name": "Worms Ultimate Mayhem"
 }

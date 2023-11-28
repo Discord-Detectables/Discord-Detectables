@@ -1,11 +1,4 @@
 {
-    "description": "Stylish, ludicrous kills net big points in this ridiculously over-the-top first-person shooter.",
-    "developers": [
-        {
-            "id": "521816615457783829",
-            "name": "People Can Fly"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,38 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0771503b5d235c2f93b70faf32521daa",
     "id": "496540681913892864",
-    "name": "Bulletstorm",
-    "publishers": [
-        {
-            "id": "521816615457783818",
-            "name": "Epic Games"
-        },
-        {
-            "id": "521816615457783823",
-            "name": "R.G. Revenants"
-        },
-        {
-            "id": "521816615457783829",
-            "name": "People Can Fly"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "99810",
-            "sku": "99810"
-        },
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "047fda953441c7b2e39dd5a8125c5c81a2b173960526b886dcd5e4a8b70a941f"
+    "name": "Bulletstorm"
 }

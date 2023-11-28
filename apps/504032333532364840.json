@@ -1,11 +1,4 @@
 {
-    "description": "An online-focused shooter based on the tabletop RPG of the same name, giving players modern weapons as well as various magic abilities. It was the first game to allow cross-platform play between Xbox 360 and PC players on the same servers.",
-    "developers": [
-        {
-            "id": "521816735280660492",
-            "name": "FASA Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "32cbbe0cb110bd1cfe54abcdce6c2bb7",
     "id": "504032333532364840",
-    "name": "Shadowrun",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "928d7be66bb242c55d6993d433f23f8c2fef23d40943a91923a52d0f4d0ea691"
+    "name": "Shadowrun"
 }

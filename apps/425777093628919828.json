@@ -1,47 +1,18 @@
 {
-    "description": "The sequel to 2007’s wildly successful first-person-shooter Call of Duty 4: Modern Warfare, Call of Duty: Modern Warfare 2 continues the story of American and British soldiers fighting Russian ultra-nationalist forces.",
-    "developers": [
-        {
-            "id": "521816501544550406",
-            "name": "Infinity Ward"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "iw4sp.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "iw4mp.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "a66c1c84dbce91b61907bd9e985f8a4c",
-    "id": "425777093628919828",
-    "name": "Call of Duty: Modern Warfare 2",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
         },
         {
-            "id": "521816501544550406",
-            "name": "Infinity Ward"
+            "is_launcher": false,
+            "name": "iw4sp.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "10180",
-            "sku": "10180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aa4f18d61e3f1d2b8d0cb2d869711d90bf9d6f52ad8f129f0717b62f3ca06232"
+    "hook": true,
+    "id": "425777093628919828",
+    "name": "Call of Duty: Modern Warfare 2",
+    "overlay": true
 }

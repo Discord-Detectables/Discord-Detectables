@@ -1,11 +1,4 @@
 {
-    "description": "Several years after the Black Mesa disaster, Gordon Freeman awakens from stasis to aid a resistance movement against the Combine, a collective of trans-dimensional aliens that have conquered Earth.",
-    "developers": [
-        {
-            "id": "521816530393104394",
-            "name": "Valve Corporation"
-        }
-    ],
     "executables": [
         {
             "arguments": "-game hl2",
@@ -26,26 +19,7 @@
             "os": "darwin"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "45ac0bc7f739607366bca0b4dc4c7918",
     "id": "359510373361254400",
-    "name": "Half-Life 2",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "splash": "464116a6d262e1725f69b88d1488111b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "220",
-            "sku": "220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e64966f19487376d8aa1e162b577a6a244cec7130a8c7fd569e62d59839dfe3"
+    "name": "Half-Life 2"
 }

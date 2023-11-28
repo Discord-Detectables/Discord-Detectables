@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "047131273936a9d5332da26a0c4dc26b",
     "id": "1124359306360406047",
-    "name": "Slenderman Demo",
-    "publishers": [
-        {
-            "id": "1124359306838552686",
-            "name": "Skatoony (Raul)"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1657410",
-            "sku": "1657410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4cb498006cc527557f6761e49d68a35c0ac2c6689128bf9fed6b4bef70b99571"
+    "name": "Slenderman Demo"
 }

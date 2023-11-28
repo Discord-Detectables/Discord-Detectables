@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c998ac28db0edb6fad032fa8f9bcdce5",
     "id": "1124358591487430686",
-    "name": "Jupiter Hell",
-    "publishers": [
-        {
-            "id": "524353275487846410",
-            "name": "ChaosForge"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "811320",
-            "sku": "811320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "154f8e51cd285feb7221226cd938a9d5bf152d556e5f8634bd53aced55c550e8"
+    "name": "Jupiter Hell"
 }

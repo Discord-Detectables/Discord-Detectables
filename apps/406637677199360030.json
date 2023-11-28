@@ -2,54 +2,19 @@
     "aliases": [
         "Assassin's Creed IV: Black Flag"
     ],
-    "description": "The sixth main installment of the Assassin's Creed franchise, set in the Caribbean during the age of piracy in the early 18th century. Players explore the memories of Edward Kenway, a charismatic pirate (turned reckless Assassin) and the grandfather of Connor Kenway, the protagonist of Assassin's Creed III.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "ac4bfsp.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "ac4bfmp.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ac4bfsp.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "819cbb69413fa210eeaa71b53b197e24",
     "id": "406637677199360030",
-    "name": "Assassin's Creed IV Black Flag",
-    "publishers": [
-        {
-            "id": "521816654095843331",
-            "name": "Ubisoft Montreal"
-        },
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "3c986431a4ec920b797c4c5d078dc4aa",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "273",
-            "sku": "273"
-        },
-        {
-            "distributor": "steam",
-            "id": "242050",
-            "sku": "242050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6ea092aff209a18afad9582819f10db19ee0acd07119c7f7784ebc40ca075c5d"
+    "name": "Assassin's Creed IV Black Flag"
 }

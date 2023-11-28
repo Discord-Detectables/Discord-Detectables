@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "91a4a73f39639a60c1af458d86f7cb90",
     "id": "1124352498761748480",
-    "name": "ENDER LILIES",
-    "publishers": [
-        {
-            "id": "1124352499239895070",
-            "name": "Live Wire"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1369630",
-            "sku": "1369630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c4be459c3878932e9c72acc382e0a61b63921681cda33105d98cddac8d1f1901"
+    "name": "ENDER LILIES"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1a6fac23f5635a1e9373d82da5e0f2bc",
     "id": "1124359198965248060",
-    "name": "CivCity: Rome",
-    "publishers": [
-        {
-            "id": "521816602132611105",
-            "name": "Firefly Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "3980",
-            "sku": "3980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6dc36b985446f27a09e23abb57c78c4d4e06b1bae104601be18490e928204ffc"
+    "name": "CivCity: Rome"
 }

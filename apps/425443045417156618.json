@@ -1,20 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816598646882304",
-            "name": "2K Boston"
-        },
-        {
-            "id": "521816749830701057",
-            "name": "2K Australia"
-        },
-        {
-            "id": "537921424950558720",
-            "name": "Blind Squirrel"
-        }
-    ],
-    "eula_id": "542074049984200704",
     "executables": [
         {
             "is_launcher": false,
@@ -27,33 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a828eab18b1cab576a83bbcfe57293ad",
     "id": "425443045417156618",
-    "name": "BioShock™ Remastered",
-    "primary_sku_id": "489259956923531275",
-    "publishers": [
-        {
-            "id": "542107996516253761",
-            "name": "2K"
-        }
-    ],
-    "slug": "bioshock-tm-remastered",
-    "splash": "13fbb6378326adbe9c9cdd3c379f4a09",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "409710",
-            "sku": "409710"
-        },
-        {
-            "distributor": "discord",
-            "id": "489259956923531275",
-            "sku": "489259956923531275"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a665d4d82e7aefae3716fc52f0d3f9a3d15a80c0798277b412d6663166257cf"
+    "name": "BioShock™ Remastered"
 }

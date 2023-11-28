@@ -2,13 +2,6 @@
     "aliases": [
         "Metro 2033"
     ],
-    "description": "Metro Redux is a big overhaul of Metro 2033 and Metro: Last Light that includes significant visual and gameplay upgrades for a more uniform experience across both games.",
-    "developers": [
-        {
-            "id": "521816528417718311",
-            "name": "4A Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,38 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "369451281879662594",
     "hook": true,
-    "icon": "dd0ddb682a125dcab5d99851dd620af8",
     "id": "425442324495990784",
-    "name": "Metro 2033 Redux",
-    "primary_sku_id": "489228147942883328",
-    "publishers": [
-        {
-            "id": "521816528417718311",
-            "name": "4A Games"
-        },
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "slug": "metro-2033-redux",
-    "splash": "9fddb15aa817f1b2b37c6dab249397ad",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489228147942883328",
-            "sku": "489228147942883328"
-        },
-        {
-            "distributor": "steam",
-            "id": "286690",
-            "sku": "286690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2221e4b7b870ffd2fcf41795a1427331aa1491e29383e42f6eb716dcf919e827"
+    "name": "Metro 2033 Redux"
 }

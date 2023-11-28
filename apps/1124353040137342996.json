@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2c1e790aa339b83775103f60bdaebfef",
     "id": "1124353040137342996",
-    "name": "Driver Booster 5 for Steam",
-    "publishers": [
-        {
-            "id": "1124351887295135814",
-            "name": "IObit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "735360",
-            "sku": "735360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d1608ead8f2aad520afb0aac1b60b379e55916f228d52b7157abd0ac7ec5cbdb"
+    "name": "Driver Booster 5 for Steam"
 }

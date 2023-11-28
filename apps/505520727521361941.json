@@ -1,17 +1,10 @@
 {
-    "cover_image": "afcb26f23ae1f44c6d091fccfd908f71",
-    "description": "Rebuild mankind out of the ashes of nuclear winter as you attempt to recover pre-collapse artifacts and discover the true cause of the nuclear devastation.",
-    "developers": [
-        {
-            "id": "524352200231616538",
-            "name": "Warzone 2100 Project"
-        },
-        {
-            "id": "521816541763993600",
-            "name": "Pumpkin Studios"
-        }
-    ],
     "executables": [
+        {
+            "is_launcher": false,
+            "name": "warzone2100.exe",
+            "os": "win32"
+        },
         {
             "is_launcher": false,
             "name": "wz2100.app",
@@ -21,30 +14,9 @@
             "is_launcher": false,
             "name": "wz2100.exe",
             "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "warzone2100.exe",
-            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "684098359874814041",
     "hook": true,
-    "icon": "d45341872e8f7aec8ab37a2dbd60c35a",
     "id": "505520727521361941",
-    "name": "Warzone 2100",
-    "publishers": [
-        {
-            "id": "524352200231616538",
-            "name": "Warzone 2100 Project"
-        },
-        {
-            "id": "521816520817639456",
-            "name": "Eidos Interactive"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "922949f77e9c7fea333832f614cd2a9afe31710bc1a588330bf3ddac5b980835"
+    "name": "Warzone 2100"
 }

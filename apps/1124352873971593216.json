@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "930f0e00ef5b393deb06042545a18ae0",
     "id": "1124352873971593216",
-    "name": "Soccer Manager 2020",
-    "publishers": [
-        {
-            "id": "1124352874487500972",
-            "name": "Soccer Manager Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1078730",
-            "sku": "1078730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7790f9b805d3406ff9d212cbb82de6f25e17d425655dc60409e9f397964bf657"
+    "name": "Soccer Manager 2020"
 }

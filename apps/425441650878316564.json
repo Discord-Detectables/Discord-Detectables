@@ -1,11 +1,4 @@
 {
-    "description": "Stonehearth is a game about exploration and survival in an epic fantasy setting.",
-    "developers": [
-        {
-            "id": "521816764376678400",
-            "name": "Radiant Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b6eb9a426b6c31a71a340d86c94582ae",
     "id": "425441650878316564",
-    "name": "Stonehearth",
-    "publishers": [
-        {
-            "id": "521816764376678400",
-            "name": "Radiant Entertainment"
-        }
-    ],
-    "splash": "eeca2eeb8d858f7e1c116833f1804ee8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "253250",
-            "sku": "253250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8127bfc77dd9156e1866f01b14864c9ba03ce7a489b00963ba04657ef51e5dd5"
+    "name": "Stonehearth"
 }

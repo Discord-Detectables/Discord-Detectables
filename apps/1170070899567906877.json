@@ -2,9 +2,6 @@
     "aliases": [
         "Alicia"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2db2992aa500c6fe2b26ae9139d8f1e9",
     "id": "1170070899567906877",
-    "name": "Alicia",
-    "publishers": [
-        {
-            "id": "1170070903376322650",
-            "name": "NtreevSoft"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "ff9215c3325ec9b44346e10a53670da7568ad66393898ff65a24115d24d31c43"
+    "name": "Alicia"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ace3a098c3b47d6c96a594a6dca2fe57",
     "id": "1124353755979202580",
-    "name": "Final DOOM",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2290",
-            "sku": "2290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a24bdf67dbd595b182646dbfe6d3390c790696a93937aa6387ba268aa30cc1f5"
+    "name": "Final DOOM"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A fan-made re-imagining of the 1998 FPS hit Half-Life.",
-    "developers": [
-        {
-            "id": "521816708562944020",
-            "name": "Crowbar Collective"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f9fe6ebf190d336453d9b3b03ce1b5ff",
     "id": "451540911172747284",
-    "name": "Black Mesa",
-    "publishers": [
-        {
-            "id": "521816708562944020",
-            "name": "Crowbar Collective"
-        }
-    ],
-    "splash": "f0c4a58309e5b071ea02191ad61f6255",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "362890",
-            "sku": "362890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "68a0c1144b91f7f60c5942c0c211febf645ff029b03c326219b6e88961ec70d9"
+    "name": "Black Mesa"
 }

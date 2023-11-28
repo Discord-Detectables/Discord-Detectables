@@ -2,9 +2,6 @@
     "aliases": [
         "喋血復仇"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a44b81baf894f8bda06f2cc777cec0e8",
     "id": "1129504189991624774",
-    "name": "Back 4 Blood",
-    "publishers": [
-        {
-            "id": "521816779509465098",
-            "name": "Turtle Rock Studios"
-        },
-        {
-            "id": "521816779509465098",
-            "name": "Turtle Rock Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "924970",
-            "sku": "924970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0d964e20e32de42a9b91f0ff56c27ea8fd33f5b1f18223dd0d7ae12a42cf408d"
+    "name": "Back 4 Blood"
 }

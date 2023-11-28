@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f122161209976153510687e089046eb6",
     "id": "1129505649970135100",
-    "name": "Men of War: Vietnam",
-    "publishers": [
-        {
-            "id": "566258190891876363",
-            "name": "1C Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "63940",
-            "sku": "63940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b54c6b83504b114a4a484b0f437fcc94e7a78fecd3c0b9adbe67e53e07a59544"
+    "name": "Men of War: Vietnam"
 }

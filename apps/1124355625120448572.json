@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4dc46a679cabe61beee94c39c1ce89d",
     "id": "1124355625120448572",
-    "name": "POSTAL Brain Damaged Demo",
-    "publishers": [
-        {
-            "id": "524353239299391528",
-            "name": "Hyperstrange"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1766430",
-            "sku": "1766430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6683672077470343c761897bfa1d378506ceb57559c8561e19ada398d444de78"
+    "name": "POSTAL Brain Damaged Demo"
 }

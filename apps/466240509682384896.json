@@ -1,13 +1,5 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "Longshot Discord Integration",
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "466240509682384896",
-    "name": "Longshot [Dev]",
-    "summary": "",
-    "type": 1,
-    "verify_key": "94e40df21a0b2b1464eb1e88e070183df9b6304a443241f305da552147d9776f"
+    "name": "Longshot [Dev]"
 }

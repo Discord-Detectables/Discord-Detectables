@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea28d2dffa6777b53699f151b5367668",
     "id": "1124356920694812752",
-    "name": "One Way Heroics",
-    "publishers": [
-        {
-            "id": "1124356921177165975",
-            "name": "Smoking WOLF"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "266210",
-            "sku": "266210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "887651e5cfb54fb6beda82b05eefc65b115fecadfee5266c878a4d28ffb8a271"
+    "name": "One Way Heroics"
 }

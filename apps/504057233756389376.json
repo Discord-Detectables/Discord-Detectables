@@ -2,13 +2,6 @@
     "aliases": [
         "Synthetik"
     ],
-    "description": "A fast and brutal top-down shooter rogue-lite.",
-    "developers": [
-        {
-            "id": "521816569152798720",
-            "name": " Flow Fire Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd32a26f880b5ab128b3d9af307af2fb",
     "id": "504057233756389376",
-    "name": "SYNTHETIK",
-    "publishers": [
-        {
-            "id": "521816569152798720",
-            "name": " Flow Fire Games"
-        }
-    ],
-    "splash": "4e5aaca4c283cfb2dda6de34e5374ff7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "528230",
-            "sku": "528230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4ac03c4057867aa026dff77b621366daf2b39409856668646f5dc0d17d9f929a"
+    "name": "SYNTHETIK"
 }

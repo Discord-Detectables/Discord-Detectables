@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ca48b63ff2622421e006b2852cdb352e",
     "id": "451541958268157952",
-    "name": "McOsu",
-    "publishers": [
-        {
-            "id": "521816640808026114",
-            "name": "McKay"
-        }
-    ],
-    "splash": "010093059c241784c2088f3a3aec8857",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "607260",
-            "sku": "607260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5172c70f2e23e985531b451c910f63ffe1f74fc12e055fd1a74cc0821a3f106"
+    "name": "McOsu"
 }

@@ -4,9 +4,6 @@
         "トーラムオンライン",
         "托蘭異世錄 Online"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -14,37 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3e0c64c0cefabb3b8dc7024f2b4dcd7",
     "id": "1129504440781656134",
-    "name": "Toram Online",
-    "publishers": [
-        {
-            "id": "1129504441301745774",
-            "name": "Asobimo, Inc."
-        },
-        {
-            "id": "1129504441301745774",
-            "name": "Asobimo, Inc."
-        },
-        {
-            "id": "1129504441301745774",
-            "name": "Asobimo, Inc."
-        },
-        {
-            "id": "1129504441301745774",
-            "name": "Asobimo, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1827180",
-            "sku": "1827180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9661bcf8e71e2842d383b4b8713ee435317fd46c749b91b70ce20f4fc3eea96e"
+    "name": "Toram Online"
 }

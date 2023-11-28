@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e38ba4e45081c7dd115cc85dbcf04c07",
     "id": "1124354145936232541",
-    "name": "Megaquarium",
-    "publishers": [
-        {
-            "id": "524352433321803791",
-            "name": "Twice Circled"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "600480",
-            "sku": "600480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aeb9d404717a67d903d767f3eed6d4078904539659d6c200444c480c42a33c16"
+    "name": "Megaquarium"
 }

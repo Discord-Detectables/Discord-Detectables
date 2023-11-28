@@ -2,9 +2,6 @@
     "aliases": [
         "Palia"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7c4fad6ff41ef2a21c96695c0faec10",
     "id": "1164638522469261414",
-    "name": "Palia",
-    "publishers": [
-        {
-            "id": "1164638524985839847",
-            "name": "Singularity 6 Corporation"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "5fe0268872884468b59e453bf9b3d5f82ab129c1d799f6a597768ad45d175e99"
+    "name": "Palia"
 }

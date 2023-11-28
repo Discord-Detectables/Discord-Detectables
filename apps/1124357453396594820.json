@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "84c4b2564a914384828218cb965f63a7",
     "id": "1124357453396594820",
-    "name": "Aloft Demo",
-    "publishers": [
-        {
-            "id": "1124357453895712808",
-            "name": "Astrolabe Interactive Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2051980",
-            "sku": "2051980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1829a339016a960f613c3b664fff323d5b88ec63f32f50c0f6ef16b635b07ceb"
+    "name": "Aloft Demo"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "Depression Quest is an interactive fiction, choose-your-own-adventure style visual novel, dealing with depression in a realistic way.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3618a9ce86f15e3fc9961d02f0d52907",
     "id": "496569655679385603",
-    "name": "Depression Quest",
-    "publishers": [
-        {
-            "id": "521816797717069838",
-            "name": "The Quinnspiracy"
-        }
-    ],
-    "splash": "4a0b6506c0838487a6303372aa5a270e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "270170",
-            "sku": "270170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "427b1f43f4bfc13827868c51246d03a96c0ec963f4a1ba2cf07a57a75351a42a"
+    "name": "Depression Quest"
 }

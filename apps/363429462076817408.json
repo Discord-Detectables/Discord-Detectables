@@ -1,11 +1,4 @@
 {
-    "description": "Grab three other knights and storm enemy forces in this downloadable beat-em-up for the Xbox 360, PlayStation 3, and PC, complete with smoothly-drawn graphics and action RPG elements.",
-    "developers": [
-        {
-            "id": "521816647678558213",
-            "name": "The Behemoth"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "195951483789901835",
     "hook": true,
-    "icon": "46906f3362efc605b1235a0174b16a6d",
     "id": "363429462076817408",
-    "name": "Castle Crashers",
-    "publishers": [
-        {
-            "id": "521816647678558213",
-            "name": "The Behemoth"
-        }
-    ],
-    "splash": "edf323e18302d944392a2baea2c76f19",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204360",
-            "sku": "204360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6ecb4b579154782e581866c931ac03cab07c66afbaedafe22d70a57f4963a483"
+    "name": "Castle Crashers"
 }

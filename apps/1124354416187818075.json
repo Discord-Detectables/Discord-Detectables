@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "432eec207e6ac7b6cee823e64e809626",
     "id": "1124354416187818075",
-    "name": "MMORPG Tycoon 2",
-    "publishers": [
-        {
-            "id": "570142861073317898",
-            "name": "VectorStorm Pty Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "486860",
-            "sku": "486860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "50d794d16c618cf4a03a250c93a9e115988a3ed992f4f87757a258f8125f4cc1"
+    "name": "MMORPG Tycoon 2"
 }

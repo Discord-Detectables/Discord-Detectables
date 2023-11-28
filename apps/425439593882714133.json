@@ -1,11 +1,4 @@
 {
-    "description": "Officially revealed at Ubisoft's 2010 E3 press briefing, Rayman Origins is a new 2D Rayman game developed by Michel Ancel and a small team, taking the series back to its roots.",
-    "developers": [
-        {
-            "id": "521816592674193443",
-            "name": "Ubisoft Montpellier Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "30d08727c0ce27098c125f18d4880877",
     "id": "425439593882714133",
-    "name": "Rayman Origins",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "c2474f6caa7d5654ffac42858377258d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "207490",
-            "sku": "207490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3089e595ed57be6e1d0f46fe72890fc9b7cb09b3fbe87fbd9bbbdb9c19b146a5"
+    "name": "Rayman Origins"
 }

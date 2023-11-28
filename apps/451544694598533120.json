@@ -1,12 +1,4 @@
 {
-    "cover_image": "03ddf51f1a270b2a545b426e6f66e21d",
-    "description": "Furi is an ultra-responsive mix of fast-paced sword fighting and dual-stick shooting. Featuring character designs by Takashi Okazaki, creator of Afro Samurai and a explosive electro soundtrack.",
-    "developers": [
-        {
-            "id": "521816539087896596",
-            "name": "The Game Bakers"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "468417598544019468",
     "hook": true,
-    "icon": "03ddf51f1a270b2a545b426e6f66e21d",
     "id": "451544694598533120",
-    "name": "Furi",
-    "publishers": [
-        {
-            "id": "521816539087896596",
-            "name": "The Game Bakers"
-        }
-    ],
-    "splash": "48a17f78fc469cc0763c91c8e7c48484",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "423230",
-            "sku": "423230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2e2a4f4f9b1eddc5b14b8d171fdcca4de524e984709ab83310ac612c73527bf0"
+    "name": "Furi"
 }

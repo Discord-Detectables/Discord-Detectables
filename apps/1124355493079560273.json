@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "80ab47de49716a335e6dc02f018270ef",
     "id": "1124355493079560273",
-    "name": "Yakuza 5 Remastered",
-    "publishers": [
-        {
-            "id": "521816684957270028",
-            "name": "Ryu ga Gotoku Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1105510",
-            "sku": "1105510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0a4cb4e78544437e824c02f179afd432c3ada42c4ea3c4c51a39dbc6befeb878"
+    "name": "Yakuza 5 Remastered"
 }

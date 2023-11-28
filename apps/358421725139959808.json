@@ -2,8 +2,6 @@
     "aliases": [
         "Monaco: What's Yours Is Mine"
     ],
-    "cover_image": "475b33ada0cae66c77b5ea3d64255250",
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -11,34 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "99240110486192128",
     "hook": true,
-    "icon": "5d6a28659e629816992a3c86864e7a2c",
     "id": "358421725139959808",
-    "name": "Monaco",
-    "primary_sku_id": "491665417933291551",
-    "publishers": [
-        {
-            "id": "521816531324370965",
-            "name": "Pocketwatch Games"
-        }
-    ],
-    "slug": "monaco",
-    "splash": "5253c177a9d7f16dc56838a27a592430",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "491665417933291551",
-            "sku": "491665417933291551"
-        },
-        {
-            "distributor": "steam",
-            "id": "113020",
-            "sku": "113020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b9dc2baf929d9c12951429a5100032d65e37df0f1f2a570ee7f8b2dd69f9ea1"
+    "name": "Monaco"
 }

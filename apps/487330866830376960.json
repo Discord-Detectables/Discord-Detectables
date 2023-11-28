@@ -1,11 +1,4 @@
 {
-    "description": "An online multiplayer social deduction game of mischief, betrayal, and medieval politics.",
-    "developers": [
-        {
-            "id": "521816771255336980",
-            "name": "Imperium42"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,26 +11,7 @@
             "os": "linux"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6816820c0082e2fad688954faddfa6c7",
     "id": "487330866830376960",
-    "name": "Throne of Lies",
-    "publishers": [
-        {
-            "id": "521816771255336980",
-            "name": "Imperium42"
-        }
-    ],
-    "splash": "02a669b17cf77d0c6a5fef3854031837",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "595280",
-            "sku": "595280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f07507c9b60ada40c531dc6d7401cee2946ce1b8a8455306a78028ad1faedbde"
+    "name": "Throne of Lies"
 }

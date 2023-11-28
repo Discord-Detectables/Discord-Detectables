@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "57245fd4403fcf3ef7ae8dea61cefda9",
     "id": "1124354895479324682",
-    "name": "Fears to Fathom - Episode 2",
-    "publishers": [
-        {
-            "id": "1124352015783448656",
-            "name": "Rayll"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1763050",
-            "sku": "1763050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e848f6e684b870fc0a107c09fd72b1c550552feca84d4ead857d8bc32168298e"
+    "name": "Fears to Fathom - Episode 2"
 }

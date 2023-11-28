@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a390894bc9ef620d202b1f0dc45a0f1d",
     "id": "1124359943542296627",
-    "name": "WAVESHAPER",
-    "publishers": [
-        {
-            "id": "1124359944053997748",
-            "name": "GAMES FOR HUMANS"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "562260",
-            "sku": "562260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6d6848508b4457c36880ee1f6abc1463a28bfda51012e0721ed2882663312b63"
+    "name": "WAVESHAPER"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c02869ff1791150cbaee8e2afa564a2b",
     "id": "1139045520883597394",
-    "name": "Dawnlands",
-    "publishers": [
-        {
-            "id": "1139045522284490796",
-            "name": "SEASUN GAMES PTE. LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2197910",
-            "sku": "2197910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6e8c1de308cc86b2c743f3d9df449ed09aa63f8eb7fade1b06a0f65468e07bea"
+    "name": "Dawnlands"
 }

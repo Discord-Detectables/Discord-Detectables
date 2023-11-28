@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3b7984d58f7f9bebbf09a12ef660b5c",
     "id": "1124358092872765450",
-    "name": "Kawaii Neko Girls 2",
-    "publishers": [
-        {
-            "id": "1124354011458457740",
-            "name": "Kawaii"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1794330",
-            "sku": "1794330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d82df714059e4b1c4efee29b471d0f13661af0e0371dd64b892698a3bf408893"
+    "name": "Kawaii Neko Girls 2"
 }

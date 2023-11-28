@@ -2,17 +2,10 @@
     "aliases": [
         "Star Wars Jedi Knight II"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816668196831240",
-            "name": "Raven Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "jk2mvmp_x86.exe",
+            "name": "jk2mp.exe",
             "os": "win32"
         },
         {
@@ -22,46 +15,16 @@
         },
         {
             "is_launcher": false,
-            "name": "jk2sp.exe",
+            "name": "jk2mvmp_x86.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "jk2mp.exe",
+            "name": "jk2sp.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7d676e2c8e20dc68d5351747f6d95c3",
     "id": "492135944179286068",
-    "name": "STAR WARS™ Jedi Knight II: Jedi Outcast™",
-    "primary_sku_id": "492429111680303114",
-    "publishers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        },
-        {
-            "id": "521816668196831240",
-            "name": "Raven Software"
-        }
-    ],
-    "slug": "star-wars-tm-jedi-knight-ii-jedi-outcast-tm",
-    "splash": "7d69cdf6f89fd9e6d158f33bb07c5cbf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492429111680303114",
-            "sku": "492429111680303114"
-        },
-        {
-            "distributor": "steam",
-            "id": "6030",
-            "sku": "6030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "256948f917f912dccf342ab7277c4980f466032cc41d818d78794d9c29818ce2"
+    "name": "STAR WARS™ Jedi Knight II: Jedi Outcast™"
 }

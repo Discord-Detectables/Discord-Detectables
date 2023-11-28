@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd0a9fafba420faf4e08a2e7d0b94860",
     "id": "1124353326344061029",
-    "name": "United heist",
-    "publishers": [
-        {
-            "id": "1124353326788653158",
-            "name": "No more sleep"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2119740",
-            "sku": "2119740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "16bd44c969ded23ee0c96058db56d62269b065a93dd8e05aae0d25db985ff849"
+    "name": "United heist"
 }

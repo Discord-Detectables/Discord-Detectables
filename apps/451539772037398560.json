@@ -2,7 +2,6 @@
     "aliases": [
         "Resident Evil 4 HD"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0d99a0804ef6c27e4bb2a05ffae31f4b",
     "id": "451539772037398560",
-    "name": "resident evil 4 / biohazard 4",
-    "publishers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "splash": "d2f74d29ca99f5c99d463b61c4471bfe",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "254700",
-            "sku": "254700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd95b262721b17f01b12c823c4ed978ce5af15e4b7864b67f0e741421e83cfd1"
+    "name": "resident evil 4 / biohazard 4"
 }

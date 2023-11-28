@@ -1,5 +1,4 @@
 {
-    "description": "PickCrafter is a free-to-play hit mobile game where players tap or swing their pickaxe to break blocks and collect picks. As players progress they will open chests loaded with treasure and many collectibles. There are many unique biomes to explore with rare pickaxes to unlock.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6980940884aaf8f67d9c251c87cf9fae",
     "id": "428052738140798976",
-    "name": "PickCrafter",
-    "publishers": [
-        {
-            "id": "521816695397023747",
-            "name": "Fiveamp"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "734750",
-            "sku": "734750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2185d7a7eb01ef34cfb2deba7cf84796c23ebc902c58a9bc78a87da58b7c4a3c"
+    "name": "PickCrafter"
 }

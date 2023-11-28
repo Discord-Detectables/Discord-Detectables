@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b17d51a8d7c36857813e92fd80add02f",
     "id": "1124351794659741846",
-    "name": "Animaze",
-    "publishers": [
-        {
-            "id": "1124351795213385748",
-            "name": "Holotech Studios Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1364390",
-            "sku": "1364390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b20c37531a42b6721a71dffed0962d70b58390843ec320a8ac450afa4da47eb"
+    "name": "Animaze"
 }

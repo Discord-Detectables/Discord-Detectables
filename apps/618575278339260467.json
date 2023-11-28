@@ -2,50 +2,19 @@
     "aliases": [
         "Tower Keepers"
     ],
-    "cover_image": "28e21a707fb200d1a32fbcfb3a25bc63",
-    "description": "Train an epic army of heroes and defend your tower against all enemies. Embark on more than 75 unique missions against 70+ monster types, each with their own special attacks. Loot your foes, discover hidden treasure chests, and complete quests to unlock new skills, weapons, and armor for each hero. Enchant your items or craft new ones to maximize your power, then enter Hero Battles and pit your be",
-    "developers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "tower keepers.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "tower keepers/tower keepers.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "bbc6dc22a5589ba490b37dc8716526a9",
-    "id": "618575278339260467",
-    "name": "Tower Keepers",
-    "publishers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "881490",
-            "sku": "881490"
         },
         {
-            "distributor": "google_play",
-            "id": "com.ninjakiwi.towerkeepers",
-            "sku": "com.ninjakiwi.towerkeepers"
+            "is_launcher": false,
+            "name": "tower keepers.exe",
+            "os": "win32"
         }
     ],
-    "type": 1,
-    "verify_key": "e231d818e0bc06ec4c119db4caeb49d383579032c1eeec44f7a692d4165c6233"
+    "hook": true,
+    "id": "618575278339260467",
+    "name": "Tower Keepers"
 }

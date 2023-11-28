@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816544385171486",
-            "name": "Bugbear Entertainment Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff9beaa227078f4ae9b656a03fa8a7a4",
     "id": "491426078137647104",
-    "name": "FlatOut 2",
-    "primary_sku_id": "492394470831030272",
-    "publishers": [
-        {
-            "id": "521816579344957442",
-            "name": "Empire Interactive Entertainment"
-        }
-    ],
-    "slug": "flatout-2",
-    "splash": "22e45f80d96f570b244ca540813e6aa0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492394470831030272",
-            "sku": "492394470831030272"
-        },
-        {
-            "distributor": "steam",
-            "id": "2990",
-            "sku": "2990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd202a60b1faf33b717c35b0d99f5bc67885af55b37bc52ae75df174223823ee"
+    "name": "FlatOut 2"
 }

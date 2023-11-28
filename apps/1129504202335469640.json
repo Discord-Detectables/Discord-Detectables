@@ -5,9 +5,6 @@
         "LEGO® Star Wars™: Die Skywalker Saga",
         "LEGO® Star Wars™: La Saga Skywalker"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,41 +12,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c6a7d7d140e169ef766df5bbc19a44bd",
     "id": "1129504202335469640",
-    "name": "LEGO® Star Wars™: The Skywalker Saga",
-    "publishers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        },
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        },
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        },
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        },
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "920210",
-            "sku": "920210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8ded38bc729ca89ddd344cbf68ad19b5661c2d7143e9a44190e6d17b316c4fb2"
+    "name": "LEGO® Star Wars™: The Skywalker Saga"
 }

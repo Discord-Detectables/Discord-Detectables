@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "adf4081a1ed9fc05cc9283c6fc568ee0",
     "id": "498999413172207653",
-    "name": "ReCore",
-    "publishers": [
-        {
-            "id": "521816741156880404",
-            "name": "Armature Studio"
-        }
-    ],
-    "splash": "e52323d90ca088728647de1f761828dc",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "537450",
-            "sku": "537450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c9670d759c49d0ab6c3226d7fd3f62e5bf286b4b0fc09e17a02293bda4f38a55"
+    "name": "ReCore"
 }

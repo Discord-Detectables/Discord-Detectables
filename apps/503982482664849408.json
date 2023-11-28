@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816537653444608",
-            "name": "Cyanide Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "309974409135915009",
     "hook": true,
-    "icon": "c79d71a5f7d01e2abcf56e5b22b59945",
     "id": "503982482664849408",
-    "name": "Call of Cthulhu",
-    "primary_sku_id": "503982482664849408",
-    "publishers": [
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        }
-    ],
-    "slug": "call-of-cthulhu",
-    "splash": "53dea89aaf60b3c924afc1406957ded5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "399810",
-            "sku": "399810"
-        },
-        {
-            "distributor": "discord",
-            "id": "503982482664849408",
-            "sku": "503982482664849408"
-        }
-    ],
-    "type": 1,
-    "verify_key": "55920cf8750cd31dc2b310d28c9d48f02d7779a20d3077f16c3813017547d525"
+    "name": "Call of Cthulhu"
 }

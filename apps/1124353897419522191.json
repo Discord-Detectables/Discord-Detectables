@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f00be54490d85536fbb8a64e80590348",
     "id": "1124353897419522191",
-    "name": "Let's Build a Zoo",
-    "publishers": [
-        {
-            "id": "1124353897419522192",
-            "name": "Springloaded"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1547890",
-            "sku": "1547890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "306f587678e1b5c4337569e945006dc4f2cc84d41a5ae57c3f288f5945eda18d"
+    "name": "Let's Build a Zoo"
 }

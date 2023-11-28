@@ -3,17 +3,10 @@
         "STAR WARS™ Jedi Knight: Jedi Academy™",
         "Star Wars Jedi Knight"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816668196831240",
-            "name": "Raven Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "jediacademy.exe",
+            "name": "jamp.exe",
             "os": "win32"
         },
         {
@@ -23,45 +16,16 @@
         },
         {
             "is_launcher": false,
-            "name": "jasp.exe",
+            "name": "jediacademy.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "jamp.exe",
+            "name": "jasp.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fd7f0533bb3b5c8ac0778074dd1b8baf",
     "id": "428054061502300160",
-    "name": "STAR WARS™ Jedi Knight: Jedi Academy™",
-    "primary_sku_id": "492359223028482049",
-    "publishers": [
-        {
-            "id": "570702595178627072",
-            "name": "Lucasfilm, Disney"
-        },
-        {
-            "id": "521816668196831240",
-            "name": "Raven Software"
-        }
-    ],
-    "slug": "star-wars-tm-jedi-knight-jedi-academy-tm",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6020",
-            "sku": "6020"
-        },
-        {
-            "distributor": "discord",
-            "id": "492359223028482049",
-            "sku": "492359223028482049"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9dbcffd8f05f6003c5158efac904812de5ab56151da314f45f3f962f637fe873"
+    "name": "STAR WARS™ Jedi Knight: Jedi Academy™"
 }

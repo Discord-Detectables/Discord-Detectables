@@ -1,11 +1,4 @@
 {
-    "description": "Rogue System is an upcoming space combat simulator with an emphasis on hard science fiction.",
-    "developers": [
-        {
-            "id": "521816675008380949",
-            "name": "Digits Crossed Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fcdb8d3868df061898e0088d9a881a75",
     "id": "504029616151986198",
-    "name": "Rogue System",
-    "publishers": [
-        {
-            "id": "521816675008380948",
-            "name": "Image Space Inc."
-        }
-    ],
-    "splash": "a2ec66fd8ae22d42fa39e68c42cd6e13",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "366000",
-            "sku": "366000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "138048fe2f4d499d92437d67cfa9d946faae981ea809225799a734d9fdcb7751"
+    "name": "Rogue System"
 }

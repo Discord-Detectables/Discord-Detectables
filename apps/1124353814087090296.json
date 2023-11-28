@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bce1cd5b6c2d116093a4558235a6dbfc",
     "id": "1124353814087090296",
-    "name": "SIMULACRA",
-    "publishers": [
-        {
-            "id": "1124353814569431181",
-            "name": "Kaigan Games OÜ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "712730",
-            "sku": "712730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "da08d6f8805fa7547c9f87611b4a8ce0b098d28da445a5944ba1a1b5efe1d04a"
+    "name": "SIMULACRA"
 }

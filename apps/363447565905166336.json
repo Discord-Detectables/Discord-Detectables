@@ -1,11 +1,4 @@
 {
-    "description": "The follow-up to Vice City takes the Grand Theft Auto series' free-roaming violence into 1992 and the fictional state of San Andreas as several criminal gangs wage war for control of the streets.",
-    "developers": [
-        {
-            "id": "521816560537567261",
-            "name": "Rockstar North"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,19 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "58c222207d90c346aa4590a1d8de0a2f",
     "id": "363447565905166336",
-    "name": "Grand Theft Auto San Andreas",
-    "publishers": [
-        {
-            "id": "521816560537567257",
-            "name": "Rockstar Games"
-        }
-    ],
-    "splash": "99195e630e7865c4332d2584d03d5876",
-    "summary": "",
-    "type": 1,
-    "verify_key": "f8c569de43d485e8d0faf06140331b8c36af115cde07739be985629a1cc3314b"
+    "name": "Grand Theft Auto San Andreas"
 }

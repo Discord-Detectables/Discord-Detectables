@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5380b4981171c7cc0c7a7872554e338",
     "id": "1124360403825209344",
-    "name": "F1 2013",
-    "publishers": [
-        {
-            "id": "521816503960600577",
-            "name": "Codemasters Birmingham"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "223670",
-            "sku": "223670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "19041f2fdd74535648ffb9c139246ba5395120801abe9145ffdb5ccdf7b98502"
+    "name": "F1 2013"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816697448038412",
-            "name": "NetherRealm Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8ec333a3b9f370f282d216a751467556",
     "id": "451551201604141056",
-    "name": "Injustice™ 2",
-    "primary_sku_id": "492165204889567232",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "slug": "injustice-tm-2",
-    "splash": "b491748afcd4558649d2e35bd2498921",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492165204889567232",
-            "sku": "492165204889567232"
-        },
-        {
-            "distributor": "steam",
-            "id": "627270",
-            "sku": "627270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "279477cbf3de3582a8f71a26c01359941c7675fec2a05bc14c582cd67e603dab"
+    "name": "Injustice™ 2"
 }

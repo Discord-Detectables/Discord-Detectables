@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3e15f1529d0401eb43c2e9644f41fdbc",
     "id": "1124353484687421460",
-    "name": "CityBattle | Virtual Earth",
-    "publishers": [
-        {
-            "id": "1124353485161385984",
-            "name": "LLC RIKOR IMT"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "611020",
-            "sku": "611020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "607fa6b94b7678f4f400359ea956dc3aa6d1b026d18899e55996332b2fe734f1"
+    "name": "CityBattle | Virtual Earth"
 }

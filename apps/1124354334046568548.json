@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6d538ab755e2f73fb94f55de9a8365a3",
     "id": "1124354334046568548",
-    "name": "Rising World",
-    "publishers": [
-        {
-            "id": "1124354334524715158",
-            "name": "JIW-Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324080",
-            "sku": "324080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "efbfa5fb29cc7cac4cb5d6cc1338e718e528b150c5ddb25ceaf20d2c3c9370a9"
+    "name": "Rising World"
 }

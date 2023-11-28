@@ -2,13 +2,6 @@
     "aliases": [
         "Guns of Icarus - Online"
     ],
-    "description": "A multiplayer, PVP focused follow-up to Muse Games' Guns of Icarus.",
-    "developers": [
-        {
-            "id": "521816608445038603",
-            "name": "Muse Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,26 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "56b5c75edc1e27c056febccd706881e8",
     "id": "390293569832878098",
-    "name": "Guns of Icarus Online",
-    "publishers": [
-        {
-            "id": "521816608445038603",
-            "name": "Muse Games"
-        }
-    ],
-    "splash": "cf02dfa0c1b9ab22c0ba6ee0eefd7524",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "209080",
-            "sku": "209080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b9de0de7bf08234fff03140173424593f39454afcd67fa264d14d7904fe51528"
+    "name": "Guns of Icarus Online"
 }

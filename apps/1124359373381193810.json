@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ebdcc62dcf1ed76e73f508d6a567893f",
     "id": "1124359373381193810",
-    "name": "Series Makers",
-    "publishers": [
-        {
-            "id": "1124359373871923200",
-            "name": "CREW Studio Krüger UG"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "594040",
-            "sku": "594040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ce5864fcb6ecba6364e0f080f35a6bf146ad17ca00198994b3bd495086b62012"
+    "name": "Series Makers"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff8fc839fd0f41fcd829d2e7c8632907",
     "id": "1124353167111503880",
-    "name": "No Time to Relax",
-    "publishers": [
-        {
-            "id": "1124353167673536522",
-            "name": "Porcelain Fortress"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "829660",
-            "sku": "829660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3656fbb3cd46e51834f00a4c8a932064bd70091c31c54da4494c2616c39ffa1c"
+    "name": "No Time to Relax"
 }

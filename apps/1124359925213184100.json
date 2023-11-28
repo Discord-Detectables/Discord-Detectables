@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bf8de3ef8782bb4a87d0387fd27d2b86",
     "id": "1124359925213184100",
-    "name": "Croppy Boy",
-    "publishers": [
-        {
-            "id": "1124359925649387540",
-            "name": "Mr Crops"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1369400",
-            "sku": "1369400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fefe17d1895e75c2c6b89de5b1c0727aaa364e8302084b43075eb818c962a278"
+    "name": "Croppy Boy"
 }

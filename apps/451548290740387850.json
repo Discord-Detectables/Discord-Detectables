@@ -1,11 +1,4 @@
 {
-    "description": "Shooty Skies is an endless arcade flyer from the creators of Crossy Road.",
-    "developers": [
-        {
-            "id": "521816556720619536",
-            "name": "Mighty Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e246ada58f0f4b7e01dd26fb86d07193",
     "id": "451548290740387850",
-    "name": "Shooty Skies",
-    "publishers": [
-        {
-            "id": "521816556720619536",
-            "name": "Mighty Games"
-        }
-    ],
-    "splash": "674da380e44fdd80cd2fd50e9f32c4f1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "702810",
-            "sku": "702810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "65adaa2b0891f7a96f38ce0a1275d0fbc96dd5d4a9fb655624afcf163ee5dd74"
+    "name": "Shooty Skies"
 }

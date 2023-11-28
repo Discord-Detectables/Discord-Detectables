@@ -3,9 +3,6 @@
         "火炬之光：無限",
         "토치라이트:인피니트"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c9c0bd35f3d0e0888883381a795d206e",
     "id": "1129504534809550858",
-    "name": "Torchlight: Infinite",
-    "publishers": [
-        {
-            "id": "741390964781875321",
-            "name": "xd"
-        },
-        {
-            "id": "741390964781875321",
-            "name": "xd"
-        },
-        {
-            "id": "741390964781875321",
-            "name": "xd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1974050",
-            "sku": "1974050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b3ba5c9b512bc954642dd9ce65e90411048e9f763c32526a62fc3e3d6d2e7e5"
+    "name": "Torchlight: Infinite"
 }

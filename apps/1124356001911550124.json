@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0f77336500f59fb3ee12b9538dc7e3d",
     "id": "1124356001911550124",
-    "name": "DRAMAtical Murder",
-    "publishers": [
-        {
-            "id": "524352244343373837",
-            "name": "Nitro+CHiRAL"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1481080",
-            "sku": "1481080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9a8483bf4fd0577a46f55c322e1d700a8afff657a9faf184afc2c8b2ae228efa"
+    "name": "DRAMAtical Murder"
 }

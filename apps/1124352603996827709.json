@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9b544676ffe02b04e325599a7d9f19ca",
     "id": "1124352603996827709",
-    "name": "LEGO® DC Super-Villains",
-    "publishers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "829110",
-            "sku": "829110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79babef03b948523380e7fa3294cba048cdd7238d9df49f6a8ad5c64e4debb5c"
+    "name": "LEGO® DC Super-Villains"
 }

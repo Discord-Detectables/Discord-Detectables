@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5af8330bb67f04685360b0ce08d290ac",
     "id": "1124358918513119242",
-    "name": "Sky Noon",
-    "publishers": [
-        {
-            "id": "1124358919003848744",
-            "name": "Lunar Rooster"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "569530",
-            "sku": "569530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "34865a6415e5c15fe56fe8e35f96c6e8f36447cf581cd2ca45a37bfcc4ed3aec"
+    "name": "Sky Noon"
 }

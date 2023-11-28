@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1974ac3a120fc6d5b211afecd9c7d69e",
     "id": "1124358059746152619",
-    "name": "Agarest: Generations of War",
-    "publishers": [
-        {
-            "id": "521816626203459620",
-            "name": "Idea Factory"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "237890",
-            "sku": "237890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f2963831e1af8d66ee3248ffa5ca5f3eff3f55fe6663fc9a57a26d057702c8cb"
+    "name": "Agarest: Generations of War"
 }

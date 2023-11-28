@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c8b66a9be0e2495534d8b84b5d812759",
     "id": "1124353870060077209",
-    "name": "Escape Simulator Demo",
-    "publishers": [
-        {
-            "id": "521816656021028864",
-            "name": "Pine Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1538700",
-            "sku": "1538700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c86b2823c1c7aee5036c05b28244d5a2fecb30b42f726c65570249a44b001458"
+    "name": "Escape Simulator Demo"
 }

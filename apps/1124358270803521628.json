@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4ea337cf275993ba993a5580e0dc0d11",
     "id": "1124358270803521628",
-    "name": "Virtual Villagers Origins 2",
-    "publishers": [
-        {
-            "id": "524351806151589889",
-            "name": "Last Day of Work"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "949050",
-            "sku": "949050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3802813b0e78a5d7f52c85ecb1708924987a0b9383316158805a9bef2767b9e"
+    "name": "Virtual Villagers Origins 2"
 }

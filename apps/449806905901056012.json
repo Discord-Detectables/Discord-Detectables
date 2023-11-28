@@ -1,11 +1,4 @@
 {
-    "description": "Raft is an indie ocean navigation survival game.",
-    "developers": [
-        {
-            "id": "521816623552921602",
-            "name": "Redbeet Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,31 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "446658603873730611",
     "hook": true,
-    "icon": "aa3b7a0ded0341cfbfd463d349e06add",
     "id": "449806905901056012",
-    "name": "Raft",
-    "publishers": [
-        {
-            "id": "521816623552921602",
-            "name": "Redbeet Interactive"
-        },
-        {
-            "id": "521816623552921604",
-            "name": "Axolot Games"
-        }
-    ],
-    "splash": "b28637baca23553de6d9747f8a1110ad",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "648800",
-            "sku": "648800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "66e7b0d12109b3528b90587c299837dd307a2c054844c3f5bca3d8e98b0168b6"
+    "name": "Raft"
 }

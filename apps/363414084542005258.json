@@ -1,11 +1,4 @@
 {
-    "description": "A free-to-play, online 8-bit MMORPG hack-n-slash that brings you back to when RPGs were simpler, if there ever was a time.",
-    "developers": [
-        {
-            "id": "521816556175491085",
-            "name": "Wild Shadow Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a58ffd0d82109694dab00e2bcf736962",
     "id": "363414084542005258",
-    "name": "Realm of the Mad God",
-    "publishers": [
-        {
-            "id": "521816556175491085",
-            "name": "Wild Shadow Studios"
-        }
-    ],
-    "splash": "c93739c5cc2c38313436ee4b899c548c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "200210",
-            "sku": "200210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "76afdd3b9d8e1bea8760ec4f1799484872cff61072c9cc682d91c8331dcb80f4"
+    "name": "Realm of the Mad God"
 }

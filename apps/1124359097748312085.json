@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "af0da9f3f07b6f37d6e85015a478e4a8",
     "id": "1124359097748312085",
-    "name": "Spirit Island",
-    "publishers": [
-        {
-            "id": "524353157464195083",
-            "name": "Handelabra Games Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1236720",
-            "sku": "1236720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7c03db4df2ebefa2649f18f4494315a0d1fe80692b4b1d75cab0c32a6c35ce2b"
+    "name": "Spirit Island"
 }

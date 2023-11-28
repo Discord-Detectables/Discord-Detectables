@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b183f6f93994991d59e70e0989eb63c6",
     "id": "1124356574928973914",
-    "name": "DOOM VFR",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "650000",
-            "sku": "650000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "02d61c56433729aa3d8106ca01a023f2116fc3d53d2fb9ec15fbefa37ef2a16f"
+    "name": "DOOM VFR"
 }

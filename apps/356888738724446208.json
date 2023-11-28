@@ -2,47 +2,21 @@
     "aliases": [
         "Rust"
     ],
-    "cover_image": "a5fcb17e0be802587ad64fa14a3578de",
-    "description": "From the makers of Garry's Mod, Rust is a multiplayer survival game with combat elements.",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "rustclient.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "rust.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "rustclient.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "560127830160048128",
     "hook": true,
-    "icon": "9ab7e18473429b016307b867e6c924a4",
     "id": "356888738724446208",
     "name": "Rust",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816535304503316",
-            "name": "Facepunch Studios"
-        },
-        {
-            "id": "521816535304503316",
-            "name": "Facepunch Studios"
-        }
-    ],
-    "splash": "edfdddb7a7270c154bcbda5477e2ba59",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "252490",
-            "sku": "252490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "af3ab45d3cdf8a4552d522b6d79a1cff75142a29da5f4a73411b91099fa5f9dc"
+    "overlay_compatibility_hook": true
 }

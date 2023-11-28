@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea51a858d2f0c290d1c3225b37332174",
     "id": "1140510310520864769",
-    "name": "DimensionsVS",
-    "publishers": [
-        {
-            "id": "524353210643775604",
-            "name": "Teepee Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "682420",
-            "sku": "682420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4394444f394076dc478d5fa75e95bb914afb6733a6d5d24b04d8432fb32d797e"
+    "name": "DimensionsVS"
 }

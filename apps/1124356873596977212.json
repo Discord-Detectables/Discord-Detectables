@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "12da48c2583ed4869bff67ded9c595c7",
     "id": "1124356873596977212",
-    "name": "FOOTSIES",
-    "publishers": [
-        {
-            "id": "1124356874041569411",
-            "name": "HiFight"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1344740",
-            "sku": "1344740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b9f37c4b81d836aee2fa123df32c5b7660f5d409b7afe7d92b5e5541c077fed6"
+    "name": "FOOTSIES"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "286513de3cfc0646aeaebbb0a2f08c30",
     "id": "1124360485895159919",
-    "name": "Mortal Royale",
-    "publishers": [
-        {
-            "id": "1124355978192764928",
-            "name": "Star Vault AB"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "922630",
-            "sku": "922630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bbcb95f272767d8a80fab2c0441918f5557052d8298b5e55b268cb491d63bd1b"
+    "name": "Mortal Royale"
 }

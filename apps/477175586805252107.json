@@ -2,15 +2,7 @@
     "aliases": [
         "Among Us"
     ],
-    "cover_image": "6b05f8bebdb9740a1d56569916f8c56a",
-    "deeplink_uri": "https://innersloth.com",
-    "description": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "among us - tou/among us.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "among us - copy/among us.exe",
@@ -18,47 +10,22 @@
         },
         {
             "is_launcher": false,
-            "name": "among us/among us.exe",
+            "name": "among us - tou/among us.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
             "name": "among us - kopie/among us.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "among us/among us.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5f0b1e7a94dc2018538256165bc8b059",
     "id": "477175586805252107",
     "name": "Among Us",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "524353263890595861",
-            "name": "Innersloth"
-        },
-        {
-            "id": "524353263890595861",
-            "name": "Innersloth"
-        },
-        {
-            "id": "524353263890595861",
-            "name": "Innersloth"
-        },
-        {
-            "id": "524353263890595861",
-            "name": "Innersloth"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "945360",
-            "sku": "945360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8fd675e78dd5ce2c5c0177299b6ddf11014ffe65c4d8334c4d5c3691b6918d5c"
+    "overlay": true
 }

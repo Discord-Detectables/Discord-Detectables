@@ -2,9 +2,6 @@
     "aliases": [
         "Just Act Natural"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6867c4f35a896a84b5811cca0abef81b",
     "id": "1162154957777162240",
-    "name": "Just Act Natural",
-    "publishers": [
-        {
-            "id": "1162154959379374111",
-            "name": "Conor Garity"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1485080",
-            "sku": "1485080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6ce32403f8f24ee89804c4c1f5d6adebb8a98e043da94259d326e7dce3c460de"
+    "name": "Just Act Natural"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "155607703e8277ae3e8dbe2acc115f93",
     "id": "1124360457885597817",
-    "name": "Bhop PRO",
-    "publishers": [
-        {
-            "id": "1124359318263836682",
-            "name": "HorseGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1308950",
-            "sku": "1308950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "711f3aa9d7400b95a1fc0974cdde71357b9e83ed85e482bbfbfbb5b300a3698b"
+    "name": "Bhop PRO"
 }

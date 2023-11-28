@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0de539cef0f6c20e020b0a51060d86ca",
     "id": "1124355923213832314",
-    "name": "Juno: New Origins",
-    "publishers": [
-        {
-            "id": "1124355923696173076",
-            "name": "Jundroo, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "870200",
-            "sku": "870200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "decf83fa6889de0d5174e05035ccd727642daca5b36805d7903e651e290b6765"
+    "name": "Juno: New Origins"
 }

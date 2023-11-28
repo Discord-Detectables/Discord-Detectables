@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b9968be8073b179bc02e7ade2f122e54",
     "id": "1124358858593284206",
-    "name": "2064: Read Only Memories",
-    "publishers": [
-        {
-            "id": "524352447318065169",
-            "name": "MidBoss, LLC."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "330820",
-            "sku": "330820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c085f0a985560ec1ac2baabbf946731a747742bd68cc4aa87eeb2c943f83dd5b"
+    "name": "2064: Read Only Memories"
 }

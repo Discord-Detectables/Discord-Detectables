@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "beb1c3a6803ccea7c1578cf13d740723",
     "id": "505516276115046415",
-    "name": "Touhou 15.5: Antinomy of Common Flowers",
-    "publishers": [
-        {
-            "id": "521816550596935690",
-            "name": "黄昏フロンティア"
-        }
-    ],
-    "splash": "f0bfaeac0ddf313d52f648d15b29c710",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "716710",
-            "sku": "716710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1c9acaf0cf0daaeba041ecb8bbedc38c8e9e579bcf5d4667c6ae704a654b8f1b"
+    "name": "Touhou 15.5: Antinomy of Common Flowers"
 }

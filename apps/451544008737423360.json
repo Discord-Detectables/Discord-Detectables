@@ -1,5 +1,4 @@
 {
-    "description": "An online multiplayer game released on Steam Early-Access by October 31st. In short, the game is all about wizard duels with sumo-wrestling rules. Fast and responsive gameplay directed towards the MOBA crowds.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a5b749c7fe970b659c2f30dbaecf9766",
     "id": "451544008737423360",
-    "name": "Spellsworn",
-    "publishers": [
-        {
-            "id": "521816695887626240",
-            "name": "Frogsong Studios AB"
-        }
-    ],
-    "splash": "650584cb50b9e790d76be5929802a07e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "360620",
-            "sku": "360620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "17fd4aa79f7441bdccab9d0c6f15fb97089e76046bf078d2a9cd01da180b42e5"
+    "name": "Spellsworn"
 }

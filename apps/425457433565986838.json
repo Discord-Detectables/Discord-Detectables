@@ -1,5 +1,4 @@
 {
-    "description": "Action game for Steam VR",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df0126d5ad6b73420255e2ab27840411",
     "id": "425457433565986838",
-    "name": "Viking Rage",
-    "publishers": [
-        {
-            "id": "521816803228254218",
-            "name": "N-Gon Entertainment"
-        }
-    ],
-    "splash": "8aab9cf706fae6dffc2e7dafcd4310e3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "589150",
-            "sku": "589150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3497464f99ad427d4ea66ff16af14e480a0053535c46e3771e0c5351319b588"
+    "name": "Viking Rage"
 }

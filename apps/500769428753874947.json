@@ -1,11 +1,4 @@
 {
-    "description": "Serious Sam II ramps up the over-the-top shooting and humor the series is known for with more ridiculous weapons and enemies.",
-    "developers": [
-        {
-            "id": "521816609518518284",
-            "name": "Croteam Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "08b520e899c5b101e872da0ec0430c27",
     "id": "500769428753874947",
-    "name": "Serious Sam 2",
-    "publishers": [
-        {
-            "id": "521816609518518283",
-            "name": "Sold Out Sales & Marketing Ltd."
-        }
-    ],
-    "splash": "f416caf4410bccad874492e61508a0d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204340",
-            "sku": "204340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "db58fcf6157016ff72c270d40072de2b182851efe38f4f76dc33e6bda349ccd1"
+    "name": "Serious Sam 2"
 }

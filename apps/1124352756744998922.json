@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba32cffc1164710e57e07d0075396555",
     "id": "1124352756744998922",
-    "name": "Sniper 3D Assassin: Shoot to Kill",
-    "publishers": [
-        {
-            "id": "524352677958778895",
-            "name": "Fun Games for Free"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "922320",
-            "sku": "922320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1cbb70b89ec7c2d37efc1e9a00971b483273156d93b0047c0e2e184e169e2d58"
+    "name": "Sniper 3D Assassin: Shoot to Kill"
 }

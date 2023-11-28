@@ -1,11 +1,4 @@
 {
-    "description": "Developed by Day 1 Studios, F.3.A.R. (pronounced \"Fear Three\") is the final chapter in the F.E.A.R. franchise and continues the twisted story of Alma Wade and her two sons, Paxton Fettel and the Point Man.",
-    "developers": [
-        {
-            "id": "521816499464306691",
-            "name": "Wargaming West"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a22cc1c74c3ac7fb8ef7d40a06bafbdc",
     "id": "425437856169721856",
-    "name": "F.E.A.R. 3",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "3c3bfd40f9e800fcee744a2475f66ce8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "21100",
-            "sku": "21100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "619ff56fd9b19a392c96a6591b51d89b91620e68f922fcddc3be99b54237a3d0"
+    "name": "F.E.A.R. 3"
 }

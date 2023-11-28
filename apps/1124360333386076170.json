@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "22f7fae4e9fe40e5f895ce8324ff4d29",
     "id": "1124360333386076170",
-    "name": "Fort Triumph",
-    "publishers": [
-        {
-            "id": "1124360333868417154",
-            "name": "CookieByte Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "612570",
-            "sku": "612570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2a997ec89ef28959c5bd202ff463fa3860974f72327cdb1deb012bf12ec85c97"
+    "name": "Fort Triumph"
 }

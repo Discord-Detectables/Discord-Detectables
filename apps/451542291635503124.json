@@ -1,13 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
-    "developers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -15,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eded659c2684d89f243de5ddd408fcbb",
     "id": "451542291635503124",
-    "name": "STAR WARS™ Republic Commando",
-    "primary_sku_id": "492432195219095553",
-    "publishers": [
-        {
-            "id": "521816549057626137",
-            "name": "ak tronic Software & Services GmbH"
-        }
-    ],
-    "slug": "star-wars-tm-republic-commando",
-    "splash": "a2fb1c89b80aadd7dd592238e3106d88",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492432195219095553",
-            "sku": "492432195219095553"
-        },
-        {
-            "distributor": "steam",
-            "id": "6000",
-            "sku": "6000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "460cab5f2fe7b71e3c2c06b3fe217f4f68d55db16dae672bdfb66182355871e2"
+    "name": "STAR WARS™ Republic Commando"
 }

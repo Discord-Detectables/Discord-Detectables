@@ -1,29 +1,17 @@
 {
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "th128e.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "th128.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "1c8b81de5d919b4bb6d96b6e3c7c2ead",
-    "id": "505513776607395868",
-    "name": "Touhou 12.8: Great Fairy Wars",
-    "publishers": [
+        },
         {
-            "id": "521816534205857807",
-            "name": "Touhou-Online"
+            "is_launcher": false,
+            "name": "th128e.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "ab2b3c145939dcf68070eaf1cd9de343298352a7d0e6b4b7d7a1501b6ad3d9d1"
+    "hook": true,
+    "id": "505513776607395868",
+    "name": "Touhou 12.8: Great Fairy Wars"
 }

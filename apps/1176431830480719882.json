@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "22c98502b46d0d07347506cf01dfb471",
     "id": "1176431830480719882",
-    "name": "Soak & Splash",
-    "publishers": [
-        {
-            "id": "1176431831864856586",
-            "name": "Hosthood Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2051500",
-            "sku": "2051500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5e1933488a1438dc8deed7b9ca351034c5905f6a441a8bce7eeb36d861422295"
+    "name": "Soak & Splash"
 }

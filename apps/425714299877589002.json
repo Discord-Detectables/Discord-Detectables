@@ -2,7 +2,6 @@
     "aliases": [
         "Sacred 2"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,33 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d9b2f55b2bc49d1895057c7e5c3c2de6",
     "id": "425714299877589002",
-    "name": "Sacred 2 Gold",
-    "primary_sku_id": "489226702807891991",
-    "publishers": [
-        {
-            "id": "521816650304061466",
-            "name": "Ascaron"
-        }
-    ],
-    "slug": "sacred-2-gold",
-    "splash": "1101dbb0ccfd4f7b65e2a03d3d7eb6ab",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "225640",
-            "sku": "225640"
-        },
-        {
-            "distributor": "discord",
-            "id": "489226702807891991",
-            "sku": "489226702807891991"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b3cdb2a839014ec2bf1e70d723d35ebae4804ff6a75de5917c96a671bc010be"
+    "name": "Sacred 2 Gold"
 }

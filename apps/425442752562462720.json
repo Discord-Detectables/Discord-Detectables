@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816709490016256",
-            "name": "Silent Dreams"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9be365079c9218d25dbfa7d0cf17d66d",
     "id": "425442752562462720",
-    "name": "Dead Age",
-    "primary_sku_id": "489074028980731915",
-    "publishers": [
-        {
-            "id": "521816709490016256",
-            "name": "Silent Dreams"
-        }
-    ],
-    "slug": "dead-age",
-    "splash": "546a6b2c8c086a21eb7685687a021fa2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "363930",
-            "sku": "363930"
-        },
-        {
-            "distributor": "discord",
-            "id": "489074028980731915",
-            "sku": "489074028980731915"
-        }
-    ],
-    "type": 1,
-    "verify_key": "be4d7771838d38dc42e42a4a28d60530f463b066739e7eafb70519678eeeefb6"
+    "name": "Dead Age"
 }

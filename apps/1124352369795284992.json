@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "275ca4f377e4de1119a058eafe277fdd",
     "id": "1124352369795284992",
-    "name": "Soda Dungeon 2",
-    "publishers": [
-        {
-            "id": "1124352370290208768",
-            "name": "AN Productions"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "946050",
-            "sku": "946050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "adf873784af637a23cbf864b85d95d63f1d8d063c0f0c9e56e2c7db08dcec682"
+    "name": "Soda Dungeon 2"
 }

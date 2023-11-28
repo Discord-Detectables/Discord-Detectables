@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed47de48eb09c2a29b6e7b65a2207bec",
     "id": "1124358582272536706",
-    "name": "いっき団結",
-    "publishers": [
-        {
-            "id": "524351469516750902",
-            "name": "SUNSOFT"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2061150",
-            "sku": "2061150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b07b9a8f390d9a51a369663dcf8f2a3c9b4ca367df2ca4e08511f31190b046ec"
+    "name": "いっき団結"
 }

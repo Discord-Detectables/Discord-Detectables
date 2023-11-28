@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d9796311382ecd15ffdc1d93f6d89637",
     "id": "1124359473780240384",
-    "name": "Respublica",
-    "publishers": [
-        {
-            "id": "1124359474279370793",
-            "name": "Drahgoone"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "886160",
-            "sku": "886160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bb76c67341838cb7ab2b3939efa82dfed150d5ddf6f52232eba530f9daac1d3a"
+    "name": "Respublica"
 }

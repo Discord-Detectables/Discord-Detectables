@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2a6a8f66db66a8d39f67413d60d1637",
     "id": "1124357318381944944",
-    "name": "EV3 - Drag Racing",
-    "publishers": [
-        {
-            "id": "1124357318843314186",
-            "name": "KABloom Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "791150",
-            "sku": "791150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1920d9f53f1bd7118564f36e66da95e402d59b8851f31914fd00834aa6463eca"
+    "name": "EV3 - Drag Racing"
 }

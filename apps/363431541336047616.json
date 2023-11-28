@@ -1,11 +1,4 @@
 {
-    "description": "Take command of the Russian forces and out-think the Nazis all the way to Berlin.",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d70edd0349d6a4b5a30ce3e6171539af",
     "id": "363431541336047616",
     "name": "Company of Heroes 2",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "d71e66c92958b0cac007bbdcc0da15b3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "231430",
-            "sku": "231430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d668f2e38a2468b28fe23b3c0d0ff4fb4cf4a49ecedc1ca50b9da91c83f63c6f"
+    "overlay": true
 }

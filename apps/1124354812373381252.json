@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9b25a9050a8b0df2ae0d7ec18f76057e",
     "id": "1124354812373381252",
-    "name": "You Will (Not) Remain",
-    "publishers": [
-        {
-            "id": "1124354812872511518",
-            "name": "Bedtime Phobias"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1776160",
-            "sku": "1776160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5e90d5d6e5af216741510464d85f5622dd057f7dc5b7c6857839b613aae6921"
+    "name": "You Will (Not) Remain"
 }

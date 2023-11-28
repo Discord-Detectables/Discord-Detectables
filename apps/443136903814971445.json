@@ -1,11 +1,4 @@
 {
-    "description": "Estranged: Act II follows the story of a fisherman, stranded on a mysterious island during a violent storm. Little does he know his adventure has just begun, and the island is home to more than it first seems.",
-    "developers": [
-        {
-            "id": "521816740246585344",
-            "name": "Alan Edwardes"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "368117880547573760",
     "hook": true,
-    "icon": "32c56ffba6954f1fe50594a00764f089",
     "id": "443136903814971445",
-    "name": "Estranged: The Departure",
-    "primary_sku_id": "443136903814971445",
-    "publishers": [
-        {
-            "id": "521816740246585344",
-            "name": "Alan Edwardes"
-        }
-    ],
-    "slug": "estranged-the-departure",
-    "splash": "61eabcac51092561a88175ba031615f9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "582890",
-            "sku": "582890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f08e1a5a54dbbff7157784038e2403d3ff105764f679933174212a6c84706926"
+    "name": "Estranged: The Departure"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "The next sandbox building game from the same developers as Space Engineers.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48538bab6071a6cfb06b3bd735ce5b4d",
     "id": "457619737535447060",
-    "name": "Medieval Engineers",
-    "publishers": [
-        {
-            "id": "521816518409977856",
-            "name": "Keen Software House"
-        }
-    ],
-    "splash": "6b0c63d86dff2462e0b6259268277cf5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "333950",
-            "sku": "333950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cfb295c23af28a1ebc2a4fcab756cd2453a5593dffed85e31d38a64cc904b170"
+    "name": "Medieval Engineers"
 }

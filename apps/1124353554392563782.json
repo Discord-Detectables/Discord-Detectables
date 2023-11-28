@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fdaf5fdeb8911ca7bc897f0f7e0d2f93",
     "id": "1124353554392563782",
-    "name": "Coromon",
-    "publishers": [
-        {
-            "id": "1124353554929430578",
-            "name": "TRAGsoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1218210",
-            "sku": "1218210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3998e2609a0647d1ea83fbf79fa18ed645d5066cb59197842eebe317c4e1cb3"
+    "name": "Coromon"
 }

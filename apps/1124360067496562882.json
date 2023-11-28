@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dee02850808ff58cab97a9729e1e88d0",
     "id": "1124360067496562882",
-    "name": "Gibbous - A Cthulhu Adventure",
-    "publishers": [
-        {
-            "id": "524352718257651722",
-            "name": "Stuck In Attic"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "914020",
-            "sku": "914020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ac67d93c2e114597b1d405c41e616e3fbdc340b28c08523caa31f60703d992b7"
+    "name": "Gibbous - A Cthulhu Adventure"
 }

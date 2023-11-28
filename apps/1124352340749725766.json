@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e0ce2cd2e609c9d31c489ed97a224e63",
     "id": "1124352340749725766",
-    "name": "DREDGE",
-    "publishers": [
-        {
-            "id": "1124352341202718790",
-            "name": "Black Salt Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1562430",
-            "sku": "1562430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "40517317fd712f45941b05492f98535530fd3145dc624bc659bed983b055b086"
+    "name": "DREDGE"
 }

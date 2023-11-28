@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4af5d20b0123f30fa200c82d3c4d5809",
     "id": "1124359645276950598",
-    "name": "Rivalry",
-    "publishers": [
-        {
-            "id": "1124359645818011678",
-            "name": "Kew McParlane"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "431770",
-            "sku": "431770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "27aa438921a16912e8a510369fb5444c7a278d0d945f9c0aa1280d3e49565335"
+    "name": "Rivalry"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aef1977991ddc1ccc82a170c4aa80c84",
     "id": "1124352626478293071",
-    "name": "The Mortuary Assistant",
-    "publishers": [
-        {
-            "id": "524353196529811468",
-            "name": "DarkStone Digital"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1295920",
-            "sku": "1295920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e7da5d9f0de597e287fc29e811192787dd91d31c8683e9cdc576ee60bafe6dcf"
+    "name": "The Mortuary Assistant"
 }

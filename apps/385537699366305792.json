@@ -1,11 +1,4 @@
 {
-    "description": "A Yu-Gi-Oh! trading card game that uses mostly traditional rules, but games are made to end more quickly.",
-    "developers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "058411edfa95229c6adb7d56d9d1e8ce",
     "id": "385537699366305792",
-    "name": "Yu-Gi-Oh! Duel Links",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        },
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "splash": "7de504c72487d0c5ce6ba7aff9979417",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "601510",
-            "sku": "601510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "66d01579158147c8e04d7935969a9a26df1276e41983a012bd54e08e6e8ff9fa"
+    "name": "Yu-Gi-Oh! Duel Links"
 }

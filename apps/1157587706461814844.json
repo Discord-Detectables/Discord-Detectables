@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "02d1e2dbb31a1653eeea14ee888bb5c4",
     "id": "1157587706461814844",
-    "name": "Fate/Samurai Remnant",
-    "publishers": [
-        {
-            "id": "521816779509465099",
-            "name": "KOEI TECMO GAMES CO., LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1902690",
-            "sku": "1902690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3411cff4024c1b4e7a44cb408d0255b353176b27e4addaa5f67fcc73b02e3450"
+    "name": "Fate/Samurai Remnant"
 }

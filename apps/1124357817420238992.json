@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0ae5d627944d162e4d39668e82cbf966",
     "id": "1124357817420238992",
-    "name": "Sacred Gold",
-    "publishers": [
-        {
-            "id": "521816742134284295",
-            "name": "Ascaron Entertainment ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "12320",
-            "sku": "12320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c79b967095503504d5aecae25af2034a828d372bbb15b8f7fbc7a58e1b8ab1d1"
+    "name": "Sacred Gold"
 }

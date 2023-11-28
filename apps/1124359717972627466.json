@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ecdeaee7bf09ef49b0fbdd73683ed41b",
     "id": "1124359717972627466",
-    "name": "Survival Horror #8,436",
-    "publishers": [
-        {
-            "id": "1124359718442385458",
-            "name": "Lickbeans Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1565290",
-            "sku": "1565290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "83cd215e8da35551711c2a43f453fe7eccaf0f9360cd6f36d39e99765abbdeee"
+    "name": "Survival Horror #8,436"
 }

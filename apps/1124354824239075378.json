@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f9a833f5b5ac4a1a110f0cadc74cd6b5",
     "id": "1124354824239075378",
-    "name": "Boodunnit",
-    "publishers": [
-        {
-            "id": "1124354824746582097",
-            "name": "Studio Koprol"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1515290",
-            "sku": "1515290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7361f690ba9e9b82637aadc6ef578dd5f8f6eb5badcd4afc86d2cbdabab5789c"
+    "name": "Boodunnit"
 }

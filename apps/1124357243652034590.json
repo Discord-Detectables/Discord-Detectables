@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "483ab7c824e82b49a183e5ca09235aaa",
     "id": "1124357243652034590",
-    "name": "The Cave",
-    "publishers": [
-        {
-            "id": "521816700153495552",
-            "name": "Double Fine Productions"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "221810",
-            "sku": "221810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18aa0375eb80c3d537b9168e9345fa934b8b4470063cb975af5cfd4b07925d2e"
+    "name": "The Cave"
 }

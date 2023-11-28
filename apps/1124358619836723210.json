@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "95b371050b0f0ff755cd101ad5450517",
     "id": "1124358619836723210",
-    "name": "PlayClaw 7",
-    "publishers": [
-        {
-            "id": "1124353148744650752",
-            "name": "Eduard Kozadaev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1141530",
-            "sku": "1141530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "812e79c085b0f10e3dad60a4c8fc35c36e26cab0105d66ce9d54ea826046821c"
+    "name": "PlayClaw 7"
 }

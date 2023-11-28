@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b29eef5b0dcbc27289b0f1baf333ecd5",
     "id": "1124358131225477120",
-    "name": "Missing Translation",
-    "publishers": [
-        {
-            "id": "524352473570345036",
-            "name": "AlPixel Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "395520",
-            "sku": "395520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "32f3473306fa318303d6b53f226beff1355a3f4bf38d7e88da8deea196f80334"
+    "name": "Missing Translation"
 }

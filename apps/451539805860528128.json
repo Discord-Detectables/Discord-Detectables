@@ -1,11 +1,4 @@
 {
-    "description": "An upgraded version of the 2013 XBLA title featuring all the DLC, brand new animations for both humans and zombies, improved interface and increased graphics quality.",
-    "developers": [
-        {
-            "id": "521816505252446228",
-            "name": "Undead Labs"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "32a24d12ab414fa4c3d606b03ebefb94",
     "id": "451539805860528128",
-    "name": "State of Decay: Year-One",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        },
-        {
-            "id": "521816505252446228",
-            "name": "Undead Labs"
-        }
-    ],
-    "splash": "fd702d11e698575a700f8b82459fce41",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329430",
-            "sku": "329430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "404b348b1b41c8675b09d5bafb21306ef826d8a576f22e1daf5cc2b36a96279c"
+    "name": "State of Decay: Year-One"
 }

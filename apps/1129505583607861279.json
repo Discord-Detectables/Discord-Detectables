@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a294eb2dfe1daa1361e436af17da4971",
     "id": "1129505583607861279",
-    "name": "TaskPals",
-    "publishers": [
-        {
-            "id": "1129505584631267328",
-            "name": "lazarche"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2235240",
-            "sku": "2235240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "669c6a5707c9d61c66d045569b68eb70a797e16d65bc9985c8c1f7deb9d09978"
+    "name": "TaskPals"
 }

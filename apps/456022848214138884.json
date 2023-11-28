@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "471722331820130324",
     "hook": true,
-    "icon": "0d306a8245be56ae1a0268544f2ea825",
     "id": "456022848214138884",
-    "name": "Halo Wars: Definitive Edition",
-    "publishers": [
-        {
-            "id": "521816567940513807",
-            "name": "Ensemble Studios"
-        }
-    ],
-    "splash": "8c67c7dfe6954fc505e5f4e672c89e01",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "459220",
-            "sku": "459220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6f8a70c9295d313a4ca2f16a5cc5d64c65c1fc2d57d98498c8e004c777567012"
+    "name": "Halo Wars: Definitive Edition"
 }

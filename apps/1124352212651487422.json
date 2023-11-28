@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8d281eb1c5ff3c08c706430855edd361",
     "id": "1124352212651487422",
-    "name": "Chair Simulator",
-    "publishers": [
-        {
-            "id": "1124352213167394846",
-            "name": "MSCHF Product Studios Inc"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1610870",
-            "sku": "1610870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b35d8fd90b10a80f4d74eda01cdf8c215587053ae0a928b65c89d7cebc5b57ae"
+    "name": "Chair Simulator"
 }

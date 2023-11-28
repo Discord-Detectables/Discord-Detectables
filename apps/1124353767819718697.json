@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db8a4db9a440a644929624a17d6cfd0b",
     "id": "1124353767819718697",
-    "name": "Bus Simulator 16",
-    "publishers": [
-        {
-            "id": "524352333501562916",
-            "name": "stillalive studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324310",
-            "sku": "324310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d8109e2d88a01f3b331e2747a8b59036c96c55bf81407bff41d58237b1c2f35"
+    "name": "Bus Simulator 16"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cc2a5d16d2c2d18ebbd337a8f43f2d66",
     "id": "1124354144275280012",
-    "name": "Kane & Lynch 2: Dog Days",
-    "publishers": [
-        {
-            "id": "521816647678558211",
-            "name": "IO Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "28000",
-            "sku": "28000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3babc9ae635757f8d3840937e512f8a26e2aedce8c6134c36de2cce66e23d6a7"
+    "name": "Kane & Lynch 2: Dog Days"
 }

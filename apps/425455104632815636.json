@@ -2,13 +2,6 @@
     "aliases": [
         "AER: Memories of Old"
     ],
-    "description": "As Auk, a girl with the ability to transform into a bird, explore what's left of a world forsaken by the gods.",
-    "developers": [
-        {
-            "id": "521816728888410132",
-            "name": "Forgotten Key"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e820d29d1d55590c49359ee554b15755",
     "id": "425455104632815636",
-    "name": "AER Memories of Old",
-    "publishers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
-    "splash": "ad8ae5c0cdb71191462ce6880d1cb413",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "331870",
-            "sku": "331870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7ae40a953dd826af27f8ef62c052ffa449a1b126e35dbfabe9f9b63ed67e58bc"
+    "name": "AER Memories of Old"
 }

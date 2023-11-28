@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "261312643b5220eab98b93740ac779cc",
     "id": "1124359352657137784",
-    "name": "DEAD OR ALIVE Xtreme Venus Vacation",
-    "publishers": [
-        {
-            "id": "521816779509465099",
-            "name": "KOEI TECMO GAMES CO., LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "958260",
-            "sku": "958260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d39d57dbcb659538011ee73e3911ff97aab22bc947a11a48edbab6955746d42a"
+    "name": "DEAD OR ALIVE Xtreme Venus Vacation"
 }

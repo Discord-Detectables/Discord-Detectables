@@ -4,9 +4,6 @@
         "動物園之星",
         "플래닛 주"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -14,37 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1c20e2ade0066f9f9c4761157bfe18a",
     "id": "1129504125504209006",
-    "name": "Planet Zoo",
-    "publishers": [
-        {
-            "id": "521816604175106059",
-            "name": "Frontier Developments"
-        },
-        {
-            "id": "521816604175106059",
-            "name": "Frontier Developments"
-        },
-        {
-            "id": "521816604175106059",
-            "name": "Frontier Developments"
-        },
-        {
-            "id": "521816604175106059",
-            "name": "Frontier Developments"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "703080",
-            "sku": "703080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "116f6ef9d2d35e2ffe94f1fb09e806f87988907bab7796e76f2eb5153bed896c"
+    "name": "Planet Zoo"
 }

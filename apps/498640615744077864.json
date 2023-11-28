@@ -2,57 +2,19 @@
     "aliases": [
         "CrossCode"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816594675138611",
-            "name": "Radical Fish Games"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "crosscode-beta.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "crosscode/crosscode.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "crosscode-beta.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "143364538958348288",
     "hook": true,
-    "icon": "a8447b2a0f5052529cc93aa6def4d3ba",
     "id": "498640615744077864",
-    "name": "CrossCode",
-    "primary_sku_id": "498690780836134912",
-    "publishers": [
-        {
-            "id": "521816594675138610",
-            "name": "Deck13 Interactive GmbH"
-        },
-        {
-            "id": "521816594675138611",
-            "name": "Radical Fish Games"
-        }
-    ],
-    "slug": "crosscode",
-    "splash": "9effd00a96cec32ee5a82d2a06c210b7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "368340",
-            "sku": "368340"
-        },
-        {
-            "distributor": "discord",
-            "id": "498690780836134912",
-            "sku": "498690780836134912"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8db2b65b58026b67cc49e533e10cdba5b5a907bd7e570f4aec51580831bd6247"
+    "name": "CrossCode"
 }

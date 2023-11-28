@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b10fd6a7d9ebbcdef5e7fbaf05313d7c",
     "id": "1124357606778097744",
-    "name": "東方天空璋 ～ Hidden Star in Four Seasons.",
-    "publishers": [
-        {
-            "id": "1124357607310770266",
-            "name": "上海アリス幻樂団"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "745880",
-            "sku": "745880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2dea21b11707492436266524bd06d30603030057d7a882dd3c7f27003bf814a1"
+    "name": "東方天空璋 ～ Hidden Star in Four Seasons."
 }

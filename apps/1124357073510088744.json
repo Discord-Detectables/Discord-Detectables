@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "24679c59f6c6c826f3d9170df796a0e2",
     "id": "1124357073510088744",
-    "name": "BOXVR",
-    "publishers": [
-        {
-            "id": "1124357073975652452",
-            "name": "FitXR"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "641960",
-            "sku": "641960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7f819cfa0ba9e25e3820099316840aebf47e48979939571b11e05b59570ad9d6"
+    "name": "BOXVR"
 }

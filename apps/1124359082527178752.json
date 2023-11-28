@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "73ad59e1f15f885c58f6851c4abe28f0",
     "id": "1124359082527178752",
-    "name": "High School Simulator 2018",
-    "publishers": [
-        {
-            "id": "1124359082971770921",
-            "name": "KUMA GAMES"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "754620",
-            "sku": "754620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5366840b87e488aaa629ecc7a95432d95789648064063b52d6e8709b6dd8b758"
+    "name": "High School Simulator 2018"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec003abe861d98da3482aadbd387b6e9",
     "id": "1162812125165658237",
-    "name": "Engine Evolution 2023",
-    "publishers": [
-        {
-            "id": "1124352905571479653",
-            "name": "Petr Šimůnek"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2196640",
-            "sku": "2196640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18a4ac18a0ed25bb0ec0962e388f1f2961cdb455e22eabd584296c4ca9029408"
+    "name": "Engine Evolution 2023"
 }

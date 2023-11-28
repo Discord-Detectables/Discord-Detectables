@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0f7712426e831dccfbf817b2ef60b553",
     "id": "1124357288292003880",
-    "name": "Super Fantasy Kingdom Demo",
-    "publishers": [
-        {
-            "id": "1124357288749191258",
-            "name": "Feryaz Beer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2414860",
-            "sku": "2414860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1cbb2b13b9460c2d54b9b979d2d248070cb140d0cef07383659e1039c67c84cb"
+    "name": "Super Fantasy Kingdom Demo"
 }

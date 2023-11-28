@@ -2,9 +2,6 @@
     "aliases": [
         "King of Kinks"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e018c3693965733fe1fd9c2ca75c4f02",
     "id": "1129505182426878115",
-    "name": "King of Kinks",
-    "publishers": [
-        {
-            "id": "1129505183227986000",
-            "name": "DPH Studio"
-        },
-        {
-            "id": "1129505186214334565",
-            "name": "Dragon Power House"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1753410",
-            "sku": "1753410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0de95201c168fead3b7704e0bcfc6df097ab2c32f9251361e75be449fd580808"
+    "name": "King of Kinks"
 }

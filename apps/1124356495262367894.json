@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d75f60448357f8d12d317836eb5a8dcc",
     "id": "1124356495262367894",
-    "name": "FURIDASHI: Drift Cyber Sport",
-    "publishers": [
-        {
-            "id": "1124356495782457384",
-            "name": "Drift Physics Crew"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "658570",
-            "sku": "658570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed0b2f6ded3dddb6e6fc01f2c2ee3918aaf8ed3af87bdcbdba4b4efcae2c7cb3"
+    "name": "FURIDASHI: Drift Cyber Sport"
 }

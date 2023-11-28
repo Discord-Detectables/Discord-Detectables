@@ -1,11 +1,4 @@
 {
-    "description": "A 'Bullet Hell' Shoot 'Em Up game.",
-    "developers": [
-        {
-            "id": "521816666489749522",
-            "name": "CAVE Co., Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "778e3e4bed169588c7a2a467ad384cf1",
     "id": "496569185237860359",
-    "name": "Deathsmiles",
-    "publishers": [
-        {
-            "id": "521816666489749521",
-            "name": "Aksys Games"
-        }
-    ],
-    "splash": "8277124c3b67cca405c5d6b57b5b7f4b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "314180",
-            "sku": "314180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "693c99afbafb0e1b4a56128b112eb95d1510b29e4e1dca4879cb17e3329f995c"
+    "name": "Deathsmiles"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Shadowrun Returns is a turn-based RPG created by Harebrained Schemes.",
-    "developers": [
-        {
-            "id": "521816521249521698",
-            "name": "Harebrained Schemes"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c317ad5adcec28ea838e6e5efd12399",
     "id": "459713656339562503",
-    "name": "Shadowrun Returns",
-    "publishers": [
-        {
-            "id": "521816521249521698",
-            "name": "Harebrained Schemes"
-        }
-    ],
-    "splash": "1c0fe1f16fa6f74579dd380b3a1eeaf1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "234650",
-            "sku": "234650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cb29f2877dc2984955e5b5adc633593a16c8f81277486a19acd2d188856b1477"
+    "name": "Shadowrun Returns"
 }

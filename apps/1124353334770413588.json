@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2cea6231d15dc2d4b9a8302b161ffd5",
     "id": "1124353334770413588",
-    "name": "Marie's Room",
-    "publishers": [
-        {
-            "id": "524353278126063620",
-            "name": "like charlie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "648390",
-            "sku": "648390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4df7e84d43f7959fcb35d8d87891a80a52bb8465ed548f67d2ed79eb0fc861f5"
+    "name": "Marie's Room"
 }

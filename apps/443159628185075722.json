@@ -1,11 +1,4 @@
 {
-    "description": "Ylands is a sandbox game by Bohemia Interactive.",
-    "developers": [
-        {
-            "id": "521816510172233760",
-            "name": "Bohemia Interactive Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e687ec03f54b632bbd3159187064e907",
     "id": "443159628185075722",
-    "name": "Ylands",
-    "publishers": [
-        {
-            "id": "521816659519078412",
-            "name": "Bohemia Interactive"
-        },
-        {
-            "id": "521816510172233760",
-            "name": "Bohemia Interactive Studio"
-        }
-    ],
-    "splash": "567854d48cd643fc417d582cd510e12c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "298610",
-            "sku": "298610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b24c750866d37f20827a9fefdd15f74625c131e58c9fa9e2eb7e1bbe9319d98e"
+    "name": "Ylands"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b8511c96e37067a18d26d90e94a3991d",
     "id": "1124352247921389688",
-    "name": "MilkChoco",
-    "publishers": [
-        {
-            "id": "1124352248454074399",
-            "name": "GameParadiso"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "871120",
-            "sku": "871120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0382a3e2823b2ce998731adda708b1a4a00427796bc0d74ddaff6fa7d4431f22"
+    "name": "MilkChoco"
 }

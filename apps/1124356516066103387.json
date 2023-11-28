@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d8149bf7f5a96ab81d571d226c9b2da8",
     "id": "1124356516066103387",
-    "name": "Demeo",
-    "publishers": [
-        {
-            "id": "524353260002344968",
-            "name": "Resolution Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1484280",
-            "sku": "1484280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0c684634046204df8c553313cf0a0f6d1b024a90bf0462f9c5eb36fd1997e40a"
+    "name": "Demeo"
 }

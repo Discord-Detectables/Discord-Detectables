@@ -1,11 +1,4 @@
 {
-    "description": "Hunger Dungeon is a round based MOBA.",
-    "developers": [
-        {
-            "id": "521816801038958592",
-            "name": "Buka Game Studio "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0558c104e36593e99da41b4cc7de8e93",
     "id": "487652330989158410",
-    "name": "Hunger Dungeon",
-    "publishers": [
-        {
-            "id": "521816800560939011",
-            "name": "PQube"
-        }
-    ],
-    "splash": "c18a275757b2e181eb0c4c74106c08ed",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "513560",
-            "sku": "513560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2768bf585d501ef37c44c31902f4858b064012f7e01f6d305c90370b2379399b"
+    "name": "Hunger Dungeon"
 }

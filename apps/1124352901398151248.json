@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d108dce7672d171b3d24299e57e407f",
     "id": "1124352901398151248",
-    "name": "Death and Taxes",
-    "publishers": [
-        {
-            "id": "1124352901926629446",
-            "name": "Placeholder Gameworks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1166290",
-            "sku": "1166290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6e8b4f21ff76805be85ad0a308b5ed16736c9a3832f0aae8f58e99eedfe37126"
+    "name": "Death and Taxes"
 }

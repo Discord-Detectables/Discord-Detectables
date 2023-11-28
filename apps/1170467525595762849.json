@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e464d80966c80de43db81b68359425d7",
     "id": "1170467525595762849",
-    "name": "I Am Future: Cozy Apocalypse Survival",
-    "publishers": [
-        {
-            "id": "524352600368349186",
-            "name": "Mandragora"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1658040",
-            "sku": "1658040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "259043ef78a94797f5aa17505aa7efd6d2b5767d588e0bbac693bb03effcfda0"
+    "name": "I Am Future: Cozy Apocalypse Survival"
 }

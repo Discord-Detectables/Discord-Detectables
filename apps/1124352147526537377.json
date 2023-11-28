@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb7ca92a67b743abd9b1002000cba9af",
     "id": "1124352147526537377",
-    "name": "The Room",
-    "publishers": [
-        {
-            "id": "524352193109688325",
-            "name": "Fireproof Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "288160",
-            "sku": "288160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eb8cc49531a68f961686b1f452ed5c84a840a5f305e61c35b43d942ed4b30787"
+    "name": "The Room"
 }

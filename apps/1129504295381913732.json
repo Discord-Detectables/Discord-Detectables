@@ -2,9 +2,6 @@
     "aliases": [
         "Deduction"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2ad21f00918328c6b3e09be322046150",
     "id": "1129504295381913732",
-    "name": "Deducto",
-    "publishers": [
-        {
-            "id": "1129504296329822249",
-            "name": "Red Fox Studios"
-        },
-        {
-            "id": "1129504296329822249",
-            "name": "Red Fox Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1453490",
-            "sku": "1453490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2ba3d66d682e23996879b1b5c36b83a6f86d678174a0ef79c0af342963a184cd"
+    "name": "Deducto"
 }

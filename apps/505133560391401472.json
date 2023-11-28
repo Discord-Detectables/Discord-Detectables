@@ -2,13 +2,6 @@
     "aliases": [
         "Fable: The Lost Chapters"
     ],
-    "description": "A remake of the original Fable featuring additional quests, armor, weapons, and explorable areas.",
-    "developers": [
-        {
-            "id": "521816588169510932",
-            "name": "Lionhead Studios Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1862a0a2a5cf39ab7a5b491cb7844120",
     "id": "505133560391401472",
-    "name": "Fable - The Lost Chapters",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "5b5275a62397d504d3e9a11034ff29bb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "204030",
-            "sku": "204030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c490756beab7061a7e2856b8e11f6fc3851fe9ffd10ee25ab5b777a02d041a71"
+    "name": "Fable - The Lost Chapters"
 }

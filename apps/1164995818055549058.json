@@ -3,9 +3,6 @@
         "Minecraft: Story Mode - A Telltale Games Series",
         "Minecraft: Story Mode - A Telltale Games Series - Episode 1"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5a3ed04db6cf896e64e2d9e0a75865d1",
     "id": "1164995818055549058",
-    "name": "Minecraft: Story Mode",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        },
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "376870",
-            "sku": "376870"
-        },
-        {
-            "distributor": "steam",
-            "id": "560040",
-            "sku": "560040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "20ba67cfa80ba89d3a7e7d2d9417dc8fdc359079a3b5cacecf7c9cd553eb8b5d"
+    "name": "Minecraft: Story Mode"
 }

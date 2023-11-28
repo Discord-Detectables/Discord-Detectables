@@ -2,9 +2,6 @@
     "aliases": [
         "SuchArt: Creative Space"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3b48aa88c101abae1b7efc42ea87b8ab",
     "id": "1129504304814891028",
-    "name": "SuchArt: Creative Space",
-    "publishers": [
-        {
-            "id": "1129504305318219936",
-            "name": "Voolgi"
-        },
-        {
-            "id": "1129504307247595671",
-            "name": "Goose Minded"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1469280",
-            "sku": "1469280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "54bfb1930c3dd339d828484182cad0a5c267d7865703fcab1561d09eff8dce7b"
+    "name": "SuchArt: Creative Space"
 }

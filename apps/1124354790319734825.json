@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2c1401398d89611a894cc563fe1456a7",
     "id": "1124354790319734825",
-    "name": "IL-2 Sturmovik: 1946",
-    "publishers": [
-        {
-            "id": "524351550710349829",
-            "name": "1C: Maddox Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15320",
-            "sku": "15320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd38459dd2615f79e638e9fe5080285a10184c867b81c2b9d5610abb25d1dd91"
+    "name": "IL-2 Sturmovik: 1946"
 }

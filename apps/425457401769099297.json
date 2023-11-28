@@ -1,11 +1,4 @@
 {
-    "description": "Medieval city building management game",
-    "developers": [
-        {
-            "id": "521816705295712276",
-            "name": "HandyGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea20325e40acdb67a53168aeae731e76",
     "id": "425457401769099297",
-    "name": "Townsmen",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "7555ba4864372dc7deede0925ddd877a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "486540",
-            "sku": "486540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b64380a518ab8f1da7881d3f37aaab3b8117fcb67e0d9350da419b08086a4ca6"
+    "name": "Townsmen"
 }

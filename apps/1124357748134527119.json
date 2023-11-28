@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ea8fd56506a8e8144f87da41675b618",
     "id": "1124357748134527119",
-    "name": "Ragnarok",
-    "publishers": [
-        {
-            "id": "1124357748692365483",
-            "name": "Gravity Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "215100",
-            "sku": "215100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a11795676a70d41aaec2325f0cd2482698199a8dfe8d7c4de3173cacb2539556"
+    "name": "Ragnarok"
 }

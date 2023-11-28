@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "983fb1d1a45b0d854945b41a0f07ee09",
     "id": "491739802870349883",
-    "name": "The End Is Nigh",
-    "primary_sku_id": "492017956373659649",
-    "publishers": [
-        {
-            "id": "521816629844377630",
-            "name": "Edmund McMillen and Tyler Glaiel"
-        }
-    ],
-    "slug": "the-end-is-nigh",
-    "splash": "e9e76419ef13741187847da4ffd9aad4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492017956373659649",
-            "sku": "492017956373659649"
-        },
-        {
-            "distributor": "steam",
-            "id": "583470",
-            "sku": "583470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78f86cc8ad9dbf602a76d66f17e2cda153fc8dcf1b999274e9eafb2ff952adb6"
+    "name": "The End Is Nigh"
 }

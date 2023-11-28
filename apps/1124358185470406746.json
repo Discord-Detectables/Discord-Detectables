@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "877359e1c6c9d42758f3a36d4aa6cb14",
     "id": "1124358185470406746",
-    "name": "Predecessor",
-    "publishers": [
-        {
-            "id": "1124358185940176976",
-            "name": "Omeda Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "961200",
-            "sku": "961200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "828eecdf0dce698ace0d22a84f8559b2ed5d1c45549f59153a2a75b02bebffb4"
+    "name": "Predecessor"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4b0f6ee320b13f3726d8103b809c33a",
     "id": "1124355818494640280",
-    "name": "Heavy Bullets",
-    "publishers": [
-        {
-            "id": "524352383510249484",
-            "name": "Terri Vellmann"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "297120",
-            "sku": "297120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9864cb671d806843c3b109097e57715a38481b31535c5581740ff80e9d2197c0"
+    "name": "Heavy Bullets"
 }

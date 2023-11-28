@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ad59b1cef8c0241a31b27f899db92957",
     "id": "1129504830176645212",
-    "name": "PANZER BALL",
-    "publishers": [
-        {
-            "id": "1129504832433168395",
-            "name": "LODZERO"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "325260",
-            "sku": "325260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6114c67e55b2ef3dfc8b5fa06eb497e6719dc95e8c2acf4dcb4e9ac6d9e87220"
+    "name": "PANZER BALL"
 }

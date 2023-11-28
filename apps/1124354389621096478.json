@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df599d89f016b4c648e7b7ec37b181a6",
     "id": "1124354389621096478",
-    "name": "Captain Bones: Prologue",
-    "publishers": [
-        {
-            "id": "1124354390082465803",
-            "name": "Saygın Karahan"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1671600",
-            "sku": "1671600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "263c2cfd26bc5800fe0e4566414675f2394c838602091ab55fecda1453d35407"
+    "name": "Captain Bones: Prologue"
 }

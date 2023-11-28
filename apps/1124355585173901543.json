@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "188955a7b8f71be31e51da00fd802afd",
     "id": "1124355585173901543",
-    "name": "FPS Monitor",
-    "publishers": [
-        {
-            "id": "1124353148744650752",
-            "name": "Eduard Kozadaev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "966610",
-            "sku": "966610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7da2ae8b76d43f4f6d2bc1ec6f97219f6485b2fa84b26a9fd5bdca942c1423cc"
+    "name": "FPS Monitor"
 }

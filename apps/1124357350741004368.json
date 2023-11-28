@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a16a2a3ca5f67877957cb490d07d7a1d",
     "id": "1124357350741004368",
-    "name": "ADOM (Ancient Domains Of Mystery)",
-    "publishers": [
-        {
-            "id": "1124357351219150898",
-            "name": "Thomas Biskup"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "333300",
-            "sku": "333300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ef0e1045d66be2e967157b5b5e19e3f4f18c3f70f2d8fa1074fa0f132c9b407b"
+    "name": "ADOM (Ancient Domains Of Mystery)"
 }

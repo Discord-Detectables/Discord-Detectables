@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "92f59a749490e51cdf13345c1385f8c3",
     "id": "1124351704880660691",
-    "name": "Teardown",
-    "publishers": [
-        {
-            "id": "1124351705383972965",
-            "name": "Tuxedo Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1167630",
-            "sku": "1167630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aa9e1a11d24d7fca7ebceca4f8659227db275289af26eef7e3e35aae976acf36"
+    "name": "Teardown"
 }

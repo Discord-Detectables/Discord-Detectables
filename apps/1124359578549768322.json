@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "28e4d8f2028ca67299f41188504622c8",
     "id": "1124359578549768322",
-    "name": "Crash Drive 2",
-    "publishers": [
-        {
-            "id": "521816636995534859",
-            "name": "M2H"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "343440",
-            "sku": "343440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df2c22dcbf0407d72fe347869cb2c4b586180676d63169b56977cbdec6c6d89d"
+    "name": "Crash Drive 2"
 }

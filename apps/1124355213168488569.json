@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c0d2aa8a7bfb61b064a77fedd48bf69",
     "id": "1124355213168488569",
-    "name": "Legend of Keepers: Prologue",
-    "publishers": [
-        {
-            "id": "524352677463982094",
-            "name": "Goblinz Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1151080",
-            "sku": "1151080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "685948e0552ebe1881aa1af988e54f533f8bfa65f4163edcd3d6c29533d6170c"
+    "name": "Legend of Keepers: Prologue"
 }

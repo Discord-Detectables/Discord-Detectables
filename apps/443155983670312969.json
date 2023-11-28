@@ -2,13 +2,6 @@
     "aliases": [
         "ArcheAge"
     ],
-    "description": "ArcheAge is a sandbox MMO by XLGames.",
-    "developers": [
-        {
-            "id": "521816776561131524",
-            "name": "XLGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1439e9cff0b8f8e83cd25d4abed1c73",
     "id": "443155983670312969",
-    "name": "Archeage",
-    "publishers": [
-        {
-            "id": "521816577876951040",
-            "name": "Trion Worlds"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "glyph",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "86912c6fe1768db1311d4f3601a41759c0460d0584357274ec2d953a155a2fd4"
+    "name": "Archeage"
 }

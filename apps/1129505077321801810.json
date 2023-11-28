@@ -2,9 +2,6 @@
     "aliases": [
         "EverQuest Free-to-Play"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a80281f8252b230c742c1f822860b6a",
     "id": "1129505077321801810",
-    "name": "EverQuest Free-to-Play",
-    "publishers": [
-        {
-            "id": "1129505082929598465",
-            "name": "Darkpaw Games"
-        },
-        {
-            "id": "521816717291421726",
-            "name": "Daybreak Game Company"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "205710",
-            "sku": "205710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3065e5d3f4665b22cebf0cc008295f6934c23fa43db381176ebee51cb31a201"
+    "name": "EverQuest Free-to-Play"
 }

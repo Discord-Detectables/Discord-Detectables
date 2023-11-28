@@ -2,13 +2,6 @@
     "aliases": [
         "Call of Duty: Black Ops III"
     ],
-    "description": "Set 40 years after the events of Black Ops II, the twelfth installment of the Call of Duty series brings advanced robotics and biotic augmentations to the clandestine operations of the Black Ops storyline.",
-    "developers": [
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,31 +14,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dc4ae5b7f541c947e78926b8a55b8ce3",
     "id": "359509332490059776",
     "name": "Call of Duty: Black Ops III",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
-        },
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        }
-    ],
-    "splash": "c38f8822fa7d54eb12acd546c8f1d22f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "311210",
-            "sku": "311210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e240dd9d6f9dc31f6bc5d4e66e328c19e3d3e7788bda7c88a577fc5e05d953df"
+    "overlay": true
 }

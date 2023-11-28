@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f420f9f7d0f2ddce5b7aea30ac848531",
     "id": "1124359221828399125",
-    "name": "Bloody Walls",
-    "publishers": [
-        {
-            "id": "1124352491715313684",
-            "name": "L. Stotch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "531960",
-            "sku": "531960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca537c1c9ab9779cfc76bcf0ccf4c701898bb334a9202941e9ec352d0d9c109a"
+    "name": "Bloody Walls"
 }

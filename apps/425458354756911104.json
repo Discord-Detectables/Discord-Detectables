@@ -1,11 +1,4 @@
 {
-    "description": "The third game in the Secret Files series.",
-    "developers": [
-        {
-            "id": "521816542707449859",
-            "name": "Animation Arts Creative GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "173cdd22857cc7d45f70ea3827dd4ac3",
     "id": "425458354756911104",
-    "name": "Secret Files 3",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "0c946c3f9eb2d47b3281bda9d4b7ac7c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "216210",
-            "sku": "216210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "808d3f26cab8885a490527b248ba6a1b51f142cde38310679b2b1e889fd87c60"
+    "name": "Secret Files 3"
 }

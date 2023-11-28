@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1dbaa3c8dbbd3b6a0f33bc833fed04e",
     "id": "1124353765932290138",
-    "name": "Maelstrom",
-    "publishers": [
-        {
-            "id": "1124353766456573992",
-            "name": "Gunpowder Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "764050",
-            "sku": "764050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5484e7f1d95a9839c7d924a3b239bb0e5e9ac5eb2241b875a2a15695da10a22f"
+    "name": "Maelstrom"
 }

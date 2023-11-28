@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1593df586822e84083418945a8848c69",
     "id": "1124355064409108501",
-    "name": "Exo One",
-    "publishers": [
-        {
-            "id": "524352762394443786",
-            "name": "Exbleative"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "773370",
-            "sku": "773370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "640f8fb77b88932b8c79aa022b68241e87b0cbc20b80d937e6f7caab1eeeac0c"
+    "name": "Exo One"
 }

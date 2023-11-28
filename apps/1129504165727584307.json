@@ -3,9 +3,6 @@
         "BIOHAZARD RE:2",
         "RESIDENT EVIL 2 / BIOHAZARD RE:2"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b28118124a75ac65330bae7137fda88e",
     "id": "1129504165727584307",
-    "name": "Resident Evil 2",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "883710",
-            "sku": "883710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eefed43e6e056071beed7baffbdc73546ade069b9b284810e6786b229077c9ab"
+    "name": "Resident Evil 2"
 }

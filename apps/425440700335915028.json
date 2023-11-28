@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816541323329560",
-            "name": "Deep Silver Volition, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "582140ee4c9b56793fb40d85c998d7b9",
     "id": "425440700335915028",
-    "name": "Red Faction",
-    "primary_sku_id": "489074996837220354",
-    "publishers": [
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        }
-    ],
-    "slug": "red-faction",
-    "splash": "77c0df2c17e2ba14a8f6b531f4c357c0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "20530",
-            "sku": "20530"
-        },
-        {
-            "distributor": "discord",
-            "id": "489074996837220354",
-            "sku": "489074996837220354"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7827ae62964020056728fecb0603f82658ffaade1150d90755d0ec246ddd430c"
+    "name": "Red Faction"
 }

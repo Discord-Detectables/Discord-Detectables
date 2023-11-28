@@ -1,11 +1,4 @@
 {
-    "description": "A browser-based multiplayer strategy game based on the Salem witch trials, and inspired by party games like Mafia. 7 to 15 players are randomly and secretly divided into factions, and must determine each other's identities or prevent others from finding their own.",
-    "developers": [
-        {
-            "id": "521816751621668884",
-            "name": "BlankMediaGames LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,20 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "85c83ed23382980dcddc46bdb8748c1a",
     "id": "363409453699170304",
-    "name": "Town of Salem",
-    "splash": "a6742e64ecf24efb9fa9d5d797dc8582",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "334230",
-            "sku": "334230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "573472cc3d220758b92e02385b1963d036c20fc1b0121c474a8a5a61751cb129"
+    "name": "Town of Salem"
 }

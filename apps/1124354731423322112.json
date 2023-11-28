@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a228cfcc969c04b55a7c46eb76934bf2",
     "id": "1124354731423322112",
-    "name": "RESIDENT EVIL RESISTANCE",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "952070",
-            "sku": "952070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6be91b108d234d5ad1f550a35f4365793e6e61aad1159f94906a3209a25a3968"
+    "name": "RESIDENT EVIL RESISTANCE"
 }

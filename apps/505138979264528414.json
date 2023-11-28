@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1914d98bd3d875b33d07bd4700ed496e",
     "id": "505138979264528414",
-    "name": "Illarion",
-    "publishers": [
-        {
-            "id": "521816769640529962",
-            "name": "Illarion e.V."
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "f58a949164bd7fdf9b20dcaf93c47f1879aa53ac04c876092360c38bb42f9dfd"
+    "name": "Illarion"
 }

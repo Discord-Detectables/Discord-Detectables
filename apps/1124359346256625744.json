@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ce97b34fdac9fed224e08fd440abc132",
     "id": "1124359346256625744",
-    "name": "McPixel",
-    "publishers": [
-        {
-            "id": "1124359346768326686",
-            "name": "Sos Sosowski"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "220860",
-            "sku": "220860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2267aba407ff9d4a9d0c9e8eec26b83202f25d0b4db4401acf78df8cb12a8f00"
+    "name": "McPixel"
 }

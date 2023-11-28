@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c0e4c35126441dc582cc9913b712063e",
     "id": "1124360654015447202",
-    "name": "Laysara: Summit Kingdom Demo",
-    "publishers": [
-        {
-            "id": "1124360654535536730",
-            "name": "Quite OK Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2422070",
-            "sku": "2422070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea70d34245e8204025fa9e153b35802eb6b19f0951c44a4e5d50732b2af34d01"
+    "name": "Laysara: Summit Kingdom Demo"
 }

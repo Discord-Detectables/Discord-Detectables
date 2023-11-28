@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a350aa391355cd8f8ee0d1948e6a5dc",
     "id": "1124360569881899039",
-    "name": "Dinner with an Owl",
-    "publishers": [
-        {
-            "id": "1124360570360058026",
-            "name": "BoringSuburbanDad"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1567420",
-            "sku": "1567420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "92793badcc4889de9bdaaf219abc18b3e78810a85326b264c37236b20926ed98"
+    "name": "Dinner with an Owl"
 }

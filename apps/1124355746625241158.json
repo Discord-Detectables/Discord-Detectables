@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a84f550f394a465723e20d152c871d81",
     "id": "1124355746625241158",
-    "name": "Enclave",
-    "publishers": [
-        {
-            "id": "1124355747120164904",
-            "name": "Starbreeze"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "253980",
-            "sku": "253980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e2b8384118adbc9a0af7f13d29db5a2d4e622a09a3da5886661851afe513e6f8"
+    "name": "Enclave"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816631354327045",
-            "name": "Deep Red Games Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7268822de526b35b1560fc01ac9967d0",
     "id": "492130126012743710",
-    "name": "Vegas: Make It Big",
-    "primary_sku_id": "492361573512380416",
-    "publishers": [
-        {
-            "id": "521816631354327043",
-            "name": "Deepred"
-        },
-        {
-            "id": "521816579344957442",
-            "name": "Empire Interactive Entertainment"
-        }
-    ],
-    "slug": "vegas-make-it-big",
-    "splash": "4be378a055f51448cc90a4bc6df5294b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6210",
-            "sku": "6210"
-        },
-        {
-            "distributor": "discord",
-            "id": "492361573512380416",
-            "sku": "492361573512380416"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2940af57a84cc5dd0e8c7a47058fb3c9f5ae12a955b3705c10253cb6fef49863"
+    "name": "Vegas: Make It Big"
 }

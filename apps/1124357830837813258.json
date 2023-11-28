@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7e13a2a83c611c44996d454f79ff239",
     "id": "1124357830837813258",
-    "name": "911: First Responders",
-    "publishers": [
-        {
-            "id": "524351592003010578",
-            "name": "Sixteen Tons Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "323610",
-            "sku": "323610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0b815063b45f6e026d61ab9f58d34e4d289f85cddd23aae63af534e79dc3673d"
+    "name": "911: First Responders"
 }

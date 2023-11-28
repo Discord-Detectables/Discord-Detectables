@@ -1,11 +1,4 @@
 {
-    "description": "The Park is a first person psychological horror game from the developers of The Secret World.",
-    "developers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e1f4263083d52c98449a5bda5c77d80a",
     "id": "504076991759384596",
-    "name": "The Park",
-    "publishers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
-    "splash": "7017c9d3483115a21d2f64184d742b92",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "402020",
-            "sku": "402020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "caca99a7d3ecbf5c0794ce8eadba99298d99aaff85e1af7cdedd4033f154cceb"
+    "name": "The Park"
 }

@@ -3,51 +3,20 @@
         "Darkest Dungeon®",
         "DarkestDungeon"
     ],
-    "description": "A dungeon crawler that seeks to weigh the psychological effects of delving into hellish monster abodes, not just the damage to HP. Team chemistry means more than just skill synergy.",
-    "developers": [
-        {
-            "id": "521816606901534720",
-            "name": "Red Hook Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "_windows/darkest.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "darkest.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "430455493358649355",
-    "hook": true,
-    "icon": "5cc0dece8f3a151b90a9feb5b95613fa",
-    "id": "376180518749995028",
-    "name": "Darkest Dungeon",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816606901534720",
-            "name": "Red Hook Studios"
         },
         {
-            "id": "521816606901534720",
-            "name": "Red Hook Studios"
+            "is_launcher": false,
+            "name": "_windows/darkest.exe",
+            "os": "win32"
         }
     ],
-    "splash": "6ffd32f00bacaa079e8c461252db8b90",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "262060",
-            "sku": "262060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a663f934ef6cdbf8576f3708587d03df6374b98a04895ffccb472dcd2a8dcb74"
+    "hook": true,
+    "id": "376180518749995028",
+    "name": "Darkest Dungeon",
+    "overlay": true
 }

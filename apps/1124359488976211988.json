@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf210ce0fc9a22c8282ac2cf1c3404b8",
     "id": "1124359488976211988",
-    "name": "Iron Sky Invasion",
-    "publishers": [
-        {
-            "id": "1124359489412415579",
-            "name": "Reality Pump"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "224900",
-            "sku": "224900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bce766589d35c8bd680f675b4faba0163736d809813de63086524e6c53dac77b"
+    "name": "Iron Sky Invasion"
 }

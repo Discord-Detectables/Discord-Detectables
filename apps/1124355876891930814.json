@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3b9445f86a77cab1a452a0d5412d05e1",
     "id": "1124355876891930814",
-    "name": "The Painscreek Killings",
-    "publishers": [
-        {
-            "id": "524352978472140802",
-            "name": "EQ Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "624270",
-            "sku": "624270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a1c3084aa9e0461215b7c29dad308eabece3231c801755a4df3902cbbbe262f5"
+    "name": "The Painscreek Killings"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Physics based game combining the worlds of Portal and Bridge Constructor.",
-    "developers": [
-        {
-            "id": "521816635749695509",
-            "name": "ClockStone"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9c3afe36490f04f5d8778ba6464a2c5e",
     "id": "425442712095948800",
-    "name": "Bridge Constructor Portal",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        },
-        {
-            "id": "521816635749695509",
-            "name": "ClockStone"
-        }
-    ],
-    "splash": "8d4dea8f99c0bbb693a5b8b007d1999c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "684410",
-            "sku": "684410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c84bbd9f464401f801b1d0b34e1d2e30a84d947ecbd6121b773b6cd72f31318e"
+    "name": "Bridge Constructor Portal"
 }

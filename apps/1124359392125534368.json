@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "73a94226ee0eb6ada057411a9075b0ee",
     "id": "1124359392125534368",
-    "name": "Moons of Madness",
-    "publishers": [
-        {
-            "id": "524352191700402178",
-            "name": "Rock Pocket Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1012840",
-            "sku": "1012840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "48de789b036bb9417939d74afc6823bdd20c9d47b1aa23dc8ebd26d30ba99b4f"
+    "name": "Moons of Madness"
 }

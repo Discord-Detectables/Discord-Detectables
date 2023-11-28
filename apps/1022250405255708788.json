@@ -2,42 +2,19 @@
     "aliases": [
         "Omega Strikers"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "prometheus/prometheus.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "win64/prometheus-win64-shipping.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": null,
-    "id": "1022250405255708788",
-    "name": "Omega Strikers",
-    "publishers": [
-        {
-            "id": "1022250405998112788",
-            "name": "Odyssey Interactive"
         },
         {
-            "id": "1022250405998112788",
-            "name": "Odyssey Interactive"
+            "is_launcher": false,
+            "name": "prometheus/prometheus.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1869590",
-            "sku": "1869590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "10d8e5350bcc62daaacd06b9402834c5f57110854eac4250f525f78a93848069"
+    "hook": true,
+    "id": "1022250405255708788",
+    "name": "Omega Strikers"
 }

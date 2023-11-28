@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c9906903739136929adf088d55c8e82b",
     "id": "1124353456887578696",
-    "name": "Rusty Lake: Roots",
-    "publishers": [
-        {
-            "id": "524352595905740814",
-            "name": "Rusty Lake"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "532110",
-            "sku": "532110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "510c0ef7b4944704017283daa72557e29036607eebdcb9197a5098aad071ad24"
+    "name": "Rusty Lake: Roots"
 }

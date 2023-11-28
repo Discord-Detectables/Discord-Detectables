@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3d15aa37d65108daa1406d12742201e4",
     "id": "1124359274907316286",
-    "name": "Rift Wizard",
-    "publishers": [
-        {
-            "id": "1124359275372892311",
-            "name": "Dylan White"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1271280",
-            "sku": "1271280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5eb315b19378f39e2ad2ec20b477e387611b091a561d9415da8b559ac75d6c8f"
+    "name": "Rift Wizard"
 }

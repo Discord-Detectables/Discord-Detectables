@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4495e918a4365512af664b1def27b96e",
     "id": "1124351850586591252",
-    "name": "UNDEFEATED",
-    "publishers": [
-        {
-            "id": "1124351851064737892",
-            "name": "UNDEFEATED Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1116960",
-            "sku": "1116960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca200eb8b60ea4cf7d47de1235f1c7f5d4fa9f9bef2f1ff5c93fa9c8e2d1f5d9"
+    "name": "UNDEFEATED"
 }

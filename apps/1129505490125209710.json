@@ -2,9 +2,6 @@
     "aliases": [
         "LoveChoice"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1a2aaf5048df46e1ef04d96e2c6fd0cd",
     "id": "1129505490125209710",
-    "name": "LoveChoice 拣爱",
-    "publishers": [
-        {
-            "id": "1129505490704015510",
-            "name": "Akaba Studio"
-        },
-        {
-            "id": "1129505490704015510",
-            "name": "Akaba Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "939400",
-            "sku": "939400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3fcc18803d9259db2cf1ca1d470a8893ef0c51073c74bec4f4a5306ef9467bb3"
+    "name": "LoveChoice 拣爱"
 }

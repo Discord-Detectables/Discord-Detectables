@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a64b616243f9e22b03e0654176db4214",
     "id": "1124355732486246420",
-    "name": "Street Legal Racing: Redline v2.3.1",
-    "publishers": [
-        {
-            "id": "1124352538414698496",
-            "name": "Invictus Games Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "497180",
-            "sku": "497180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "41a2a6b2507edf0609a7d7230a0acb0e7d843e52b56e15e96718bd9e7ee3b6fc"
+    "name": "Street Legal Racing: Redline v2.3.1"
 }

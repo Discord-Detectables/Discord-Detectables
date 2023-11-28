@@ -2,13 +2,6 @@
     "aliases": [
         "Middle-earth™: Shadow of War™"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816711532511245",
-            "name": "Monolith Productions, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,37 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "68f4685213d45ed2a0f380ccb027eb93",
     "id": "372826898465685519",
-    "name": "Middle-earth: Shadow of War",
-    "primary_sku_id": "496464146553110540",
-    "publishers": [
-        {
-            "id": "521816707132555287",
-            "name": "Monolith Productions"
-        },
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "slug": "middle-earth-shadow-of-war",
-    "splash": "8b2bb826535bcc3b16dffad61357bc4f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "496464146553110540",
-            "sku": "496464146553110540"
-        },
-        {
-            "distributor": "steam",
-            "id": "356190",
-            "sku": "356190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "796d93e88000ed7e3a30765dd7fd557ab018b3bb6d113e4451fade11cf430c71"
+    "name": "Middle-earth: Shadow of War"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "究極の釣りシミュレータ"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "22011e994b9adfde3d881d2b21517e4c",
     "id": "1129504806583685160",
-    "name": "Ultimate Fishing Simulator",
-    "publishers": [
-        {
-            "id": "524353151810404356",
-            "name": "Bit Golem"
-        },
-        {
-            "id": "524353151810404356",
-            "name": "Bit Golem"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "468920",
-            "sku": "468920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ae5a8b7bcd93df15f18f1aa14dba07e76897f2e5f2a0ffb75420efa77fe31a85"
+    "name": "Ultimate Fishing Simulator"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "The sequel to the comedic fantasy world of Magicka tells the tale of a new group of powerful Wizards as they battle evil in a world almost devoid of other Wizards.",
-    "developers": [
-        {
-            "id": "521816787487162391",
-            "name": "Pieces Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a0708ab9a754bfa9927659e5b422224e",
     "id": "428057934983987200",
-    "name": "Magicka 2",
-    "publishers": [
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        },
-        {
-            "id": "521816787487162391",
-            "name": "Pieces Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "238370",
-            "sku": "238370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5503afd82d0e923c3d34418dd3e2616c6eb86c02f24da51cb9e4811ef2465be0"
+    "name": "Magicka 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9703e04eb705f047a192dabda969e058",
     "id": "1176205337133592667",
-    "name": "Project Hardline",
-    "publishers": [
-        {
-            "id": "1176205340518400012",
-            "name": "Broken Metronome Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2386580",
-            "sku": "2386580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b5c2ff850295614607445618302dca4a744204ba7ede380e741f97d579b07645"
+    "name": "Project Hardline"
 }

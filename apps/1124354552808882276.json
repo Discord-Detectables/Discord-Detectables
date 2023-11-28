@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eb43d8e68ed54b4214d68a89fe406390",
     "id": "1124354552808882276",
-    "name": "Empire of Sin",
-    "publishers": [
-        {
-            "id": "1124354553287028736",
-            "name": "Romero Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "604540",
-            "sku": "604540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bce55fcedcd4b03dbe7dd9f7dfeca7ccef85e625feba02041912b59ca795c485"
+    "name": "Empire of Sin"
 }

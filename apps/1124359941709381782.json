@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f71ccc5ecd8965db1099854293b68c85",
     "id": "1124359941709381782",
-    "name": "幻塔",
-    "publishers": [
-        {
-            "id": "1124359942233665696",
-            "name": "Hotta Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2147450",
-            "sku": "2147450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "603c1dfa206239d5bdc79d5508023e5bfd48879259cf34d00609a33e2cc3d05b"
+    "name": "幻塔"
 }

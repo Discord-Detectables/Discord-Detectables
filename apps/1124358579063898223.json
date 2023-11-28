@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b33d50256b71704c3431809656d9f42f",
     "id": "1124358579063898223",
-    "name": "Paratopic",
-    "publishers": [
-        {
-            "id": "1124358579529461931",
-            "name": "Arbitrary Metric"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "897030",
-            "sku": "897030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4dfaedae513d83486057663f18e20349cc4be78eb7b0674a3b430b92a25bbdc8"
+    "name": "Paratopic"
 }

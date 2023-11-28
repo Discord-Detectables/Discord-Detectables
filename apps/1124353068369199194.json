@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bc3b5dbb57f4becd028b80491cfb315a",
     "id": "1124353068369199194",
-    "name": "Apex Aim Trainer",
-    "publishers": [
-        {
-            "id": "1124353068872511649",
-            "name": "SharkFishFish"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1188540",
-            "sku": "1188540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7dfa94d2b8e95fbc950d529707141b9e9806a0e2449493fe66a7a96ca578c966"
+    "name": "Apex Aim Trainer"
 }

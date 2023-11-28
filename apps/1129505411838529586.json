@@ -2,9 +2,6 @@
     "aliases": [
         "Wuppo"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a7c893fa1d0028380a332afda505c04d",
     "id": "1129505411838529586",
-    "name": "Wuppo - Definitive Edition",
-    "publishers": [
-        {
-            "id": "1129505413730156644",
-            "name": "Knuist &amp; Perzik"
-        },
-        {
-            "id": "1129505413730156644",
-            "name": "Knuist &amp; Perzik"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "400630",
-            "sku": "400630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a883bb242c045e26b18a69aff1fefa0f4cd1810001afffd7fb1aafaf71780e1"
+    "name": "Wuppo - Definitive Edition"
 }

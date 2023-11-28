@@ -2,13 +2,6 @@
     "aliases": [
         "Phantom Break: Battle Grounds"
     ],
-    "description": "Phantom Breaker: Battle Grounds is a beat-em-up that was released on XBLA, and is slated for release on the PlayStation Vita and PlayStation 4. It is a spinoff of 5pb's 2D fighting game.",
-    "developers": [
-        {
-            "id": "521816754989694997",
-            "name": "Division2"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3ab530df69847810a4cca938857de515",
     "id": "505153286840516649",
-    "name": "Phantom Breaker: Battle Grounds",
-    "publishers": [
-        {
-            "id": "521816754989694996",
-            "name": "5pb."
-        }
-    ],
-    "splash": "ce738355d33a173956e4e0da3cf38b2c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329490",
-            "sku": "329490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "06268329e9fd4bef7da3e4c9f64828bb828c20bb410ae41be5c37f84587f911d"
+    "name": "Phantom Breaker: Battle Grounds"
 }

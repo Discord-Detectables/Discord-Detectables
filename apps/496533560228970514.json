@@ -1,11 +1,4 @@
 {
-    "description": "Indie twin stick arena shooter with 4 player co-op.",
-    "developers": [
-        {
-            "id": "521816640808026112",
-            "name": "Witch Beam"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a03aff7af94f080ccd541feb9af23d17",
     "id": "496533560228970514",
-    "name": "Assault Android Cactus",
-    "publishers": [
-        {
-            "id": "521816640808026112",
-            "name": "Witch Beam"
-        }
-    ],
-    "splash": "50e4d141185a495ee135ede710b98464",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250110",
-            "sku": "250110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df3b52910a964b7ee9bc1f818b43c7f7ec08cd7ca041b0bbe8d40885b118b138"
+    "name": "Assault Android Cactus"
 }

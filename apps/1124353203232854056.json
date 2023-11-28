@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "63f87d6c4e1c549fc8c1d49c078e8e30",
     "id": "1124353203232854056",
-    "name": "Killer Instinct",
-    "publishers": [
-        {
-            "id": "1124353203744555178",
-            "name": "Iron Galaxy"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "577940",
-            "sku": "577940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5fbf085f6df3119896829d3cfce349190e48c297cf9f385b58aec9b6f5996715"
+    "name": "Killer Instinct"
 }

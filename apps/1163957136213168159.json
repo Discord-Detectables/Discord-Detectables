@@ -2,9 +2,6 @@
     "aliases": [
         "Minesweeper"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,12 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c8cb84f34744dd8b5b8f38789a7ccb70",
     "id": "1163957136213168159",
-    "name": "Minesweeper",
-    "summary": "",
-    "type": 1,
-    "verify_key": "671afac7651f733e3af22a8ac16534589536a9ca10b5bdb9809f6fbe7d9dca5e"
+    "name": "Minesweeper"
 }

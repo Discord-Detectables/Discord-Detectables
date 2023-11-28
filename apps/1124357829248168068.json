@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aba2d7cd753adf3ae2b07718caa935b9",
     "id": "1124357829248168068",
-    "name": "Noble Fates",
-    "publishers": [
-        {
-            "id": "1124357829688578141",
-            "name": "Xobermon, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1769420",
-            "sku": "1769420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "135f225588f0933d7f91b29e7c97109472f407f4d12898c9e7161b9c7f9d8d2b"
+    "name": "Noble Fates"
 }

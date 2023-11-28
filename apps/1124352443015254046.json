@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c2633dddb4f78e21113a1c3e07ec057d",
     "id": "1124352443015254046",
-    "name": "Peglin",
-    "publishers": [
-        {
-            "id": "1124352443543732294",
-            "name": "Red Nexus Games Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1296610",
-            "sku": "1296610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c3e3ce7beaf0f4e3b8e34ee2b9841a17d9a97646c2e6fec4c75a6e51df599a7f"
+    "name": "Peglin"
 }

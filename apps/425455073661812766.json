@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f23b3ecdcb1dffdc4d392ab107452e24",
     "id": "425455073661812766",
-    "name": "A New Beginning - Final Cut",
-    "publishers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
-    "splash": "fca1f278047d4d72d4cd0bae2a534e1b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "105000",
-            "sku": "105000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2dcca15782bff1051516d826f3daf59a6f7b8d7326f224e0e32ffbfd9d3a237c"
+    "name": "A New Beginning - Final Cut"
 }

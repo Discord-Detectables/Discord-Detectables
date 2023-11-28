@@ -4,9 +4,6 @@
         "MovieStarPlanet 1.0.8 sürümü",
         "MovieStarPlanet version 1.0.8"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -14,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1168672770259959939",
-    "name": "MovieStarPlanet",
-    "publishers": [
-        {
-            "id": "1168672770939428874",
-            "name": "MovieStarPlanet ApS"
-        },
-        {
-            "id": "1168672770939428874",
-            "name": "MovieStarPlanet ApS"
-        },
-        {
-            "id": "1168672770939428874",
-            "name": "MovieStarPlanet ApS"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "d4e70bea4ad5917e1661abf86a8630221f99dd8d9e1a5ff4c1a2aeea8ab409cb"
+    "name": "MovieStarPlanet"
 }

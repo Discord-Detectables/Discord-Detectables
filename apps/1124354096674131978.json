@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8766de611b779156ed7c2973a35a0eed",
     "id": "1124354096674131978",
-    "name": "Accounting",
-    "publishers": [
-        {
-            "id": "524352490565664805",
-            "name": "Crows Crows Crows"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "518580",
-            "sku": "518580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0fb594f97559efa652a3e3acb3f018aed2bbdf7b16644081e0a5e0cb94281a31"
+    "name": "Accounting"
 }

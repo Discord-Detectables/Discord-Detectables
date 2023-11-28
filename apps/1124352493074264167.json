@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d45b9bb2400cc37ea74b2a46eccd3fde",
     "id": "1124352493074264167",
-    "name": "Timberman VS",
-    "publishers": [
-        {
-            "id": "524352806921175040",
-            "name": "Digital Melody"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "943380",
-            "sku": "943380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9c8614fcf2427036e54aba9c40a65d32afd3508d6482b29279501bed3fa24f8f"
+    "name": "Timberman VS"
 }

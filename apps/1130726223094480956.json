@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "28ab470e79d886aa713af2e64a4baed1",
     "id": "1130726223094480956",
-    "name": "P.A.S.",
-    "publishers": [
-        {
-            "id": "1130726224583471255",
-            "name": "Eforb"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "805110",
-            "sku": "805110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "392105e66e99924e5765e9e8d8d3e5fcfa5a2445df4d921759ea7a9743ae8742"
+    "name": "P.A.S."
 }

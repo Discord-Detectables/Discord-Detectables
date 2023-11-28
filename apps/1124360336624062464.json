@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed2d19a94f0877275540a67f4999b051",
     "id": "1124360336624062464",
-    "name": "Iron Danger",
-    "publishers": [
-        {
-            "id": "1124360337085444247",
-            "name": "Action Squad Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "899310",
-            "sku": "899310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8a14ccfd5802a2959f0e692455bd8afaba0706123ccf7259752fcb1032a1a440"
+    "name": "Iron Danger"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "Boneraiser Minions"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7cf80ba99c7b9681dcf5748e75bac56d",
     "id": "1129505172545085600",
-    "name": "Boneraiser Minions",
-    "publishers": [
-        {
-            "id": "1129505173090357408",
-            "name": "caiys"
-        },
-        {
-            "id": "524352688264183818",
-            "name": "Anthony Case"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1944570",
-            "sku": "1944570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bb91664b57fcb4dab8883100ce6b640ba285242a586fe284b613b75c0a825c34"
+    "name": "Boneraiser Minions"
 }

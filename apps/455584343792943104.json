@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aa50ab770a9dc4b2f4415d0d1fec47ca",
     "id": "455584343792943104",
-    "name": "Sid Meier's Civilization III: Complete",
-    "primary_sku_id": "489236894488461322",
-    "publishers": [
-        {
-            "id": "521816573485514765",
-            "name": "Firaxis Games"
-        }
-    ],
-    "slug": "sid-meier-s-civilization-iii-complete",
-    "splash": "1a4412a602dd71163681bdb699f35f1a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "3910",
-            "sku": "3910"
-        },
-        {
-            "distributor": "discord",
-            "id": "489236894488461322",
-            "sku": "489236894488461322"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5402b1b0b5a82675fc071cbadbbcac193ff5c54cc9841480aee137b6a1c7ac33"
+    "name": "Sid Meier's Civilization III: Complete"
 }

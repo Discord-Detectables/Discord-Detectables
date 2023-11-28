@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "67d91c14f8babad72d3c1345407499d2",
     "id": "1124359059156512818",
-    "name": "Star Wars: Imperial Assault - Legends of the Alliance",
-    "publishers": [
-        {
-            "id": "524352273904828426",
-            "name": "Fantasy Flight Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "703980",
-            "sku": "703980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7cff4730257076ba7ef9dcd63f06e8f27861ac7e10e4c148990674c76b8ef45e"
+    "name": "Star Wars: Imperial Assault - Legends of the Alliance"
 }

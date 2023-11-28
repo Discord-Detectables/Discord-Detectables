@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3f1287c77878a7c98506709deebafbac",
     "id": "1129504312805048360",
-    "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2 \"1-Shot Demo\"",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "961440",
-            "sku": "961440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "19ca3a9b80e657d36572275bf5c5e1fb683dabe96487e1f92e29373945eb1588"
+    "name": "RESIDENT EVIL 2 / BIOHAZARD RE:2 \"1-Shot Demo\""
 }

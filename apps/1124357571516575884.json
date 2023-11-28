@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "36257154481cc036abe13a874da1ffb9",
     "id": "1124357571516575884",
-    "name": "No Heroes Here",
-    "publishers": [
-        {
-            "id": "1124357571986346144",
-            "name": "Mad Mimic"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "696140",
-            "sku": "696140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5b2c2bea95ad115ecbbd3159fde8479b67508b0966cfa056ef65e401ed48174"
+    "name": "No Heroes Here"
 }

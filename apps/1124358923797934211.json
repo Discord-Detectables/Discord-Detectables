@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5dae3f6a598bcf112e4ad27fc1944699",
     "id": "1124358923797934211",
-    "name": "Cookies vs. Claus",
-    "publishers": [
-        {
-            "id": "1124358924292870234",
-            "name": "Joshua Williams"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "752910",
-            "sku": "752910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2db9f869d0cbdf1e48153106edfeebb09a66e7c6080ee8d4402eef9f62a7a830"
+    "name": "Cookies vs. Claus"
 }

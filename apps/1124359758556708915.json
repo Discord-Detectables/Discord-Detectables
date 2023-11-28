@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a62a5d3c17244e93b9cf927d8534fa79",
     "id": "1124359758556708915",
-    "name": "Holy Shit",
-    "publishers": [
-        {
-            "id": "1124359759026466927",
-            "name": "MisteryJay89"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1993910",
-            "sku": "1993910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9789d6bd8651d63913fdc043897f023c7e4f1519baa6d772efec6cd177a34980"
+    "name": "Holy Shit"
 }

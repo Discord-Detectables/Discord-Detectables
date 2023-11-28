@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6eecaa01e58c2adb749aa6d85cbb196f",
     "id": "1124360346631684156",
-    "name": "Coal Mining Simulator: Prologue",
-    "publishers": [
-        {
-            "id": "1124360347143385148",
-            "name": "Grande Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1804650",
-            "sku": "1804650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "49b881bda571de232f63ab71b985ba7279ab06fec70ccd48370613a27d9827ed"
+    "name": "Coal Mining Simulator: Prologue"
 }

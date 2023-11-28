@@ -1,5 +1,4 @@
 {
-    "description": "First person survival game with 4-player Online Co-Op.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f184a5eabf0e0cb0cdb035939e6c13b2",
     "id": "451546514775474195",
-    "name": "Desolate",
-    "publishers": [
-        {
-            "id": "521816581924192300",
-            "name": "Nearga"
-        }
-    ],
-    "splash": "7b876f993268cc148cc392b20c167e41",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "671510",
-            "sku": "671510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd8a319e377b928a3a84decb0b7c19b0a772c785d24650b5a693762403ea1c75"
+    "name": "Desolate"
 }

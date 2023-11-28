@@ -1,11 +1,4 @@
 {
-    "description": "Hospital management sim and spiritual successor to Theme Hospital.",
-    "developers": [
-        {
-            "id": "521816641340964887",
-            "name": "Two Point Studios "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9430dfd53a9ef95ada7dfc61b51fee9d",
     "id": "485224436187004928",
-    "name": "Two Point Hospital",
-    "publishers": [
-        {
-            "id": "521816641340964884",
-            "name": "Two Point Studios"
-        },
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "0c12b8ae83a43cab65d9a9eb2a16a26a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "535930",
-            "sku": "535930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df000ba09e7822dc5827243e4c27395a991cacad0fd6261b9f8936fd2383ea49"
+    "name": "Two Point Hospital"
 }

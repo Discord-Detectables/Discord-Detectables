@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b79e90fc793e17ec881f0f3e16586962",
     "id": "1124354934981283932",
-    "name": "SteamWorld Dig",
-    "publishers": [
-        {
-            "id": "1124353852423024660",
-            "name": "Image &amp; Form Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "252410",
-            "sku": "252410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "02ac9f130b7788d7ea20169bd50a3dcaf2c985e0617fa7ec69983437d516ef96"
+    "name": "SteamWorld Dig"
 }

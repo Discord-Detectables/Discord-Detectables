@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0483bd1545fd5dd8b9e6ad0e0266fd7c",
     "id": "1124356825689620641",
-    "name": "StrangerZ Demo",
-    "publishers": [
-        {
-            "id": "1124356826176176168",
-            "name": "Lost Frame Development"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2400200",
-            "sku": "2400200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e979f070e80edcb6e2531d6311b41b872a329b7da4c5870f9c1b9637a2d63d37"
+    "name": "StrangerZ Demo"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab39cbc09fc0e9b9c7fae4ef709bbb32",
     "id": "1124357124554768385",
-    "name": "永遠消失的幻想鄉 ～ The Disappearing of Gensokyo",
-    "publishers": [
-        {
-            "id": "1124357124995166279",
-            "name": "MyACG Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "776490",
-            "sku": "776490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "88c3558739ccd43d187f8605280e48fc5293e3425ea242e0060ef97c307fbe9b"
+    "name": "永遠消失的幻想鄉 ～ The Disappearing of Gensokyo"
 }

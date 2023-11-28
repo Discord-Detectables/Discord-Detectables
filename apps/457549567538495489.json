@@ -2,13 +2,6 @@
     "aliases": [
         "Tribes Ascend"
     ],
-    "description": "Tribes: Ascend is a fast-paced free-to-play FPS developed by Hi-Rez Studios for the PC. With a focus on projectile weapons, high speed and jet packs, Tribes: Ascend offers unique acrobatic aerial combat with intense class based teamwork.",
-    "developers": [
-        {
-            "id": "521816544939081737",
-            "name": "Hi-Rez Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "948c2bc53c2fd6c334a4cc4a2d5df470",
     "id": "457549567538495489",
-    "name": "Tribes: Ascend",
-    "publishers": [
-        {
-            "id": "521816544939081737",
-            "name": "Hi-Rez Studios"
-        }
-    ],
-    "splash": "4698424ac6262c5e924c0d43dbb24ccf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "17080",
-            "sku": "17080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9c7a5b91b338403ce030aae73792b869814474c42c75991735039a3808a53f69"
+    "name": "Tribes: Ascend"
 }

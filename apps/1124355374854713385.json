@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b694c7ab242df3c6d8e28804ee5deb39",
     "id": "1124355374854713385",
-    "name": "空気読み。オンライン",
-    "publishers": [
-        {
-            "id": "1124355375320289441",
-            "name": "G-MODE"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1790340",
-            "sku": "1790340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2d33acff9b435e2cfa15c4dfc350df7b74a42d72dcc2eed04412d855ce02d485"
+    "name": "空気読み。オンライン"
 }

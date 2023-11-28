@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ad366ea2d89ba53274d08020a045e387",
     "id": "1124352966766375004",
-    "name": "Animation Throwdown: The Quest for Cards",
-    "publishers": [
-        {
-            "id": "524352588808847361",
-            "name": "Synapse Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "591960",
-            "sku": "591960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "198940e40611ce3a2f8d823fa16f6124dcdcb3e1cc3ce665fc39013ab8442436"
+    "name": "Animation Throwdown: The Quest for Cards"
 }

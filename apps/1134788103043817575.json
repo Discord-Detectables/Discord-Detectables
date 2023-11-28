@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "75c80f703f005b4a68da44a58145aa6d",
     "id": "1134788103043817575",
-    "name": "Lost in Play",
-    "publishers": [
-        {
-            "id": "1134788107699507230",
-            "name": "Happy Juice Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1328840",
-            "sku": "1328840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "df8e382132b10a0a80b7c57931b746c90af739a0f1e2dc8788f22ff7496aafee"
+    "name": "Lost in Play"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "44cb19d6060dec9701cb713bbe7fdd43",
     "id": "492110850342125591",
-    "name": "The Wolf Among Us",
-    "primary_sku_id": "492166959870509076",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "slug": "the-wolf-among-us",
-    "splash": "7394221f33536c480f92387a034b7c1c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250320",
-            "sku": "250320"
-        },
-        {
-            "distributor": "discord",
-            "id": "492166959870509076",
-            "sku": "492166959870509076"
-        }
-    ],
-    "type": 1,
-    "verify_key": "744036a474da84b2486a3495c8a3d792a3fcb4e8d32edf40b88b9721de88f82c"
+    "name": "The Wolf Among Us"
 }

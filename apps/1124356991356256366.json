@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c95fcdc5a83287d9ece8a01505e60413",
     "id": "1124356991356256366",
-    "name": "Zombotron",
-    "publishers": [
-        {
-            "id": "524353277232545792",
-            "name": "Ant.Karlov"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "664830",
-            "sku": "664830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "68f1ab9e9fe2dd696b1fd8edd2c76aeaeb7410e278a16fa575e1b68c8e137bd7"
+    "name": "Zombotron"
 }

@@ -2,53 +2,19 @@
     "aliases": [
         "BATTALION: Legacy"
     ],
-    "description": "Battalion 1944 is a World War II based shooter running on Unreal Engine 4, the game started as a Kickstarted funded game and was fully funded in under three days.",
-    "developers": [
-        {
-            "id": "521816605827661853",
-            "name": "Bulkhead Interactive"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "battalion.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "win64/battalionclient-win64-shipping.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "battalion.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9d6f9d56c53499964dc5aebc9697a3de",
     "id": "419271532087607296",
-    "name": "BATTALION 1944",
-    "publishers": [
-        {
-            "id": "521816605827661853",
-            "name": "Bulkhead Interactive"
-        },
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        },
-        {
-            "id": "1124354544084725940",
-            "name": "BULKHEAD"
-        }
-    ],
-    "splash": "b240ad953d3a37fbc7c6997420979876",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "489940",
-            "sku": "489940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5b074d373df583eb4b1d7f16cd1ba7b02ad832946efdfb710b920ea643d5973"
+    "name": "BATTALION 1944"
 }

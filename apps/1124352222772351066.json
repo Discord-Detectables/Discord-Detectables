@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5be054668ccdcd9be0b91fd5b7dd4c57",
     "id": "1124352222772351066",
-    "name": "High On Life",
-    "publishers": [
-        {
-            "id": "1124352223284052099",
-            "name": "Squanch Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1583230",
-            "sku": "1583230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3c559c820009e03acd4e4d8da45e2584b3859af8dfc62c1314755883a30678b"
+    "name": "High On Life"
 }

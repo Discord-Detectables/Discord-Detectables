@@ -1,12 +1,4 @@
 {
-    "cover_image": "d78f6bf948d8744eaed92baf9bc167f2",
-    "description": "Ballistic Overkill description",
-    "developers": [
-        {
-            "id": "521816767941836800",
-            "name": "Aquiris Game Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "210846554917961730",
     "hook": true,
-    "icon": "4a85261c527b1002b26050a3710073b0",
     "id": "365200071941292033",
-    "name": "Ballistic Overkill",
-    "publishers": [
-        {
-            "id": "521816767941836800",
-            "name": "Aquiris Game Studio"
-        }
-    ],
-    "splash": "1bb9d6747a03862ac42d660df9d00239",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "296300",
-            "sku": "296300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9f94612b82b3463ce6ccfcc8c904c7b6fb815db0b04f2861d367ff7ceec19910"
+    "name": "Ballistic Overkill"
 }

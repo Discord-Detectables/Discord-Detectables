@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea5d4897ddde26c83f372c91cb9bc423",
     "id": "1124353201248944301",
-    "name": "Wolfenstein: Enemy Territory",
-    "publishers": [
-        {
-            "id": "1124353201756450846",
-            "name": "Splash Damage"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1873030",
-            "sku": "1873030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fabe34e5b0564db5145412bea65285164402782034e0e68f7f4d50dc534d47cf"
+    "name": "Wolfenstein: Enemy Territory"
 }

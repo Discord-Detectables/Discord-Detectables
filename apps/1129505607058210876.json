@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cdccb452655d8f48647a9693ece8fc2d",
     "id": "1129505607058210876",
-    "name": "The Black Death",
-    "publishers": [
-        {
-            "id": "1129505608090001458",
-            "name": "Syrin Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "412450",
-            "sku": "412450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "40cd881da2876270a86562a6f73751f1d2b6d6cc90d475a85a6fdc9494891d69"
+    "name": "The Black Death"
 }

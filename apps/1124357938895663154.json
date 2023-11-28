@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "00eb00e01711a4ffa1141a539273c588",
     "id": "1124357938895663154",
-    "name": "Negligee",
-    "publishers": [
-        {
-            "id": "521816673855209492",
-            "name": "Dharker Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "432100",
-            "sku": "432100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8d1e2382c809a33454fd6ace5c7fa1af2fd9c6b27414a1313fc8696846eee960"
+    "name": "Negligee"
 }

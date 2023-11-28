@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d87dba1ee7dafe31081b3521cb236ec9",
     "id": "1124354802453852262",
-    "name": "Drift Streets Japan",
-    "publishers": [
-        {
-            "id": "1124354802927816744",
-            "name": "JDM4iK"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "412880",
-            "sku": "412880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "533ab42a52679376b1843b82e0b1869ebc01c65d132b5caf79a7a3f57827310e"
+    "name": "Drift Streets Japan"
 }

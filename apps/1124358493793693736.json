@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e9febbe1bb1480839101d4fdff69c97c",
     "id": "1124358493793693736",
-    "name": "Make It Rain: Love of Money",
-    "publishers": [
-        {
-            "id": "524352543552307203",
-            "name": "Game Troopers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "615400",
-            "sku": "615400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3c0c77fa82f9846924e368c8fd8ecbb0814caada0e09d2f792e162e5a5862a11"
+    "name": "Make It Rain: Love of Money"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb5a239bfe0a8dcaa82fd809b8b69955",
     "id": "1124356967209652224",
-    "name": "Commander Keen Complete Pack",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "9180",
-            "sku": "9180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2de66df0a20d889d3476c9cf6d6fa5d38cbf34b369e32cd156b7768153273440"
+    "name": "Commander Keen Complete Pack"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7175c2f9c2b04eb095d15243e679bf4",
     "id": "1124356650820714516",
-    "name": "Cat Cafe Manager",
-    "publishers": [
-        {
-            "id": "1124356651344998420",
-            "name": "Roost Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1354830",
-            "sku": "1354830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0ffa24b2f2d02a334481d398a4bf182816ac10e36365a630bf7a04947dc9ad08"
+    "name": "Cat Cafe Manager"
 }

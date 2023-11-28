@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ad7255d148f57a5863c3e4ac23c2f99b",
     "id": "1124354157516697711",
-    "name": "SCP: Containment Breach Remastered",
-    "publishers": [
-        {
-            "id": "821484526895104010",
-            "name": "Hunter Pollock"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2090230",
-            "sku": "2090230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c1a7b900c4e7886d9c46ff1aa9b80cbf78daecce8f9e9f5037b4bec2cb09211f"
+    "name": "SCP: Containment Breach Remastered"
 }

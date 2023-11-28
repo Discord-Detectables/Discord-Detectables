@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "64a78e7270156ff8f73bc831cc26fcd7",
     "id": "1124352158624657408",
-    "name": "surviv.io - 2D Battle Royale",
-    "publishers": [
-        {
-            "id": "1124352159081844807",
-            "name": "Kongregate, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1375740",
-            "sku": "1375740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9da362a7bc5c25e3d28660ebf2e0e385ed4281876285391270ce5b0bc6763d8c"
+    "name": "surviv.io - 2D Battle Royale"
 }

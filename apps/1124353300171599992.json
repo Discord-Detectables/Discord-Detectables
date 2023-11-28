@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "74be1dbc9d8fcef57b19d91a77888537",
     "id": "1124353300171599992",
-    "name": "Command and Conquer: Red Alert 3 - Uprising",
-    "publishers": [
-        {
-            "id": "521816605223813131",
-            "name": "EA Los Angeles"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "24800",
-            "sku": "24800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0b4ce33d21b5adac5c3e38982b5caab06474af9180a5174bda21562dfac12371"
+    "name": "Command and Conquer: Red Alert 3 - Uprising"
 }

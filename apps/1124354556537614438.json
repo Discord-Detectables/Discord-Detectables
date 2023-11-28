@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1067d229eb9fc2840399550910959189",
     "id": "1124354556537614438",
-    "name": "Unsung Warriors - Prologue",
-    "publishers": [
-        {
-            "id": "1124354556969636021",
-            "name": "Osarion"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "959080",
-            "sku": "959080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b418e4fe29ee83f67e94dd6f3b93cc6f109a6f35cb6d751fd05025d71ec06f9"
+    "name": "Unsung Warriors - Prologue"
 }

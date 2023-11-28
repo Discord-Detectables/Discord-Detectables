@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7d4a753e877da30939759d13f0e4d20b",
     "id": "1124359072158855198",
-    "name": "Trapper's Delight",
-    "publishers": [
-        {
-            "id": "524352599911301124",
-            "name": "Shrimpcave Industries"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "467760",
-            "sku": "467760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8c557f97b100d15f9c6f153b71e477df52ff07dda10da5ff4ddc16c080a916f1"
+    "name": "Trapper's Delight"
 }

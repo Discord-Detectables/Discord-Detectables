@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ac9cb9a504dfc4f2154c80ded3258a34",
     "id": "1124356637411524768",
-    "name": "Warhammer 40,000: Shootas, Blood & Teef",
-    "publishers": [
-        {
-            "id": "1124356220585783467",
-            "name": "Rogueside"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1324530",
-            "sku": "1324530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "330a90fa0b2b0883d7805c7fb39710c58aba18467c18a8fabbd94d645bd1ac29"
+    "name": "Warhammer 40,000: Shootas, Blood & Teef"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7e077f31a381961b87ae599f6938d905",
     "id": "1124352661337157712",
-    "name": "Total Tank Simulator",
-    "publishers": [
-        {
-            "id": "1124352661836288071",
-            "name": "Noobz from Poland"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "674500",
-            "sku": "674500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bf74341d3f4cd9568387b375e965f9d3a814fa6ba6acca536708badaca5d7451"
+    "name": "Total Tank Simulator"
 }

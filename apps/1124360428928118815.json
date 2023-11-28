@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "04f82f15139d1078d131955a5bd2bcb1",
     "id": "1124360428928118815",
-    "name": "Castle Flipper",
-    "publishers": [
-        {
-            "id": "1124353361945309266",
-            "name": "▲ Pyramid Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "944250",
-            "sku": "944250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1caa5ecff47137f6ecbf032f3607f4515e1fad93e935f548da0b8ab2a37e9b2c"
+    "name": "Castle Flipper"
 }

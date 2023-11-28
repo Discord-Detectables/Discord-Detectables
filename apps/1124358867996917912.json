@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd798148d6efbeaafba37f5d36c87456",
     "id": "1124358867996917912",
-    "name": "Monster Energy Supercross - The Official Videogame 2",
-    "publishers": [
-        {
-            "id": "524351544951439360",
-            "name": "Milestone s.r.l."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "882020",
-            "sku": "882020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "05bb9d007becca1a06ceb85dbb3f9aa3d64c8df40b828945cf3037fa2c4e4cc8"
+    "name": "Monster Energy Supercross - The Official Videogame 2"
 }

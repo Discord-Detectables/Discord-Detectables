@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8472a5a4d5fdce0cc6052b3c080b06d3",
     "id": "1124357619532972082",
-    "name": "Midnight Castle Succubus",
-    "publishers": [
-        {
-            "id": "1124357619977564230",
-            "name": "pixelteishoku"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1299320",
-            "sku": "1299320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c4215c01a4759b1f786bb5a490d22c4fe23ac3c74d077901dbeaba8a34ca012"
+    "name": "Midnight Castle Succubus"
 }

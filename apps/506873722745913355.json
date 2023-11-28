@@ -1,11 +1,4 @@
 {
-    "description": "A survival-focused spin-off of the Metal Gear series, as one of Big Boss's loyal soldiers must traverse a hostile alternate dimension filled with zombie-like creatures.",
-    "developers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1db23ac12b79383fd2f7dc86b34239eb",
     "id": "506873722745913355",
-    "name": "METAL GEAR SURVIVE",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
-    "splash": "8b515c802c973a491774ff36735c3515",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "543900",
-            "sku": "543900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "56f8e44eb08b92f08e3a8cdc3ae9d6fe216127c4623f3f81e9f510d658b61259"
+    "name": "METAL GEAR SURVIVE"
 }

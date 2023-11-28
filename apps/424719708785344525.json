@@ -2,13 +2,6 @@
     "aliases": [
         "Warcraft 3"
     ],
-    "description": "Armies of chaotic demons and corrupted beings are preparing a foretold invasion of the world of Azeroth in the third installment of the long-running medieval-fantasy series.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,13 +10,13 @@
         },
         {
             "is_launcher": false,
-            "name": "warcraft iii.exe",
-            "os": "win32"
+            "name": "warcraft iii.app",
+            "os": "darwin"
         },
         {
             "is_launcher": false,
-            "name": "warcraft iii.app",
-            "os": "darwin"
+            "name": "warcraft iii.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -36,25 +29,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e43cf060ad521e53fa0154b9712617e5",
     "id": "424719708785344525",
-    "name": "Warcraft III",
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "9a160a038e8c88354da2a142c14227bd47649d45e693a701a5eda8e9112eadfa"
+    "name": "Warcraft III"
 }

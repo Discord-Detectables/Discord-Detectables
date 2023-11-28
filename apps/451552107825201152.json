@@ -1,11 +1,4 @@
 {
-    "description": "Secret World Legends is a free to play shared-world RPG, where everything is true.",
-    "developers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2b40a3c29990580c0ad7c4fb8d0b152",
     "id": "451552107825201152",
-    "name": "Secret World Legends",
-    "publishers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
-    "splash": "95de71900b941eb592fbd285b3ac187f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "215280",
-            "sku": "215280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e86dea443b8dbc723da9aa365c2681d0c9d40ee8e7faabc6d7fa4f4cb378ab9"
+    "name": "Secret World Legends"
 }

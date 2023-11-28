@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "98d3839181fd863ffa02b12896ff52a9",
     "id": "1124358374180540476",
-    "name": "Quern - Undying Thoughts",
-    "publishers": [
-        {
-            "id": "1124358374637715566",
-            "name": "Zadbox Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "512790",
-            "sku": "512790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "98fbc24f8c8b827862fcddcab3cfea0cbd8bbd4fadc815d40f019cd9b2878771"
+    "name": "Quern - Undying Thoughts"
 }

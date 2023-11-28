@@ -1,11 +1,4 @@
 {
-    "description": "The third game in the BioShock series leaves the bottom of the sea behind for an entirely new setting - the floating city of Columbia, circa 1912. Come to retrieve a girl named Elizabeth, ex-detective Booker DeWitt finds more in store for him there than he could ever imagine.",
-    "developers": [
-        {
-            "id": "521816521731735572",
-            "name": "Irrational Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d980bde9d53b055dc73976e22497719c",
     "id": "425442995681230858",
-    "name": "BioShock Infinite",
-    "publishers": [
-        {
-            "id": "521816504392482816",
-            "name": "2K Games"
-        }
-    ],
-    "splash": "21d35240c1841b830fa2f2e0e5f475a9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "8870",
-            "sku": "8870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9e7196c1c4775043a634b21ca46508980a92af3dee280e008d72dbfd394038fc"
+    "name": "BioShock Infinite"
 }

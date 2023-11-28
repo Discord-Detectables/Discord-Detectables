@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "556665c4e17e85c700d3978f76901e45",
     "id": "1124357133526384761",
-    "name": "Hentai Girl Karen",
-    "publishers": [
-        {
-            "id": "1124357134092611684",
-            "name": "GirlGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1004240",
-            "sku": "1004240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bce0e588a817feafdcc7f91b4b2d1f91bb3c712fcd9eb0a4677e78beb9132827"
+    "name": "Hentai Girl Karen"
 }

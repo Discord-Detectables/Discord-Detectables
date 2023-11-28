@@ -3,24 +3,7 @@
         "Starcraft 2",
         "Starcraft II"
     ],
-    "description": "Legacy of the Void is the third and final part of the StarCraft II trilogy, coming in the form of a standalone game. It follows the blueprint of the other two parts of StarCraft II but this time focuses on the Protoss and the mysterious Xel'Naga.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "sc2.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "sc2_x64.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "sc2.app",
@@ -30,29 +13,20 @@
             "is_launcher": false,
             "name": "starcraft ii.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sc2_x64.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "sc2.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba12a43bee663d2a3b06a583bc80f4bf",
     "id": "358425800766128128",
     "name": "StarCraft II",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "splash": "2f601ba4ace801789be0643a9656235d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "706d56212b9bfce2dc0a88981f0da478ac14d0425a71e517da8fe893a3b69584"
+    "overlay": true
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d8a073c779c33d5288f2862e8aebfc3",
     "id": "1124356029472329779",
-    "name": "Sakura Swim Club",
-    "publishers": [
-        {
-            "id": "521816532288798741",
-            "name": "Winged Cloud"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "402180",
-            "sku": "402180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5af3baa01c3eda196f33efeb9f453e7b0154615bb8556c71d034e2aa453da7c0"
+    "name": "Sakura Swim Club"
 }

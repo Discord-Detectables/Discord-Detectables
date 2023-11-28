@@ -1,11 +1,4 @@
 {
-    "description": "WRECKED: Revenge Revisited was developed by Supersonic and is the spiritual successor to the MASHED series from the PlayStation 2/Xbox generation.",
-    "developers": [
-        {
-            "id": "521816745099395081",
-            "name": "Supersonic Software Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "73c23b356758320ed092a56947e09209",
     "id": "480316289307639808",
-    "name": "Wrecked",
-    "publishers": [
-        {
-            "id": "521816570520141824",
-            "name": "505 Games"
-        }
-    ],
-    "splash": "14af0d341ad8f49587fde91f2df1eb13",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "805850",
-            "sku": "805850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c33b7a921718016d24a580ea53bd16aac19102daa18e7e5962a3bbbf00edf62d"
+    "name": "Wrecked"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1489adbda4612abe28d6b165e1ce15a3",
     "id": "1124357193874026577",
-    "name": "Sword x Hime",
-    "publishers": [
-        {
-            "id": "1124357194339602502",
-            "name": "Kazuya"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1384630",
-            "sku": "1384630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f225241c810d2f150ebf51e1c59d28181814b4ec5fd15df1cdcecdd0decb8e46"
+    "name": "Sword x Hime"
 }

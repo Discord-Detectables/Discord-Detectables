@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aac5aa5f8f2d9d25dcbe61309c29dda9",
     "id": "448910307969204236",
-    "name": "Spintires: MudRunner",
-    "publishers": [
-        {
-            "id": "521816571581038634",
-            "name": "Saber Interactive"
-        }
-    ],
-    "splash": "3d440263ee3b692089f5b85638e90970",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "675010",
-            "sku": "675010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7332ea1b236c72bdf17f5652da2b45b2829f987ddd23b7e24d87aaccab5d1375"
+    "name": "Spintires: MudRunner"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e98352dfa0f3981106d931ed84c26f50",
     "id": "1124353528723423374",
-    "name": "Thief Simulator 2: Prologue",
-    "publishers": [
-        {
-            "id": "1124353529180598432",
-            "name": "MrCiastku"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2272420",
-            "sku": "2272420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3f562608d25653d989451cc488befce2a06f4ca1650d808191f1f03bf33eacf3"
+    "name": "Thief Simulator 2: Prologue"
 }

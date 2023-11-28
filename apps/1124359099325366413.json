@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1c3c16e975f656ddaf3ce150825cea5",
     "id": "1124359099325366413",
-    "name": "Fox Hime Zero",
-    "publishers": [
-        {
-            "id": "1124359099757375569",
-            "name": "AsicxArt"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "844930",
-            "sku": "844930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "137f7b856aca57cc3ab84e1d90bb1608b3aa60efebbdeefcb85b53587cc8b6e6"
+    "name": "Fox Hime Zero"
 }

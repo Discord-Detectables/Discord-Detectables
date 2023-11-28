@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2eb1bb639613de73604c8ab7f4e74f0",
     "id": "1124353227580784750",
-    "name": "Autonauts",
-    "publishers": [
-        {
-            "id": "1124353228033765407",
-            "name": "Denki"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "979120",
-            "sku": "979120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5218733c977b2b96013bbb2cd77f3a0555a014c40d28541fb50e3148261415a1"
+    "name": "Autonauts"
 }

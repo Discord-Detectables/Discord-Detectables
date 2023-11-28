@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "baf54cee07e3a401065f4313831c1b65",
     "id": "1124352594739998740",
-    "name": "Run Prop, Run!",
-    "publishers": [
-        {
-            "id": "1124352595230740620",
-            "name": "PlayTogether Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1475400",
-            "sku": "1475400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c160c551135f0bc1e44f5de76ef42e82028b10b5e5e559b071354a73b76296a"
+    "name": "Run Prop, Run!"
 }

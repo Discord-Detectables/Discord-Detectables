@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8f5a2545859c7f1c6e020d99c596e11d",
     "id": "1124356636048379964",
-    "name": "Crown Trick",
-    "publishers": [
-        {
-            "id": "1124352406386393098",
-            "name": "NEXT Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1000010",
-            "sku": "1000010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c6ef120d687b95159ad4046feeb4f98e2e109d6752182e07f499c0cc4e6e8dc"
+    "name": "Crown Trick"
 }

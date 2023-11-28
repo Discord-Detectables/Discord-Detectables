@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fcbb0fbd96ee72599c69288123ea3bdb",
     "id": "1124353061364715702",
-    "name": "死寂（DeathlyStillness）",
-    "publishers": [
-        {
-            "id": "1124353061805113414",
-            "name": "谌嘉诚"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1727650",
-            "sku": "1727650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9fb9f4f31f6c1cfd98e9813d47950ba62423ad597da439a666ca2c24cb9e379f"
+    "name": "死寂（DeathlyStillness）"
 }

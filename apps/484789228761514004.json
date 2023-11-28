@@ -2,53 +2,19 @@
     "aliases": [
         "Warhammer 40,000: Space Marine - Anniversary Edition"
     ],
-    "description": "A crucial planet size factory is under siege by millions of Orks. As Space Marine Captain Titus, you must lead your soldiers to stem the tide until help arrives.",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "warhammer 40,000 space marine/bssndrpt.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "spacemarine.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "warhammer 40,000 space marine/bssndrpt.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "82ad5f9673951ef688f0a89a20ccd42c",
     "id": "484789228761514004",
-    "name": "Warhammer 40,000: Space Marine",
-    "publishers": [
-        {
-            "id": "521816628477034506",
-            "name": "Relic"
-        },
-        {
-            "id": "521816550596935692",
-            "name": "THQ"
-        },
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
-    "splash": "2144f01155981aad68f69a1ca1da66d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "55150",
-            "sku": "55150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "57125f00c157dce2fcb7f1c52f7ce717283389025840a997d31420879a92c671"
+    "name": "Warhammer 40,000: Space Marine"
 }

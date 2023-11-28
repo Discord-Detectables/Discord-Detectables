@@ -3,13 +3,6 @@
         "CLOSERS",
         "Closers Dimension Conflict"
     ],
-    "description": "Closers online is a sidescroll RPG game with 80 fps support and MOBA mode.",
-    "developers": [
-        {
-            "id": "521816784161079296",
-            "name": "Naddic Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,35 +10,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c77a02ccd7f91f37c6b42302f41637a1",
     "id": "406645631864537088",
     "name": "Closers",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816616028078094",
-            "name": "En Masse Entertainment"
-        },
-        {
-            "id": "521816783670476802",
-            "name": "Naddic"
-        },
-        {
-            "id": "521816784161079296",
-            "name": "Naddic Games"
-        }
-    ],
-    "splash": "b9bd513f3a5382a4b1d9ad08f4af2a88",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "215830",
-            "sku": "215830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd3dd7ede298882746bb1f8d0158cecce433d4b702d65064574ca53343a2bd1c"
+    "overlay": true
 }

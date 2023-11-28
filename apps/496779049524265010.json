@@ -1,12 +1,4 @@
 {
-    "cover_image": "d8901128fddf64b1de502c94f64344dc",
-    "description": "Hitman: Blood Money is a 3rd person action-adventure game released by Eidos in 2006. The game is a continuation of the popular Hitman franchise in which the player takes control of the mysterious assassin, Agent 47.",
-    "developers": [
-        {
-            "id": "521816647678558211",
-            "name": "IO Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,31 +6,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "451879555523805195",
     "hook": true,
-    "icon": "d8901128fddf64b1de502c94f64344dc",
     "id": "496779049524265010",
     "name": "Hitman: Blood Money",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "primary_sku_id": "496779049524265010",
-    "publishers": [
-        {
-            "id": "521816647678558211",
-            "name": "IO Interactive"
-        }
-    ],
-    "slug": "hitman-blood-money",
-    "splash": "3a8f5c995657aadeb865cddb32fb99d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6860",
-            "sku": "6860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc3366def5587d23d3bb21d2e6ae5de7999e28f59c8ed4af7b5f2c133ccd63e4"
+    "overlay_compatibility_hook": true
 }

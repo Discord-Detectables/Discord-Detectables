@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9a69a0e69c2dc612816262d609bb5d60",
     "id": "1171433895439380540",
-    "name": "Welcome to Kowloon",
-    "publishers": [
-        {
-            "id": "1171433896601210962",
-            "name": "a1esska"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2515240",
-            "sku": "2515240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "afe9578c16fe25350c93a953b13c76525a472863461198b1b9aa09c509c7ae45"
+    "name": "Welcome to Kowloon"
 }

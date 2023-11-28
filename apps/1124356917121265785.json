@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0d91ef512d222d44df0f9abfaf48d8a5",
     "id": "1124356917121265785",
-    "name": "LOLLIPOP!",
-    "publishers": [
-        {
-            "id": "1124353511115722812",
-            "name": "TheBoys"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1515230",
-            "sku": "1515230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aeac2fbfc32871fd9b0ea59fba588e171b24cc2f8e45605f1c5edf2b4d272620"
+    "name": "LOLLIPOP!"
 }

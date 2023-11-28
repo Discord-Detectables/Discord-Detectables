@@ -1,11 +1,4 @@
 {
-    "description": "A space action MMO being developed by StarGem Inc for the PC and Mac. Currently in open beta, featuring multiple competitive multiplayer game modes.",
-    "developers": [
-        {
-            "id": "521816766788272134",
-            "name": "StarGem Inc"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "23ae67efc739a9d057038233a2141c78",
     "id": "451546138999390208",
-    "name": "Star Conflict",
-    "publishers": [
-        {
-            "id": "521816505688522752",
-            "name": "Gaijin Entertainment"
-        },
-        {
-            "id": "521816766788272130",
-            "name": "Star Gem Inc."
-        }
-    ],
-    "splash": "e8d2367889ff26e504617e983f6f4ec8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "212070",
-            "sku": "212070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "58059c9de1859d9ca494fc1a4d6f50a18fb99089623c1b7b311493f313d0fb39"
+    "name": "Star Conflict"
 }

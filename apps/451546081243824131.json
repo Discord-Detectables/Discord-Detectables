@@ -1,5 +1,4 @@
 {
-    "description": "Brick Rigs is a sandbox building and driving game with dynamic destruction physics.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bf1f71d8d78b8ed7257c53796d58f904",
     "id": "451546081243824131",
-    "name": "Brick Rigs",
-    "publishers": [
-        {
-            "id": "521816605827661843",
-            "name": "Lukas Rustemeyer"
-        }
-    ],
-    "splash": "f4e8944243e86313e81943bc73903955",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "552100",
-            "sku": "552100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2918f8afb1a4440cbb0a354aa6beadf39593b9974a71f3afb23b4af9dc7f8b62"
+    "name": "Brick Rigs"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "348ae1670474c54a9c72703288f6d87b",
     "id": "1124352030266372268",
-    "name": "Operation: Harsh Doorstop",
-    "publishers": [
-        {
-            "id": "1124352030778085426",
-            "name": "Drakeling Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "736590",
-            "sku": "736590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e192cb6c817b3eb41f4ad9ce5d2fb7501815af0b78846d8c0b779d9bb48ca40"
+    "name": "Operation: Harsh Doorstop"
 }

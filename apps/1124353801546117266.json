@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b1a8badae1548d89729856a6b7dbaca3",
     "id": "1124353801546117266",
-    "name": "Floating Point",
-    "publishers": [
-        {
-            "id": "521816591604908032",
-            "name": "Suspicious Developments"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "302380",
-            "sku": "302380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0107c121c5f8e7db47fc587d0be1d55115a24c0959f069655ecccf3dd411802e"
+    "name": "Floating Point"
 }

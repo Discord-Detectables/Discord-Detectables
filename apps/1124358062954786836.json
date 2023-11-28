@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba563069d699d4fc2f733d29dd0b5b93",
     "id": "1124358062954786836",
-    "name": "Haunted Memories",
-    "publishers": [
-        {
-            "id": "524352249447579672",
-            "name": "Madman Theory Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "241640",
-            "sku": "241640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5f25ccb55b730b0ac461e6816c10546d329d16d8eb27598631b615f9f2dffc25"
+    "name": "Haunted Memories"
 }

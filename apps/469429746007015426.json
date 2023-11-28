@@ -1,6 +1,4 @@
 {
-    "cover_image": "00bab57ec56a751b8977933fd78f6a9c",
-    "description": "Red Faction: Guerrilla Re-Mars-tered re-defines the limits of destruction-based game-play with a huge open-world, fast-paced guerrilla-style combat, and true physics-based destruction.",
     "executables": [
         {
             "is_launcher": false,
@@ -8,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "254065019807858689",
     "hook": true,
-    "icon": "267405d6747941176cd56e69b3c2fded",
     "id": "469429746007015426",
-    "name": "Red Faction Guerrilla Re-Mars-tered",
-    "primary_sku_id": "489214919510851595",
-    "publishers": [
-        {
-            "id": "521816755446743064",
-            "name": "Volition"
-        }
-    ],
-    "slug": "red-faction-guerrilla-re-mars-tered",
-    "splash": "ee3420775b7a6bb78f3cd345500e5aa6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489214919510851595",
-            "sku": "489214919510851595"
-        },
-        {
-            "distributor": "steam",
-            "id": "667720",
-            "sku": "667720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4ec360dd032e12bff500148ff7702f1eff7efc985494fd8ecba559fb3ce33df6"
+    "name": "Red Faction Guerrilla Re-Mars-tered"
 }

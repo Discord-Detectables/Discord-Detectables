@@ -2,9 +2,6 @@
     "aliases": [
         "The Tenants"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de2c5cf5a372abadc396301cca9ce5b0",
     "id": "1129504674114982028",
-    "name": "The Tenants",
-    "publishers": [
-        {
-            "id": "562023953409900567",
-            "name": "Ancient Forge Studio"
-        },
-        {
-            "id": "1129504677659164763",
-            "name": "Ancient Forge"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1009560",
-            "sku": "1009560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "595172e14d19073b7e264b2011b9bd03fc8d7f78bde72c5387fcb404c17a2c80"
+    "name": "The Tenants"
 }

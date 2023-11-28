@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "61be679aad2571c717fb74328ef148f2",
     "id": "1124353834811142184",
-    "name": "The Elder Scrolls: Arena",
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1812290",
-            "sku": "1812290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "be3bcaca042f845ed0acb80be18d8c7a65de6286b34a2f97fc7829f35a48b073"
+    "name": "The Elder Scrolls: Arena"
 }

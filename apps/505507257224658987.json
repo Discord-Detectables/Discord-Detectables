@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,18 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "afaed2b35d5535a7f692329761bbd70e",
     "id": "505507257224658987",
-    "name": "Touhou 11: Subterranean Animism",
-    "publishers": [
-        {
-            "id": "521816534205857807",
-            "name": "Touhou-Online"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "3f76793f0920f3843af8901ec5384009156e4403bc81d4ffceb5e6d93c52cd99"
+    "name": "Touhou 11: Subterranean Animism"
 }

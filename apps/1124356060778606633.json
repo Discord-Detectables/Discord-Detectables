@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e7fdf28507d0899b114fbb4289f6185e",
     "id": "1124356060778606633",
-    "name": "Introvert: A Teenager Simulator",
-    "publishers": [
-        {
-            "id": "1124354923673436191",
-            "name": "Euphoric Brothers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1522660",
-            "sku": "1522660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a4adff69d135471f1f553e7dceb2dcccc52f4416016a5bfd8a6326d313e76da4"
+    "name": "Introvert: A Teenager Simulator"
 }

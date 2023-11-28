@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "35750aa613b437f39889f0cf94c02e10",
     "id": "1124354256602943498",
-    "name": "R.U.S.E",
-    "publishers": [
-        {
-            "id": "521816690066194454",
-            "name": "Eugen Systems"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "21970",
-            "sku": "21970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4492b8f7449c551bedd61426d60cc0df419b4ab8bc54d9b4448984eb2ec8cf0b"
+    "name": "R.U.S.E"
 }

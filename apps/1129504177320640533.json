@@ -9,9 +9,6 @@
         "블랙서바이벌: 영원회귀",
         "이터널 리턴"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -19,57 +16,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "44389f85c313bd46ba7271f8c9e05f74",
     "id": "1129504177320640533",
-    "name": "Eternal Return",
-    "publishers": [
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        },
-        {
-            "id": "560028240341893122",
-            "name": "Nimble Neuron"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1049590",
-            "sku": "1049590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aba37085975fe78a23bb6f8fb1a508d5153c109d17a9c2f792e3a818a5828395"
+    "name": "Eternal Return"
 }

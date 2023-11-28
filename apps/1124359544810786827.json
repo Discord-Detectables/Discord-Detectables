@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a996a1fefabd5c737493313738f66e02",
     "id": "1124359544810786827",
-    "name": "Space Travel Idle",
-    "publishers": [
-        {
-            "id": "1124359545305710643",
-            "name": "Ayatsuji_San"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1407860",
-            "sku": "1407860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1fda676b1477fefa633ffe46f14bc12fdb87838b8b08d77c87699a3fce8205c2"
+    "name": "Space Travel Idle"
 }

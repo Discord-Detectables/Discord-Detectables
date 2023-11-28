@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ffda27c42a09ca155f23e967e186120c",
     "id": "1124359445997174935",
-    "name": "Ninja Stealth",
-    "publishers": [
-        {
-            "id": "1124354656466911323",
-            "name": "SC Jogos"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "485450",
-            "sku": "485450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ff36205bf5013cf9352eaa1e8de06ccc9244825c0050b259528c0229e8c5109"
+    "name": "Ninja Stealth"
 }

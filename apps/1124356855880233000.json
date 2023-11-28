@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4ad2ca3b6d84e1dff53ed5ae8b83910",
     "id": "1124356855880233000",
-    "name": "Boyfriend Dungeon",
-    "publishers": [
-        {
-            "id": "521816647191756811",
-            "name": "Kitfox Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "674930",
-            "sku": "674930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "581c535d4b1709db4708cbb46b3863740c86b9c50d956454f8dd1d3358d42118"
+    "name": "Boyfriend Dungeon"
 }

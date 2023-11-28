@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf6bad59d39eb9055cd381ef3a577682",
     "id": "1124354533334720652",
-    "name": "Returnal™",
-    "publishers": [
-        {
-            "id": "524351617328480283",
-            "name": "Housemarque"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1649240",
-            "sku": "1649240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f16e84dccad3808dfd6d0fa9352de4ef812247bc051238081c0eb21b63be1dc5"
+    "name": "Returnal™"
 }

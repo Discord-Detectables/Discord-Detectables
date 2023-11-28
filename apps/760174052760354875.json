@@ -2,19 +2,10 @@
     "aliases": [
         "Spellcraft"
     ],
-    "bot_public": false,
-    "bot_require_code_grant": false,
-    "cover_image": "6e018ba6b632385031697110947e3286",
-    "description": "Spellcraft for live server",
     "executables": [
         {
             "is_launcher": false,
             "name": "spellcraft dev (staging)/unitycrashhandler64.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "spellcraft-staging/game/run/tap.exe",
             "os": "win32"
         },
         {
@@ -24,17 +15,27 @@
         },
         {
             "is_launcher": true,
-            "name": "spellcraft-staging.exe",
+            "name": "spellcraft-live.exe",
             "os": "win32"
         },
         {
             "is_launcher": true,
-            "name": "spellcraft-live.exe",
+            "name": "spellcraft-staging.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "spellcraft-gamelab/game/run/tap.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
             "name": "v0/spellcraft.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": true,
+            "name": "spellcraft-gamelab.exe",
             "os": "win32"
         },
         {
@@ -44,51 +45,11 @@
         },
         {
             "is_launcher": false,
-            "name": "spellcraft-gamelab/game/run/tap.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": true,
-            "name": "spellcraft-gamelab.exe",
+            "name": "spellcraft-staging/game/run/tap.exe",
             "os": "win32"
         }
     ],
-    "flags": 557056,
     "hook": true,
-    "icon": "6e824a5f986e303e70b7f2231f929940",
     "id": "760174052760354875",
-    "name": "Spellcraft",
-    "privacy_policy_url": "https://www.playspellcraft.com/privacy-policy/",
-    "publishers": [
-        {
-            "id": "1082767833198510190",
-            "name": "One More Game, Inc."
-        },
-        {
-            "id": "1082767833198510190",
-            "name": "One More Game, Inc."
-        },
-        {
-            "id": "1082767833198510190",
-            "name": "One More Game, Inc."
-        }
-    ],
-    "summary": "",
-    "tags": [
-        "Fun",
-        "Gaming",
-        "Social",
-        "Spellcraft",
-        "Strategy"
-    ],
-    "terms_of_service_url": "https://www.playspellcraft.com/terms-of-service/",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1806210",
-            "sku": "1806210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1101a0a95fef2867904b56d1c3fbccbc2984d80702d2fe0ecaff565b5a3822d3"
+    "name": "Spellcraft"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3485fa063215552100a2ef518428c756",
     "id": "1124360059674185818",
-    "name": "Levelhead",
-    "publishers": [
-        {
-            "id": "524352507368177668",
-            "name": "Butterscotch Shenanigans"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "792710",
-            "sku": "792710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "38f7e48024a1e241aac63302b4e5b3d635c2972f2be9450d8d1e16ff396d30c0"
+    "name": "Levelhead"
 }

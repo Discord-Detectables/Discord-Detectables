@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "817f6cd119d4b3ed7558e3cd8e6bf67c",
     "id": "460199128522293258",
-    "name": "Tom Clancy's The Division Trial",
-    "publishers": [
-        {
-            "id": "521816652745277460",
-            "name": "Massive Entertainment"
-        }
-    ],
-    "splash": "3e7ba572be0884c64a6d43ac7e5215a5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "588220",
-            "sku": "588220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "874b066c986ad47203813823651b568540aac1f752abcb1e8610c29ac9b23d3b"
+    "name": "Tom Clancy's The Division Trial"
 }

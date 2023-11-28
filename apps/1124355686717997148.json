@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c683a4aed0d3b2abc626ed7c37a202f5",
     "id": "1124355686717997148",
-    "name": "West of Dead",
-    "publishers": [
-        {
-            "id": "524352826487472159",
-            "name": "Upstream Arcade"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1016790",
-            "sku": "1016790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1accf39d686bdce68c18eee98170417e23801f0efe8fe72edb6244bd3fc76016"
+    "name": "West of Dead"
 }

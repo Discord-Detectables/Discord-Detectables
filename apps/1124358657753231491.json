@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1053bcf87ed47cc21d1d100809e4672",
     "id": "1124358657753231491",
-    "name": "Haha Doodle",
-    "publishers": [
-        {
-            "id": "1124358658206224384",
-            "name": "Cliff"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1865130",
-            "sku": "1865130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5f2d284a8a6ea7d528ae8d2eba7f9fb89fa7d76d50603f3b9f8145aa077d0b36"
+    "name": "Haha Doodle"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1b3dc9f9f9a45658c74e06b6a133663",
     "id": "1129505711190188053",
-    "name": "Havendock Demo",
-    "publishers": [
-        {
-            "id": "1129505715657130095",
-            "name": "YYZ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2125130",
-            "sku": "2125130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5cc591317ba672bd4241d96a2b711c505b7d05be1e090377a23424ade50bf7c1"
+    "name": "Havendock Demo"
 }

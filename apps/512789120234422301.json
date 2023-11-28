@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816727710072834",
-            "name": "Trinket Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "384047687051378700",
     "hook": true,
-    "icon": "e954e6049eff0bb89a9248095b6bf929",
     "id": "512789120234422301",
-    "name": "Battle Chef Brigade",
-    "primary_sku_id": "512789120234422301",
-    "publishers": [
-        {
-            "id": "521816520267923475",
-            "name": "Adult Swim Games"
-        }
-    ],
-    "slug": "battle-chef-brigade",
-    "splash": "948b62d21351c080488bcfcbcd2cd099",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "452570",
-            "sku": "452570"
-        },
-        {
-            "distributor": "discord",
-            "id": "512789120234422301",
-            "sku": "512789120234422301"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ccfe673a68a7618cd6c84b5e10d26cc7c03ac1d94c8e170e09ad35cdfa4ec09e"
+    "name": "Battle Chef Brigade"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "170aa21b795f902ff1f623433b452ba2",
     "id": "1124360526869315797",
-    "name": "Wildlife Park 2",
-    "publishers": [
-        {
-            "id": "524352321484750851",
-            "name": "B-Alive GmbH"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "304350",
-            "sku": "304350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "34f635e8752312a3505bbe0f08e725ef96a2d0776676887d73f2bb0114c6cf6a"
+    "name": "Wildlife Park 2"
 }

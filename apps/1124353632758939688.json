@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "57c496c32727e7a9ba0a74fe6c8a60be",
     "id": "1124353632758939688",
-    "name": "Krita",
-    "publishers": [
-        {
-            "id": "1124353633199337665",
-            "name": "Krita Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "280680",
-            "sku": "280680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c24cd9ca7c569bc7c2eb07e35bcb5bb2a41120014cc91ff09921f24dbbb290c3"
+    "name": "Krita"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5dfd23a2fd2dd0924eb3e12f81e491b7",
     "id": "1124352997573537802",
-    "name": "DeadPoly",
-    "publishers": [
-        {
-            "id": "1124352998043308212",
-            "name": "TFL Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1621070",
-            "sku": "1621070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bc45643a369c278f65e7f8f191a397562f460a853b2cb9d5e8205668f420be08"
+    "name": "DeadPoly"
 }

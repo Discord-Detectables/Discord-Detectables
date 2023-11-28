@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7ca1baa00d957f0d853e54eec3b30eb",
     "id": "1124356719963820132",
-    "name": "MXGP3 - The Official Motocross Videogame",
-    "publishers": [
-        {
-            "id": "524351544951439360",
-            "name": "Milestone s.r.l."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "561600",
-            "sku": "561600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78f6fd2f669c1e15d795f01d2b553cc21f174060688819556fbe30e34d9aa303"
+    "name": "MXGP3 - The Official Motocross Videogame"
 }

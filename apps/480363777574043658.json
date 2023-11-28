@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e488d50a4f29cf1601a0f2633a4eb120",
     "id": "480363777574043658",
-    "name": "Paintball War",
-    "publishers": [
-        {
-            "id": "521816792885100565",
-            "name": "ShadowWolf Games"
-        }
-    ],
-    "splash": "2fd22094e4c18a1b826c906ced7f3446",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "757130",
-            "sku": "757130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a90ecb17ff8f8786c78107900aaa9d7fd07342313fda9163f8b1a8ec9e691737"
+    "name": "Paintball War"
 }

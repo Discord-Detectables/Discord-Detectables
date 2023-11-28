@@ -2,9 +2,6 @@
     "aliases": [
         "ドラゴンクエストXI　過ぎ去りし時を求めて S"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2362da85e01789be6ecd60b7849038d2",
     "id": "1129504954948788395",
-    "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        },
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1295510",
-            "sku": "1295510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3829bb7195c50e62c88e8009ccb2891820c0d9b484641900d31dab1bfbb1ad21"
+    "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition"
 }

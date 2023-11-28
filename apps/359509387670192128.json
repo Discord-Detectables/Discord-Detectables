@@ -2,13 +2,6 @@
     "aliases": [
         "Stardew Valley"
     ],
-    "description": "An open-ended country-life RPG in which players can manage their own farm and interact with the surrounding community.",
-    "developers": [
-        {
-            "id": "521816735792234518",
-            "name": "ConcernedApe"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1e84012079d438b46bbb3c3bf2a409bb",
     "id": "359509387670192128",
-    "name": "Stardew Valley",
-    "publishers": [
-        {
-            "id": "521816578342387713",
-            "name": "Chucklefish Games"
-        },
-        {
-            "id": "521816735792234518",
-            "name": "ConcernedApe"
-        }
-    ],
-    "splash": "81ff372fbd0557b8908331db0ae94524",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "413150",
-            "sku": "413150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e2fc42fb59441bf78107a7a8f3177985d0eb9a09377bb3719db765b3e1614c9c"
+    "name": "Stardew Valley"
 }

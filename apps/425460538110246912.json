@@ -2,13 +2,6 @@
     "aliases": [
         "Scribblenauts Unmasked"
     ],
-    "description": "A Scribblenauts game that features DC Comics characters. About 2,000 characters in total, supposedly all of them. Also included is a Hero Creator that lets players make their own Hero and a procedural puzzle generator that makes a new puzzle every time a map is loaded.",
-    "developers": [
-        {
-            "id": "521816570029146112",
-            "name": "5th Cell Media"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6438ac4171c2ea04ce84a32fa1ff42ac",
     "id": "425460538110246912",
-    "name": "Scribblenauts Unmasked: A DC Comics Adventure",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "0c54b82e5ff825841fc4cc46440765d9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "249870",
-            "sku": "249870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f09a44f4027443c188b7b0bb525ce867154b8892190c38d875d3d6dc975f94ea"
+    "name": "Scribblenauts Unmasked: A DC Comics Adventure"
 }

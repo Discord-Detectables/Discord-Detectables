@@ -1,11 +1,4 @@
 {
-    "description": "3D fantasy puzzle adventure about a lone girl named Moonchild who must explore the mysterious tower Toren.",
-    "developers": [
-        {
-            "id": "521816633870647317",
-            "name": "Swordtales"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f04dabf05da11dd7451fc0c32183a82b",
     "id": "425455851243831296",
-    "name": "Toren",
-    "publishers": [
-        {
-            "id": "521816509111336966",
-            "name": "Versus Evil"
-        }
-    ],
-    "splash": "fadcf2855246af250dbe3faab76e4ec9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "320820",
-            "sku": "320820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "824c87663eb8a7555b45de51c78aef99cb14e6fd8eda16d989d373641a0a8896"
+    "name": "Toren"
 }

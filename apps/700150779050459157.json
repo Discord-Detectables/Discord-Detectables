@@ -2,7 +2,6 @@
     "aliases": [
         "Age of Empires II: Definitive Edition"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,29 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "700150779050459157",
-    "name": "Age of Empires II: Definitive Edition",
-    "publishers": [
-        {
-            "id": "700150527622643742",
-            "name": "Forgotten Empires"
-        },
-        {
-            "id": "700150527622643742",
-            "name": "Forgotten Empires"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "813780",
-            "sku": "813780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8712925d45aa2aab146817dc3220dac83bbac79633d7ed77e12a9c8bb2bfa76f"
+    "name": "Age of Empires II: Definitive Edition"
 }

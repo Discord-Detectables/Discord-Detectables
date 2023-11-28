@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba08b00181d4943b60572907170c4f32",
     "id": "1124355334593593364",
-    "name": "SEX with HITLER",
-    "publishers": [
-        {
-            "id": "1124355335075934228",
-            "name": "Romantic Room"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1849000",
-            "sku": "1849000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "426b5ee7de8d28c1cbef0a350bbc600f09d31409abba92934e2e3604ee91134b"
+    "name": "SEX with HITLER"
 }

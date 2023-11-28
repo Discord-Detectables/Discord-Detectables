@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3f050d70aa9c7ef93cad896a64e2827a",
     "id": "1124353771087081584",
-    "name": "Streets Of Kamurocho",
-    "publishers": [
-        {
-            "id": "524352154547519499",
-            "name": "Empty Clip Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1368430",
-            "sku": "1368430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "91aacad1458414acd03c1d552d1c3b5a99208eaf62388526beec56970b7dc07b"
+    "name": "Streets Of Kamurocho"
 }

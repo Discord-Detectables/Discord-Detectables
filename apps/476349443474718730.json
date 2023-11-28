@@ -1,5 +1,4 @@
 {
-    "description": "A Sci-Fi puzzle game, where players compete solve deadly traps on a futuristic game show.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8d9cfafe11c9331d7d1983c325d11fe4",
     "id": "476349443474718730",
-    "name": "Half dead",
-    "publishers": [
-        {
-            "id": "521816617118728209",
-            "name": "Room710Games"
-        }
-    ],
-    "splash": "982f955d3b683b132d5a82bb9afc0204",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "434730",
-            "sku": "434730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca210d916b68542aa7e551a3290a94398712d12b69efed38ad3eeb145ed82808"
+    "name": "Half dead"
 }

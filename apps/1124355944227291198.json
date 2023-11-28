@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "be43fe5bb7be5e417814aaf40d2c0783",
     "id": "1124355944227291198",
-    "name": "Holy Potatoes! We’re in Space?!",
-    "publishers": [
-        {
-            "id": "524352283597733977",
-            "name": "Daylight Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "505730",
-            "sku": "505730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f1bb03854aac6993df1668e5e4def9312b497b00de516ac4ed9fa769e7e1e76b"
+    "name": "Holy Potatoes! We’re in Space?!"
 }

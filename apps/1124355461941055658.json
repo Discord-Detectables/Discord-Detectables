@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a5995439ed98c97375efd333964eb7d",
     "id": "1124355461941055658",
-    "name": "Second Chance",
-    "publishers": [
-        {
-            "id": "1124355462431784991",
-            "name": "COMAN"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "958720",
-            "sku": "958720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "71f5790c3ccc17c4faf23be23f1d0663e6dbdde153093e7c1ad87a77547067cf"
+    "name": "Second Chance"
 }

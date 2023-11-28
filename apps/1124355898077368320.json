@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1db96919f1b3214ae2c7864e012e636b",
     "id": "1124355898077368320",
-    "name": "Re:Legend",
-    "publishers": [
-        {
-            "id": "1124355898572292176",
-            "name": "Magnus Games Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "823950",
-            "sku": "823950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a74f345be0be43cfbb5aa7fa6bb690b7cc2970cb4271e91da07c3f123ba68e5e"
+    "name": "Re:Legend"
 }

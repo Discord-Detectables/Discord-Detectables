@@ -1,11 +1,4 @@
 {
-    "description": "Grow Home is a climbing game starring B.U.D. (a Botanical Utility Droid) who is researching the elusive Star plant &amp; helping it bloom.",
-    "developers": [
-        {
-            "id": "521816510172233759",
-            "name": "Ubisoft Reflections"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c2a657ac64a26a8bc494c33f14542b3e",
     "id": "496772402219319316",
-    "name": "Grow Home",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "d281d2c9f1dcd5ffbc16b35e4bc97a92",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "323320",
-            "sku": "323320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79a8319c7d9f0b110cc59671131caccee7769beb1f9d082a719435cb511e4cf2"
+    "name": "Grow Home"
 }

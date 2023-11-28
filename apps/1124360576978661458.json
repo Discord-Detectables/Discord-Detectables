@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c7a3e5b35718652cca0e99f2ed23b482",
     "id": "1124360576978661458",
-    "name": "기적의 분식집",
-    "publishers": [
-        {
-            "id": "1124355474364575855",
-            "name": "TALESSHOP Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "995460",
-            "sku": "995460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1bc9a6bd1a56bee0a512ff17c7352fc146ac9ca2e1ebc07b65cc3e53a15b8716"
+    "name": "기적의 분식집"
 }

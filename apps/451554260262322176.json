@@ -2,13 +2,6 @@
     "aliases": [
         "Orcs Must Die! Unchained"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816601230704643",
-            "name": "Robot Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,37 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f963ae45d8924b8598067feabb4a44d3",
     "id": "451554260262322176",
-    "name": "Orcs Must Die!",
-    "primary_sku_id": "498980730869645329",
-    "publishers": [
-        {
-            "id": "521816601230704643",
-            "name": "Robot Entertainment"
-        },
-        {
-            "id": "521816601230704643",
-            "name": "Robot Entertainment"
-        }
-    ],
-    "slug": "orcs-must-die",
-    "splash": "37da97f2c8e3427da8dd03115b1b4398",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "427270",
-            "sku": "427270"
-        },
-        {
-            "distributor": "discord",
-            "id": "498980730869645329",
-            "sku": "498980730869645329"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f93b537c32973521b6c3bd0c00302565afe2c9a6e577b2cea48e888f733319c9"
+    "name": "Orcs Must Die!"
 }

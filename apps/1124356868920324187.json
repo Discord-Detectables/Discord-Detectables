@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4795c556b48798c934cc79304f733e8",
     "id": "1124356868920324187",
-    "name": "I Am Your President: Prologue",
-    "publishers": [
-        {
-            "id": "1124356869406871673",
-            "name": "President Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1201330",
-            "sku": "1201330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8da3c4d9cfaec90ad342bf8f2af8e9bebb21013eb993b5ec4b9f51f5c0a1be74"
+    "name": "I Am Your President: Prologue"
 }

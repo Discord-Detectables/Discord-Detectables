@@ -2,9 +2,6 @@
     "aliases": [
         "Trombone Champ"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf1b5f1abfb5da2b878dad20c6f55dd7",
     "id": "1129504664249966662",
-    "name": "Trombone Champ",
-    "publishers": [
-        {
-            "id": "1129504664887513158",
-            "name": "Holy Wow"
-        },
-        {
-            "id": "1129504666951106642",
-            "name": "Holy Wow Studios LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1059990",
-            "sku": "1059990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3bf2d99846aa403b34588529fa8ca9310ec4c5c33c3f01a2f2fac33f5833aa86"
+    "name": "Trombone Champ"
 }

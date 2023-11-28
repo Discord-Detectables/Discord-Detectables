@@ -2,9 +2,6 @@
     "aliases": [
         "Little Nightmares II"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5843810ebb00b3b2f524fccb6b766ba",
     "id": "1162096096210854028",
-    "name": "Little Nightmares II",
-    "publishers": [
-        {
-            "id": "521816664199921691",
-            "name": "Tarsier Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "860510",
-            "sku": "860510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "04b089be96628938ec3c4a6aeb7a8813bee45cd11755e568cab4bfc197950000"
+    "name": "Little Nightmares II"
 }

@@ -1,20 +1,4 @@
 {
-    "cover_image": "4a9c53a2eb2a4cd14f97ee3176f3e4d2",
-    "description": "Forsaken is a 3D first-person shooter in which the player has complete 360-degree range of freedom. In a far-off future you play as a scavenger searching through the underground tunnels for weapons and treasures. But you face dangers from automated defense systems and other scavengers.",
-    "developers": [
-        {
-            "id": "521816531831750657",
-            "name": "Nightdive Studios"
-        },
-        {
-            "id": "524351600127377411",
-            "name": "Probe Entertainment"
-        },
-        {
-            "id": "563141479132823552",
-            "name": "Iguana Entertainment UK"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c010b42ad4837f05826fc51bfad7e366",
     "id": "421798336694059018",
-    "name": "Forsaken Remastered",
-    "primary_sku_id": "494870847777931268",
-    "publishers": [
-        {
-            "id": "521816531831750657",
-            "name": "Nightdive Studios"
-        }
-    ],
-    "slug": "forsaken-remastered",
-    "splash": "088d53dde9b7fb6f7a4727c77cefb36c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "494870847777931268",
-            "sku": "494870847777931268"
-        },
-        {
-            "distributor": "steam",
-            "id": "668980",
-            "sku": "668980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15661049989add45cbb334c17bdedd3eb8b96b05c9758415930fea6db177d46d"
+    "name": "Forsaken Remastered"
 }

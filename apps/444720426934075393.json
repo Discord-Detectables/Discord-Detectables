@@ -1,11 +1,4 @@
 {
-    "description": "Valve's online World War II infantry-based shooter gets remade in their Source engine, complete with updated visuals, sound design, and gameplay tweaks.",
-    "developers": [
-        {
-            "id": "521816530393104394",
-            "name": "Valve Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "92b9c144c776a95dda6b15b15662c322",
     "id": "444720426934075393",
-    "name": "Day of Defeat: Source",
-    "publishers": [
-        {
-            "id": "521816608931446835",
-            "name": "CyberFront Corporation"
-        }
-    ],
-    "splash": "b30083a63a2c06364502ccdcd4962017",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "300",
-            "sku": "300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "947db18291db3f8dd6ebf068b6446d840b8e8dee51487edc03f71cc22eb389f5"
+    "name": "Day of Defeat: Source"
 }

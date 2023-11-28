@@ -1,11 +1,4 @@
 {
-    "description": "From the creators of Punch Club comes Graveyard Keeper, the most inaccurate medieval cemetery management sim of 2017.",
-    "developers": [
-        {
-            "id": "521816724262354956",
-            "name": "Lazy Bear Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "93fba3a7839d53372d523402eef6cb7e",
     "id": "481816401183506432",
-    "name": "Graveyard Keeper",
-    "publishers": [
-        {
-            "id": "521816724262354956",
-            "name": "Lazy Bear Games"
-        },
-        {
-            "id": "521816524952961034",
-            "name": "tinyBuild"
-        }
-    ],
-    "splash": "9614e9acb86387e2bc9aedae87979250",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "599140",
-            "sku": "599140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd5a8bc2562ada75873136982abceffba09379d607cecfe886a18c7c663f221a"
+    "name": "Graveyard Keeper"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a432f1ada20e03373098821d29c80449",
     "id": "1124354195491926047",
-    "name": "SimRail - The Railway Simulator: Prologue",
-    "publishers": [
-        {
-            "id": "1124354195982667796",
-            "name": "SimRail S.A."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1803190",
-            "sku": "1803190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "32d0004e0bbfdc8aaffeac39eb8b67cb5c2d80bae50bcdf724e800346391b073"
+    "name": "SimRail - The Railway Simulator: Prologue"
 }

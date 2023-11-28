@@ -1,11 +1,4 @@
 {
-    "description": "This family friendly game combines Lego Star Wars, and Lego Star Wars: The Original Trilogy, into one adventure spanning the entire Star Wars universe.",
-    "developers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2e69de3bcd4a8dcbb8679c73793e8b45",
     "id": "451552771045457920",
-    "name": "LEGO® Star Wars™: The Complete Saga",
-    "publishers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        }
-    ],
-    "splash": "b8526b018ba399298e1b21ce58cdd334",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "32440",
-            "sku": "32440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "24847b36fceb6751b6249dfa0ba4088d847e846d340ff6a16a0745505d6aac4a"
+    "name": "LEGO® Star Wars™: The Complete Saga"
 }

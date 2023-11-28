@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cb5ec96951fbd9b8d389ee890ad236b2",
     "id": "1124360229329584249",
-    "name": "Zetria Demo",
-    "publishers": [
-        {
-            "id": "1124360229828702259",
-            "name": "karne"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1980180",
-            "sku": "1980180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b72e98d5f59c7dafa0346a4e7632618a8fd1a67610f53ebd0a9e479a26cf4d5"
+    "name": "Zetria Demo"
 }

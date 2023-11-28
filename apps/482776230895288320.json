@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "166286754cb52e3e23335fe8a459cab5",
     "id": "482776230895288320",
-    "name": "SimCity 4 Deluxe",
-    "publishers": [
-        {
-            "id": "521816601691947040",
-            "name": "EA - Maxis"
-        }
-    ],
-    "splash": "a02741b4dfe45c4fe3d00f1585deb880",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "24780",
-            "sku": "24780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e58b05c12d256eaa8af823132a6de3bd71f10b1779a9276138e8b7a4b6d7bd2"
+    "name": "SimCity 4 Deluxe"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A prequel to the initial Life is Strange game, focused on Chloe's life.",
-    "developers": [
-        {
-            "id": "521816589570408448",
-            "name": "Deck Nine Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fffa2c776730fd66be3af1755ceaeafe",
     "id": "376181248596508672",
-    "name": "Life is Strange: Before the Storm",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "6e7822a8038d56c686d13efa5beba060",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "554620",
-            "sku": "554620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ab9feee4074b125d483d1efb2ea80ecfa457db73aec4e60ad8de0be974f78228"
+    "name": "Life is Strange: Before the Storm"
 }

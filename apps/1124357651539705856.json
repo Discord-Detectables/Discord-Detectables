@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "733b8500889326f7e129f06f02828e36",
     "id": "1124357651539705856",
-    "name": "Eternal Hope: Prologue",
-    "publishers": [
-        {
-            "id": "1124357652001075300",
-            "name": "Doublehit Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1325880",
-            "sku": "1325880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c97396b2dbc7217f55b55d5e353d5237dc2eb963156941fa5eeba9e0a99149a0"
+    "name": "Eternal Hope: Prologue"
 }

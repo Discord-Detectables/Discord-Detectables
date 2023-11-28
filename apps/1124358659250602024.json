@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "91aca396193b241bd9f6470d253ae731",
     "id": "1124358659250602024",
-    "name": "Jigoku Kisetsukan: Sense of the Seasons",
-    "publishers": [
-        {
-            "id": "647446429870063629",
-            "name": "Emad"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "368950",
-            "sku": "368950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2b2a1d039df0aa445ba69a4065ddf98cee69bb57d31586a787e8617018e106e3"
+    "name": "Jigoku Kisetsukan: Sense of the Seasons"
 }

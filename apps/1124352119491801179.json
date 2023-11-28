@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d0fef83a52bfbbe4a144df8d38473f2b",
     "id": "1124352119491801179",
-    "name": "Aliens: Fireteam Elite",
-    "publishers": [
-        {
-            "id": "1124352119936405514",
-            "name": "Cold Iron Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1549970",
-            "sku": "1549970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "51713d1ba16c7ae85501d299b1f02ff6c07594474138cc45b28bb1d55f6bf95b"
+    "name": "Aliens: Fireteam Elite"
 }

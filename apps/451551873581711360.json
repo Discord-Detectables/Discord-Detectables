@@ -1,11 +1,4 @@
 {
-    "description": "The Evil Within 2",
-    "developers": [
-        {
-            "id": "521816549057626140",
-            "name": "Tango Gameworks"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5a24ca3307e4d97bafb6a93e348ca95c",
     "id": "451551873581711360",
-    "name": "The Evil Within 2",
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        }
-    ],
-    "splash": "c4c7db01338e51dd9055aefdf21cfc2f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "601430",
-            "sku": "601430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c741e2dd0689e4cbb4604797906a737a4dd18fdd286566866be85dde4e7fd96e"
+    "name": "The Evil Within 2"
 }

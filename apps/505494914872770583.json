@@ -1,29 +1,17 @@
 {
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "pcsx2.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "pcsx2-r5875.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "69163c3e441a971306eeef04fa62c126",
-    "id": "505494914872770583",
-    "name": "PCSX2",
-    "publishers": [
+        },
         {
-            "id": "521816612626497541",
-            "name": "PCSX2"
+            "is_launcher": false,
+            "name": "pcsx2.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "eafbfc26a8a2fa9b4c6323c0125d5e7857a1eb05e3d1785c6ba096d3495ef479"
+    "hook": true,
+    "id": "505494914872770583",
+    "name": "PCSX2"
 }

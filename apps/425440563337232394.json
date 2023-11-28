@@ -1,11 +1,4 @@
 {
-    "description": "Impossible Creatures is a real-time strategy game from Relic that is based on fighting genetically modified animals created by the player, allowing for bizarre combinations such as an ant and a wolf, or killer whale and snowy owl.",
-    "developers": [
-        {
-            "id": "521816593798397970",
-            "name": "Relic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd840d9c6c35f235d284ccf81b6bbfd1",
     "id": "425440563337232394",
-    "name": "Impossible Creatures",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        }
-    ],
-    "splash": "175ccf6d02edd1add63fa7ab9eafe4d5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "324680",
-            "sku": "324680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ecadcda3326a2b532186ea21b2fe41b659283b7de8f5454a64a048daeaaaa0d"
+    "name": "Impossible Creatures"
 }

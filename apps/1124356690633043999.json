@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a30e29164024343f9cacbac45353799d",
     "id": "1124356690633043999",
-    "name": "Angel Legion - Idle RPG",
-    "publishers": [
-        {
-            "id": "1124356691178311770",
-            "name": "Shanghai SilverMoon Network Technology Co.Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1333350",
-            "sku": "1333350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ff30eed12bed20fe05f925fd22ae7e672b9d931d23d4ecc18c5127b036d0fbb"
+    "name": "Angel Legion - Idle RPG"
 }

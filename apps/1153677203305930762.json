@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5c7eccd15b8eab45594d29948c48cca8",
     "id": "1153677203305930762",
-    "name": "Lies of P",
-    "publishers": [
-        {
-            "id": "1124352034531987516",
-            "name": "NEOWIZ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1627720",
-            "sku": "1627720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6d7ed78c5f72d1e31a2738b5de5b06af4812f019d9ead8fd1f7445b1e5a20610"
+    "name": "Lies of P"
 }

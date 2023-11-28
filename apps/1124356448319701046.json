@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cc99bb659cd1104382d645946ca296b4",
     "id": "1124356448319701046",
-    "name": "A Bird Story",
-    "publishers": [
-        {
-            "id": "524352122033274891",
-            "name": "Freebird Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "327410",
-            "sku": "327410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b683b9f174745c677bf472f9e96e96c299b8edca808a1d1146620ec859b6fc87"
+    "name": "A Bird Story"
 }

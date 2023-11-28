@@ -1,11 +1,4 @@
 {
-    "description": "Motorsport Manager is a single seater racing management game.",
-    "developers": [
-        {
-            "id": "521816580389077012",
-            "name": "Playsport Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "844562068a54fd7768e1f388c3594d96",
     "id": "475034058066493441",
-    "name": "Motorsport Manager",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "0f86ba646a4c1faccbe73e734917e4c4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "415200",
-            "sku": "415200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "53736d191612eeb46bfb71b2cef43e9763b73992fc2df02d97365681374bc2c4"
+    "name": "Motorsport Manager"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Since its release in 1999, Re-Volt steadily shows its strength with fast &amp; addictive gameplay. Including numerous tracks, unique cars, special weapons and even a track editor, the official release package features everything an RC Car racing fan could wish for.",
-    "developers": [
-        {
-            "id": "521816504824758293",
-            "name": "Big Bit Ltd"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,22 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5a5b29ab7a7fcb1547663bf74137dca2",
     "id": "498994022048727050",
-    "name": "Re-Volt",
-    "publishers": [
-        {
-            "id": "521816504392482822",
-            "name": "GOG.com"
-        },
-        {
-            "id": "521816504824758292",
-            "name": "Game Factory Interactive Ltd."
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "b2cca269b41194146c75129dacb96f777ed4d309edf3fb7e63269c453d5817c8"
+    "name": "Re-Volt"
 }

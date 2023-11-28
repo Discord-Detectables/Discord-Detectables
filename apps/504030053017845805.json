@@ -1,11 +1,4 @@
 {
-    "description": "A free-to-play clicker game developed by Winged Cloud. The objective of the game is to click and defeat hordes of moaning enemies, featuring 800+ moans!",
-    "developers": [
-        {
-            "id": "521816532288798741",
-            "name": "Winged Cloud"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a561455a141228555910979fd0dab4d5",
     "id": "504030053017845805",
-    "name": "Sakura Clicker",
-    "publishers": [
-        {
-            "id": "521816532288798739",
-            "name": "Sekai Project"
-        }
-    ],
-    "splash": "f6ca6773c9c6634192be0b7ff72d2e4e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "383080",
-            "sku": "383080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "699afd61559c70715e173ac56285013c72b660b2bd6a9936954eaf44b68c34fc"
+    "name": "Sakura Clicker"
 }

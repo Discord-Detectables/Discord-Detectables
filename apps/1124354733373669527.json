@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7451d442db181e6e0e3e594faeadce87",
     "id": "1124354733373669527",
-    "name": "Confess My Love",
-    "publishers": [
-        {
-            "id": "1124354733826650162",
-            "name": "LR Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "637850",
-            "sku": "637850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "342cdd3e927b32d6370c1bf8989c5a13df342b3ffcefe356d6e5271f7ffa454e"
+    "name": "Confess My Love"
 }

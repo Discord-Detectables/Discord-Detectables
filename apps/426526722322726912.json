@@ -1,11 +1,4 @@
 {
-    "description": "Isometric zombie survival, where death is inevitable and all you can hope for is to have a bullet left for your own head.",
-    "developers": [
-        {
-            "id": "521816574047420419",
-            "name": "The Indie Stone"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,25 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6030c94c33dab692201194047f5e1a51",
     "id": "426526722322726912",
-    "name": "Project Zomboid",
-    "publishers": [
-        {
-            "id": "521816574047420419",
-            "name": "The Indie Stone"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "108600",
-            "sku": "108600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "87b51570c38b12dfd40396eca64fc715efc5fc3c234ea755821c3ed6ddf25bbc"
+    "name": "Project Zomboid"
 }

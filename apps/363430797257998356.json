@@ -2,13 +2,6 @@
     "aliases": [
         "Divinity - Original Sin"
     ],
-    "description": "Divinity: Original Sin is a top-down turn-based RPG developed by Larian Studios. It introduces new elements to the franchise, such as co-op gameplay and decision-making as well as a more interactive world.",
-    "developers": [
-        {
-            "id": "521816603671920661",
-            "name": "Larian Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "494b73dae737e317700a00b5616b43cd",
     "id": "363430797257998356",
-    "name": "Divinity: Original Sin Enhanced Edition",
-    "publishers": [
-        {
-            "id": "521816603671920661",
-            "name": "Larian Studios"
-        }
-    ],
-    "splash": "ec70308e0ab81784453c52861b72312e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "373420",
-            "sku": "373420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "44c31130d69e0540316f557e3b64a3403563a641510a3f6d77e1192ff1d39fab"
+    "name": "Divinity: Original Sin Enhanced Edition"
 }

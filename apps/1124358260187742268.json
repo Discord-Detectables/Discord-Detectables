@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b1a31557204194597e1a4b86c8e96298",
     "id": "1124358260187742268",
-    "name": "Crystal Maidens",
-    "publishers": [
-        {
-            "id": "1124358260682666046",
-            "name": "Super Hippo Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "957830",
-            "sku": "957830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72432b4644af17758fc424512134fa992eee551ec9592e9d0b7281d3089878b4"
+    "name": "Crystal Maidens"
 }

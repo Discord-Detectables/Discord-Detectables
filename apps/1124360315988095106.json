@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f37efe493d208b3775b31c1b4994d21f",
     "id": "1124360315988095106",
-    "name": "Hunting Simulator 2",
-    "publishers": [
-        {
-            "id": "524353074953846793",
-            "name": "Neopica"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1135910",
-            "sku": "1135910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e196cf93b53ec54dbe676f38b04193d6abbb1ad0a2ff268eb9833fa914f9f64"
+    "name": "Hunting Simulator 2"
 }

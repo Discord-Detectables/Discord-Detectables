@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dc808be090009af2e8247908bfd2d204",
     "id": "1124357355681894580",
-    "name": "Shank",
-    "publishers": [
-        {
-            "id": "521816687612395520",
-            "name": "Klei Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6120",
-            "sku": "6120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d803335a58ad9a160ac63dfb49e883cbdd6b4db30fdaf5cd8fc45eeea0f52bb8"
+    "name": "Shank"
 }

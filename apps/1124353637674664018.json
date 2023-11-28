@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ccd354c3bb0a88e800c03b9df74338bd",
     "id": "1124353637674664018",
-    "name": "Tainted Grail",
-    "publishers": [
-        {
-            "id": "1124353638161199104",
-            "name": "Awaken Realms Digital"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1199030",
-            "sku": "1199030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f7a486b776cf52f48f47d42d7cc03007393b21ef1a7ab106476fa7247efd9b3d"
+    "name": "Tainted Grail"
 }

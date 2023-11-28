@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d40495d6e80efabb45a00e778a4c0606",
     "id": "1124356648987799593",
-    "name": "City of Broken Dreamers: Book One",
-    "publishers": [
-        {
-            "id": "1124356649478541373",
-            "name": "PhillyGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1358250",
-            "sku": "1358250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eb7593fb97b573f7a2587dbaa897cacddac03046f88ba81b7be1403ba3754c21"
+    "name": "City of Broken Dreamers: Book One"
 }

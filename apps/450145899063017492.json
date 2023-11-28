@@ -2,13 +2,6 @@
     "aliases": [
         "Mirror's Edge"
     ],
-    "description": "In a futuristic totalitarian dystopia, a master courier (in a group of renegade \"runners\") investigates a conspiracy, while outrunning the deadly government military, in this parkour-inspired first-person action game.",
-    "developers": [
-        {
-            "id": "521816575481872391",
-            "name": "DICE"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1bdcd02d48972403a7f61e86cef5b1d0",
     "id": "450145899063017492",
-    "name": "Mirror's Edge",
-    "publishers": [
-        {
-            "id": "521816538202767363",
-            "name": "EA Games"
-        },
-        {
-            "id": "521816575481872391",
-            "name": "DICE"
-        }
-    ],
-    "splash": "718f683a7e8ae4f19645bfe846f11768",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "17410",
-            "sku": "17410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d28535b9a1510c88de2724ae6a074ca6ead1b2a605c4241fb467b1a335c798b7"
+    "name": "Mirror's Edge"
 }

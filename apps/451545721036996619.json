@@ -1,11 +1,4 @@
 {
-    "description": "RPG/dungeon-crawler with focus on team-building and looting. Upgrade your tavern with new sodas to attract new adventurers!",
-    "developers": [
-        {
-            "id": "521816551486259234",
-            "name": "Afro-Ninja Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b4b8c9d4da24c25aff5b259825099741",
     "id": "451545721036996619",
-    "name": "Soda Dungeon",
-    "publishers": [
-        {
-            "id": "521816551486259232",
-            "name": "Armor Games"
-        }
-    ],
-    "splash": "0e4ddd3ea909751c305bfda0b082d9e9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "564710",
-            "sku": "564710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ff630f1c90e63dc67158a4c3373c560cbd2b13148f9c3ecf07529775dc12fe9a"
+    "name": "Soda Dungeon"
 }

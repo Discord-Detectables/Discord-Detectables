@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cdd21d97169a36c69a77d0bfc9437215",
     "id": "1124358252281483334",
-    "name": "不思議のダンジョン 風来のシレン5plus  フォーチュンタワーと運命のダイス",
-    "publishers": [
-        {
-            "id": "1124353083560968352",
-            "name": "Spike Chunsoft Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1178790",
-            "sku": "1178790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "385abed9e76deed519755dc6e0862c0fac819ffbef4a1c011ce5e5cdec3a697a"
+    "name": "不思議のダンジョン 風来のシレン5plus  フォーチュンタワーと運命のダイス"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9a15ba10642ea471521de6c01f1492e8",
     "id": "1124353992852525167",
-    "name": "Thief Gold",
-    "publishers": [
-        {
-            "id": "570358003165822992",
-            "name": "Looking Glass Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "211600",
-            "sku": "211600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3394c6176624738b55e5e842ed206627c3d2f5a9a196d247f382c24296387698"
+    "name": "Thief Gold"
 }

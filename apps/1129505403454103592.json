@@ -2,9 +2,6 @@
     "aliases": [
         "Черная Книга"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c41108115ed2e3929c0ca80bc723db2e",
     "id": "1129505403454103592",
-    "name": "Black Book",
-    "publishers": [
-        {
-            "id": "1124359501177434192",
-            "name": "Morteshka"
-        },
-        {
-            "id": "1124359501177434192",
-            "name": "Morteshka"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1138660",
-            "sku": "1138660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4041e1861d87b01c8f8efb971dc98924ffb7da6f9f9939b4ad92d246dab75008"
+    "name": "Black Book"
 }

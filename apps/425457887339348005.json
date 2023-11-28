@@ -2,45 +2,19 @@
     "aliases": [
         "Justice League VR"
     ],
-    "description": "A set of virtual reality mini-games based on the 2017 film \"Justice League\".",
-    "developers": [
-        {
-            "id": "521816639512248332",
-            "name": "Method EXP"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "justice_league_vr_the_complete_experience-1.0.1-htcvive-release.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "justice_league_vr_the_complete_experience-1.0.0-htcvive-release.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "justice_league_vr_the_complete_experience-1.0.1-htcvive-release.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "24888d507e977cad85795f67cf210a75",
     "id": "425457887339348005",
-    "name": "Justice League VR: The Complete Experience",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "f294722fd4e9f58d253e4bb020dc5e72",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "752750",
-            "sku": "752750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "83f2a2e4cd88cb95b4e6f5633d457e2f0c5c83ea9d8277145f3df145c601d155"
+    "name": "Justice League VR: The Complete Experience"
 }

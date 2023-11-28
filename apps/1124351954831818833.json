@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e54b801d9c75121c9754e05adedc4153",
     "id": "1124351954831818833",
-    "name": "GRIS",
-    "publishers": [
-        {
-            "id": "524353211146960926",
-            "name": "Nomada Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "683320",
-            "sku": "683320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0c1fc3c7d32918a715e4615626187b1f1beff5d24c779a4432af792525786ffc"
+    "name": "GRIS"
 }

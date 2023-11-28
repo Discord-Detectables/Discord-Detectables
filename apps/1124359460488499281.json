@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4a81c475d88db8d71002ce11bbe20453",
     "id": "1124359460488499281",
-    "name": "Green Hell VR",
-    "publishers": [
-        {
-            "id": "1124359460958257334",
-            "name": "Incuvo"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1782330",
-            "sku": "1782330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e8b3b0b6a412799d5fd029a6694b06a4b02e3ace6cc3fc421c69eff346b1fc2"
+    "name": "Green Hell VR"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7d692bb3c17206b14d24d63675477c66",
     "id": "1124359383682396220",
-    "name": "Off-Peak",
-    "publishers": [
-        {
-            "id": "524352816123215885",
-            "name": "Cosmo D"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "467360",
-            "sku": "467360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9b096380e94ced4dc100a956b39ca8d3794e98d5da1b76e892522e942093026b"
+    "name": "Off-Peak"
 }

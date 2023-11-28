@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f4655067d2e7305b6247dab0b09645e",
     "id": "1124355139772366929",
-    "name": "Superfighters Deluxe",
-    "publishers": [
-        {
-            "id": "524353284656594959",
-            "name": "MythoLogic Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "855860",
-            "sku": "855860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d7325a9c00709d4c92db680ecfedf39911b8f79734302b6cd2a949b9797171e5"
+    "name": "Superfighters Deluxe"
 }

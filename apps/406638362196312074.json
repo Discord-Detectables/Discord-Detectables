@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "84304927ea679093ca509c1f65705557",
     "id": "406638362196312074",
-    "name": "Kingdom: Classic",
-    "primary_sku_id": "471030015958581279",
-    "publishers": [
-        {
-            "id": "521816607941459968",
-            "name": "Noio"
-        }
-    ],
-    "slug": "kingdom-classic",
-    "splash": "e5572235b60713b40916bd19082b2914",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "368230",
-            "sku": "368230"
-        },
-        {
-            "distributor": "discord",
-            "id": "471030015958581279",
-            "sku": "471030015958581279"
-        }
-    ],
-    "type": 1,
-    "verify_key": "493c76cdb5abaf3ce2fb56368a46d57587e28012ad0dacb3a98d86e6b201d6bb"
+    "name": "Kingdom: Classic"
 }

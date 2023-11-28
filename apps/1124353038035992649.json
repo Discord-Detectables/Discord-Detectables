@@ -1,26 +1,5 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
-    "flags": 0,
     "hook": true,
-    "icon": "0bf460f18bf1e14d109dbfee6ae76b14",
     "id": "1124353038035992649",
-    "name": "Badlanders",
-    "publishers": [
-        {
-            "id": "1124353038526722239",
-            "name": "101.Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1560500",
-            "sku": "1560500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3fea29bcc1872af3e56687dc3b124f650d6696a94de5d2d131566bf38eb00f7c"
+    "name": "Badlanders"
 }

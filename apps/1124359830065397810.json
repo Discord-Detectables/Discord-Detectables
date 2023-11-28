@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d12557e835eb7b74cfb9f78c405e211",
     "id": "1124359830065397810",
-    "name": "Sabbat of the Witch",
-    "publishers": [
-        {
-            "id": "524353125679890433",
-            "name": "Yuzusoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "888790",
-            "sku": "888790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5d6369bfffdfef9e2fcd1c239a973cbd1d9ddebff605086bfe639b9b2f4600af"
+    "name": "Sabbat of the Witch"
 }

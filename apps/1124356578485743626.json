@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de4c8eabd2d3a37e250bbeab23dc12ac",
     "id": "1124356578485743626",
-    "name": "Castlevania Advance Collection",
-    "publishers": [
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1552550",
-            "sku": "1552550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fa770d0f188b0b182250170f7afaf3874ff51d2a89ab0ed3ee41626769d20c48"
+    "name": "Castlevania Advance Collection"
 }

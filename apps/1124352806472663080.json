@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0a0e6ca098fe62263d50f76d084937d3",
     "id": "1124352806472663080",
-    "name": "Bakso Simulator",
-    "publishers": [
-        {
-            "id": "1124352806955003944",
-            "name": "Akhir Pekan Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2022270",
-            "sku": "2022270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "401d9b0ea01d58bd749db1f81a5767d548215e23867f31fdccd9a76eca4c42e7"
+    "name": "Bakso Simulator"
 }

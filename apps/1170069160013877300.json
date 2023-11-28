@@ -2,9 +2,6 @@
     "aliases": [
         "M.A.S.S. Builder"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8a2005359069f718b416d87d274f9118",
     "id": "1170069160013877300",
-    "name": "M.A.S.S. Builder",
-    "publishers": [
-        {
-            "id": "1170069161775472710",
-            "name": "Vermillion Digital"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "956680",
-            "sku": "956680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1be7a29f0170665e0e4ffe0ba20e2edd408a3bea638cedfe99ba6ba04cfe9121"
+    "name": "M.A.S.S. Builder"
 }

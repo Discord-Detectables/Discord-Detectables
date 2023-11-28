@@ -1,5 +1,4 @@
 {
-    "description": "Murder Miners is a Halo-inspired first person shooter. The game was originally for Xbox 360 but later ported to PC.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "786a4c6a1b05953a2543ae5e57025d2d",
     "id": "459807786151182346",
-    "name": "Murder Miners",
-    "publishers": [
-        {
-            "id": "521816779509465100",
-            "name": "JForce Games"
-        }
-    ],
-    "splash": "982b62e676ee72847c678aeda672ebf7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "274900",
-            "sku": "274900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ead93c7ab7ed0c408f53fa70699d730437be306874f86effabfdcf8c5e36497d"
+    "name": "Murder Miners"
 }

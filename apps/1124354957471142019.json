@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a35486c45e0d59a107cd0af4e8ad2d61",
     "id": "1124354957471142019",
-    "name": "Shadows Over Loathing",
-    "publishers": [
-        {
-            "id": "1124354957915734136",
-            "name": "Asymmetric"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1939160",
-            "sku": "1939160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "19241af6ce3485e982527f4f31f4aadd364394127b240e60a3244d650ea97b14"
+    "name": "Shadows Over Loathing"
 }

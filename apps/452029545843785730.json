@@ -1,12 +1,4 @@
 {
-    "cover_image": "ec2b9ef646b4e8cdfe1603e5c8e6ab13",
-    "description": "The Titans, gods before the gods, have escaped from their eternal prison to wreak havoc on the world. In this titanic struggle between old and new gods, it is the heroes of humankind who will ultimately determine the fate of all existence.",
-    "developers": [
-        {
-            "id": "521816723263979521",
-            "name": "Iron Lore Entertainment Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,38 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "347282491192639488",
     "hook": true,
-    "icon": "3c7992344b1f90ac29c323292dd1c1dd",
     "id": "452029545843785730",
-    "name": "Titan Quest Anniversary Edition",
-    "primary_sku_id": "494928814707834881",
-    "publishers": [
-        {
-            "id": "521816722752405505",
-            "name": "Iron Lore Entertainment"
-        },
-        {
-            "id": "521816508167487498",
-            "name": "THQ Nordic"
-        }
-    ],
-    "slug": "titan-quest-anniversary-edition",
-    "splash": "7a151b821231c1e61db40f99cb53a677",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "475150",
-            "sku": "475150"
-        },
-        {
-            "distributor": "discord",
-            "id": "494928814707834881",
-            "sku": "494928814707834881"
-        }
-    ],
-    "type": 1,
-    "verify_key": "865f845b0bf5b04eb30ca3d2431ba3a711d9fade9c8d77497cb0dd1bc571c40d"
+    "name": "Titan Quest Anniversary Edition"
 }

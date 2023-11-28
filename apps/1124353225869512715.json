@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3bc4e9b9074bda0e51a7852fea6b55c3",
     "id": "1124353225869512715",
-    "name": "Waltz of the Wizard",
-    "publishers": [
-        {
-            "id": "524352841993682944",
-            "name": "Aldin Dynamics"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "436820",
-            "sku": "436820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fff955f496fd6d89d71e874cb2a623b59d8533ebcfd0242f91c8df4bac3029cd"
+    "name": "Waltz of the Wizard"
 }

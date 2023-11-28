@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a1a11b3f24d5ae1be5d6b7dae3f27318",
     "id": "1124358084651921528",
-    "name": "Office Space: Idle Profits",
-    "publishers": [
-        {
-            "id": "1124358084651921529",
-            "name": "Ultrabit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "626010",
-            "sku": "626010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf85d096ec051d07c79b1e05c483c83e1a3e3b9432c49969c4fbea9e8746bac5"
+    "name": "Office Space: Idle Profits"
 }

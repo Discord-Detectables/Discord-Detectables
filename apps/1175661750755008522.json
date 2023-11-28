@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c240b5781567982ba56a4538f9aab96d",
     "id": "1175661750755008522",
-    "name": "Refind Self: 性格診断ゲーム",
-    "publishers": [
-        {
-            "id": "1124356357127159979",
-            "name": "Lizardry"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2514960",
-            "sku": "2514960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "98ac5654bcfe757520a9b6718d38ea527d7aa435a13e6ca8a589aa336ff23dbc"
+    "name": "Refind Self: 性格診断ゲーム"
 }

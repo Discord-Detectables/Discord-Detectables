@@ -2,9 +2,6 @@
     "aliases": [
         "Cute Honey"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "baeffab160e235d91b49eb005cf782b1",
     "id": "1129504950540587149",
-    "name": "Cute Honey",
-    "publishers": [
-        {
-            "id": "1124358315388973226",
-            "name": "Cute girl"
-        },
-        {
-            "id": "1129504954344816841",
-            "name": "Lovely Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1347430",
-            "sku": "1347430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f875462dab83366c78fde4b8889f1f48816d27a8c52dbf54cd9bf502a9e51efb"
+    "name": "Cute Honey"
 }

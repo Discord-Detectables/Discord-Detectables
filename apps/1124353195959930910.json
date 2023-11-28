@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "813dfc544829199fa29006867ef2bbbf",
     "id": "1124353195959930910",
-    "name": "Coloring Game 2",
-    "publishers": [
-        {
-            "id": "1124352491715313684",
-            "name": "L. Stotch"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1216200",
-            "sku": "1216200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b0ee230298cb1f34e5e99150e4f1c16d65e3f0ff5501c45c7f0ecc08e07b646f"
+    "name": "Coloring Game 2"
 }

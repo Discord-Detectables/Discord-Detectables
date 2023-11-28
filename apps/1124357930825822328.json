@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "74eeeab44335e25a0a33097875c41263",
     "id": "1124357930825822328",
-    "name": "Dungeon Warfare",
-    "publishers": [
-        {
-            "id": "524353172764885005",
-            "name": "Valsar"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "355980",
-            "sku": "355980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "689a5876ae79e1bffcdf14b615b627ede192ce460a4f8de632d40e730ddaff0c"
+    "name": "Dungeon Warfare"
 }

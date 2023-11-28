@@ -2,13 +2,6 @@
     "aliases": [
         "Organ Trail"
     ],
-    "description": "A zombified parody of The Oregon Trail, swapping Western pioneers with survivors of a zombie apocalypse. Expanded off the original browser game, the director's cut boasts new challenges and significant changes to the original gameplay.",
-    "developers": [
-        {
-            "id": "521816741693620225",
-            "name": "The Men Who Wear Many Hats"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7e202a900abb593522fd73d4750532e",
     "id": "505151146722197504",
-    "name": "Organ Trail: Director's Cut",
-    "publishers": [
-        {
-            "id": "521816741693620225",
-            "name": "The Men Who Wear Many Hats"
-        }
-    ],
-    "splash": "a9625a409010af9f92517a7b5d6c0788",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "233740",
-            "sku": "233740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1175471cdd0e24dcf54ce7c712b264727a8af89002398d4ce7b705b2f47e1365"
+    "name": "Organ Trail: Director's Cut"
 }

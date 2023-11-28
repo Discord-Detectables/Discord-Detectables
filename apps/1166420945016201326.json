@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "424b02d1ef47d4684ef7fd7afa4e5084",
     "id": "1166420945016201326",
-    "name": "Cities: Skylines II",
-    "publishers": [
-        {
-            "id": "521816650304061477",
-            "name": "Colossal Order Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "949230",
-            "sku": "949230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5226aa3eb6efc90ad102ed7fef98a2265715c113a66319cbdef640b85e8dded6"
+    "name": "Cities: Skylines II"
 }

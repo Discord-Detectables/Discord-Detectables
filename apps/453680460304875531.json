@@ -1,11 +1,4 @@
 {
-    "description": "A fast-paced comedy-horror visual novel set in a high-school for spooky monsters. Along with stat-building dating sim mechanics, the game features multiplayer for up to four players, with players able to compete for the same love interest!",
-    "developers": [
-        {
-            "id": "521816560051159043",
-            "name": "Beautiful Glitch"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "410790077158129664",
     "hook": true,
-    "icon": "ca21990e3bed87b81dbdb414b2775227",
     "id": "453680460304875531",
-    "name": "Monster Prom",
-    "publishers": [
-        {
-            "id": "521816560051159042",
-            "name": "Those Awesome Guys"
-        }
-    ],
-    "splash": "93d0c34bb60d0c4af48e6104c8feb97c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "743450",
-            "sku": "743450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "790f474f1ee508d394c632ca6efd1806cd657a6dabb64ed3627de2dff59cc97c"
+    "name": "Monster Prom"
 }

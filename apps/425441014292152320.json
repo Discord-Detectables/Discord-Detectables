@@ -2,13 +2,6 @@
     "aliases": [
         "Witness"
     ],
-    "description": "From the creator of Braid, The Witness is an exploration-focused puzzle game that takes place on an uninhabited island.",
-    "developers": [
-        {
-            "id": "521816685938868246",
-            "name": "Thekla Inc"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "31edf4512403cd69f8c2ab5593fa229e",
     "id": "425441014292152320",
-    "name": "The Witness",
-    "publishers": [
-        {
-            "id": "521816685938868246",
-            "name": "Thekla Inc"
-        }
-    ],
-    "splash": "a4f9731cdfedf2499b0e10cb3752de96",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "210970",
-            "sku": "210970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a524f7aeaf153456556cad7af1942d35a3a3f6ab7d28a215d43f09ab53ecba91"
+    "name": "The Witness"
 }

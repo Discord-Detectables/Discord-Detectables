@@ -2,13 +2,6 @@
     "aliases": [
         "GRID: Autosport"
     ],
-    "description": "Catering more closely to the core fanbase, Codemasters promises for a more responsive release after listening to fan feedback. This is the next game in the GRID series and descendant of TOCA Touring Cars.",
-    "developers": [
-        {
-            "id": "521816499464306689",
-            "name": "Codemasters Racing"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5c78b0eabb61dcc0d408359b6af5ceab",
     "id": "505135989694398512",
-    "name": "GRID Autosport",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "splash": "1341d6708a02419bb9ed8dc34addc41d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "255220",
-            "sku": "255220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f4f31ec3f525f75892e53b81a62cc4bfdf9317c5cf2e2250bcf81b0ce4545487"
+    "name": "GRID Autosport"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Titanfall™ 2"
     ],
-    "description": "The sequel to Respawn's sci-fi mech-filled first-person shooter, Titanfall 2 adds a deep single-player campaign and revamped multiplayer.",
-    "developers": [
-        {
-            "id": "521816569601458178",
-            "name": "Respawn Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,19 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2b5108bc074543b2f76d1def74e5399",
     "id": "363411468441354240",
-    "name": "Titanfall 2",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "splash": "4eeddd382c0af2d06548bf9c894ae41f",
-    "summary": "",
-    "type": 1,
-    "verify_key": "06bff0b238aa7634ef6b6f38a13f3c4a76e5a7bbe40d7006e43cad220b85c7e4"
+    "name": "Titanfall 2"
 }

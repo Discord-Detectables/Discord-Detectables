@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e31db52ca190cd0c7a2590133792a43a",
     "id": "1124355531553918996",
-    "name": "Condemned: Criminal Origins",
-    "publishers": [
-        {
-            "id": "524352374278586372",
-            "name": "Monolith"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "4720",
-            "sku": "4720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "70868f88d8cf6a0f2cc463ae3072b041e503167f832cd92a12e7e0931ebb392c"
+    "name": "Condemned: Criminal Origins"
 }

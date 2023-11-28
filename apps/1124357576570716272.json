@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4d1ec02a45d63b868ebaf432ffed81f",
     "id": "1124357576570716272",
-    "name": "Verlet Swing",
-    "publishers": [
-        {
-            "id": "521816619115085827",
-            "name": "Flamebait Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "811870",
-            "sku": "811870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8ed1cdf4e377107ce995a4461fcff2c97d7c76f95c1e22e60ebd5e28ad087d3b"
+    "name": "Verlet Swing"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "From the studio behind Alien Hominid, Castle Crashers, and BattleBlock Theater comes a new comedic turn-based strategy game with a unique hexidecimal grid system.",
-    "developers": [
-        {
-            "id": "521816647678558213",
-            "name": "The Behemoth"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "195951483789901835",
     "hook": true,
-    "icon": "fac4b16b34fac91ba909a89029954013",
     "id": "428053560304074752",
-    "name": "Pit People",
-    "publishers": [
-        {
-            "id": "521816647678558213",
-            "name": "The Behemoth"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "291860",
-            "sku": "291860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0a7dfdcb73265723de0a2dfb38df42ffdd2ccf8a81fa89aaef11c4e3b8459d0c"
+    "name": "Pit People"
 }

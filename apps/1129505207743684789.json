@@ -2,9 +2,6 @@
     "aliases": [
         "SuchArt!"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "20985779d20d21d08e9d67ad8c35f6b4",
     "id": "1129505207743684789",
-    "name": "SuchArt!",
-    "publishers": [
-        {
-            "id": "1129504305318219936",
-            "name": "Voolgi"
-        },
-        {
-            "id": "1129504307247595671",
-            "name": "Goose Minded"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1293180",
-            "sku": "1293180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d8669053bb30d5ba6d13f6cd87664fc5fe88f48281eeb87ca6c845eb4de02654"
+    "name": "SuchArt!"
 }

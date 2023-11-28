@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "babed440d63e4a6d51e59088101428c7",
     "id": "1124356929045680209",
-    "name": "The Experiment: Escape Room",
-    "publishers": [
-        {
-            "id": "521816660584169472",
-            "name": "OnSkull Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "977570",
-            "sku": "977570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b43c48d680608dd9e42f4651d1e49719845be9c83b22fe87d70ec2865c1affc"
+    "name": "The Experiment: Escape Room"
 }

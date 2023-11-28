@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1afcbf266deefa7f37caaf728775ef10",
     "id": "1124353904436592701",
-    "name": "Creed: Rise to Glory™",
-    "publishers": [
-        {
-            "id": "521816667232403457",
-            "name": "Survios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "804490",
-            "sku": "804490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6ada5389e6d71cd099fc2f2fdeee98aeceb53e85e4ad156e1441e256419cc37"
+    "name": "Creed: Rise to Glory™"
 }

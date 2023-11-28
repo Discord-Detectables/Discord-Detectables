@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e01c4f9373524798070f94bfcadbe172",
     "id": "1124360070835220631",
-    "name": "Stewart The Fox",
-    "publishers": [
-        {
-            "id": "1124360071288213614",
-            "name": "Spitfire-Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2267870",
-            "sku": "2267870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "071f8f2150548d40fb1b7dbfb0eea74d5c5051af0d370efa740ee769b64b0fb2"
+    "name": "Stewart The Fox"
 }

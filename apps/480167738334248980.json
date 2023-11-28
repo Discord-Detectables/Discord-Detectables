@@ -1,11 +1,4 @@
 {
-    "description": "Prominence Poker is a free to play poker game on PC, Xbox One, and PS4.",
-    "developers": [
-        {
-            "id": "521816616602959886",
-            "name": "Pipeworks Software, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ac1d7dcd112a349890da6628b54f464f",
     "id": "480167738334248980",
-    "name": "Prominence Poker",
-    "publishers": [
-        {
-            "id": "521816570520141824",
-            "name": "505 Games"
-        }
-    ],
-    "splash": "68284215c781863e9ae63bf11204eeee",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "384180",
-            "sku": "384180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a986e7824b8ad6340fa96feddb79fea82dcdf574a686c75dcd7a6c3b192d3bba"
+    "name": "Prominence Poker"
 }

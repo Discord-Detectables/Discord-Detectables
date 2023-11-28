@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e56c810c04ec777099e62c0d064c089e",
     "id": "1124358139702165574",
-    "name": "Airscape: The Fall of Gravity",
-    "publishers": [
-        {
-            "id": "524352300731465756",
-            "name": "Cross-Product"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "317250",
-            "sku": "317250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9f690417f9f1785d6c5d60f4219c1fa3a440bd8de263a84ee396a1957ee85d8"
+    "name": "Airscape: The Fall of Gravity"
 }

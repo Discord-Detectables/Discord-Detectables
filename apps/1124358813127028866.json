@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a5c8273c47d30738280d45fe3bd15b9c",
     "id": "1124358813127028866",
-    "name": "Short Life",
-    "publishers": [
-        {
-            "id": "1124358813705850992",
-            "name": "gametornado"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "893570",
-            "sku": "893570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e183588fd69983a97adf0d2daa2c34b7073372a8db698f157dc64d23ca9e2a91"
+    "name": "Short Life"
 }

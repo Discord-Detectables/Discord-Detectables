@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "026105d92ef33eb8734264a5c1dcfa47",
     "id": "1124358458523791503",
-    "name": "SUPER DRAGON BALL HEROES WORLD MISSION Demo Version",
-    "publishers": [
-        {
-            "id": "521816600723324929",
-            "name": "Dimps Corporation"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "996250",
-            "sku": "996250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eebed00a70fb11fe2bdcff1d00bfa6e49055856d43dfa5e384a098668887739d"
+    "name": "SUPER DRAGON BALL HEROES WORLD MISSION Demo Version"
 }

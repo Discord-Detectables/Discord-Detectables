@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2729ba603fde9f62ef564734b0ec519d",
     "id": "1124356032500609024",
-    "name": "Executive Assault 2",
-    "publishers": [
-        {
-            "id": "1124356032957796412",
-            "name": "Hesketh Studios Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "510500",
-            "sku": "510500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea6bbf8780ade9a13cfaede4bbff5faf36be83ed4df6f636c09b3fbb10714370"
+    "name": "Executive Assault 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dbd9fea1e53b9b98a05b7703b68b6fd5",
     "id": "1124355758709026816",
-    "name": "Battle vs Chess",
-    "publishers": [
-        {
-            "id": "521816790083567631",
-            "name": "Targem Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "211050",
-            "sku": "211050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f498630004e71bd2a6721bdac1edf957186b79af01a99fc71f9675bc76c5e238"
+    "name": "Battle vs Chess"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d36c548963c1ecfdb1d4fce59930dd1b",
     "id": "1124358836246036570",
-    "name": "Castle in the Clouds",
-    "publishers": [
-        {
-            "id": "1124357619977564230",
-            "name": "pixelteishoku"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1281160",
-            "sku": "1281160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eb50031e2b729cfa2f58cb079ee6c4fa1e26db5754256f6ffba51f7fc5dc866e"
+    "name": "Castle in the Clouds"
 }

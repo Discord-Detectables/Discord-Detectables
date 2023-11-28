@@ -2,9 +2,6 @@
     "aliases": [
         "Death's Gambit: Afterlife"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db6d29dbb7aabdb29cd941df17de4989",
     "id": "1129504913240629397",
-    "name": "Death's Gambit",
-    "publishers": [
-        {
-            "id": "1129504914125639851",
-            "name": "White Rabbit"
-        },
-        {
-            "id": "1129504914125639851",
-            "name": "White Rabbit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "356650",
-            "sku": "356650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b2fdd05028c94ed149983a8ba3d13072d6b72b95804021c115225ded036d9d5b"
+    "name": "Death's Gambit"
 }

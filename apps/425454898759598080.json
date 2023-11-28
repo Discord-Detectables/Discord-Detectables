@@ -1,11 +1,4 @@
 {
-    "description": "A rhythm based action game featuring music from Bossfight and the DJs of Geometry Dash.",
-    "developers": [
-        {
-            "id": "521816627767934978",
-            "name": "Incodra"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "162bde503f9012a1c30aa8e0281936fa",
     "id": "425454898759598080",
-    "name": "Dub Dash",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "bf6f931b68ad08bc547b79fd67eeeae5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "406940",
-            "sku": "406940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3825f0b445f59b860ecfb74171723afcc8b8b4da50c0263f77d2b34ff03af7c0"
+    "name": "Dub Dash"
 }

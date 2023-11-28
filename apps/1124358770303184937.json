@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aa4371041b1970313333c9636e93e9f1",
     "id": "1124358770303184937",
-    "name": "Rhythm Brawl",
-    "publishers": [
-        {
-            "id": "1124358770785538168",
-            "name": "Mahad Dareshani"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1729900",
-            "sku": "1729900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fe2f132e1690a5d728dfdb27849ecca5fc25eb7b81c0ecdabfe79032fc4ad175"
+    "name": "Rhythm Brawl"
 }

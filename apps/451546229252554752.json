@@ -2,13 +2,6 @@
     "aliases": [
         "Mass Effect 2"
     ],
-    "description": "After a violent death by an unknown force and a timely reanimation by the human supremacist organization Cerberus, Commander Shepard must assemble a new squad in the seedier side of the galaxy for a suicide mission in the second installment of the \"Mass Effect\" trilogy.",
-    "developers": [
-        {
-            "id": "521816589570408449",
-            "name": "BioWare"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,25 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "910afd8d258e188b460c019205f57db7",
     "id": "451546229252554752",
-    "name": "Mass Effect™ 2",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "0e97f0691549236f80bd5787b24ab0c239b432e0fead0c642013d8bf6f7899c7"
+    "name": "Mass Effect™ 2"
 }

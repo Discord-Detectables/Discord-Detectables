@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6f06dc06f9598e954cc54f01a7838d8a",
     "id": "1124357769449980014",
-    "name": "Jerma's Big Adventure",
-    "publishers": [
-        {
-            "id": "1124357769928126474",
-            "name": "worblir"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1722570",
-            "sku": "1722570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d2665f264d0eb4d7d771684a7748e17295d34293ed18be723ec3480ffb457cf1"
+    "name": "Jerma's Big Adventure"
 }

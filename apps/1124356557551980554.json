@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c16786d1a7b6ac9153b3633ba48d2ff",
     "id": "1124356557551980554",
-    "name": "Driver4VR",
-    "publishers": [
-        {
-            "id": "1124356557983989819",
-            "name": "2MW"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1366950",
-            "sku": "1366950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6170d18be811b664c8b6fd753022acade03b508f86915da19ed8ec25460ceb7c"
+    "name": "Driver4VR"
 }

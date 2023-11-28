@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2d0f9650c39756f4b530fbf5ae2821dc",
     "id": "1124356482494902443",
-    "name": "Port Royale 3",
-    "publishers": [
-        {
-            "id": "1124352734179643422",
-            "name": "Gaming Minds Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "205610",
-            "sku": "205610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d76f71f6af4e5022aeb64f6ec34174ca7990d2006c9e510ab9a4519b8a1fbe35"
+    "name": "Port Royale 3"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2114d069edeb4595a9e562a216032e0",
     "id": "1124357087166742539",
-    "name": "Aground",
-    "publishers": [
-        {
-            "id": "524352455975370770",
-            "name": "Fancy Fish Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "876650",
-            "sku": "876650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a2ff70a0cac24cb292b794f9f47936869afce94ce313b4d83d1103d7ce844bcb"
+    "name": "Aground"
 }

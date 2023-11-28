@@ -1,11 +1,4 @@
 {
-    "description": "The third major installment of the Street Fighter IV legacy adds characters and stages from Street Fighter X Tekken, a brand new fighter, new gameplay mechanics (including the ability to bring both Ultra Combos into the fight), and a variety of balance tweaks, training enhancements, and new modes.",
-    "developers": [
-        {
-            "id": "521816600723324929",
-            "name": "Dimps Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a8a22b30abdb960eb80fefd5ce839466",
     "id": "451544694917169162",
-    "name": "Ultra Street Fighter IV",
-    "publishers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "splash": "21206c2f515cda2d00a641c5c5a21607",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "45760",
-            "sku": "45760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dbc48d4851dc453e4d5b27c1e0d29b3990a069727ec10e54ee241f37fed41c9c"
+    "name": "Ultra Street Fighter IV"
 }

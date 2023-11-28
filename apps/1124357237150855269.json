@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2a7fb03f65e4b171eba38c779e8d379",
     "id": "1124357237150855269",
-    "name": "Barro F",
-    "publishers": [
-        {
-            "id": "1124354656466911323",
-            "name": "SC Jogos"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1239260",
-            "sku": "1239260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "785ee00e04c669a7145a51affdcd834d448ca212a6bb65f6eb702e8f0e575227"
+    "name": "Barro F"
 }

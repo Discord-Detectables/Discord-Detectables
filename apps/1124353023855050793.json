@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a3fb5045e30f006e61fbd8937030dbb1",
     "id": "1124353023855050793",
-    "name": "Builders of Egypt: Prologue",
-    "publishers": [
-        {
-            "id": "1124353024320614400",
-            "name": "Strategy Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1207590",
-            "sku": "1207590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f111c493afc7e1b9d6bfea17767f4cbbd7e49ebcde269c188630f5b9fbfd0438"
+    "name": "Builders of Egypt: Prologue"
 }

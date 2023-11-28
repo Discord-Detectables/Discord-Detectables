@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3bd06859fa0f1327c6ed967a7ddecf06",
     "id": "1124359300542906418",
-    "name": "IRMÃO Grande & Brasileiro 2",
-    "publishers": [
-        {
-            "id": "1124359301004275925",
-            "name": "Virgula Leal"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1569520",
-            "sku": "1569520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "766f0eeeb8d800249938d998c016daffdce625115f48e813e759f2bce1a06015"
+    "name": "IRMÃO Grande & Brasileiro 2"
 }

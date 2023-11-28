@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "550e94e30b7685ae2a9a79a1a0bd05c3",
     "id": "1124355388247134258",
-    "name": "Worms World Party Remastered",
-    "publishers": [
-        {
-            "id": "521816610600779776",
-            "name": "Team17 Digital Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "270910",
-            "sku": "270910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "297173e4425081de4131c36e60b6cc0805d02136f6523717e5a84d82920fef6c"
+    "name": "Worms World Party Remastered"
 }

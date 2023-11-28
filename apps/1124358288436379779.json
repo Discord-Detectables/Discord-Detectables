@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e9727c1891a432cea218a70b8c15c152",
     "id": "1124358288436379779",
-    "name": "Starpoint Gemini 2",
-    "publishers": [
-        {
-            "id": "524352742932742144",
-            "name": "Little Green Men Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "236150",
-            "sku": "236150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e34339aa561d87b9266b11baafa4d430375b7b1b73f7df72bba6a7a55e4145cf"
+    "name": "Starpoint Gemini 2"
 }

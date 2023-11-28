@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4e91c6da0d290131cd5a87f7d267913",
     "id": "1124355169287680030",
-    "name": "EXAPUNKS",
-    "publishers": [
-        {
-            "id": "521816562542313484",
-            "name": "Zachtronics"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "716490",
-            "sku": "716490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7806ac4664a0f77fe373472c209965ea76905b536a2e3aa6989989763c75ae14"
+    "name": "EXAPUNKS"
 }

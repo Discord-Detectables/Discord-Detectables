@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1dc272a484243ae13bcd898e79decb82",
     "id": "1161921249061126164",
-    "name": "Moonring",
-    "publishers": [
-        {
-            "id": "1161921249820299304",
-            "name": "Fluttermind, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2373630",
-            "sku": "2373630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d339eec100b1e6b8c51a8cc0120ed560914956c89a53184b35216904542713b"
+    "name": "Moonring"
 }

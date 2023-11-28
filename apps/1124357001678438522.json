@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d4b8cadd56ab23404fc7330f438e1e3",
     "id": "1124357001678438522",
-    "name": "The Life and Suffering of Sir Brante — Chapter 1&2",
-    "publishers": [
-        {
-            "id": "1124354800922935366",
-            "name": "Sever"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1460090",
-            "sku": "1460090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f5298dc44bb3eae8dfc4c1bc3781459013e2efa8a24b54617fe12edf4a6f1880"
+    "name": "The Life and Suffering of Sir Brante — Chapter 1&2"
 }

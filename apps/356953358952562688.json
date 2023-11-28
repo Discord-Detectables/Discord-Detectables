@@ -1,11 +1,4 @@
 {
-    "description": "Starbreeze's Overkill is developing a new co-op focused game set in the Walking Dead universe.",
-    "developers": [
-        {
-            "id": "521816586101850132",
-            "name": "Overkill Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e6b31c5081e792d1529b3dbac4b72363",
     "id": "356953358952562688",
-    "name": "The Walking Dead",
-    "publishers": [
-        {
-            "id": "521816570520141825",
-            "name": "Starbreeze Studios AB"
-        }
-    ],
-    "splash": "74846420f50c35daa41b4875a90ad399",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "207610",
-            "sku": "207610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6be514fcdbcc8dac78c2f98f166592e79c462eff226b868be443b75d937cec28"
+    "name": "The Walking Dead"
 }

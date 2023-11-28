@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c8a9626026ff9f8c1c3bf0e0c6000f4",
     "id": "1124352541426200638",
-    "name": "Parkitect",
-    "publishers": [
-        {
-            "id": "524352462489124873",
-            "name": "Texel Raptor"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "453090",
-            "sku": "453090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f456fcf6160b2badec8c314528c98df28e048b4b9494e4089b2df098ee3ff6c4"
+    "name": "Parkitect"
 }

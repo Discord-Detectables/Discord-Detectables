@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0cdf7f1ad60dab62882795246a135b8",
     "id": "1124355315786330186",
-    "name": "Haunt the House: Terrortown",
-    "publishers": [
-        {
-            "id": "524352186071777284",
-            "name": "SFB Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "270630",
-            "sku": "270630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6be20c64e07afecb0df28eb6e7733dc960acddf8e73becdbde4b515a6852f86e"
+    "name": "Haunt the House: Terrortown"
 }

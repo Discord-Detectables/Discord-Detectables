@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3255915b4768c6a20f4288e6f497fb2",
     "id": "1124357614604668988",
-    "name": "Urbek City Builder",
-    "publishers": [
-        {
-            "id": "1124353244269924502",
-            "name": "Estudios Kremlinois"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1411740",
-            "sku": "1411740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7a7a46863ca5d7fcc5360f50c7968012aa299ee3fd7ac906eba89075e0a9d695"
+    "name": "Urbek City Builder"
 }

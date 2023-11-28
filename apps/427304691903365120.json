@@ -1,11 +1,4 @@
 {
-    "description": "This is the 2015 edition of the F1 racing game by Codemasters for current generation consoles and PC.",
-    "developers": [
-        {
-            "id": "521816503960600577",
-            "name": "Codemasters Birmingham"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8b0041947c866da175e244e82b42e0ac",
     "id": "427304691903365120",
-    "name": "F1 2015",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "286570",
-            "sku": "286570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3da47d37e6495fb72bfaa6d87ef1b6854ac5274152a5b1c722a975ef516b619"
+    "name": "F1 2015"
 }

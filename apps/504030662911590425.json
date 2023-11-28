@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba15cc87d61fab3d8d0716e3febfc1b6",
     "id": "504030662911590425",
-    "name": "Scrivener",
-    "publishers": [
-        {
-            "id": "521816523430428675",
-            "name": "Literature and Latte"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "13f290a3f7ae025ce012d7008600f507027d1f20df84a4dabcd8d957d612229a"
+    "name": "Scrivener"
 }

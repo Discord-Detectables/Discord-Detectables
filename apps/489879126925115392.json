@@ -2,7 +2,6 @@
     "aliases": [
         "Construction Simulator 2015"
     ],
-    "description": "A simulation game from Astragon Software GmbH. Take control of 15 different construction machines as and try to finish construction jobs as well as different challenges.",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e74cea8cbf4ee94be4c14884eac56fc5",
     "id": "489879126925115392",
-    "name": "Construction-Simulator 2015",
-    "publishers": [
-        {
-            "id": "521816758462578700",
-            "name": "weltenbauer. Software Entwicklung GmbH"
-        }
-    ],
-    "splash": "646c15bd6de03ecb9dbd90b1b88381ea",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "289950",
-            "sku": "289950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "816db7e0213ec5b21b01d5de86e6786de963c37ac7113bd7de2ab0b6a6472db4"
+    "name": "Construction-Simulator 2015"
 }

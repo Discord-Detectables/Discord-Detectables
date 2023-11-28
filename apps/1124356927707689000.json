@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2a7fb03f65e4b171eba38c779e8d379",
     "id": "1124356927707689000",
-    "name": "Barro 2020",
-    "publishers": [
-        {
-            "id": "1124354656466911323",
-            "name": "SC Jogos"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1168660",
-            "sku": "1168660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd01f2c809c26f03031014362482853f57af1a40e41869707bf00236c53675ee"
+    "name": "Barro 2020"
 }

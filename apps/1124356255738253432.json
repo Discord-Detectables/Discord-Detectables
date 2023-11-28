@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "62895c8d3f54fa407e87e1779a5f1f2a",
     "id": "1124356255738253432",
-    "name": "Downtown Drift",
-    "publishers": [
-        {
-            "id": "1124356256195428403",
-            "name": "ThatMadProgrammer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1077340",
-            "sku": "1077340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d71dfe71239da789efa1712d7b4b010c6f51c1f10ee33d831c2881e7fb3efb31"
+    "name": "Downtown Drift"
 }

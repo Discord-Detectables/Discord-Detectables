@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ad55be1814becc9e012da4d4afacc44f",
     "id": "1124349975359410317",
-    "name": "Helltaker",
-    "publishers": [
-        {
-            "id": "1124349975934009364",
-            "name": "vanripper"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1289310",
-            "sku": "1289310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9efb9e5cc88e72e06f06550678ca5e2906fcf8ebf937cea658a4e82e11e49e5d"
+    "name": "Helltaker"
 }

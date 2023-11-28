@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f18f32fa64a555d63ac492cbeac67c1e",
     "id": "1167341933321011210",
-    "name": "The Bloodline",
-    "publishers": [
-        {
-            "id": "1167341935351054397",
-            "name": "Shieldbearer Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1159290",
-            "sku": "1159290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "713577cfadb5cedd775146224b719da8da9d551f75ec095a3b1144b5944dbe11"
+    "name": "The Bloodline"
 }

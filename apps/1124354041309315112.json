@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "84af3929331d9bcd17212e2631f72fc6",
     "id": "1124354041309315112",
-    "name": "Bean",
-    "publishers": [
-        {
-            "id": "1124354041812627536",
-            "name": "AJ_Avocado"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1596850",
-            "sku": "1596850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "14ff47b6449a8a5984f8443f17da5672cf09cf633118525a8d02d75a6ad76607"
+    "name": "Bean"
 }

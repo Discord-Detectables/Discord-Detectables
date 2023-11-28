@@ -1,11 +1,4 @@
 {
-    "description": "The successor to Need for Speed: Most Wanted brought a continued storyline and new race types, but now with a lesser focus on police chases.",
-    "developers": [
-        {
-            "id": "521816648739454978",
-            "name": "EA Black Box"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e10ac83457027712739a94650c67d4ef",
     "id": "498971474841960450",
-    "name": "Need for Speed: Carbon",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "a8de945a7284b9ea4db9e1fa5e34da7b07878e960503292adf9960888ad2bdfc"
+    "name": "Need for Speed: Carbon"
 }

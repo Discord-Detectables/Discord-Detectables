@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef6e59dff837ceefa083ff41626e34bd",
     "id": "1124352872390348881",
-    "name": "Super Totally Ultimate Dad Showdown",
-    "publishers": [
-        {
-            "id": "1124352872893661274",
-            "name": "Sandalled Socks LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1570730",
-            "sku": "1570730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5681a0adef8b397eb71df8eb1c53af3726f8106783eb2c737853d7550967e1df"
+    "name": "Super Totally Ultimate Dad Showdown"
 }

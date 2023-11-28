@@ -2,13 +2,6 @@
     "aliases": [
         "NieR:Automata™"
     ],
-    "description": "NieR: Automata is an action RPG developed by PlatinumGames.",
-    "developers": [
-        {
-            "id": "521816725793275924",
-            "name": "PlatinumGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4f1f98afe3450bd507ad887d99d8376",
     "id": "363425276300099584",
-    "name": "NieR:Automata",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        },
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "0d985a6e98a616c27df0b459aea6ca91",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "524220",
-            "sku": "524220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "636ab5d71659de8bbb202bc86836781a6c31d1c7a54ff4c1b3e3dd8254b1a4da"
+    "name": "NieR:Automata"
 }

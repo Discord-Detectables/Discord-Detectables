@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7cbbd8e1bcbe1b69af0779ad588970fd",
     "id": "1124356848833802391",
-    "name": "Totemori",
-    "publishers": [
-        {
-            "id": "1124356849353904178",
-            "name": "Schrolab"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "588180",
-            "sku": "588180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79a332ce5ceac3ecb5a8090a6b83011bd0c47b779717698e774076c1da1be45a"
+    "name": "Totemori"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Battlefield™ 1"
     ],
-    "description": "The long-running Battlefield series goes even further back in time in the 15th installment, this time to the first World War.",
-    "developers": [
-        {
-            "id": "521816575481872391",
-            "name": "DICE"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,29 +9,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "345116687747645440",
     "hook": true,
-    "icon": "ac762f535a430d026be3de847326d34d",
     "id": "358417041981571082",
     "name": "Battlefield 1",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816538202767363",
-            "name": "EA Games"
-        }
-    ],
-    "splash": "ecef22acb800f922ea73ec24b45e733a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "3b341852b37faf79a5e06851502c0396f1199820a7c47fdaf1088a37b42f7b02"
+    "overlay_compatibility_hook": true
 }

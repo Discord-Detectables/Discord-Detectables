@@ -1,11 +1,4 @@
 {
-    "description": "Evolve is a class-based cooperative-competitive game in which a team of four hunters chase after an evolving monster, also controlled by a player.",
-    "developers": [
-        {
-            "id": "521816522977574922",
-            "name": "Turtle Rock Studios, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1f6fbcafcfaa2771ffebac7a09b37459",
     "id": "496739105481293869",
-    "name": "Evolve",
-    "publishers": [
-        {
-            "id": "521816779509465098",
-            "name": "Turtle Rock Studios"
-        },
-        {
-            "id": "521816504392482816",
-            "name": "2K Games"
-        }
-    ],
-    "splash": "60b3131fd2d9db4244e81d1685c5e032",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "273350",
-            "sku": "273350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb70fea706c5040b2e8a33b5aa7db2e9c9900fcba3e10e08ff6cf059b50a63df"
+    "name": "Evolve"
 }

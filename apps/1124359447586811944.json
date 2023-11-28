@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7e38c2b0c6546846534cf842b013ad39",
     "id": "1124359447586811944",
-    "name": "Morphblade",
-    "publishers": [
-        {
-            "id": "521816591604908032",
-            "name": "Suspicious Developments"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "494720",
-            "sku": "494720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dfea279a1ecd71dfec38f71d58c65563c228b70c1f93e07e729416649fd5ff82"
+    "name": "Morphblade"
 }

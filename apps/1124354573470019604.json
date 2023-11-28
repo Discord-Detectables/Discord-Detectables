@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5112099fd818b9125ef4656d26ae2b8",
     "id": "1124354573470019604",
-    "name": "Crusaders of Light",
-    "publishers": [
-        {
-            "id": "1124354574019481700",
-            "name": "Hong Kong Netease Interactive Entertainment Limited"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "775220",
-            "sku": "775220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cce969fc499f0358a0b86f3995c36687ee7187f712f1182d4117595e30e90b6f"
+    "name": "Crusaders of Light"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "An iteration of the mobile FPS franchise with a focus on team-based multiplayer.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6e826d821cc5a296144d27e267826996",
     "id": "443157946357252116",
-    "name": "Modern Combat Versus",
-    "publishers": [
-        {
-            "id": "521816624546709504",
-            "name": "Gameloft"
-        }
-    ],
-    "splash": "b5244c4e53881205874b82605a742afd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "723780",
-            "sku": "723780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6a661c737d63c0551a695375787ee2af175ca6f406be4f8449912e55f24fbd3d"
+    "name": "Modern Combat Versus"
 }

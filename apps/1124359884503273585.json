@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b729171f37e2a366d8c1748eb95248d4",
     "id": "1124359884503273585",
-    "name": "Tiny Heroes 2",
-    "publishers": [
-        {
-            "id": "1124359884952059934",
-            "name": "BXGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1599760",
-            "sku": "1599760"
-        }
-    ],
-    "type": 1,
-    "verify_key": "676457979e421a4a0fd2779d4473f85b6fe03ab24865a7c40f0d6f138f79232e"
+    "name": "Tiny Heroes 2"
 }

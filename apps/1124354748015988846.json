@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e2a8347c718ce4fd4a4819a2c3d5eedd",
     "id": "1124354748015988846",
-    "name": "Victor Vran",
-    "publishers": [
-        {
-            "id": "521816616602959882",
-            "name": "Haemimont Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "345180",
-            "sku": "345180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b5675522d3ff1b6e296dd64b9571239d107125f9a04f95945f1cae7388635b42"
+    "name": "Victor Vran"
 }

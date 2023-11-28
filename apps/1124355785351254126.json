@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8a96a3ee3ce9a84c0dd21b6b646cea08",
     "id": "1124355785351254126",
-    "name": "The Swords of Ditto: Mormo's Curse",
-    "publishers": [
-        {
-            "id": "524352404997668879",
-            "name": "onebitbeyond"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "619780",
-            "sku": "619780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b7841f8257c02165c6b20a2eb823395aac341dda85ff6af256e65a767461676a"
+    "name": "The Swords of Ditto: Mormo's Curse"
 }

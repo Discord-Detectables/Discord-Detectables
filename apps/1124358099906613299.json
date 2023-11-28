@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1c9a76dd047b8013875e08c3812620d",
     "id": "1124358099906613299",
-    "name": "Super Meat Boy Forever",
-    "publishers": [
-        {
-            "id": "521816564564230170",
-            "name": "Team Meat"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "581660",
-            "sku": "581660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ff1a8bd0ab44a29fe527dc64771248d09a534eb98ec739342a73ba4a4736ca50"
+    "name": "Super Meat Boy Forever"
 }

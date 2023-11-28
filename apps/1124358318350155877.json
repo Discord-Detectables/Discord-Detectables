@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c090834e40f15f42671d1907c7fd4af3",
     "id": "1124358318350155877",
-    "name": "Wildfire",
-    "publishers": [
-        {
-            "id": "1124358318840885279",
-            "name": "Sneaky Bastards"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "431940",
-            "sku": "431940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bff6199f55d92bf998b9ee3b196c7fe1c64ed44b0f387d1dcc172e1434d8e3f7"
+    "name": "Wildfire"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Team17 celebrated the 21st anniversary of Worms by releasing a new Worms game.",
-    "developers": [
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d712860b2d8ac34ba7f3a3be85e668dc",
     "id": "476482983675559946",
-    "name": "Worms W.M.D",
-    "publishers": [
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
-    "splash": "b20df44bf7d156b274a16072018628f0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "327030",
-            "sku": "327030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c3888892d86c0a550448723a1aee2d67ce58283a3fb06e41cbdb272e20bb0ca5"
+    "name": "Worms W.M.D"
 }

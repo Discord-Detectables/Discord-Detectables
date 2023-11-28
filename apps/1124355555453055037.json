@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6408e26c7d2db3ee6498ed9c30f60893",
     "id": "1124355555453055037",
-    "name": "FlowScape",
-    "publishers": [
-        {
-            "id": "1124355555956379769",
-            "name": "Pixel Forest Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1043390",
-            "sku": "1043390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b89579239e44b26c7735afed043f4052dc0791c7c85c4b576b0e7068f84a4a26"
+    "name": "FlowScape"
 }

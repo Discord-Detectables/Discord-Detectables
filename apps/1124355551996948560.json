@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "25a0c1a791c36b180fa685791eec7fc0",
     "id": "1124355551996948560",
-    "name": "Traitors in Salem",
-    "publishers": [
-        {
-            "id": "1124355552529633321",
-            "name": "BlankMediaGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1497640",
-            "sku": "1497640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "baea10ab09519215fc9189dfecfdf118fbcca35783e211893f43474a1efda491"
+    "name": "Traitors in Salem"
 }

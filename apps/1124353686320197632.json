@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ca220afdd1e6dca942a412cad978d71b",
     "id": "1124353686320197632",
-    "name": "Icewind Dale: Enhanced Edition",
-    "publishers": [
-        {
-            "id": "524352139942821997",
-            "name": "Beamdog"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "321800",
-            "sku": "321800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "11176fa8e7a013b3b354cb2409a1bc788aec484edde6cfe16397032302112375"
+    "name": "Icewind Dale: Enhanced Edition"
 }

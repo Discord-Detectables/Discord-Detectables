@@ -1,14 +1,4 @@
 {
-    "bot_public": false,
-    "bot_require_code_grant": false,
-    "cover_image": "bb9580d326f62e8e7c3f676ad24d6f02",
-    "description": "",
-    "developers": [
-        {
-            "id": "521816604640542744",
-            "name": "Liquid Bit / Bumble Bear Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,34 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "377189070834630657",
     "hook": true,
-    "icon": "c92cb8ed7136d25ee6765f080790b84d",
     "id": "492144146040094722",
-    "name": "Killer Queen Black",
-    "primary_sku_id": "492373500997402624",
-    "publishers": [
-        {
-            "id": "521816604640542743",
-            "name": "Liquid Bit, LLC"
-        }
-    ],
-    "slug": "killer-queen-black",
-    "splash": "b3cd8054876c75292d688f6d24cc39bf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "663670",
-            "sku": "663670"
-        },
-        {
-            "distributor": "discord",
-            "id": "492373500997402624",
-            "sku": "492373500997402624"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cb8624b9d39289971d719f8ecfe587bb3bf1e3f0a60cccd8e52008e0f17376f9"
+    "name": "Killer Queen Black"
 }

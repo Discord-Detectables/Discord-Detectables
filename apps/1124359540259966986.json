@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9ceb061a75af6d1d064cc5a99adc5629",
     "id": "1124359540259966986",
-    "name": "HIVESWAP: ACT 2",
-    "publishers": [
-        {
-            "id": "1124355510141993132",
-            "name": "What Pumpkin Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1181840",
-            "sku": "1181840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "419335c7955e92c0f38c43c8a447d84f8ba2b5a9468ff01a715596d179d39667"
+    "name": "HIVESWAP: ACT 2"
 }

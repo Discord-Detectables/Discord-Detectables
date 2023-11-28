@@ -2,13 +2,6 @@
     "aliases": [
         "Alien Vs Predator"
     ],
-    "description": "The third game in the popular AvP franchise. Players are be able to control one of the three deadly species in a fight for survival.",
-    "developers": [
-        {
-            "id": "521816698534494221",
-            "name": "Rebellion"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,26 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ce7895f085671f62f25179cc11dc191",
     "id": "494240845378355220",
-    "name": "Aliens vs. Predator",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "a9867c276a0f485f6d369cd76c2e674f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "10680",
-            "sku": "10680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b1d03f951917b629f369451c294e9282a4952cf89cdef67ba92826ac9dfd0dd2"
+    "name": "Aliens vs. Predator"
 }

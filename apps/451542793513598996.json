@@ -1,11 +1,4 @@
 {
-    "description": "Sword Art Online: Fatal Bullet is a third-person shooter developed by Dimps.",
-    "developers": [
-        {
-            "id": "521816600723324929",
-            "name": "Dimps Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c6e737634678b11853fdaf45dff7ecfc",
     "id": "451542793513598996",
-    "name": "Sword Art Online: Fatal Bullet",
-    "publishers": [
-        {
-            "id": "521816537653444610",
-            "name": "Bandai Namco Entertainment"
-        },
-        {
-            "id": "521816600723324928",
-            "name": "DIMPS"
-        }
-    ],
-    "splash": "aac46bf51265299fd8fe6704efba50f8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "626690",
-            "sku": "626690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d896cb52a84b674a7ce266226e81086e65ccd1ac47d1fa1c355992adb96a5a5f"
+    "name": "Sword Art Online: Fatal Bullet"
 }

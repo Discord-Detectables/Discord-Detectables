@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b28ff3220e234dbf6973a9b1a1f6cc85",
     "id": "1124358247298646117",
-    "name": "Sons of Valhalla Demo",
-    "publishers": [
-        {
-            "id": "1124358247797764167",
-            "name": "Pixel Chest"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1992320",
-            "sku": "1992320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b7bf2905a6a05eb9cf55c4f7157681803af780ba14afdcf5caef6d0a0594b720"
+    "name": "Sons of Valhalla Demo"
 }

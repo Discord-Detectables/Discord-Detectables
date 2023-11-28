@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec1f43d1f17cf61a7a217bd090573113",
     "id": "1124357338917261383",
-    "name": "Mashinky",
-    "publishers": [
-        {
-            "id": "1124357339395408022",
-            "name": "Jan Zelený"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "598960",
-            "sku": "598960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ed6842d2c552cfed52ad89965e7d8278ab803407757546755eeac75e3967bbe"
+    "name": "Mashinky"
 }

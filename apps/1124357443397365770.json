@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a28964abd2cbf23bfa842e2e0eeaede3",
     "id": "1124357443397365770",
-    "name": "Copa Petrobras de Marcas",
-    "publishers": [
-        {
-            "id": "524352243902709781",
-            "name": "Reiza Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "359800",
-            "sku": "359800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3a2ed69a88344635fd7d22ef6c848211d7905d3aca3639369dcf86aa489f3da"
+    "name": "Copa Petrobras de Marcas"
 }

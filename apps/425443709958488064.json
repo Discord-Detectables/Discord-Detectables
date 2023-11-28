@@ -1,11 +1,4 @@
 {
-    "description": "A dungeon exploration game where you play the dungeon master using cards to help guide the AI controlled players.",
-    "developers": [
-        {
-            "id": "521816553080094725",
-            "name": "Gambrinous"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "306957465407324171",
     "hook": true,
-    "icon": "79c4758019008dbd046e0873e5caa26c",
     "id": "425443709958488064",
-    "name": "Guild of Dungeoneering",
-    "publishers": [
-        {
-            "id": "521816509111336966",
-            "name": "Versus Evil"
-        }
-    ],
-    "splash": "5ec227e6f245e1063410c6f02bfbbb18",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "317820",
-            "sku": "317820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b29bdbf7b04d885fbce40a5963e55d5a715edc5e6048e06a91c87b65bb026b2"
+    "name": "Guild of Dungeoneering"
 }

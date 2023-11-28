@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e3a23c9c94049357066f5bc556da8000",
     "id": "1124353920597246144",
-    "name": "大富翁10(Richman 10)",
-    "publishers": [
-        {
-            "id": "1124353921117335702",
-            "name": "Softstar Technology (Beijing) Co.,Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1162520",
-            "sku": "1162520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "111510cca15f957429c54379fa9082fc0a6577c78755b9723e9eec273634e095"
+    "name": "大富翁10(Richman 10)"
 }

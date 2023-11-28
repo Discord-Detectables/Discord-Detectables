@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c8e87becb382993eba6a3ec2598c3856",
     "id": "1124357589984096346",
-    "name": "Emily Wants to Play Too",
-    "publishers": [
-        {
-            "id": "524352498492899330",
-            "name": "Shawn Hitchcock"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "652190",
-            "sku": "652190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "affcd8bfae5b9c04641fe520b9b4cca3a53edae438e24cc5422c016e76dad49a"
+    "name": "Emily Wants to Play Too"
 }

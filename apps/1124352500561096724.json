@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d27419f05fb65a2a747d2260c3da94f4",
     "id": "1124352500561096724",
-    "name": "Deadswitch 3",
-    "publishers": [
-        {
-            "id": "1124352501051838464",
-            "name": "Wilkin Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1131080",
-            "sku": "1131080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6ee61b18479a0dcc842d003d790c87314040503a92d2e776a13c9fccbd7bc5b"
+    "name": "Deadswitch 3"
 }

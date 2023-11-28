@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9a09acb204cceda657b31abd44b0cffa",
     "id": "1124356134103437403",
-    "name": "Lost",
-    "publishers": [
-        {
-            "id": "1124355224841244702",
-            "name": "DSGame"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1126290",
-            "sku": "1126290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "795ab70a2292d34b11ecadaeefaa6ced65527c4577c58cde4e805f93134ac75d"
+    "name": "Lost"
 }

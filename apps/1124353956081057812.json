@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b55112bae3602e563c723f7149804e6c",
     "id": "1124353956081057812",
-    "name": "N++",
-    "publishers": [
-        {
-            "id": "1124353956622119014",
-            "name": "Metanet Software Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "230270",
-            "sku": "230270"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b19da62305e75d651fe4091446dc2d566e7c759ef2b85bb329b15b41cd0cde64"
+    "name": "N++"
 }

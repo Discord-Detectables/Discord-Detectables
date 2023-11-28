@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a7f14b1c887e1a1515542646f28e7dc9",
     "id": "1124360323923726458",
-    "name": "Onimusha: Warlords",
-    "publishers": [
-        {
-            "id": "1124355398930014298",
-            "name": "CAPCOM CO., LTD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "761600",
-            "sku": "761600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d0edef7db98d420a31e2df5732afb43a0b24f65e1c059401e4c4725e16644f25"
+    "name": "Onimusha: Warlords"
 }

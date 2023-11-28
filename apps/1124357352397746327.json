@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ae3006150040fee4e6a0b3a143b671ee",
     "id": "1124357352397746327",
-    "name": "Home Sweet Home : Online",
-    "publishers": [
-        {
-            "id": "1124357352951402598",
-            "name": "YGGDRAZIL GROUP PUBLIC COMPANY LIMITED"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2334220",
-            "sku": "2334220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3a0c04e76e4afea25ee96ad319e0a0f88d6c60fec7909d5f9981716118588f7"
+    "name": "Home Sweet Home : Online"
 }

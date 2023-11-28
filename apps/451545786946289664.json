@@ -3,13 +3,6 @@
         "RUNNING WITH RIFLES",
         "Running with Rifles"
     ],
-    "description": "A top-down, open-world shooter.",
-    "developers": [
-        {
-            "id": "521816514630778880",
-            "name": "Modulaatio Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,30 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f12a5b97a8e3c80b65506ea58b8dc875",
     "id": "451545786946289664",
-    "name": "RUNNING WITH RIFLES",
-    "publishers": [
-        {
-            "id": "521816514630778880",
-            "name": "Modulaatio Games"
-        },
-        {
-            "id": "1124356634290962442",
-            "name": "Osumia Games"
-        }
-    ],
-    "splash": "25dff1072208b223ae1ce6529660eb55",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "270150",
-            "sku": "270150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f41c40e19f546e31648b10cb3f51a9a4d1877318700ada57967751d1aafb83d9"
+    "name": "RUNNING WITH RIFLES"
 }

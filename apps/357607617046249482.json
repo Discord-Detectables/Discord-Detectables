@@ -1,13 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
-    "developers": [
-        {
-            "id": "521816588601786401",
-            "name": "Wargaming.net"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -15,28 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "10c02ab739f2737544f488f776010a18",
     "id": "357607617046249482",
-    "name": "World of Warships",
-    "primary_sku_id": "486916469645508649",
-    "publishers": [
-        {
-            "id": "521816588601786401",
-            "name": "Wargaming.net"
-        }
-    ],
-    "slug": "world-of-warships",
-    "splash": "1e46e8261f79f2ef61cb4abf47127ac5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "486916469645508649",
-            "sku": "486916469645508649"
-        }
-    ],
-    "type": 1,
-    "verify_key": "48f258d59429e22367145685069dc135c2cb5925624ba39a9457385f3bbdf7fa"
+    "name": "World of Warships"
 }

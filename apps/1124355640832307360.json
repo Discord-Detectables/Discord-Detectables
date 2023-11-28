@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a7effc4c366f6b3c1933ffde1c771e9b",
     "id": "1124355640832307360",
-    "name": "Rock Life: The Rock Simulator",
-    "publishers": [
-        {
-            "id": "1124355641323049103",
-            "name": "BGNB Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2056560",
-            "sku": "2056560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ebfe282990acb7c2eabeec739d2552c325fc9b95fa09e717a40d76a1e9a4bb44"
+    "name": "Rock Life: The Rock Simulator"
 }

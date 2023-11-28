@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "22011e994b9adfde3d881d2b21517e4c",
     "id": "1124359808343101507",
-    "name": "Ultimate Fishing Simulator VR",
-    "publishers": [
-        {
-            "id": "524353151810404356",
-            "name": "Bit Golem"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1024010",
-            "sku": "1024010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "38aa4e9bce651f1f24e2cf550d6a2877b2e7273e5d7dee94472b42d84f4807c1"
+    "name": "Ultimate Fishing Simulator VR"
 }

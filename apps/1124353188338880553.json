@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5f2f906337b565be287ae743ace1ef3",
     "id": "1124353188338880553",
-    "name": "METAL SLUG",
-    "publishers": [
-        {
-            "id": "521816526362247175",
-            "name": "DotEmu"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "366250",
-            "sku": "366250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4afbf921ae065d4083c428f8f4a3fe01b4916df4732427d7698f7d71793ff29c"
+    "name": "METAL SLUG"
 }

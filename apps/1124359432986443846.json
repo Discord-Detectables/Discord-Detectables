@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bc34f5e2bc2c9603ee4b5677a2f6aac5",
     "id": "1124359432986443846",
-    "name": "The Fermi Paradox",
-    "publishers": [
-        {
-            "id": "1124359433544282112",
-            "name": "Anomaly Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1543150",
-            "sku": "1543150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "69ea9b16fc1d2ab85fb8ea4973edb27feea628c3bb11bb20160d0b2f8ae62fd1"
+    "name": "The Fermi Paradox"
 }

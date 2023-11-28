@@ -3,13 +3,6 @@
         "HellBlade",
         "Hellblade: Senua's Sacrifice"
     ],
-    "description": "An action game from Ninja Theory.",
-    "developers": [
-        {
-            "id": "521816785801052162",
-            "name": "Ninja Theory"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,26 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d7d787898232f322054907463919314",
     "id": "425470569698557962",
-    "name": "Hellblade",
-    "publishers": [
-        {
-            "id": "521816785801052162",
-            "name": "Ninja Theory"
-        }
-    ],
-    "splash": "eb176a5b215073390e2487252d8495a3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "414340",
-            "sku": "414340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "04ea248000ebc446afd96fe9cd2796dc66d1b21fe64d2ae81b8522d4d88e8489"
+    "name": "Hellblade"
 }

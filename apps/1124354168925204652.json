@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "780db470c494d58ab816d9fe9bad4c6d",
     "id": "1124354168925204652",
-    "name": "YouTube VR",
-    "publishers": [
-        {
-            "id": "524352260935909383",
-            "name": "Google"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "755770",
-            "sku": "755770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bb2b1854ca8812dafd7defc458ded5f45d99cafa12c43650175fa506a38a357b"
+    "name": "YouTube VR"
 }

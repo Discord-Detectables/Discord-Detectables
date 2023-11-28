@@ -2,13 +2,6 @@
     "aliases": [
         "Melty Blood Actress Again: Current Code"
     ],
-    "description": "The followup to Actress Again, Current Code is the 4th installment in the Melty Blood series of fighting games.",
-    "developers": [
-        {
-            "id": "521816628477034508",
-            "name": "Type-Moon"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9796f73fef8f2d450d3d430a3f8d3377",
     "id": "505143546244890691",
-    "name": "MELTY BLOOD Actress Again Current Code",
-    "publishers": [
-        {
-            "id": "521816628477034507",
-            "name": "Ecole Software"
-        }
-    ],
-    "splash": "9fe69d23b31d973a6c2c5120682f093d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "411370",
-            "sku": "411370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3a7435be4c6a50b6b2d27309959f30b5166f7ca07b09363b11c40b7d44328c32"
+    "name": "MELTY BLOOD Actress Again Current Code"
 }

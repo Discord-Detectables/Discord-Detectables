@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d47d1cc45e95f30598bf4d3d4b729746",
     "id": "1124355679885479989",
-    "name": "Chained Echoes",
-    "publishers": [
-        {
-            "id": "1124355680401375233",
-            "name": "Matthias Linda"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1229240",
-            "sku": "1229240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ebe2c2abbcad0d3cd58e646686b3b4ec9cf08dde24c0a60c09825315faee8b6"
+    "name": "Chained Echoes"
 }

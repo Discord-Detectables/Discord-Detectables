@@ -2,9 +2,6 @@
     "aliases": [
         "Vainglory"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e144727d1698112bc5cffdd183a55854",
     "id": "1129504582393929728",
-    "name": "Vainglory",
-    "publishers": [
-        {
-            "id": "524352667347058698",
-            "name": "Super Evil Megacorp"
-        },
-        {
-            "id": "1129504587485827072",
-            "name": "Rogue Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1025580",
-            "sku": "1025580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b240a1e2a58fd4c79e42599f94b5e3cd6d765b3d2417d63b07996270eb94ae03"
+    "name": "Vainglory"
 }

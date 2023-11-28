@@ -1,5 +1,4 @@
 {
-    "description": "sZone-Online is an MMO shooter.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc007bc1722c8ef24395693ea2f12f04",
     "id": "489441787778301992",
-    "name": "sZone-Online",
-    "publishers": [
-        {
-            "id": "521816657060954132",
-            "name": "CTS Games"
-        }
-    ],
-    "splash": "48e974d2a0d36c8b963de0fb167fa035",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "316390",
-            "sku": "316390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "75e3fd41fbecaed54fedecdd1a10ea3de127f33c8575ab0c64a7965d7be205db"
+    "name": "sZone-Online"
 }

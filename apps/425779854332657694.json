@@ -1,5 +1,4 @@
 {
-    "description": "BombTag",
     "executables": [
         {
             "is_launcher": false,
@@ -7,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "26e0f3977004cc5e2c03ee1e7d383cb9",
     "id": "425779854332657694",
-    "name": "BombTag",
-    "publishers": [
-        {
-            "id": "521816663679565846",
-            "name": "David Schneider"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "791930",
-            "sku": "791930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "10561fc1f0048d828709edd11e2c68a6de9692df561c2e90071330681b6e643e"
+    "name": "BombTag"
 }

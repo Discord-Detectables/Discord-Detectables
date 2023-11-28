@@ -1,11 +1,4 @@
 {
-    "description": "A psychological horror game from Bloober Team SA.",
-    "developers": [
-        {
-            "id": "521816682155737092",
-            "name": "Bloober Team"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "230729beb1a8c325a2af89ebc16c7458",
     "id": "448120144775086080",
-    "name": "Layers of Fear",
-    "publishers": [
-        {
-            "id": "521816682155737090",
-            "name": "Bloober Team SA"
-        },
-        {
-            "id": "521816511178997817",
-            "name": "Aspyr Media, Inc."
-        }
-    ],
-    "splash": "9ab2776cb9d61838f7d5e446a0a4505d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "391720",
-            "sku": "391720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "18098924023ab3c31fed2042518ac1a416010a6a23aeeb8c3bb76e2f6888f30e"
+    "name": "Layers of Fear"
 }

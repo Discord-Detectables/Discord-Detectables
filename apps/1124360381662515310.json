@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "def7a9fe286ea545648b68dce550fbf9",
     "id": "1124360381662515310",
-    "name": "Cossacks II: Napoleonic Wars",
-    "publishers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "115200",
-            "sku": "115200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "03f9c1d2630f6e635bc599730f3b504e7d2fda6e2506c0910a32e461f9c498ea"
+    "name": "Cossacks II: Napoleonic Wars"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bab7541626569a80b86bac9c448cc7fb",
     "id": "1124359855025701054",
-    "name": "Sky Rogue",
-    "publishers": [
-        {
-            "id": "524353189118607360",
-            "name": "Fractal Phase"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "381020",
-            "sku": "381020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc095448f0693d4eb7f2c28ec1a876c642a514321aa6715b3ba2cb726a5b4da2"
+    "name": "Sky Rogue"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0036e60c8f8a1b2615a31a1faa74aed",
     "id": "1124360271473950781",
-    "name": "Marble It Up!",
-    "publishers": [
-        {
-            "id": "524352689656692737",
-            "name": "Blueteak"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "864060",
-            "sku": "864060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d8c57fb6a1a65a10a0943d4bfb8254159e8de61d175e87cddc1b4e89460743f7"
+    "name": "Marble It Up!"
 }

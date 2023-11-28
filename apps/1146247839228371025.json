@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bbc83a362437a84abb6d5a061061a975",
     "id": "1146247839228371025",
-    "name": "Sword Art Online: Integral Factor",
-    "publishers": [
-        {
-            "id": "1129504441301745774",
-            "name": "Asobimo, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2371630",
-            "sku": "2371630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c459a34ceee15146aefed1fc42b5d6401b33f4133b287d4048c2508f595b8444"
+    "name": "Sword Art Online: Integral Factor"
 }

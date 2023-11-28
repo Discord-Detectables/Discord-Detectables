@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d970a7ba0afcdf6edf5494cf0efe93ca",
     "id": "1124357214551953408",
-    "name": "Scott Pilgrim vs The World",
-    "publishers": [
-        {
-            "id": "1124357215013322853",
-            "name": "Engine Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2215260",
-            "sku": "2215260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bdcdceb044ad182e2b2f850929da3775a36232ed922866fe5cbadf11d3687a74"
+    "name": "Scott Pilgrim vs The World"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "68fcef7bc4593b223a724b47d7985d27",
     "id": "1151185644048097340",
-    "name": "Void Crew",
-    "publishers": [
-        {
-            "id": "1151185646472413254",
-            "name": "Hutlihut Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1063420",
-            "sku": "1063420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b989f16d768af693adb08b4ed4dc1093dc2462d999b8d06466444ef3e0798d6b"
+    "name": "Void Crew"
 }

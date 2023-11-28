@@ -1,11 +1,4 @@
 {
-    "description": "A space pixel SHMUP developed by Pixelnest Studio. The game hits Steam Early Access on May 18, 2015.",
-    "developers": [
-        {
-            "id": "521816795250950145",
-            "name": "Pixelnest Studio "
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "edcb9a05fb735ea8aff4ba9b27e3c0ed",
     "id": "504053684494401540",
-    "name": "Steredenn",
-    "publishers": [
-        {
-            "id": "521816795250950144",
-            "name": "Plug in Digital"
-        }
-    ],
-    "splash": "9ced7697b047186a6d04757f6c020764",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "347160",
-            "sku": "347160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e339668a8e0e3d42ba168933d0ad35490ef9701631c13c7254a11dd0801e6fa"
+    "name": "Steredenn"
 }

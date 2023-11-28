@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "57c38b0f9e6853941f29e5ac495d7d78",
     "id": "1124358993159143434",
-    "name": "UnMetal",
-    "publishers": [
-        {
-            "id": "524352734904844288",
-            "name": "@unepic_fran"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1203710",
-            "sku": "1203710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b5a02f351c1d5e4743d56a4a17bcecac8e023c5dd1d6378179b7727f5406898f"
+    "name": "UnMetal"
 }

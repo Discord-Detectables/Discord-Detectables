@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b58b6694ff148ff29fdfa83164c71372",
     "id": "1124353570301562880",
-    "name": "The Battle of Polytopia",
-    "publishers": [
-        {
-            "id": "524352980967882762",
-            "name": "Midjiwan AB"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "874390",
-            "sku": "874390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "adedd363b08f71924b9e3c1518eeea5b2a1ef2000912655877e5bb787a5af887"
+    "name": "The Battle of Polytopia"
 }

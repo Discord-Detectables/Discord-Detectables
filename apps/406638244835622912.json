@@ -2,13 +2,6 @@
     "aliases": [
         "Pokemon Trading Card Game Online"
     ],
-    "description": "Pokémon Trading Card Game Online is a downloadable/tablet card game with online multiplayer which replicates the physical trading card game.",
-    "developers": [
-        {
-            "id": "521816740712415233",
-            "name": "The Pokémon Company"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,24 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e55aad5da922feb0daedf9ff6123d7df",
     "id": "406638244835622912",
     "name": "Pokémon Trading Card Game Online",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816740712415233",
-            "name": "The Pokémon Company"
-        },
-        {
-            "id": "521816741156880398",
-            "name": "The Pokémon Company International"
-        }
-    ],
-    "splash": "d7be5ad94329e4a04f5e8fc70875d6cf",
-    "summary": "",
-    "type": 1,
-    "verify_key": "254cb0cafa5d44ece170b0c00b59e536d3e33f8800ecfea1efb49f968acf2025"
+    "overlay": true
 }

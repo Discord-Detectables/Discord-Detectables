@@ -1,11 +1,4 @@
 {
-    "description": "The sequel to Telltale Games's poker-crossover game, Poker Night at the Inventory, branching out into beloved characters who aren't even tangentially related to video games.",
-    "developers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c5657994bf03fde587f295e407a16a8b",
     "id": "461039002796032000",
-    "name": "Poker Night 2",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "splash": "babbce1c8925f1aee6b5fa71361dcb6f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "234710",
-            "sku": "234710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6ed18c8c919ac6da7521d522f27709c7179bad4bde9b8359aa5f4ee58901ce8"
+    "name": "Poker Night 2"
 }

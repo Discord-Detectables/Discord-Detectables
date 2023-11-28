@@ -1,51 +1,17 @@
 {
-    "cover_image": "2d2a1cd4e7b190e7729425c9b2ae82e0",
-    "description": "Trine 3: The Artifacts of Power",
-    "developers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "trine3_64bit.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "trine3_32bit.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "0c1ea7ebc1347e247cb8c8826d1b45d1",
-    "id": "489715273683697674",
-    "name": "Trine 3: The Artifacts of Power",
-    "primary_sku_id": "494710602921541634",
-    "publishers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
-    "slug": "trine-3-the-artifacts-of-power",
-    "splash": "82068258efa10444859856988eaab968",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "319910",
-            "sku": "319910"
         },
         {
-            "distributor": "discord",
-            "id": "494710602921541634",
-            "sku": "494710602921541634"
+            "is_launcher": false,
+            "name": "trine3_64bit.exe",
+            "os": "win32"
         }
     ],
-    "type": 1,
-    "verify_key": "aba5a712f2c2efa1005cf226ebb789043de0f7280f6261f756cb282b770027c5"
+    "hook": true,
+    "id": "489715273683697674",
+    "name": "Trine 3: The Artifacts of Power"
 }

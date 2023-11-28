@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a218cb9a6bba4aee67c7238562c16180",
     "id": "1124358538114912386",
-    "name": "Blood Bowl: Death Zone",
-    "publishers": [
-        {
-            "id": "521816537653444608",
-            "name": "Cyanide Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "602490",
-            "sku": "602490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a726b2830c754659b6da17154217b2f6922eb91346450c8b26528894a63fad73"
+    "name": "Blood Bowl: Death Zone"
 }

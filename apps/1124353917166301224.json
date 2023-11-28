@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f047239b6dd1adee80843bcb76e70c09",
     "id": "1124353917166301224",
-    "name": "NGU INDUSTRIES",
-    "publishers": [
-        {
-            "id": "1124352191830970540",
-            "name": "4G"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1433990",
-            "sku": "1433990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "039c64eb5696e16dd78c76ad04a6a7f4d513dc4ed22426c7794c12d65710a50b"
+    "name": "NGU INDUSTRIES"
 }

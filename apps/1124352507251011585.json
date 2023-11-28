@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3527a4b8c5069591423f752b2b80bde8",
     "id": "1124352507251011585",
-    "name": "Milk inside a bag of milk inside a bag of milk",
-    "publishers": [
-        {
-            "id": "1124352507737559110",
-            "name": "Nikita Kryukov"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1392820",
-            "sku": "1392820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78dadae00c6df616a61e8e991bbd5c8fadc64a2da959c478e36dc2c6fda81d79"
+    "name": "Milk inside a bag of milk inside a bag of milk"
 }

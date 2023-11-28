@@ -1,11 +1,4 @@
 {
-    "description": "A new Shadowrun CRPG by Harebrained Schemes partially funded through Kickstarter.",
-    "developers": [
-        {
-            "id": "521816521249521698",
-            "name": "Harebrained Schemes"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff9aa1bbc83effac4815483f3305e08a",
     "id": "387376045269057564",
-    "name": "Shadowrun: Hong Kong",
-    "publishers": [
-        {
-            "id": "521816521249521698",
-            "name": "Harebrained Schemes"
-        }
-    ],
-    "splash": "4615e01a3b9b0c799207ddfd098eb00d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "346940",
-            "sku": "346940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0a629527f631942a4e631a7bdcab4ed15d083c931fe7024644498ff27c370f62"
+    "name": "Shadowrun: Hong Kong"
 }

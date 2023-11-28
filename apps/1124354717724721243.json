@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6e4cf39d9332510cfe41fac32bd00044",
     "id": "1124354717724721243",
-    "name": "From the darkness",
-    "publishers": [
-        {
-            "id": "1124354717724721244",
-            "name": "N4bA"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1517340",
-            "sku": "1517340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b763321f9ce219417159878192dc0f8c1f52e4278f7ed7e6ba64e39b14bc150"
+    "name": "From the darkness"
 }

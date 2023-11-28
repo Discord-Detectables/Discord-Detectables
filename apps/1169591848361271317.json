@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a71976e8b5144f44ff9709b26eeadf12",
     "id": "1169591848361271317",
-    "name": "完蛋！我被美女包围了！",
-    "publishers": [
-        {
-            "id": "1169591850089336874",
-            "name": "intiny"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2322560",
-            "sku": "2322560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "17e41f270abd4bd0e8bdae0de7c323e3fb213e496b356fb80a807600d4c04006"
+    "name": "完蛋！我被美女包围了！"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "afdea6b3773fe73daa0dac08b6705c45",
     "id": "1124353110568095785",
-    "name": "Democracy 4",
-    "publishers": [
-        {
-            "id": "521816692079329280",
-            "name": "Positech Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1410710",
-            "sku": "1410710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bd4e0a129783813870e733afb60d0d27728dd3fe77ddeb7df71854a8d0de0da1"
+    "name": "Democracy 4"
 }

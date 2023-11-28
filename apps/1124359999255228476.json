@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb1165af8336aa915417ecb06e36cbd9",
     "id": "1124359999255228476",
-    "name": "Cheese Game",
-    "publishers": [
-        {
-            "id": "1124359999783718942",
-            "name": "Zach Hsu"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1992430",
-            "sku": "1992430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78d441fa542cb42c0f696fd0b2542c4afc358bbe0bf44e170f1df00fda391190"
+    "name": "Cheese Game"
 }

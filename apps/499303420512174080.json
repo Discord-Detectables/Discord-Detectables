@@ -1,11 +1,4 @@
 {
-    "description": "A hidden object game similar to Where's Waldo, but the world is animated.",
-    "developers": [
-        {
-            "id": "521816603210285068",
-            "name": "Adriaan de Jongh"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5778fbc92a5f8f9ae7bbe9aa6820cf47",
     "id": "499303420512174080",
-    "name": "Hidden Folks",
-    "publishers": [
-        {
-            "id": "521816603210285068",
-            "name": "Adriaan de Jongh"
-        }
-    ],
-    "splash": "d6ff18044cab0ad9afaed4c60b3297a2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "435400",
-            "sku": "435400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3223968e1da79867679bad51caab4efd58ed1c8682bdcb724a76e8d0393b4f2"
+    "name": "Hidden Folks"
 }

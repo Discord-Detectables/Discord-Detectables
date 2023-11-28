@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e4553ebb36712d4f83f83c03bcdf98cc",
     "id": "1124359255600939108",
-    "name": "Decay - The Mare",
-    "publishers": [
-        {
-            "id": "524352089011388433",
-            "name": "Shining Gate Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "323720",
-            "sku": "323720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e09bdecb318b61d7de73cdc97083ebf66a779400391b425239b840e6407c691"
+    "name": "Decay - The Mare"
 }

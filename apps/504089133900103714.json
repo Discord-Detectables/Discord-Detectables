@@ -1,11 +1,4 @@
 {
-    "description": "A Free 2 Play Gears of War-style game for PC.",
-    "developers": [
-        {
-            "id": "521816616028078096",
-            "name": "Epic Games China"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9cfb11762ffd856aaf65e1e88b9fcd1d",
     "id": "504089133900103714",
-    "name": "Zombies Monsters Robots",
-    "publishers": [
-        {
-            "id": "521816616028078094",
-            "name": "En Masse Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "306830",
-            "sku": "306830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8c975bc193babfd9fcf2647d24f65111510938cc927e4f0b01f48b5d15e4bb18"
+    "name": "Zombies Monsters Robots"
 }

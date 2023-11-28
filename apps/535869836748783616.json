@@ -2,56 +2,19 @@
     "aliases": [
         "Subnautica: Below Zero"
     ],
-    "description": "Dive into a freezing underwater adventure on an alien planet. Set one year after the original Subnautica, Below Zero challenges you to survive a disaster at an alien research station on Planet 4546B. Craft tools, scavenge for supplies, and unravel the next chapter in the Subnautica story.",
-    "developers": [
-        {
-            "id": "521816602728071191",
-            "name": "Unknown Worlds"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "subnauticazero.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "subnauticazero/subnauticazero.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "subnauticazero.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "85342800492634112",
     "hook": true,
-    "icon": "9deb9e8f286d689e7cb2f8bc33ae9297",
     "id": "535869836748783616",
-    "name": "Subnautica: Below Zero",
-    "primary_sku_id": "535869836748783616",
-    "publishers": [
-        {
-            "id": "521816602728071191",
-            "name": "Unknown Worlds"
-        },
-        {
-            "id": "608077209952976936",
-            "name": "Unknown Worlds Entertainment"
-        },
-        {
-            "id": "608077209952976936",
-            "name": "Unknown Worlds Entertainment"
-        }
-    ],
-    "slug": "subnautica-below-zero",
-    "splash": "3282b400f42e47808aea3bd505468f35",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "848450",
-            "sku": "848450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "745d115d0e98b3aa1688413b29ddbaf96b23b0347da1a75a93b7e722392ba84e"
+    "name": "Subnautica: Below Zero"
 }

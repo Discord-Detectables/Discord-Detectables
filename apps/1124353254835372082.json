@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a42a8884d6cc8612337c552d29e4eeb2",
     "id": "1124353254835372082",
-    "name": "Breathedge",
-    "publishers": [
-        {
-            "id": "1124353255326101596",
-            "name": "RedRuins Softworks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "738520",
-            "sku": "738520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3d6160b7c7d4ec699daf1d57ba59eb90e1d19319438206da79df507a3d54caa5"
+    "name": "Breathedge"
 }

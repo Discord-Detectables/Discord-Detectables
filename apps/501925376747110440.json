@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe533a4318a97d0d3269bc4dc2ddfd6e",
     "id": "501925376747110440",
-    "name": "Bigscreen Beta",
-    "publishers": [
-        {
-            "id": "521816772534337537",
-            "name": "Bigscreen, Inc."
-        }
-    ],
-    "splash": "da11d534da8a7278ce87fbb6457ea00f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "457550",
-            "sku": "457550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2b2d5bb3446d7e720011e8f03d169f768f0d14d0c77189edf949fb4033f519a3"
+    "name": "Bigscreen Beta"
 }

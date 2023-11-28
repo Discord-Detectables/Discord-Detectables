@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ae9252195001f5822e090dc3d59c4472",
     "id": "1124355760286093392",
-    "name": "Fights in Tight Spaces",
-    "publishers": [
-        {
-            "id": "524352467010453532",
-            "name": "Ground Shatter"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1265820",
-            "sku": "1265820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8108f8944f34b64a4af8d671ac8bb5923c3a7779fc9b61dba9f707d9731e7533"
+    "name": "Fights in Tight Spaces"
 }

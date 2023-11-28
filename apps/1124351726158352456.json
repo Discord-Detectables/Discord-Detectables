@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de76a09d6036a197651fa432c21883ef",
     "id": "1124351726158352456",
-    "name": "Inscryption",
-    "publishers": [
-        {
-            "id": "521816529453449248",
-            "name": "Daniel Mullins Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1092790",
-            "sku": "1092790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7ec8021b92664a2276b1ff3399b90d88098169e60a07fe9cc5921d757794ba70"
+    "name": "Inscryption"
 }

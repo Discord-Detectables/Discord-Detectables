@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fefbe01c5622b2df09e47cdaeb2f532b",
     "id": "1140480064899776542",
-    "name": "Cadria Item Shop",
-    "publishers": [
-        {
-            "id": "1140480065830932530",
-            "name": "Orange Cat Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "883860",
-            "sku": "883860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d03b6f175284b6226747075fda27f78bfde5b3a13f446dfc8802de1222e2a0fa"
+    "name": "Cadria Item Shop"
 }

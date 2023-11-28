@@ -2,9 +2,6 @@
     "aliases": [
         "Crossroads Inn Anniversary Edition"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ccdf6799cbb6255116497cd562ff551c",
     "id": "1129505574430720030",
-    "name": "Crossroads Inn",
-    "publishers": [
-        {
-            "id": "1129505575449927730",
-            "name": "Kraken Unleashed"
-        },
-        {
-            "id": "524352651559829508",
-            "name": "Klabater"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "867290",
-            "sku": "867290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "23d666e47f36d6a88346f0f3b4f0b375ba10d39161aad11921b5912577b5d6aa"
+    "name": "Crossroads Inn"
 }

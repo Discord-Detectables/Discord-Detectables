@@ -2,9 +2,6 @@
     "aliases": [
         "Home Design 3D"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "997704704d46f50951a08bec93650bfc",
     "id": "1129505121072594974",
-    "name": "Home Design 3D",
-    "publishers": [
-        {
-            "id": "524351672143839243",
-            "name": "Anuman Interactive"
-        },
-        {
-            "id": "1129505124188954806",
-            "name": "Anuman Interactive / Microids"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "420000",
-            "sku": "420000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2ac7e7e356d9f122af5a0eb9a73ceaece5a06ba270ace33529433e0c511bf0f1"
+    "name": "Home Design 3D"
 }

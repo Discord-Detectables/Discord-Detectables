@@ -1,29 +1,17 @@
 {
-    "description": "Rise of the Godslayer is a new expansion for the massively multiplayer online role playing Age Of Conan.\n\nIt will feature a new race called the Khitai, which is a Asian like race from the original Conan books, and also tons of new content for the lower levels around 20 ",
-    "developers": [
-        {
-            "id": "521816542258790405",
-            "name": "Funcom Productions A/S"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "ageofconandx10.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "ageofconan.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "ageofconandx10.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "24699459598d9dda3b5f900817fded92",
     "id": "496525141467987991",
-    "name": "Age of Conan",
-    "summary": "",
-    "type": 1,
-    "verify_key": "fcabee0c2cdac40b61c7f5d8a7e7835867b3cc35b3bc1a1b3c73a61d3ce8f9cb"
+    "name": "Age of Conan"
 }

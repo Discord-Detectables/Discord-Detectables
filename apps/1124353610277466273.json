@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "50f26ad2ff98329aead26ba3dce64bc7",
     "id": "1124353610277466273",
-    "name": "Sudden Strike 4",
-    "publishers": [
-        {
-            "id": "524352655884156930",
-            "name": "Kite Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "373930",
-            "sku": "373930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c0fab72ccf2c67eaf252c844f2f52ce31a699b62fd05536b9be9477700325488"
+    "name": "Sudden Strike 4"
 }

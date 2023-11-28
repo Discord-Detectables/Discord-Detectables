@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f4538cd507529eb94f5fa5e2d176ee57",
     "id": "1124354477718253670",
-    "name": "Clatter",
-    "publishers": [
-        {
-            "id": "521816535304503316",
-            "name": "Facepunch Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "602770",
-            "sku": "602770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "26d47eb916e1fb163449390d60dfbc980da5c6fa08d71edbb393186620a43e12"
+    "name": "Clatter"
 }

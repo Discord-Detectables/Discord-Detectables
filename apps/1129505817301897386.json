@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fbe495e1d0fbf2d5de523aed0c61fada",
     "id": "1129505817301897386",
-    "name": "Ozymandias",
-    "publishers": [
-        {
-            "id": "524352553593602055",
-            "name": "The Secret Games Company"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1768280",
-            "sku": "1768280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "691c728918bddf7c90af828da8f12302b583b4e934b16a118ff6cf09f522fd08"
+    "name": "Ozymandias"
 }

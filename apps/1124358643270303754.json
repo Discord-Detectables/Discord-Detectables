@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f26e134ce5b6d2a2d568b172463a7489",
     "id": "1124358643270303754",
-    "name": "YOU DON'T KNOW JACK Vol. 1 XL",
-    "publishers": [
-        {
-            "id": "1124351743136903320",
-            "name": "Jackbox Games, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "252730",
-            "sku": "252730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "781d723c7d60ab4e7b063d594e51eee1f4f8c733cf86a3e745a8f2ea7f28918e"
+    "name": "YOU DON'T KNOW JACK Vol. 1 XL"
 }

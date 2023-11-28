@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "204e310e07f6d64f18b809bf35670fed",
     "id": "1124356433291522128",
-    "name": "Wytchwood",
-    "publishers": [
-        {
-            "id": "521816723729416212",
-            "name": "Alientrap"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "729000",
-            "sku": "729000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ff9c3f698669f65d82c3fd124e1a22fb07951c7b056ce565ce828a031ccd0c84"
+    "name": "Wytchwood"
 }

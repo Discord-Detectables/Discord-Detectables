@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4a52a37a5aaffac330be5b2ebb22c1e",
     "id": "1124360685883768882",
-    "name": "Hunt Down The Freeman",
-    "publishers": [
-        {
-            "id": "1124360686466773044",
-            "name": "Royal Rudius Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "723390",
-            "sku": "723390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ccbb2fbe2140fea42db4d20299da617974c16e2d24ab13e9529d51d5b90aa6be"
+    "name": "Hunt Down The Freeman"
 }

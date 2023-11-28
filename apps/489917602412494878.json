@@ -1,15 +1,8 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816677625757710",
-            "name": "Looking Glass Studios, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "shock2.exe",
+            "name": "ss2/ss2.exe",
             "os": "win32"
         },
         {
@@ -19,38 +12,11 @@
         },
         {
             "is_launcher": false,
-            "name": "ss2/ss2.exe",
+            "name": "shock2.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "190583485826727936",
     "hook": true,
-    "icon": "4622074d010e22733aeb23c917731cec",
     "id": "489917602412494878",
-    "name": "System Shock 2",
-    "primary_sku_id": "491326980407427082",
-    "publishers": [
-        {
-            "id": "523186062672134155",
-            "name": "Night Dive Studios"
-        }
-    ],
-    "slug": "system-shock-2",
-    "splash": "fd3d7bbd1c84de2362f8d26247a90cd6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "238210",
-            "sku": "238210"
-        },
-        {
-            "distributor": "discord",
-            "id": "491326980407427082",
-            "sku": "491326980407427082"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b43ffca157220e056ed3b324686edf33e44de1534f839194425fdb9bac2b865a"
+    "name": "System Shock 2"
 }

@@ -2,9 +2,6 @@
     "aliases": [
         "夜廻"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fd1529dd70a474eff7ac3a8d840e8be4",
     "id": "1129505243265257552",
-    "name": "Yomawari: Night Alone",
-    "publishers": [
-        {
-            "id": "521816533270396929",
-            "name": "Nippon Ichi Software, Inc."
-        },
-        {
-            "id": "521816533270396929",
-            "name": "Nippon Ichi Software, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "477870",
-            "sku": "477870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd2cf9038459c6cc702e8fb5f1b55e658483673d4af8011379491e7c5ba7745a"
+    "name": "Yomawari: Night Alone"
 }

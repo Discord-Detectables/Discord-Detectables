@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "071779f3567ca8342f1b5c1a7969cc2d",
     "id": "1124358952008822884",
-    "name": "Varenje",
-    "publishers": [
-        {
-            "id": "1124358952495370291",
-            "name": "Play Cute"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "460060",
-            "sku": "460060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "20ed39a055ba4c173acc170329372f36aab4d12e9d5d1f418ceadea855cf1f8d"
+    "name": "Varenje"
 }

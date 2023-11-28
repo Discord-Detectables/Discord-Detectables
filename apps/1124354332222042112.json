@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8e5952418ed04a3ba07a743e688ca954",
     "id": "1124354332222042112",
-    "name": "Warpips",
-    "publishers": [
-        {
-            "id": "1124354332750532709",
-            "name": "Skirmish Mode Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1291010",
-            "sku": "1291010"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6792438dd2737006d0fcd75f8e87d71fecc600da258b8bf8debf83689354a287"
+    "name": "Warpips"
 }

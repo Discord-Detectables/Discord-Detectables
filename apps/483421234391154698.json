@@ -1,11 +1,4 @@
 {
-    "description": "Team up with friends and form a Combat Squad to take down the legendary Destroyer; a monstrous creature from another time. Explore randomly generated worlds, gather rare pieces of loot, and forge epic gear! Roguelands features 16 unique classes and over 45 Races, Augments, and Uniforms for players to create their ultimate Galactic Cadet!",
-    "developers": [
-        {
-            "id": "521816574949326848",
-            "name": "SmashGames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8de6e3c4303fa1de6d8de6d112b61927",
     "id": "483421234391154698",
-    "name": "Roguelands",
-    "publishers": [
-        {
-            "id": "521816574949326848",
-            "name": "SmashGames"
-        }
-    ],
-    "splash": "ad65bdc40985df0d03391a28a5f08afd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "364420",
-            "sku": "364420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e75a0c1034fae064ba81f0abad93e77fd676be79c7545adcca3eba3f59dba2ce"
+    "name": "Roguelands"
 }

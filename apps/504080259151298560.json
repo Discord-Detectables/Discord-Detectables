@@ -1,11 +1,4 @@
 {
-    "description": "The third game in the Tomb Raider series. Lara travels the world to find four meteorite stones.",
-    "developers": [
-        {
-            "id": "521816511178997818",
-            "name": "Core Design Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16455cc2edfca9ef9fadc2b1d2b9e6cc",
     "id": "504080259151298560",
-    "name": "Tomb Raider III: Adventures of Lara Croft",
-    "publishers": [
-        {
-            "id": "521816609518518283",
-            "name": "Sold Out Sales & Marketing Ltd."
-        }
-    ],
-    "splash": "24f09b3f107d5f224dfc962df490ac17",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "225320",
-            "sku": "225320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a1a4dcba4db325b6061cac31922c014129c861d3fef773ad6ab369b76db4ea12"
+    "name": "Tomb Raider III: Adventures of Lara Croft"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "EA's long-running soccer franchise returns for yet another year.",
-    "developers": [
-        {
-            "id": "521816499950714880",
-            "name": "EA Canada"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "21867e9e39ac4a727bf43046e8a88741",
     "id": "489854965787918376",
-    "name": "FIFA 16",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd776944b28126caea8f99a1fc59149801e5cf20247f3aff3c7d0e25156a8b2f"
+    "name": "FIFA 16"
 }

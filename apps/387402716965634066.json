@@ -1,11 +1,4 @@
 {
-    "description": "A third-person, squad-based, tactical game that recounts humanity's first contact with aliens during the Cold War in the 1960s, and the subsequent founding of the XCOM organization.",
-    "developers": [
-        {
-            "id": "521816696345067520",
-            "name": "2K Marin"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "891baf3ef733d816b4d3fd65d45084bf",
     "id": "387402716965634066",
-    "name": "The Bureau: XCOM Declassified",
-    "publishers": [
-        {
-            "id": "521816696345067520",
-            "name": "2K Marin"
-        },
-        {
-            "id": "521816504392482816",
-            "name": "2K Games"
-        }
-    ],
-    "splash": "e5fc9793b6ff96b97df6b0d7b0a3eed3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "65930",
-            "sku": "65930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "64db33bc10e17dd7d6133d73be4fe0ccca2d4150db2129f3ed98757cca4bcccc"
+    "name": "The Bureau: XCOM Declassified"
 }

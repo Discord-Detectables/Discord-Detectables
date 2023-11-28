@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "91daf45eac6c7512f078150f5794d02d",
     "id": "1124355342915092540",
-    "name": "Fap Goddess",
-    "publishers": [
-        {
-            "id": "1124355343372267590",
-            "name": "Funfia"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2060080",
-            "sku": "2060080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "469fa32df4ff5bdcad85e4510922db2447dec0a451d12e1ab7b88e929b758f0c"
+    "name": "Fap Goddess"
 }

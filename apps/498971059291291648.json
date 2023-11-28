@@ -2,13 +2,6 @@
     "aliases": [
         "Naruto Shippuden Ultimate Ninja Storm Revolution"
     ],
-    "description": "The Fourth Shinobi World War continues in the fifth installment of the Ultimate Ninja Storm series.",
-    "developers": [
-        {
-            "id": "521816579797811203",
-            "name": "CyberConnect2 Co., Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,30 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d5af7ef389897f91d824968d6213753a",
     "id": "498971059291291648",
-    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
-    "publishers": [
-        {
-            "id": "521816537653444610",
-            "name": "Bandai Namco Entertainment"
-        },
-        {
-            "id": "521816579797811203",
-            "name": "CyberConnect2 Co., Ltd."
-        }
-    ],
-    "splash": "756df7f83b1acc1a75a372cf3f945f39",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "272510",
-            "sku": "272510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a5a584ca2464b359c6f82cf2df29385743c2838fc310db11b3ccf703b7d9776"
+    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
 }

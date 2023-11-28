@@ -3,13 +3,6 @@
         "Batman Arkham Knight",
         "Batman™: Arkham Knight"
     ],
-    "description": "Arkham Knight, developer Rocksteady's return to the Batman series, takes place one year after Arkham City. It promises to expand the open world from the previous game, allowing players to drive the Batmobile through Gotham City's streets.",
-    "developers": [
-        {
-            "id": "521816538664402945",
-            "name": "Rocksteady Studios Ltd"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,30 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fa4ffa6c3b2d3a1d5955338c0b749473",
     "id": "425437076188561408",
-    "name": "Batman: Arkham Knight",
-    "publishers": [
-        {
-            "id": "521816538664402944",
-            "name": "Rocksteady Studios"
-        },
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "920a36188be4eef53469011b0dcf8071",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "208650",
-            "sku": "208650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "610742e8ca9746731414b2f61c40cd1898573587b88b15cb31a269c2323e083c"
+    "name": "Batman: Arkham Knight"
 }

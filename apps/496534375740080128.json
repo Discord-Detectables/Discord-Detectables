@@ -1,11 +1,4 @@
 {
-    "description": "The follow-up to the legendary cult classic that no one was expecting.",
-    "developers": [
-        {
-            "id": "521816762904477707",
-            "name": "Invent 4 Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f069fdf9c3ec55f1b3e0f29e438d58c6",
     "id": "496534375740080128",
-    "name": "Bad Rats",
-    "publishers": [
-        {
-            "id": "521816762472202252",
-            "name": "Invent4 Entertainment"
-        },
-        {
-            "id": "521816762904477706",
-            "name": "Strategy First, Inc."
-        }
-    ],
-    "splash": "e14b6a5d7515582c77f0fd603ed857b6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "34900",
-            "sku": "34900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f17c9a3ed8e7c9bfb000430b54abfcb66fd0947a8777fbb4e9a96347e8e98ea5"
+    "name": "Bad Rats"
 }

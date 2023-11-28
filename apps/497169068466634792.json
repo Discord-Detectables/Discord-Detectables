@@ -1,11 +1,4 @@
 {
-    "description": "How to Survive is an isometric zombie survival game with hunger mechanics, RPG stat mechanics, crafting and multiple playable characters along with local and online multiplayer options.",
-    "developers": [
-        {
-            "id": "521816670004576266",
-            "name": "Eko Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "619e0c2ce90e1f0ce7909b3abb469047",
     "id": "497169068466634792",
-    "name": "How to Survive",
-    "publishers": [
-        {
-            "id": "521816570520141824",
-            "name": "505 Games"
-        }
-    ],
-    "splash": "8851c9bd2a84fb2403be2ec513b6fad9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250400",
-            "sku": "250400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5e8d77f0aed177c6609c2c841221281330ec03614a4df2916366745d8de7380"
+    "name": "How to Survive"
 }

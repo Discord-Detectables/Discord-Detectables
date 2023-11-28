@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d7d787898232f322054907463919314",
     "id": "1124355860760637641",
-    "name": "Hellblade: Senua's Sacrifice VR Edition",
-    "publishers": [
-        {
-            "id": "521816785801052162",
-            "name": "Ninja Theory"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "747350",
-            "sku": "747350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e15370327ccb6673af1e1581870e9412d14986f2c178bd47aba5b21b3c5df7d9"
+    "name": "Hellblade: Senua's Sacrifice VR Edition"
 }

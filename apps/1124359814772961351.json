@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "155242fcef31c8668f86362618f9d2ec",
     "id": "1124359814772961351",
-    "name": "ASTLIBRA ～生きた証～ Revision",
-    "publishers": [
-        {
-            "id": "1124359815213371392",
-            "name": "KEIZO"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1718570",
-            "sku": "1718570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "05ad71e5342cf9f8d5846c0779d2f9ae1d88439e3e9984da16f177d9d300ccfd"
+    "name": "ASTLIBRA ～生きた証～ Revision"
 }

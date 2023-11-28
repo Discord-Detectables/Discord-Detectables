@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1b68008bd893a6e7517e4b4d67a473a3",
     "id": "1124360499774111926",
-    "name": "Genesis Noir",
-    "publishers": [
-        {
-            "id": "524353185750712343",
-            "name": "Feral Cat Den"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "735290",
-            "sku": "735290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a17a2f99de776960200622873cfae4dcdb3a3bf35147ea10fd94532c31f94431"
+    "name": "Genesis Noir"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e59b0d3b4e4b9ed3b080e0cce89849cd",
     "id": "1124353415221366906",
-    "name": "The Greatest Penguin Heist of All Time",
-    "publishers": [
-        {
-            "id": "1124353415674347650",
-            "name": "That Fish"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1451480",
-            "sku": "1451480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "efe1511dcaab20625bbb65b67a591c2bb5149d3b08b1ca00012efe5698f5a2d5"
+    "name": "The Greatest Penguin Heist of All Time"
 }

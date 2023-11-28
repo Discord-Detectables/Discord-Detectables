@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c9deef15bc6b3170090cadc04079af02",
     "id": "1124359296998723624",
-    "name": "ACTION SANDBOX",
-    "publishers": [
-        {
-            "id": "1124359297506230465",
-            "name": "Vona Soft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1381650",
-            "sku": "1381650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "84ec774e86651f1fb8e78acf647a4200c9c16f464e6ec0824ca36628074b9b16"
+    "name": "ACTION SANDBOX"
 }

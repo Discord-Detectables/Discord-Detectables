@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48132bdbcb3dc79c34167ab46b34bd00",
     "id": "1124359409678696538",
-    "name": "Faefever",
-    "publishers": [
-        {
-            "id": "1124359410131677205",
-            "name": "Monkey Wizard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1276550",
-            "sku": "1276550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a513aac8fc8e50ee0f82990c54f2f3ab97c82dcfe032f45858782f4077ec704"
+    "name": "Faefever"
 }

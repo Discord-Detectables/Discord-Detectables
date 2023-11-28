@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "87b9830968f7e2ff3bede8fed5b13d24",
     "id": "1124355130486173886",
-    "name": "Material Girl",
-    "publishers": [
-        {
-            "id": "524352852936753165",
-            "name": "dieselmine"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "644570",
-            "sku": "644570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "734511588a4c14696c0749a0260fd14114395777992f3ca96ff621635a6afd1c"
+    "name": "Material Girl"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Oni"
     ],
-    "description": "A heavily anime-inspired third person action game, Oni attempts to blend gun play and traditional brawler gameplay together.",
-    "developers": [
-        {
-            "id": "521816529453449247",
-            "name": "Bungie"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a92fddb2f2b4649fed931fe98d9eb7cc",
     "id": "498979842277113857",
-    "name": "ONI",
-    "publishers": [
-        {
-            "id": "521816529453449246",
-            "name": "Take-Two Interactive Software, Inc."
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "ddd38a86961963977093e409d83e19fa58f4ddf61b6d155288502dff019505b2"
+    "name": "ONI"
 }

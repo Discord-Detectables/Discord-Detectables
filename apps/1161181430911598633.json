@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f631e10d82999f40c3fec8c3958498c5",
     "id": "1161181430911598633",
-    "name": "Forza Motorsport",
-    "publishers": [
-        {
-            "id": "1161181432237002752",
-            "name": "Turn 10"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2440510",
-            "sku": "2440510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c9b94596e05c99443c61739035e1483650fd44122bd007804e05203af0b63dec"
+    "name": "Forza Motorsport"
 }

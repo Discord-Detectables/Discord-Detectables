@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "200233fbb0103f16870f8d5d8004fd89",
     "id": "1124358688619118652",
-    "name": "Immortals Fenyx Rising",
-    "publishers": [
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "5405",
-            "sku": "5405"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fbe3a08f71b01e9acea0cd5898bfaee1a249ebd0f8eb3ee384007abc8a73ef9b"
+    "name": "Immortals Fenyx Rising"
 }

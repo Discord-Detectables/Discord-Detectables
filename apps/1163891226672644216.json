@@ -2,9 +2,6 @@
     "aliases": [
         "Homeworld Remastered Collection"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d2bf3ea1dc08c761ea8c5cef632e75f5",
     "id": "1163891226672644216",
-    "name": "Homeworld Remastered Collection",
-    "publishers": [
-        {
-            "id": "521816503960600578",
-            "name": "Gearbox Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "244160",
-            "sku": "244160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "10e6e5622b33b6e03ceef69ff1635c4a43684d98ab29426a9d7d03713cd9c2ab"
+    "name": "Homeworld Remastered Collection"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3236bce8fe85a37ea5722b5d2f82f8fd",
     "id": "1124359935266934804",
-    "name": "Wolf Tails",
-    "publishers": [
-        {
-            "id": "524352529379885060",
-            "name": "Razzart Visual"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "822930",
-            "sku": "822930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bd2eef9dbd6e51926d2235dc58eebeaa4cc89299836803ce4c0e0e2bb9a94e9e"
+    "name": "Wolf Tails"
 }

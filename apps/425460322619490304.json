@@ -2,13 +2,6 @@
     "aliases": [
         "LEGO Batman 2"
     ],
-    "description": "Sequel to 2008's LEGO Batman, Batman and Robin are forced to work together alongside the likes of Superman, Wonder Woman and Green Lantern to help stop the combined tyranny of Lex Luthor and The Joker.",
-    "developers": [
-        {
-            "id": "521816611506880523",
-            "name": "TT Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2bd8897c6aff6487deb9feedf50d9bab",
     "id": "425460322619490304",
-    "name": "LEGO® Batman 2 DC Super Heroes™",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "48dd5f5d10b53c02889390983f9c3200",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "213330",
-            "sku": "213330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd4d6ed4d968db41d8f537131efc4b07c923eaf53f65ae9a7dd5b9b8e53998f6"
+    "name": "LEGO® Batman 2 DC Super Heroes™"
 }

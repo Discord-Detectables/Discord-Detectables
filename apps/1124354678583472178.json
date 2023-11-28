@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0f9eda84094c1a4949c159c22c63fb38",
     "id": "1124354678583472178",
-    "name": "The Good Time Garden",
-    "publishers": [
-        {
-            "id": "1124354679078408212",
-            "name": "Coal Supper"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1200860",
-            "sku": "1200860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "63a692a767ee522da271021aee7b7a60cd7f700a0403f2e622641d6f0b21c461"
+    "name": "The Good Time Garden"
 }

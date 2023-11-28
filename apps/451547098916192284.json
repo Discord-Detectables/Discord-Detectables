@@ -1,11 +1,4 @@
 {
-    "description": "Heroes of Newerth is a free-to-play, stand alone MOBA-game developed by S2 Games.",
-    "developers": [
-        {
-            "id": "521816592674193435",
-            "name": "S2 Games, LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,22 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fef7b4a27491e2e7c1cd3f5ef930d0c8",
     "id": "451547098916192284",
-    "name": "Heroes of Newerth",
-    "publishers": [
-        {
-            "id": "521816592208756749",
-            "name": "S2 Games"
-        },
-        {
-            "id": "521816592674193435",
-            "name": "S2 Games, LLC"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "6dbce3dc88ee6a5d11049d22d8f38d128c85efd04015590ec4be0f1077fe2325"
+    "name": "Heroes of Newerth"
 }

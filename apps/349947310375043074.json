@@ -1,12 +1,4 @@
 {
-    "cover_image": "b3de09c6c10ca5ab66e2194d79f69d65",
-    "description": "Foxhole Description",
-    "developers": [
-        {
-            "id": "521816637481943060",
-            "name": "Clapfoot"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "203512636556574720",
     "hook": true,
-    "icon": "c75f0c7134eae454ddcfa8c4f46950fa",
     "id": "349947310375043074",
-    "name": "Foxhole",
-    "publishers": [
-        {
-            "id": "521816637481943060",
-            "name": "Clapfoot"
-        }
-    ],
-    "splash": "e2d0790389db1ec362866f83f1165baf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "505460",
-            "sku": "505460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b012e6a2d12cd38549430aa953b90b711a0481f493fac0d311a4a5c5abf6fc93"
+    "name": "Foxhole"
 }

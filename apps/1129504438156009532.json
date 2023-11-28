@@ -3,9 +3,6 @@
         "ONE PIECE海賊無雙4",
         "원피스 해적무쌍 4"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "acd594d2b9d68114cf0f78c0487d6fa8",
     "id": "1129504438156009532",
-    "name": "ONE PIECE: PIRATE WARRIORS 4",
-    "publishers": [
-        {
-            "id": "521816634562969632",
-            "name": "Koei Tecmo"
-        },
-        {
-            "id": "521816634562969632",
-            "name": "Koei Tecmo"
-        },
-        {
-            "id": "521816634562969632",
-            "name": "Koei Tecmo"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1089090",
-            "sku": "1089090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "be2afad6f39a744bd4477dc14c232b0246ef5494cc2edcc9d9afbede42beacc5"
+    "name": "ONE PIECE: PIRATE WARRIORS 4"
 }

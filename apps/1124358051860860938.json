@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e58ff1597dfbc458c21bf0564a4f20c7",
     "id": "1124358051860860938",
-    "name": "Wonder Boy: The Dragon's Trap",
-    "publishers": [
-        {
-            "id": "524352577156939780",
-            "name": "Lizardcube"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "543260",
-            "sku": "543260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "81101e802343377c6a7e13694665faa857c74db4cbfc7aabea0619f92766a55e"
+    "name": "Wonder Boy: The Dragon's Trap"
 }

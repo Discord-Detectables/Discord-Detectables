@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816705295712277",
-            "name": "Triumph Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec745c18a34ac81de3474fa336ca7219",
     "id": "468606521433915404",
-    "name": "Age of Wonders III",
-    "primary_sku_id": "491730373101748225",
-    "publishers": [
-        {
-            "id": "521816558092156949",
-            "name": "EuroVideo Medien GmbH"
-        }
-    ],
-    "slug": "age-of-wonders-iii",
-    "splash": "cc39727430d1e353763058d666ad92d0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "226840",
-            "sku": "226840"
-        },
-        {
-            "distributor": "discord",
-            "id": "491730373101748225",
-            "sku": "491730373101748225"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8b5c4437b95e62187c767c24ed93444810ab1a17136bae33f275041e4644c1eb"
+    "name": "Age of Wonders III"
 }

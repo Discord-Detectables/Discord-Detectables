@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "491d9f9686579218f7d679d5f4698019",
     "id": "1124359090257285211",
-    "name": "WWE 2K16",
-    "publishers": [
-        {
-            "id": "521816587586633731",
-            "name": "Visual Concepts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "385730",
-            "sku": "385730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b082ceff3583143c604316ab6eccc5ea55e0c462737c23202381fd85507e4109"
+    "name": "WWE 2K16"
 }

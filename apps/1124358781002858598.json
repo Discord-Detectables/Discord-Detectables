@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "faa7c5239c9aea33e40a7232ecdc27f7",
     "id": "1124358781002858598",
-    "name": "Night in Riverager",
-    "publishers": [
-        {
-            "id": "1124352552692101201",
-            "name": "Two Star Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1500380",
-            "sku": "1500380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "318a855fe594b6a7b8733b340c2e6255f79b59c14401228266d7045bbfb428ce"
+    "name": "Night in Riverager"
 }

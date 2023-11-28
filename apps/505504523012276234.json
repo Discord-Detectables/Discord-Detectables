@@ -2,7 +2,6 @@
     "aliases": [
         "The Simpsons: Hit & Run"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,12 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea66f1dcac92cea0a7eca8ad88a2c0f8",
     "id": "505504523012276234",
-    "name": "The Simpsons Hit & Run(TM)",
-    "summary": "",
-    "type": 1,
-    "verify_key": "8cae49976de66ffebe9e4accc563ddf2db7ac6cd3129a333f3bb2c772461aaf5"
+    "name": "The Simpsons Hit & Run(TM)"
 }

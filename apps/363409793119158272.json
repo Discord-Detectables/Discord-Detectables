@@ -2,13 +2,6 @@
     "aliases": [
         "Starcraft"
     ],
-    "description": "StarCraft has been called the greatest real-time strategy game ever and it's certainly one of the most critically acclaimed. StarCraft features three powerful, yet balanced races: the Terrans, the Zerg, and the Protoss. You play as each race fights to the death for the fate of the universe.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,27 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "efc4c8eb5688c64647be477d7468d13d",
     "id": "363409793119158272",
     "name": "StarCraft",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "splash": "97daa5da944a194a82515b3c5138307b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "9799d2e7a32e0101a4aa1277ae4de52b31c83671be3144a021da26db4bb46688"
+    "overlay": true
 }

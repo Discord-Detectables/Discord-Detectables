@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a352258c01aca3ba3430b3baf504f334",
     "id": "1124356027664580668",
-    "name": "Dreamscaper: Prologue",
-    "publishers": [
-        {
-            "id": "1124356028113367081",
-            "name": "Afterburner Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1253950",
-            "sku": "1253950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "843c1b09c2bf8e5f7b3bd24801ed6c4c5c4c2ce876e96ad3d608c45a35a804ae"
+    "name": "Dreamscaper: Prologue"
 }

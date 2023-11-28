@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4b9ead548311111a90d4eafcaec310a",
     "id": "1124359342821494854",
-    "name": "M.A.R.S.",
-    "publishers": [
-        {
-            "id": "1124359343362555914",
-            "name": "YingPei Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "314430",
-            "sku": "314430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd1d44b91951879ed9e270d20c7478a23f533c596f991f958bbdfa92ba30c8d9"
+    "name": "M.A.R.S."
 }

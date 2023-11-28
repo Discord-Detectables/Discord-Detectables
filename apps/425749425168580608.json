@@ -1,5 +1,4 @@
 {
-    "description": "Alien Swarm: Reactive Drop was a mod for Alien Swarm, but is now a full game.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b4f4a3c974afa2663c867ee1ceab4c7f",
     "id": "425749425168580608",
-    "name": "Alien Swarm: Reactive Drop",
-    "publishers": [
-        {
-            "id": "521816500508819468",
-            "name": "Reactive Drop Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "563560",
-            "sku": "563560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc07646cbf74386c74b566106b9f6b992a240b04eee84e70725e445cf0664d17"
+    "name": "Alien Swarm: Reactive Drop"
 }

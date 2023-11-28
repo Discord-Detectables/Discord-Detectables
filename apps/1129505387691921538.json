@@ -2,9 +2,6 @@
     "aliases": [
         "怠惰的怪獸公主不想工作"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0b269db2be3b0167d74e90ef2ff90669",
     "id": "1129505387691921538",
-    "name": "Kaiju Princess",
-    "publishers": [
-        {
-            "id": "1129505389717766336",
-            "name": "PantyParrot"
-        },
-        {
-            "id": "1129505389717766336",
-            "name": "PantyParrot"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1732180",
-            "sku": "1732180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f0eb807c884d0b3ddd05415f71800199bc5e9dc06bb6f6309a1ec99eaa608ac2"
+    "name": "Kaiju Princess"
 }

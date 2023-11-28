@@ -2,45 +2,19 @@
     "aliases": [
         "Command and Conquer Red Alert 3"
     ],
-    "description": "Turn back the clock yet again in EALA's third installment of the popular alternate-historical RTS, Command &amp; Conquer: Red Alert 3.",
-    "developers": [
-        {
-            "id": "521816605223813131",
-            "name": "EA Los Angeles"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "command and conquer red alert 3/ra3.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "ra3ep1.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "command and conquer red alert 3/ra3.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e8ae0faeb78547c74d9fea73efb30263",
     "id": "470958640031989761",
-    "name": "Command and Conquer: Red Alert 3",
-    "publishers": [
-        {
-            "id": "521816538202767363",
-            "name": "EA Games"
-        }
-    ],
-    "splash": "d6a9f68f5441170a0280bf47258334c9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "17480",
-            "sku": "17480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b83c61037d3acd70060817b9ad46279d866d8fd6781ce8b8d54804afbd60d57"
+    "name": "Command and Conquer: Red Alert 3"
 }

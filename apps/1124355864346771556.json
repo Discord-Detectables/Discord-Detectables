@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3ffef61cf0fafd7d405ea3554c7a217b",
     "id": "1124355864346771556",
-    "name": "If My Heart Had Wings",
-    "publishers": [
-        {
-            "id": "521816612626497537",
-            "name": "MoeNovel"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "326480",
-            "sku": "326480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "687ea2bd273ba6c0c6da4917d17c74108f7074692f6829a25a3728fe16065fb7"
+    "name": "If My Heart Had Wings"
 }

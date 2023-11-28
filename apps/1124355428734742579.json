@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "650b231df0eff9791e5bba979f20577f",
     "id": "1124355428734742579",
-    "name": "ANOTHER EDEN",
-    "publishers": [
-        {
-            "id": "1124355429187735694",
-            "name": "WFS, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1252600",
-            "sku": "1252600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4e330e58ef2c8bfaf75035fdbcc63889279c74f4f80a37565d7c0bfbe8a249e3"
+    "name": "ANOTHER EDEN"
 }

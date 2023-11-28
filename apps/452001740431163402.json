@@ -1,12 +1,4 @@
 {
-    "cover_image": "43c166619fb813b8683d6a44ab6a1aed",
-    "description": "SpellForce 3 - The perfect blend between RTS and RPG!",
-    "developers": [
-        {
-            "id": "521816579797811200",
-            "name": "Grimlore Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "309836623594520576",
     "hook": true,
-    "icon": "0d3ae82258c1b53c7bd33c805431b76d",
     "id": "452001740431163402",
-    "name": "SpellForce 3",
-    "primary_sku_id": "471033395590201365",
-    "publishers": [
-        {
-            "id": "521816508167487498",
-            "name": "THQ Nordic"
-        }
-    ],
-    "slug": "spellforce-3",
-    "splash": "3311f8e4a398b0fcceb221d3296df688",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "471033395590201365",
-            "sku": "471033395590201365"
-        },
-        {
-            "distributor": "steam",
-            "id": "311290",
-            "sku": "311290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5958b272f91513abf3adab8925aa483d507ee790efbd24e1314e486051597fc7"
+    "name": "SpellForce 3"
 }

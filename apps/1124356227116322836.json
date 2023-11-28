@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7ed226f884706b97b6c7a6122a2ddde",
     "id": "1124356227116322836",
-    "name": "NEOVERSE",
-    "publishers": [
-        {
-            "id": "1124356227607052429",
-            "name": "Tinogames Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "994220",
-            "sku": "994220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e6adf3501e7e648fe2781ddf77954cad54f0f76934cc9f93f349c8e47e2b8826"
+    "name": "NEOVERSE"
 }

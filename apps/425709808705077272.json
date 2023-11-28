@@ -2,7 +2,6 @@
     "aliases": [
         "Neighbours from Hell"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "07c385afa1220cc512569dc3a4fa0360",
     "id": "425709808705077272",
-    "name": "Neighbours From Hell Compilation",
-    "publishers": [
-        {
-            "id": "521816710106447872",
-            "name": "JoWooD Vienna"
-        }
-    ],
-    "splash": "56cef6034988751d8207a7fe9ce5da08",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "260750",
-            "sku": "260750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "83b0dea3bb3191feee82ddf00463c738606038100a4638436fead8e0ecf01986"
+    "name": "Neighbours From Hell Compilation"
 }

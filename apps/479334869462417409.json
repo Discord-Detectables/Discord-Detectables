@@ -1,43 +1,17 @@
 {
-    "description": "Fallout 2 is the sequel to the critically acclaimed post-apocalyptic RPG.",
-    "developers": [
-        {
-            "id": "521816563456802817",
-            "name": "Black Isle Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "fallout2.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "fallout2hr.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "fallout2.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "55e58458e5eb4250cc6a1c59634d4d02",
     "id": "479334869462417409",
-    "name": "Fallout 2",
-    "publishers": [
-        {
-            "id": "521816563024920612",
-            "name": "Interplay Entertainment Corp."
-        }
-    ],
-    "splash": "591c5e12f01b7ea0c7b36c04adb802c4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "38410",
-            "sku": "38410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "206e58461b97571cad30cb9eecf5242f898e07c9cff822a7b24cbaf0c90ef677"
+    "name": "Fallout 2"
 }

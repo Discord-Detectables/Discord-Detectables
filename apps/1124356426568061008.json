@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0cfa790c245f5e00c477c2884cea639f",
     "id": "1124356426568061008",
-    "name": "Species: Artificial Life, Real Evolution",
-    "publishers": [
-        {
-            "id": "1124356426568061009",
-            "name": "Quasar"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "774541",
-            "sku": "774541"
-        }
-    ],
-    "type": 1,
-    "verify_key": "06b266bb3855bd6fc0d0f000a20e9cf28d6fba0e120978bf783e5809ec341469"
+    "name": "Species: Artificial Life, Real Evolution"
 }

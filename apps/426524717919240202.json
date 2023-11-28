@@ -1,47 +1,17 @@
 {
-    "description": "Lethal League is fighting game between up to four players. The only means of attacking is by hitting an anti-gravity ball back and forth at exponentially faster speeds.",
-    "developers": [
-        {
-            "id": "521816753341333507",
-            "name": "Reptile"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "lethalleague.app",
-            "os": "darwin"
-        },
         {
             "is_launcher": false,
             "name": "lethalleague.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "207785413329420288",
-    "hook": true,
-    "icon": "a9541d4ddab904acc295477c38006f51",
-    "id": "426524717919240202",
-    "name": "Lethal League",
-    "publishers": [
-        {
-            "id": "521816753341333507",
-            "name": "Reptile"
         },
         {
-            "id": "521816753341333510",
-            "name": "Team Reptile"
+            "is_launcher": false,
+            "name": "lethalleague.app",
+            "os": "darwin"
         }
     ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "261180",
-            "sku": "261180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "345933b0cfd817c4ac6c466c14088b197895333da0c9536971f591177854f2e1"
+    "hook": true,
+    "id": "426524717919240202",
+    "name": "Lethal League"
 }

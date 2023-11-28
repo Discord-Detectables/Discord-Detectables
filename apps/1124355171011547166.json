@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df57a391ec9275512760379fefe37c39",
     "id": "1124355171011547166",
-    "name": "Eldest Souls",
-    "publishers": [
-        {
-            "id": "1124355171523248128",
-            "name": "Fallen Flag Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1108590",
-            "sku": "1108590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "99b2927201b3f1bbb895c74a38578afbaddc24e59d9dfac9b7616a6af787b9ef"
+    "name": "Eldest Souls"
 }

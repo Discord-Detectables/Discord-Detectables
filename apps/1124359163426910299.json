@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d433c2813b4b2fe9f3e62db5b8c58dd1",
     "id": "1124359163426910299",
-    "name": "Flatout 3",
-    "publishers": [
-        {
-            "id": "524352476317614080",
-            "name": "Team 6 Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "201510",
-            "sku": "201510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ae43d012e8d1db90354b4f56fdb28e99b091525c4c699e8bf81d40b3dad55f7c"
+    "name": "Flatout 3"
 }

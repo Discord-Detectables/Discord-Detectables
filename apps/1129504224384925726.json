@@ -2,9 +2,6 @@
     "aliases": [
         "STAR WARS™: Squadrons"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,34 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6e4bdd1e73da379bc8635be5e3492b7e",
     "id": "1129504224384925726",
-    "name": "STAR WARS™: Squadrons",
-    "publishers": [
-        {
-            "id": "1129504225404133376",
-            "name": "MOTIVE"
-        },
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1222730",
-            "sku": "1222730"
-        },
-        {
-            "distributor": "origin",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "79aa28853636b2983c7c733baf59e4b17b55b8f817e859438aa90faa91b78505"
+    "name": "STAR WARS™: Squadrons"
 }

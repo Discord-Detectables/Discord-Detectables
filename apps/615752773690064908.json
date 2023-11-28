@@ -2,13 +2,6 @@
     "aliases": [
         "World of Warcraft™ Classic"
     ],
-    "description": "World of Warcraft is an MMORPG that takes place in Blizzard Entertainment's Warcraft universe; at its peak, it boasted a player base of over 12.5 million subscribers, making it the most popular MMO of all time.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,27 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "376400768225378320",
     "hook": true,
-    "icon": "fc92f820c44e72085dc6205e5e746850",
     "id": "615752773690064908",
     "name": "World of Warcraft Classic",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "WoW",
-            "sku": "WoW"
-        }
-    ],
-    "type": 1,
-    "verify_key": "726404d154c19639da4eb71acc4736d9e0140846c2289b59f6f46a4ef692e7e9"
+    "overlay": true
 }

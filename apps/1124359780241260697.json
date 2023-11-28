@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea998c49fa8f0c59350572cde987a8cd",
     "id": "1124359780241260697",
-    "name": "TUNNEL DIVERS",
-    "publishers": [
-        {
-            "id": "521816712778350613",
-            "name": "Spasman Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "569720",
-            "sku": "569720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3b2ff46b8a5d9a245a6871b2faa1a9cfb7bfb61941e5909b6cedae12b8316185"
+    "name": "TUNNEL DIVERS"
 }

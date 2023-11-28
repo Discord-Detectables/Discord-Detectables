@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "83cf9cf772c41ae5166d9321cb782378",
     "id": "1124351836544053340",
-    "name": "Five Nights at Freddy's: Security Breach",
-    "publishers": [
-        {
-            "id": "1124351837076738068",
-            "name": "Steel Wool Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "747660",
-            "sku": "747660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "941fe830dcb415957674df4b122e924151def044078d4e89d5102e7fa60d4582"
+    "name": "Five Nights at Freddy's: Security Breach"
 }

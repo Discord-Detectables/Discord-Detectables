@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "820b0f60e3d1fe85916207d070c577e7",
     "id": "1124355610645901372",
-    "name": "Slow and Steady",
-    "publishers": [
-        {
-            "id": "524352258943746061",
-            "name": "Cream"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1599080",
-            "sku": "1599080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "73f3049e33e275cf2a77d9f5039e21f00fefc5bc78a7e502650b1885805f5a74"
+    "name": "Slow and Steady"
 }

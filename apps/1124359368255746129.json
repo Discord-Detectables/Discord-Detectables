@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4c00c011c9e80fd790d09ac9dc57a87",
     "id": "1124359368255746129",
-    "name": "Dark Messiah of Might & Magic Multi-Player",
-    "publishers": [
-        {
-            "id": "521816618586734593",
-            "name": "Arkane Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2130",
-            "sku": "2130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d339587641ec063f5aa2652a9463dd8563d4b0c26254b26c32194634d948fde0"
+    "name": "Dark Messiah of Might & Magic Multi-Player"
 }

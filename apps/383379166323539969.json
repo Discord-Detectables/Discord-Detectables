@@ -1,23 +1,5 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "cover_image": "17bae2c6f31fcebbbac09b7a569fc0b9",
-    "description": "Warframe Dev",
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "383379166323539969",
-    "name": "Warframe Dev",
-    "primary_sku_id": "499621146094862346",
-    "slug": "warframe-dev",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "499621146094862346",
-            "sku": "499621146094862346"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4d1ac6f06c9957028b00772a49b8616740c7d3ba8918088fef1a4794bc2c5b31"
+    "name": "Warframe Dev"
 }

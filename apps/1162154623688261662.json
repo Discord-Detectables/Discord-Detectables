@@ -4,9 +4,6 @@
         "Kill It With Fire: HEATWAVE",
         "Kill It With Fire: IGNITION"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -14,43 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "530dd1dbee99b2f3501aadd5480b6664",
     "id": "1162154623688261662",
-    "name": "Kill It With Fire",
-    "publishers": [
-        {
-            "id": "1124359683449311242",
-            "name": "Casey Donnellan Games LLC"
-        },
-        {
-            "id": "1124359683449311242",
-            "name": "Casey Donnellan Games LLC"
-        },
-        {
-            "id": "1124359683449311242",
-            "name": "Casey Donnellan Games LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1366290",
-            "sku": "1366290"
-        },
-        {
-            "distributor": "steam",
-            "id": "1291500",
-            "sku": "1291500"
-        },
-        {
-            "distributor": "steam",
-            "id": "1179210",
-            "sku": "1179210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fcf1942fafb516859853fcfdfd656fd60dd4f423451649e604d607eced0f9c78"
+    "name": "Kill It With Fire"
 }

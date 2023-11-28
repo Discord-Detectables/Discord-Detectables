@@ -2,9 +2,6 @@
     "aliases": [
         "Assassin's Creed Mirage"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -17,25 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "010b8fed36638f744c0f07af8cd187e1",
     "id": "1163197033901998190",
-    "name": "Assassin's Creed Mirage",
-    "publishers": [
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "6100",
-            "sku": "6100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4b590b866c94861cd05011196fedc1107121fb967e5ed741e5c7ce6986f08063"
+    "name": "Assassin's Creed Mirage"
 }

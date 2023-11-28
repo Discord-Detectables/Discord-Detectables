@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4be20bcd8e82d5f2f4bbdb437200df4f",
     "id": "1124359139703931000",
-    "name": "Forever Skies",
-    "publishers": [
-        {
-            "id": "1124359140156911726",
-            "name": "Far From Home"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1641960",
-            "sku": "1641960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9781cee399dd7d6bb381e96c8500db1ffbef395869fd056e966360d591358ce"
+    "name": "Forever Skies"
 }

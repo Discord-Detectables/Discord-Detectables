@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d31489292d96d1a3aec67285d46f8367",
     "id": "1124357283376287744",
-    "name": "No Plan B: Prologue",
-    "publishers": [
-        {
-            "id": "555790365320544256",
-            "name": "GFX47"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1584810",
-            "sku": "1584810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2252aef93aa7c8059c53debc1c7383b847929ef6bff17f40f239070daeedfac7"
+    "name": "No Plan B: Prologue"
 }

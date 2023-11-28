@@ -1,11 +1,4 @@
 {
-    "description": "My Time at Portia is an open-world simulation RPG set in a post apocalyptic setting.",
-    "developers": [
-        {
-            "id": "521816571103019013",
-            "name": "Pathea Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "975720b4d5f8cf15dea37da31e42d972",
     "id": "451545373740367881",
-    "name": "My Time At Portia",
-    "publishers": [
-        {
-            "id": "521816571103019013",
-            "name": "Pathea Games"
-        },
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
-    "splash": "988063ac52b109982c391c3c5a1f8f3b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "666140",
-            "sku": "666140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "42b11d31cb1f15ca657f7219905ec8d635e0ae596d4297dbf0cd6653c80e54aa"
+    "name": "My Time At Portia"
 }

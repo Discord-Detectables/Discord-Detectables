@@ -1,11 +1,4 @@
 {
-    "description": "A sequel to Styx: Master of Shadows that is being released on PS4, Xbox One, and PC",
-    "developers": [
-        {
-            "id": "521816537653444608",
-            "name": "Cyanide Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dce6cb0e4ff3701bef2c31d433de0c29",
     "id": "462296460512198656",
-    "name": "Styx: Shards of Darkness",
-    "publishers": [
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        }
-    ],
-    "splash": "5a1b57f3ccff5af3f2062be5e16c79ef",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "355790",
-            "sku": "355790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c169040555ae9d18789b4120a37ae597c05e404a49d3c8342315772bb421dd6e"
+    "name": "Styx: Shards of Darkness"
 }

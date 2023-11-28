@@ -4,9 +4,6 @@
         "デイヴ・ザ・ダイバー",
         "데이브 더 다이버"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -14,33 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c9be03542e8bee5ed84acb0427b491a8",
     "id": "1126960184024104980",
-    "name": "DAVE THE DIVER",
-    "publishers": [
-        {
-            "id": "1126960184728756346",
-            "name": "MINTROCKET"
-        },
-        {
-            "id": "1126960184728756346",
-            "name": "MINTROCKET"
-        },
-        {
-            "id": "1126960184728756346",
-            "name": "MINTROCKET"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1868140",
-            "sku": "1868140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7223fb00648c98d57508b38ae1a009a4db5904aacc6ee37940a7013e0a31c5f3"
+    "name": "DAVE THE DIVER"
 }

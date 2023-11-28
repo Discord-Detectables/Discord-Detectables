@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aa4c15e01c3caee8ca866a734035799f",
     "id": "1124358668935249920",
-    "name": "Crossing Souls",
-    "publishers": [
-        {
-            "id": "524352710884065323",
-            "name": "Fourattic"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "331690",
-            "sku": "331690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "73ff916fc20919c6b3256be654794f64048b6b35dc784a99fb23aa10342cfde3"
+    "name": "Crossing Souls"
 }

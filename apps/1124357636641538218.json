@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "77d944b09f4c7d717f6e50c4639df308",
     "id": "1124357636641538218",
-    "name": "BallisticNG",
-    "publishers": [
-        {
-            "id": "560465076398718977",
-            "name": "Neognosis"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "473770",
-            "sku": "473770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a144705ba4dbc83dc1fd86af15900e8a7045b7b8a6373ce8440a2ed505317935"
+    "name": "BallisticNG"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "38404f789538026f1bdde5513726a1bc",
     "id": "1124355525182767144",
-    "name": "The Witch's House MV",
-    "publishers": [
-        {
-            "id": "524353152313589763",
-            "name": "Fummy"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "885810",
-            "sku": "885810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "64d002285e07b8b1c56c3eeab9408c05d21107b04c1cd425e8a784957d8b5a37"
+    "name": "The Witch's House MV"
 }

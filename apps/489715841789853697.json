@@ -1,52 +1,18 @@
 {
-    "cover_image": "a37b48dbd859f19e3790e02f3eaba204",
-    "description": "Trine 2: Complete Story",
-    "developers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "trine2.app",
-            "os": "darwin"
-        },
         {
             "is_launcher": false,
             "name": "trine2_32bit.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "0b1f3c8f11515ddfffe4e1a68945e256",
-    "id": "489715841789853697",
-    "name": "Trine 2: Complete Story",
-    "overlay": true,
-    "primary_sku_id": "494707599611265024",
-    "publishers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
-    "slug": "trine-2-complete-story",
-    "splash": "a24801d2af33e8ec6486b0f3baaadc94",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "494707599611265024",
-            "sku": "494707599611265024"
         },
         {
-            "distributor": "steam",
-            "id": "35720",
-            "sku": "35720"
+            "is_launcher": false,
+            "name": "trine2.app",
+            "os": "darwin"
         }
     ],
-    "type": 1,
-    "verify_key": "1dd3b45a125d07703ccb40dd6088da1bfc8a52188847d75809c3690e99e7fd75"
+    "hook": true,
+    "id": "489715841789853697",
+    "name": "Trine 2: Complete Story",
+    "overlay": true
 }

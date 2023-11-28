@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ebd6fa51b63b70f491321ba9be6a21e5",
     "id": "1124360365371834468",
-    "name": "Boomerang X",
-    "publishers": [
-        {
-            "id": "1124360365875146783",
-            "name": "DANG!"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1170060",
-            "sku": "1170060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "34232703b4de596b31659602219ddc92f61ef2420ca902909ad53b43fa9d7a84"
+    "name": "Boomerang X"
 }

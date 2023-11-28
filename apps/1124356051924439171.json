@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e00e876109ef93c3951ed93741f1c164",
     "id": "1124356051924439171",
-    "name": "Brothers in Arms: Hell's Highway",
-    "publishers": [
-        {
-            "id": "521816503960600578",
-            "name": "Gearbox Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15390",
-            "sku": "15390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a7b7fbb86d892e14edfcb910f8d8358054bd08b6e576db8d74d604ae7dcb3246"
+    "name": "Brothers in Arms: Hell's Highway"
 }

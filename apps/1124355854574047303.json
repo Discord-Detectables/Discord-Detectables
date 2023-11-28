@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "deaa82cbb277959e1037c6570d1ba985",
     "id": "1124355854574047303",
-    "name": "UNDER NIGHT IN-BIRTH Exe:Late",
-    "publishers": [
-        {
-            "id": "1124352725103169677",
-            "name": "FRENCH-BREAD"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "452510",
-            "sku": "452510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a972b293a96193f6127de4bcc388b4fda03e0ed3d44256e4234d5a3b1d3349eb"
+    "name": "UNDER NIGHT IN-BIRTH Exe:Late"
 }

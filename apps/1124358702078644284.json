@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "36e2adb122c203cb8ac16fbbb6c64496",
     "id": "1124358702078644284",
-    "name": "Wooden Battles",
-    "publishers": [
-        {
-            "id": "524352932917936131",
-            "name": "SP Digital Arts Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "703510",
-            "sku": "703510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3c95cabd8acd6d5fc7a008ed699ebd59a6ecadacea25b7bca7529f4e913b5f55"
+    "name": "Wooden Battles"
 }

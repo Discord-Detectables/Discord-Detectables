@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9456ad777d6de88a7c7468db16e09307",
     "id": "1124353173105160202",
-    "name": "Rick and Morty: Virtual Rick-ality",
-    "publishers": [
-        {
-            "id": "521816678430933004",
-            "name": "Owlchemy Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "469610",
-            "sku": "469610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "586303da7e94c885c22af81fdd33244e62db0e1709ae9abf0506c7e0bc7f7dde"
+    "name": "Rick and Morty: Virtual Rick-ality"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d98f91f0b26ba01e9d882de0228b84b4",
     "id": "1124356612262477854",
-    "name": "Survivalist: Invisible Strain",
-    "publishers": [
-        {
-            "id": "711045186041675866",
-            "name": "Bob"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1054510",
-            "sku": "1054510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5fe734efa5b96b9e5faa05e248554db622bc98c82e2ab320cfaac02e2ab507ec"
+    "name": "Survivalist: Invisible Strain"
 }

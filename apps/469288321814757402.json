@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816671434833940",
-            "name": "SomaSim Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a322140ee3eef3b9403e03b3dcdfc234",
     "id": "469288321814757402",
-    "name": "Project Highrise",
-    "primary_sku_id": "471030558009589772",
-    "publishers": [
-        {
-            "id": "521816586588258348",
-            "name": "Kasedo Games"
-        }
-    ],
-    "slug": "project-highrise",
-    "splash": "3ca13f8fb1814bfb91dec0a3e1006113",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "471030558009589772",
-            "sku": "471030558009589772"
-        },
-        {
-            "distributor": "steam",
-            "id": "423580",
-            "sku": "423580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "62b287c2a2ac23023449c5f5c1983c98ff841396f28e7acc5be79ba92f4c5471"
+    "name": "Project Highrise"
 }

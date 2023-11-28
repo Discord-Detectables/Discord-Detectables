@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8fe14142bb492475502896ed8b6c24fc",
     "id": "1124359738352742502",
-    "name": "Shady Part of Me",
-    "publishers": [
-        {
-            "id": "1124359738797346886",
-            "name": "Douze Dixièmes"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1116580",
-            "sku": "1116580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a58fa7428ca0a2d23d94d941fcdcfac795d2a53e582438365bd1b88ad0eeadb"
+    "name": "Shady Part of Me"
 }

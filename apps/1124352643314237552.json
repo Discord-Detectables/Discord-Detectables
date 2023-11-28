@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3aca9acd8e4ccbba00172151edf55fb4",
     "id": "1124352643314237552",
-    "name": "Exanima",
-    "publishers": [
-        {
-            "id": "524352470407708682",
-            "name": "Bare Mettle Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "362490",
-            "sku": "362490"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8dc30363a3478cf0671041b6e4a60929080edde55a4d19f2fbcd0afb859dad43"
+    "name": "Exanima"
 }

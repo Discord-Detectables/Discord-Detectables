@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "afa8fc624023e8966b526b5bdb56d22f",
     "id": "1124354017481469982",
-    "name": "Manhunt",
-    "publishers": [
-        {
-            "id": "521816560537567261",
-            "name": "Rockstar North"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "12130",
-            "sku": "12130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "10d87d2346410629753442e81f63e25bc5290a45efce5fc8f3a663bda8b458c4"
+    "name": "Manhunt"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Total War: ROME 2"
     ],
-    "description": "The sequel to Rome: Total War, Total War: Rome II promises gameplay improvements to the series as well as making empire management more streamlined and approachable for newcomers.",
-    "developers": [
-        {
-            "id": "521816720503996437",
-            "name": "The Creative Assembly"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,20 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "99a08d9d0e937a9342ca7dd971430140",
     "id": "387403734080159763",
     "name": "Total War: Rome 2",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "397d2b06d320130e425b851c377f7fe7",
-    "summary": "",
-    "type": 1,
-    "verify_key": "47520d7946e8013eb28503ec586f31f1779e96331938a7bcf546613624d4c57e"
+    "overlay": true
 }

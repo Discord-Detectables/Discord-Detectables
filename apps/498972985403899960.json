@@ -1,11 +1,4 @@
 {
-    "description": "Nosgoth was an online competitive multiplayer PC game being developed by Psyonix. The game was cancelled by Square Enix on 8 April 2016.",
-    "developers": [
-        {
-            "id": "521816547430236211",
-            "name": "Psyonix Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0e984eb76d841c9c0b1a34454212f5c",
     "id": "498972985403899960",
-    "name": "Nosgoth",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "200110",
-            "sku": "200110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0f10e9a1f3e35cb4de33a4348e673eafe77c08b2f1e1164537248b173ed78114"
+    "name": "Nosgoth"
 }

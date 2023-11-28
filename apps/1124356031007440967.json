@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ebbb0c2228106f3214e1d4997950cffe",
     "id": "1124356031007440967",
-    "name": "Hexcells Plus",
-    "publishers": [
-        {
-            "id": "524352560874651649",
-            "name": "Matthew Brown"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "271900",
-            "sku": "271900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "60a5fd39c658f7bb2cfab680af4fc9890c73fb8ba13ad3bfce1fec31d339f1e4"
+    "name": "Hexcells Plus"
 }

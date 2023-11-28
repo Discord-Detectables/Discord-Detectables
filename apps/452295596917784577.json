@@ -2,13 +2,6 @@
     "aliases": [
         "Star Citizen Launcher"
     ],
-    "description": "A first-person space combat flight simulation inspired by the Wing Commander series of games.",
-    "developers": [
-        {
-            "id": "521816554648764436",
-            "name": "Cloud Imperium Games Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,22 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a55868f259fca03ba55756e41983e44",
     "id": "452295596917784577",
-    "name": "Star Citizen",
-    "publishers": [
-        {
-            "id": "521816554648764433",
-            "name": "Cloud Imperium Games"
-        },
-        {
-            "id": "521816554648764436",
-            "name": "Cloud Imperium Games Corporation"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "a39a8cf59ecd8d0bb6a26e2f648a13fada7ce14075a8c74e6a37f3584407675b"
+    "name": "Star Citizen"
 }

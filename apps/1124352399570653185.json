@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fa97e03a89172d50f93821b1bf880863",
     "id": "1124352399570653185",
-    "name": "Limbus Company",
-    "publishers": [
-        {
-            "id": "1124352400032022580",
-            "name": "ProjectMoon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1973530",
-            "sku": "1973530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b529478d6a7045024d6f0b2b703cb9c3b503bf06d34fd2f5d35493c7e692446f"
+    "name": "Limbus Company"
 }

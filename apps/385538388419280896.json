@@ -3,13 +3,6 @@
         "Assassin's Creed: Origins",
         "Assassins Creed Origins"
     ],
-    "description": "After a two-year hiatus, the Assassin's Creed series returns by going to ancient Egypt.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,35 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "841763b6a50ddd5dfbaa482932442e8d",
     "id": "385538388419280896",
-    "name": "Assassin's Creed Origins",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "splash": "e8829ad35f8527704c7e1dc968e32aef",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "3539",
-            "sku": "3539"
-        },
-        {
-            "distributor": "steam",
-            "id": "582160",
-            "sku": "582160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "645303180d0171718c42c4eb4a2bae3430b840e0bde217ad184647ae370d5698"
+    "name": "Assassin's Creed Origins"
 }

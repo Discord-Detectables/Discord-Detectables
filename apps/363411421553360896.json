@@ -2,13 +2,6 @@
     "aliases": [
         "Last Man Standing"
     ],
-    "description": "Last Man Standing",
-    "developers": [
-        {
-            "id": "521816716293046277",
-            "name": "Free Reign Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0f5d25c5960c9e734e6adced21f4883f",
     "id": "363411421553360896",
-    "name": "Last Man Standing",
-    "publishers": [
-        {
-            "id": "521816716293046277",
-            "name": "Free Reign Entertainment"
-        },
-        {
-            "id": "521816716293046277",
-            "name": "Free Reign Entertainment"
-        }
-    ],
-    "splash": "be4bb04701b0aba0a2d725d37ce96a06",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "506540",
-            "sku": "506540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "56cc6e587f0a8a30cc898f3d71d81e31f4d926c1070fa5f4c78597626ff7604d"
+    "name": "Last Man Standing"
 }

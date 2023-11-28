@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1124358281851326474",
-    "name": "Cthulhu Saves the World",
-    "publishers": [
-        {
-            "id": "524352089011388424",
-            "name": "Zeboyd Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "107310",
-            "sku": "107310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "28220003d0b54f38843471d736a0afd479d6bdad1c69dfaefba6f10c42d1329b"
+    "name": "Cthulhu Saves the World"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5ce15d9795dd0e056bf1210eebb9c47",
     "id": "1124355570510610562",
-    "name": "Fluid Engine PC Live Wallpaper Demo",
-    "publishers": [
-        {
-            "id": "1124355571009728552",
-            "name": "3dm_live_wallpapers"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1367500",
-            "sku": "1367500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e90a0cee765657a241c7f465655ff85f67a71fa58ad7fb949fa35e697def25b1"
+    "name": "Fluid Engine PC Live Wallpaper Demo"
 }

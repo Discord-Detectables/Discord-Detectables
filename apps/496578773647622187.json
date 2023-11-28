@@ -1,11 +1,4 @@
 {
-    "description": "A Free 2 Play online full open world game for the PS3, PS4 and PC.",
-    "developers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,22 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c30d98f61d9a02a24b7b2cae0f03ca67",
     "id": "496578773647622187",
-    "name": "Dragon's Dogma Online",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        },
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "d72b0d5f1dbff91f8b536d2356cf067aab8dcf56f6be2714105a4827a7913851"
+    "name": "Dragon's Dogma Online"
 }

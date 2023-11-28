@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eac78f85e74a2c05d53846c47f9389c0",
     "id": "1124360678858309652",
-    "name": "Hentai Honeys Slider",
-    "publishers": [
-        {
-            "id": "1124360679378399352",
-            "name": "Cyberworks"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1134440",
-            "sku": "1134440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "192717f63dc903d91ff6a0edcdd93048ac694cd84761080463ec85d2590db3ac"
+    "name": "Hentai Honeys Slider"
 }

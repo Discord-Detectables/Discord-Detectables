@@ -2,7 +2,6 @@
     "aliases": [
         "Tomoyo After ~It's a Wonderful Life~"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "800590e7088e32d3094a24987e645272",
     "id": "505505972899414046",
-    "name": "Tomoyo After ~It's a Wonderful Life~ English Edition",
-    "publishers": [
-        {
-            "id": "521816632801361926",
-            "name": "VisualArts/Key"
-        }
-    ],
-    "splash": "f2e798749d7737ccd95d3bf527e357ef",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "462990",
-            "sku": "462990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "541e061a1916c3ddadccbc037a5ca3c7e7dabb0e88eeb2bf467042fb63a42b03"
+    "name": "Tomoyo After ~It's a Wonderful Life~ English Edition"
 }

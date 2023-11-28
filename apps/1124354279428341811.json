@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e752f9a2deccc24f03773aa4a1c1f57c",
     "id": "1124354279428341811",
-    "name": "Freeways",
-    "publishers": [
-        {
-            "id": "524352359204257810",
-            "name": "Captain Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "780210",
-            "sku": "780210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6cf6a3537164a3dfe4ef9c874aed9c01ea51722e06dab8690d6430e2592003b"
+    "name": "Freeways"
 }

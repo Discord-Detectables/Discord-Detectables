@@ -1,11 +1,4 @@
 {
-    "description": "EA's association football game for 2016 runs on the Frostbite engine.",
-    "developers": [
-        {
-            "id": "521816499950714880",
-            "name": "EA Canada"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "49e4688b9201deeebc0286c14d652bab",
     "id": "363414398129274890",
     "name": "FIFA 17",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "6bd4c34f7900de8621085b01fe8fe31872c6d9c0787982c21edb3d58ad008478"
+    "overlay": true
 }

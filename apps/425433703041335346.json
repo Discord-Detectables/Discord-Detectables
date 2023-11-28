@@ -2,13 +2,6 @@
     "aliases": [
         "Assassin?s Creed? Chronicles: China"
     ],
-    "description": "A 2.5D downloadable title for the Xbox One, PlayStation 4 and PC. The game follows Shao Jun, the last remaining Assassin of the Chinese Brotherhood.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7f6c71cc37df9de39f145f8f22c6e1a0",
     "id": "425433703041335346",
-    "name": "Assassin's Creed Chronicles China",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "1651",
-            "sku": "1651"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2f8dca2fe515b0437842b8924b5817415b9a49f0388eb7ff6061eddc53a1a82e"
+    "name": "Assassin's Creed Chronicles China"
 }

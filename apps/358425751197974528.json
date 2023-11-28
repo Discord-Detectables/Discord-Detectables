@@ -3,18 +3,11 @@
         "Diablo 3",
         "디아블로 III"
     ],
-    "description": "Diablo III returns to the world of Sanctuary twenty years after the events of Diablo II with a new generation of heroes that must defeat the demonic threat from Hell.",
-    "developers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "diablo iii.app",
-            "os": "darwin"
+            "name": "diablo iii64.exe",
+            "os": "win32"
         },
         {
             "is_launcher": false,
@@ -23,36 +16,12 @@
         },
         {
             "is_launcher": false,
-            "name": "diablo iii64.exe",
-            "os": "win32"
+            "name": "diablo iii.app",
+            "os": "darwin"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea12a992732b0b6d521b109b88e60b9b",
     "id": "358425751197974528",
     "name": "Diablo III",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "splash": "3ceef15c08000c6c0272dc22a29616cb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "D3",
-            "sku": "D3"
-        },
-        {
-            "distributor": "battlenet",
-            "id": null,
-            "sku": null
-        }
-    ],
-    "type": 1,
-    "verify_key": "81dbd2d08e257433cb2fc8548c1dd63e0a02fbfd4a59059c1c0a4af5b62766b0"
+    "overlay": true
 }

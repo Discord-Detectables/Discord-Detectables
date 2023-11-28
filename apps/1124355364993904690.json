@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab553775777403407008a36b0fa40dd1",
     "id": "1124355364993904690",
-    "name": "Steam Engine Simulator",
-    "publishers": [
-        {
-            "id": "1124355365476257832",
-            "name": "Ektorom Software Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2381620",
-            "sku": "2381620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2e5f5405cf1a3e505d031eb5b6b3c0d58c96bcdc16643d644634d2ee28abb377"
+    "name": "Steam Engine Simulator"
 }

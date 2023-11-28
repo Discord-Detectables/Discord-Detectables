@@ -1,12 +1,4 @@
 {
-    "cover_image": "d11f08ef71e97adc7f2a06ddc05e91eb",
-    "description": "Build your very own PC empire, from simple diagnosis and repairs to bespoke, boutique creations that would be the envy of any enthusiast. With an ever-expanding marketplace full of real-world components you can finally stop dreaming of that ultimate PC and get out there, build it and see how it benchmarks in 3DMark!",
-    "developers": [
-        {
-            "id": "521816737310572546",
-            "name": "The Irregular Corporation"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "479289346219048960",
     "hook": true,
-    "icon": "d11f08ef71e97adc7f2a06ddc05e91eb",
     "id": "451545070739652608",
-    "name": "PC Building Simulator",
-    "primary_sku_id": "451545070739652608",
-    "publishers": [
-        {
-            "id": "521816737310572546",
-            "name": "The Irregular Corporation"
-        }
-    ],
-    "slug": "pc-building-simulator",
-    "splash": "c83db0f4cae401bc38c7ea0f7429e8b4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "621060",
-            "sku": "621060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "175f9ffdade879d4843e3ee18c2428ed2f7e4126b694c9923fed9a21768d7dd1"
+    "name": "PC Building Simulator"
 }

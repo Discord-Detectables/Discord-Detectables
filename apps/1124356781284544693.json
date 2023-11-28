@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "285f6187da49d28d50b872faa21edf8f",
     "id": "1124356781284544693",
-    "name": "Tinkertown",
-    "publishers": [
-        {
-            "id": "1124356781724942517",
-            "name": "Headup"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1276660",
-            "sku": "1276660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8b11c433d6c43de124b52ccf98e12879103d24fc8f6b06c0c08313ae7bb3c88b"
+    "name": "Tinkertown"
 }

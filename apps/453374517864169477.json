@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "96a16e87a458eeca4e4840dcbf454cd8",
     "id": "453374517864169477",
-    "name": "Ball 3D: Soccer Online",
-    "publishers": [
-        {
-            "id": "521816610097594398",
-            "name": "Unusualsoft"
-        }
-    ],
-    "splash": "e9930b7ef1b8d06c5841fedaeca733b3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "485610",
-            "sku": "485610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6f462bc4ad9caf4a1bad001a6c4e6ee82c398111172ac368f6ae8e462b996f88"
+    "name": "Ball 3D: Soccer Online"
 }

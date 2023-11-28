@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "001de400875049262e4c68951b6f7a2b",
     "id": "1124358078259806238",
-    "name": "Godsbane Idle",
-    "publishers": [
-        {
-            "id": "1124358078763118763",
-            "name": "MadJones"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1565140",
-            "sku": "1565140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4317fd51695fd795c12154d9f898f7f3b737d5a246fac37e39dd5c9a7330615c"
+    "name": "Godsbane Idle"
 }

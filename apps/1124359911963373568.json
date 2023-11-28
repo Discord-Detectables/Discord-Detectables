@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db987ea66e6d3637884fee0b085ffc4e",
     "id": "1124359911963373568",
-    "name": "Cossacks: European Wars",
-    "publishers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "4880",
-            "sku": "4880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ab698177d2d2a58512353465cd02b1f5e21df7a4da6803f26f7efcdc457cf7f8"
+    "name": "Cossacks: European Wars"
 }

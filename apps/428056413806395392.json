@@ -1,11 +1,4 @@
 {
-    "description": "As a brave, but fragile adventurer, explore dangerous procedurally-generated caves to collect treasure and gain better equipment, before dying horribly and starting all over again.",
-    "developers": [
-        {
-            "id": "521816709057740814",
-            "name": "Mossmouth, LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e477c91773ec7dfdb4ca4caa363476f2",
     "id": "428056413806395392",
-    "name": "Spelunky",
-    "publishers": [
-        {
-            "id": "521816709057740814",
-            "name": "Mossmouth, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "239350",
-            "sku": "239350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b97f863118003a481b1bbf792ce8637873a453e232b2ede9252ee2789cf648bb"
+    "name": "Spelunky"
 }

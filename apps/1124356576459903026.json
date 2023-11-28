@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48c9cbd0a7e99111f2e2ad5bf0d26a8e",
     "id": "1124356576459903026",
-    "name": "10 Miles To Safety",
-    "publishers": [
-        {
-            "id": "1124356576984186960",
-            "name": "Trickjump Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1015140",
-            "sku": "1015140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1c594eca028de01027443762fcd9e635d42a6a8cf3c44859a95216a06f840535"
+    "name": "10 Miles To Safety"
 }

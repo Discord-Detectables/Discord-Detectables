@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5aac339209fa43d5a53877ba14f6bb9",
     "id": "1124358138074779758",
-    "name": "EDGE",
-    "publishers": [
-        {
-            "id": "524351640891817997",
-            "name": "Two Tribes"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "38740",
-            "sku": "38740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "104be942aa4c57a65234385ebbdd14282614b0d9922c886bdea799b17cec3432"
+    "name": "EDGE"
 }

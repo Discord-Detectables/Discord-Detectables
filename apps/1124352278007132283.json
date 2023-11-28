@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d05be5336e40dacefdba38b462d480e5",
     "id": "1124352278007132283",
-    "name": "War of Rights",
-    "publishers": [
-        {
-            "id": "524353284656594955",
-            "name": "Campfire Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "424030",
-            "sku": "424030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a2ec705b0252c131af04ff47e4e6e699db7e6ab6b67170f3af0670c52aeff115"
+    "name": "War of Rights"
 }

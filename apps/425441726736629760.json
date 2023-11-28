@@ -2,13 +2,6 @@
     "aliases": [
         "Shovel knight"
     ],
-    "description": "An action-platformer paying homage to 8-bit classics like Mega Man and Castlevania. It is developed by a small group of former WayForward employees, with funding through Kickstarter.",
-    "developers": [
-        {
-            "id": "521816789449965597",
-            "name": "Yacht Club Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,31 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16e0044c533a8a0fb0a57d6d236fea59",
     "id": "425441726736629760",
-    "name": "Shovel Knight",
-    "publishers": [
-        {
-            "id": "521816789449965597",
-            "name": "Yacht Club Games"
-        }
-    ],
-    "splash": "96d220959f64e3e2a7f0d84da14a587c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "250760",
-            "sku": "250760"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "d23357dd2b7ee3f2c67c7bf6281b68f525bdeb1522a408de42265c3d01b3faa7"
+    "name": "Shovel Knight"
 }

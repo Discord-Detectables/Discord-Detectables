@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d8b178945984f6b398397c53c9819cdc",
     "id": "1134168823948378293",
-    "name": "Infection Free Zone Demo",
-    "publishers": [
-        {
-            "id": "521816631782014988",
-            "name": "Jutsu Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2208800",
-            "sku": "2208800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "386b31d7529db63305f8c4750059fa44dbaf693a08ed0ee6f7ee16f8149638da"
+    "name": "Infection Free Zone Demo"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816650840801280",
-            "name": "Colossal Order"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,37 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3d4ebd2cc68f1ae79f7bd8459cc2bf92",
     "id": "492115461824184320",
-    "name": "Cities in Motion",
-    "primary_sku_id": "492137689856999464",
-    "publishers": [
-        {
-            "id": "521816650304061477",
-            "name": "Colossal Order Ltd."
-        },
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
-    "slug": "cities-in-motion",
-    "splash": "0feb5c5089edfe9ed9a1f45d4a157a37",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "73010",
-            "sku": "73010"
-        },
-        {
-            "distributor": "discord",
-            "id": "492137689856999464",
-            "sku": "492137689856999464"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1646ef60ed681fe44b969c8241f3c2495f845ca7dc7f9a377aa1c33fa9bce202"
+    "name": "Cities in Motion"
 }

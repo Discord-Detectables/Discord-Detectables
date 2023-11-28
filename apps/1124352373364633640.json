@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b27c82a75eaf9cf4095d3cc522a028f9",
     "id": "1124352373364633640",
-    "name": "Trine 4: The Nightmare Prince",
-    "publishers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "690640",
-            "sku": "690640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5fbddab50fc7caea8ab1477df0ee05678ef7763093e204c7fc00b095a2e4e766"
+    "name": "Trine 4: The Nightmare Prince"
 }

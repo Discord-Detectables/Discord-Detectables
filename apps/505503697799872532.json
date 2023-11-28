@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cc68a51ef7f6a098cfb4ee6f3e9ad6db",
     "id": "505503697799872532",
-    "name": "The Floor is Lava",
-    "publishers": [
-        {
-            "id": "521816741156880402",
-            "name": "RandoMixs"
-        }
-    ],
-    "splash": "befc46c44ead68531ed685da6065d24c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "809430",
-            "sku": "809430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8acafea0f9f7405690f946230c7c9fe71045cd8e9d789b557cfb33b6132b9f4"
+    "name": "The Floor is Lava"
 }

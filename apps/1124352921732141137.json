@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a8f136982bbea6256f3f7093d91ffc72",
     "id": "1124352921732141137",
-    "name": "Lucius",
-    "publishers": [
-        {
-            "id": "524352175741075461",
-            "name": "Shiver Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "218640",
-            "sku": "218640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a673b7d0e948665d0c8f53bf918aa7c15e31cfdab715f7b89d3cbdca93074a9c"
+    "name": "Lucius"
 }

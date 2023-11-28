@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "46323425f47f69d735ec368bcfaceebe",
     "id": "1124356477231054949",
-    "name": "Aviary Attorney",
-    "publishers": [
-        {
-            "id": "1124356477709201428",
-            "name": "Sketchy Logic"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "384630",
-            "sku": "384630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "64492b569c85da08ce4f67fde75b29a1eafdc5a5db1abd3106f1fb6d8df8bbbf"
+    "name": "Aviary Attorney"
 }

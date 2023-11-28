@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de7ba6fb4f163a19447a7eb1b0e27ee1",
     "id": "1124357394932187236",
-    "name": "Border Officer",
-    "publishers": [
-        {
-            "id": "1124352273766690897",
-            "name": "Cheesecake Dev"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1057180",
-            "sku": "1057180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e3f24bd23d2a3b73c3b485c7d16573ad9d1334cd70c8cfe5423fc512faef3538"
+    "name": "Border Officer"
 }

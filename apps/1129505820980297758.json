@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "933457b0eff9bf3ea14e490ab357b6e3",
     "id": "1129505820980297758",
-    "name": "Tainted Grail: The Fall of Avalon",
-    "publishers": [
-        {
-            "id": "1129505822016282755",
-            "name": "Questline"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1466060",
-            "sku": "1466060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d644bc9f5a4b63a55c43de50a98935388fcf652327d21155a088e5a9c42699c2"
+    "name": "Tainted Grail: The Fall of Avalon"
 }

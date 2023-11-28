@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d0caf2299b854195dbd42166e72711c9",
     "id": "1124357858406969395",
-    "name": "TY the Tasmanian Tiger 2",
-    "publishers": [
-        {
-            "id": "1124355174941605898",
-            "name": "Krome Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "411970",
-            "sku": "411970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f13efa3f50b7879ebb17fecdaf0cfe4e18da8392d22f53fccf5afac95dc1ca0b"
+    "name": "TY the Tasmanian Tiger 2"
 }

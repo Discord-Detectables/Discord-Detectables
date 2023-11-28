@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4d6ad2777e856614ea4d56afd4d7a10a",
     "id": "1124354540444074024",
-    "name": "MY HERO ONE'S JUSTICE",
-    "publishers": [
-        {
-            "id": "1124354540913832007",
-            "name": "Byking Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "748360",
-            "sku": "748360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8c3a7e2a2ad6351111076912b45cb8f3349d6dedbbe20486b3dc2207bd2008bb"
+    "name": "MY HERO ONE'S JUSTICE"
 }

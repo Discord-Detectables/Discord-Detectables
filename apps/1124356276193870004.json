@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6ff1b21806abd5134e777e4fa8956bcf",
     "id": "1124356276193870004",
-    "name": "Legendary Tales",
-    "publishers": [
-        {
-            "id": "1124356276680405113",
-            "name": "Urban Wolf Games Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1465070",
-            "sku": "1465070"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0730c4b0ba553a1d9902b56c3412fc78e83a82803329bb963504657783420b15"
+    "name": "Legendary Tales"
 }

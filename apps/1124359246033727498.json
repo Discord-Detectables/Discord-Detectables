@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df290fb2e3449616e3a9844271b28d61",
     "id": "1124359246033727498",
-    "name": "Orpheus's Dream",
-    "publishers": [
-        {
-            "id": "1124359246537052200",
-            "name": "Orpheus's Dream Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1097000",
-            "sku": "1097000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ee18bd2f8cb6af621b1204b482f8497e7ef39f912430b2c958abada61f34be3"
+    "name": "Orpheus's Dream"
 }

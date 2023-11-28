@@ -2,45 +2,19 @@
     "aliases": [
         "Avalon Lords"
     ],
-    "description": "Avalon Lords: Dawn Rises is the prequel RTS to the MMO Avalon Lords.",
-    "developers": [
-        {
-            "id": "521816799411568645",
-            "name": "Animus Interactive"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "avalonlords.app",
-            "os": "darwin"
-        },
         {
             "is_launcher": false,
             "name": "avalonlords.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "avalonlords.app",
+            "os": "darwin"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "88691df2e73b6793cb6ca05ae298c0d5",
     "id": "504765148481716224",
-    "name": "Avalon Lords: Dawn Rises",
-    "publishers": [
-        {
-            "id": "521816799411568643",
-            "name": "Animus Interactive Inc"
-        }
-    ],
-    "splash": "cf6efc01423b08c336b8563097033dbc",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "329280",
-            "sku": "329280"
-        }
-    ],
-    "type": 1,
-    "verify_key": "deec97a46c9ce1a1db6f19d6e5dc74489f8fd1145d4755662c2d21a2d68d056b"
+    "name": "Avalon Lords: Dawn Rises"
 }

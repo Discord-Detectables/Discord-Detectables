@@ -1,11 +1,4 @@
 {
-    "description": "Gigantic is a 5v5 third-person shooter and MOBA hybrid game where players fight to take down the enemy team's Guardian.",
-    "developers": [
-        {
-            "id": "521816532737851445",
-            "name": "Motiga"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5749fdbb0b260dca6b89e43c60c40ed4",
     "id": "451540746592321536",
-    "name": "Gigantic",
-    "publishers": [
-        {
-            "id": "521816509673242636",
-            "name": "Perfect World Entertainment"
-        }
-    ],
-    "splash": "d11a1827fde9cb70c7fb01c8e66ec6e3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "327690",
-            "sku": "327690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a2a72189e081f456e06921dde8ea6f327f2ec1d6956acaf3c227adbd0b72cf40"
+    "name": "Gigantic"
 }

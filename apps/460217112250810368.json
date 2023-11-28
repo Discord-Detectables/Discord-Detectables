@@ -1,11 +1,4 @@
 {
-    "description": "Set in futuristic 2080, the 13th entry of the Call of Duty series brings a war that spans our entire Solar System.",
-    "developers": [
-        {
-            "id": "521816501544550406",
-            "name": "Infinity Ward"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b3da6d74b73bdc7c93d40faa0ab095cd",
     "id": "460217112250810368",
-    "name": "Call of Duty: Infinite Warfare",
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
-        }
-    ],
-    "splash": "a8d6b2c64d0a3edc2c40d21698ef3702",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "292730",
-            "sku": "292730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4ad775220ad6cd4ff1a955361b0be8220689cf8b8a4903ae8509ca2dbbdc0905"
+    "name": "Call of Duty: Infinite Warfare"
 }

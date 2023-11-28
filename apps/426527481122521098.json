@@ -2,48 +2,19 @@
     "aliases": [
         "POSTAL 2"
     ],
-    "description": "Reprise the role of The Postal Dude who is willing to accomplish his everyday goals by any means necessary.",
-    "developers": [
-        {
-            "id": "521816665168543755",
-            "name": "Running With Scissors"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "postal2.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "system/paradiselost.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "64c1b27c267fe8bd32bf17711e8ac4bd",
-    "id": "426527481122521098",
-    "name": "POSTAL 2",
-    "publishers": [
-        {
-            "id": "521816665168543755",
-            "name": "Running With Scissors"
         },
         {
-            "id": "521816665168543755",
-            "name": "Running With Scissors"
+            "is_launcher": false,
+            "name": "postal2.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "223470",
-            "sku": "223470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc75b782864c0a5fae6bffc83c24336e12332fe9d880a2bdcd18905a076e14e5"
+    "hook": true,
+    "id": "426527481122521098",
+    "name": "POSTAL 2"
 }

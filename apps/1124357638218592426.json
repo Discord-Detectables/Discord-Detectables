@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7b5c1844c2f67f9c931115878209ee1",
     "id": "1124357638218592426",
-    "name": "Ship Graveyard Simulator 2: Prologue",
-    "publishers": [
-        {
-            "id": "1124353614052339803",
-            "name": "Games Incubator"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2295920",
-            "sku": "2295920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1e2f9f158dbb7688adcb68851d0a37f9dc7ff5894c900277420f0a5e0f830826"
+    "name": "Ship Graveyard Simulator 2: Prologue"
 }

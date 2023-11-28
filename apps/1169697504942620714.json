@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0515fe1c772723c0697880f382022a0c",
     "id": "1169697504942620714",
-    "name": "For The King II",
-    "publishers": [
-        {
-            "id": "521816633392627712",
-            "name": "IronOak Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1676840",
-            "sku": "1676840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d0f654c7127a766124e6f275aecd266905232659f14a41f8405fd5ee1d86b4a6"
+    "name": "For The King II"
 }

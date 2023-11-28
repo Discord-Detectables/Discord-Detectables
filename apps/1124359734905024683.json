@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c3cad05d0e4848b4e03420e789f600ac",
     "id": "1124359734905024683",
-    "name": "Stardeus",
-    "publishers": [
-        {
-            "id": "1124359735387377684",
-            "name": "Kodo Linija"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1380910",
-            "sku": "1380910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3cf7218b201c53d223b92261b68ef7399d0b698cc1c808fe8de0b43dfc64e627"
+    "name": "Stardeus"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "541239c33ffc18dbb7d03d165e1f6f28",
     "id": "1141597384921591909",
-    "name": "HoloCure - Save the Fans!",
-    "publishers": [
-        {
-            "id": "1141597385882091600",
-            "name": "KayAnimate"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2420510",
-            "sku": "2420510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ec7fcb676a59d8c1bda5b7b5cf0cabd7fc1d5bb31282ce3d5cb27fcb452cd92e"
+    "name": "HoloCure - Save the Fans!"
 }

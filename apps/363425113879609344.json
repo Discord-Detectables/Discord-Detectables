@@ -3,13 +3,6 @@
         "Metal Gear Online 3",
         "Metal Gear Solid V: The Phantom Pain"
     ],
-    "description": "The seventh entry in the Metal Gear Solid series recounts the adventures of Punished 'Venom' Snake, as he wakes up from a nine-year coma in 1984 to rebuild his mercenary paradise.",
-    "developers": [
-        {
-            "id": "521816572088811558",
-            "name": "Kojima Productions"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,30 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a8d4bf90e06d6f78b278de54f4174d65",
     "id": "363425113879609344",
-    "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        },
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "splash": "e4dc09c5e238c00d3a140ce0fe3f240a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "287700",
-            "sku": "287700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a78d5b434561cf8baedb056a79cb7472f68b2f76001779865829b3ff3f21815b"
+    "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
 }

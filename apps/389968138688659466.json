@@ -1,11 +1,4 @@
 {
-    "description": "A high-difficulty climbing game inspired by Sexy Hiking.",
-    "developers": [
-        {
-            "id": "521816565541240837",
-            "name": "Bennett Foddy"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f61d2ad31d598449d3cb9aaaa4035f2c",
     "id": "389968138688659466",
-    "name": "Getting Over It with Bennett Foddy",
-    "publishers": [
-        {
-            "id": "521816565541240837",
-            "name": "Bennett Foddy"
-        }
-    ],
-    "splash": "b78551e2f9cdc808b6e17a7f1076a1f9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "240720",
-            "sku": "240720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "762ac1187eb92fa8d9bbf6b3ab70be8c53675215f3e71480b768d2049e55fbe8"
+    "name": "Getting Over It with Bennett Foddy"
 }

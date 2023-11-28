@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7a82dbb0da4750edf97addd9f12a7467",
     "id": "1124355498364391626",
-    "name": "Her New Memory",
-    "publishers": [
-        {
-            "id": "1124355498888675450",
-            "name": "Zodiacus Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1296770",
-            "sku": "1296770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "94892795ea8c407fcc06bb4cd5b03712d3283a46838f1a88a878536dc70f3e4d"
+    "name": "Her New Memory"
 }

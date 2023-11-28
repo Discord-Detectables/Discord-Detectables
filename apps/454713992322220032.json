@@ -1,11 +1,4 @@
 {
-    "description": "Fortified! is an action strategy game set in 1950's sci-fi.",
-    "developers": [
-        {
-            "id": "521816637481943060",
-            "name": "Clapfoot"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cd416b71f40f5ceb9ec3d38c8df9708a",
     "id": "454713992322220032",
-    "name": "Fortified",
-    "publishers": [
-        {
-            "id": "521816637481943060",
-            "name": "Clapfoot"
-        }
-    ],
-    "splash": "b74d529f0ac8a52b146a4496139e2f1e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "334210",
-            "sku": "334210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "776871ca9c4f529d943623d8e53492b8562174d25846c78981823d9c4c09b0f1"
+    "name": "Fortified"
 }

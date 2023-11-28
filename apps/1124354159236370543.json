@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "de01d6e415078a0afba441b493b3b46d",
     "id": "1124354159236370543",
-    "name": "SD GUNDAM G GENERATION CROSS RAYS",
-    "publishers": [
-        {
-            "id": "1124354159739682956",
-            "name": "TOM CREATE"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "728530",
-            "sku": "728530"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e914f2a41f1fbb1f31d343ffd3136ad81f1521055d257bdbbf104fcb0c26ea41"
+    "name": "SD GUNDAM G GENERATION CROSS RAYS"
 }

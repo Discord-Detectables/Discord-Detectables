@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b06552eda85ca03d1bd143b9ac290733",
     "id": "1124355946035032164",
-    "name": "Wayward",
-    "publishers": [
-        {
-            "id": "524352564129693706",
-            "name": "Unlok"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "379210",
-            "sku": "379210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33f0006da486892cfdd0eda234b4397f6b405a4dacb4ebe180a549a563472c04"
+    "name": "Wayward"
 }

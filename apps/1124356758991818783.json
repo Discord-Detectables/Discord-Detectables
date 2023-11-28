@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "56974d7efbd7f3043e637075507665fe",
     "id": "1124356758991818783",
-    "name": "Cepheus Protocol",
-    "publishers": [
-        {
-            "id": "1124356759457382531",
-            "name": "Halcyon Winds"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "979640",
-            "sku": "979640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f0141c14dcf7419242498831eef4871fe937a26797966f7d03389f1bce39ac5d"
+    "name": "Cepheus Protocol"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Tom Clancy's Rainbow Six: Vegas"
     ],
-    "description": "A reboot of sorts for the Rainbow Six series, Tom Clancy's Rainbow Six: Vegas drops the player into a fictional version of Las Vegas to stop a terrorist plot.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,31 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0c656d272a9e2b9ea9e02522305b1cf",
     "id": "425460989602037770",
-    "name": "Tom Clancy's Rainbow Six Vegas",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "7a373c007a3a6ad4f5d3feecce8b3ec2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15120",
-            "sku": "15120"
-        },
-        {
-            "distributor": "steam",
-            "id": "13540",
-            "sku": "13540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8f4abcf11cea9e52812b2aefe82cd28f458e7323d0e78a94c83f586ba3dda207"
+    "name": "Tom Clancy's Rainbow Six Vegas"
 }

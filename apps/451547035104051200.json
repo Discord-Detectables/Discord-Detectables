@@ -1,11 +1,4 @@
 {
-    "description": "S.T.A.L.K.E.R.:Call Of Pripyat (Зов Припяти) is the third game in the S.T.A.L.K.E.R. franchise, and picks up shortly after the events of the original game. Call of Pripyat takes elements from both the original game and the prequel, Clear Sky, and is generally considered the most polished and most accessible game in the series.",
-    "developers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,30 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c050b49a4880717f1bdc5e9a408946c7",
     "id": "451547035104051200",
-    "name": "S.T.A.L.K.E.R.: Call of Pripyat",
-    "publishers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        },
-        {
-            "id": "521816551486259238",
-            "name": "bitComposer Games"
-        }
-    ],
-    "splash": "1c10b79ad68a738470d7a5c387eb9cf6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "41700",
-            "sku": "41700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15f0b78da4ce61b4cb8192e2741789245746c51f84c86d733be4cedb0a1f3405"
+    "name": "S.T.A.L.K.E.R.: Call of Pripyat"
 }

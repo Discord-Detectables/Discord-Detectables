@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f5aba4ab07a9c86b4b70d25e299e8813",
     "id": "1124352831495876618",
-    "name": "Burnout™ Paradise Remastered",
-    "publishers": [
-        {
-            "id": "542075586886107157",
-            "name": "Electronic Arts, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "f4fbfce394c39195e22ba3b16ea59dfa15a8323fba954725a3b6a923056c05a8"
+    "name": "Burnout™ Paradise Remastered"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A satirical fantasy hack-and-slash action adventure in which you and up to three friends take on The Forces of Evil by wielding eight elements of magick and combining them in unique ways.",
-    "developers": [
-        {
-            "id": "521816662723526658",
-            "name": "Arrowhead Game Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c591e6bedd9925b15ba1ac27c3375124",
     "id": "426525158627606568",
-    "name": "Magicka",
-    "publishers": [
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        },
-        {
-            "id": "521816662723526658",
-            "name": "Arrowhead Game Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "42910",
-            "sku": "42910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ea2f4adc1b3ec51674ad70e69f0afff8991fd676b695d24f4e8c48d49498a0f"
+    "name": "Magicka"
 }

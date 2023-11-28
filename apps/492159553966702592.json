@@ -1,5 +1,4 @@
 {
-    "description": "Ring Of Elysium",
     "executables": [
         {
             "is_launcher": false,
@@ -7,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "487271370405707777",
     "hook": true,
-    "icon": "5d648cef11e3cbf07007fa13d05f3748",
     "id": "492159553966702592",
-    "name": "Ring of Elysium",
-    "publishers": [
-        {
-            "id": "521816504392482820",
-            "name": "Tencent Games"
-        }
-    ],
-    "splash": "4e67b810734668303fbd02712c76d368",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "755790",
-            "sku": "755790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "673c76782093f66a62e071b6ac3f6189f2567eeab4f945a84e78c5bb72f36d14"
+    "name": "Ring of Elysium"
 }

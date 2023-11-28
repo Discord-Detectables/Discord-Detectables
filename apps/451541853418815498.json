@@ -1,5 +1,4 @@
 {
-    "description": "Formerly known as Teewars, Teeworlds is a combat platformer for up to 16 players.",
     "executables": [
         {
             "is_launcher": false,
@@ -12,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9cde8b3e1619a319aea30e1fe1d2df7d",
     "id": "451541853418815498",
-    "name": "Teeworlds",
-    "publishers": [
-        {
-            "id": "521816523430428672",
-            "name": "Teeworlds Team"
-        }
-    ],
-    "splash": "ada15dbfce46140e560aa3f9137b83d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "380840",
-            "sku": "380840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e559164492d7eff80c3a42ee26eaac8e572149a98f1e528402f4515ad825d4e3"
+    "name": "Teeworlds"
 }

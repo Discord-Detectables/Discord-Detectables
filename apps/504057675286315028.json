@@ -1,11 +1,4 @@
 {
-    "description": "A spin-off of the Borderlands series of first-person shooters, Tales from the Borderlands is an episodic adventure game where a reluctant group of civilians try to strike it rich in the hostile world of Pandora.",
-    "developers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,36 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1217e5e0af6c05067815ab8e27e54f7",
     "id": "504057675286315028",
-    "name": "Tales from the Borderlands",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "splash": "db4c51253450c83706c23ea98e63c6a9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "twitch",
-            "id": "",
-            "sku": ""
-        },
-        {
-            "distributor": "steam",
-            "id": "330830",
-            "sku": "330830"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "e63f62a4c0c8e24b8694e4b710f7b432c96d60182926e84c90e9e7d1134fce60"
+    "name": "Tales from the Borderlands"
 }

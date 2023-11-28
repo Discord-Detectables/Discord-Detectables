@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cd32d937c9adb08be9aba71e6ffbe24b",
     "id": "1124352315944611902",
-    "name": "Gladio and Glory",
-    "publishers": [
-        {
-            "id": "1124352315944611903",
-            "name": "Adi Zhavo"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1527910",
-            "sku": "1527910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0b806640f0a27b8d1241e8a51020d19f443338336aca62f87e78e9ab2fae2b77"
+    "name": "Gladio and Glory"
 }

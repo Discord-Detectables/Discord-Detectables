@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4d58bc60adfdba3cc8240a86fd78a3b",
     "id": "1124355319364071444",
-    "name": "Rogue : Genesia",
-    "publishers": [
-        {
-            "id": "1124355319796093089",
-            "name": "Huard Ouadi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2067920",
-            "sku": "2067920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e2f66a586e23420c6ce4d95db75b19ac91abb1819d50453e76ba1c887f40bfaf"
+    "name": "Rogue : Genesia"
 }

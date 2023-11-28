@@ -3,13 +3,6 @@
         "Need for Speed(TM) Hot Pursuit",
         "Need for Speed: Hot Pursuit"
     ],
-    "description": "Criterion's reboot of one of the most popular games in the Need for Speed series. The game features Racer versus Cop gameplay and can be played from either perspective at any time.",
-    "developers": [
-        {
-            "id": "521816761948045361",
-            "name": "Criterion Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -22,33 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "13f922f64a6ee1cddac00e858514e6c6",
     "id": "452295877978095646",
-    "name": "Need for Speed: Hot Pursuit",
-    "publishers": [
-        {
-            "id": "521816761948045361",
-            "name": "Criterion Games"
-        },
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        },
-        {
-            "id": "521816761948045361",
-            "name": "Criterion Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "47870",
-            "sku": "47870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "193053bdab220e541028f3606a1a5deaa78c5f5f45879a58124336c955c2dafe"
+    "name": "Need for Speed: Hot Pursuit"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Batman™: Arkham VR"
     ],
-    "description": "A VR short story within the Arkham universe.",
-    "developers": [
-        {
-            "id": "521816538664402945",
-            "name": "Rocksteady Studios Ltd"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "07e5f4d1295868b5fb632eb1340297bc",
     "id": "425437344758366216",
-    "name": "Batman: Arkham VR",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "3d61a51df90e676b7142e41d911b29a1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "502820",
-            "sku": "502820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "768f7dd73b4f3fead317b3dbc0aed406803cc6e5471339e54dc64ce33d12ccc5"
+    "name": "Batman: Arkham VR"
 }

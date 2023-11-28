@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "35723f934243e03750f68cca8d70b652",
     "id": "1146610477636534383",
-    "name": "Sea of Stars",
-    "publishers": [
-        {
-            "id": "577507951569403905",
-            "name": "Sabotage Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1244090",
-            "sku": "1244090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6fe18d7eaa07a15f2d774edaaabc72652c08c5fc49c5cb5004a991bbac8f7583"
+    "name": "Sea of Stars"
 }

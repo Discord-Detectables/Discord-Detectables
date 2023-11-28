@@ -2,9 +2,6 @@
     "aliases": [
         "DOOM II: Hell on Earth"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d1022c74a7cd92a8f5593f9b02e9d1c9",
     "id": "1174042035276230686",
-    "name": "DOOM II: Hell on Earth",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2300",
-            "sku": "2300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "40679b6c244b12b6a74492b885386ffa8cc00cee9af006e083abbee041e8d1c3"
+    "name": "DOOM II: Hell on Earth"
 }

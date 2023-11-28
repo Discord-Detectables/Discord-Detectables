@@ -1,5 +1,4 @@
 {
-    "description": "Released in 2013, MapleRoyals is the most popular reincarnation of the widely successful MMORPG MapleStory as it was back in 2007. It has been lovingly developed using custom assets allowing it to become the only legitimate MapleStory abandonware without any copyright infringement.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "88fcbd912890a46f449d50379cb26bdd",
     "id": "505490321174560783",
-    "name": "MapleRoyals",
-    "publishers": [
-        {
-            "id": "521816509111336960",
-            "name": "MapleRoyals"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "e6202b0251c2619c95eff0f1cd433ca8722388d855a45010edcc6349e26ac7c9"
+    "name": "MapleRoyals"
 }

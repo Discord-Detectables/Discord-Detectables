@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba65a3044010991e4fab5c806a1a50ef",
     "id": "1124358175420862625",
-    "name": "Serious Sam VR: The Last Hope",
-    "publishers": [
-        {
-            "id": "1124357796410970226",
-            "name": "Croteam VR"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "465240",
-            "sku": "465240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "737e3c8854b2b2a24fe1a257656809a6870a0bc1022741bbc1846648f76db426"
+    "name": "Serious Sam VR: The Last Hope"
 }

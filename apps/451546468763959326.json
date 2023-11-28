@@ -1,11 +1,4 @@
 {
-    "description": "The fifth installment in the Total War series from The Creative Assembly. Empire: Total War features the series' hallmark blend of real-time strategic battles, and turn-based empire building. Empire takes place during the 18th century — an age of imperial expansion, trade, rifles and cannons.",
-    "developers": [
-        {
-            "id": "521816720503996437",
-            "name": "The Creative Assembly"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f78df49783b7b25370b910b0b717b68d",
     "id": "451546468763959326",
-    "name": "Empire: Total War",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "3b0e124db545fe4ffec3f0f1b2300fbf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "10500",
-            "sku": "10500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "07a3bb885da7fe5fbab4dd3125249c5c480a71629b44d2efd247a5c1e4bd42d1"
+    "name": "Empire: Total War"
 }

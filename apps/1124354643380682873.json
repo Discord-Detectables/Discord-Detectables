@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a611a1103c9ed09faac3f35954a8b62a",
     "id": "1124354643380682873",
-    "name": "LoveBeat",
-    "publishers": [
-        {
-            "id": "524352509142237211",
-            "name": "CrazyDiamond Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "354290",
-            "sku": "354290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "aaa7c4db51c2447d58d935d381d7bd39a2c7a2ffba105e33d4ce4a820ca45b5a"
+    "name": "LoveBeat"
 }

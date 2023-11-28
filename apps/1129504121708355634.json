@@ -2,9 +2,6 @@
     "aliases": [
         "夜族崛起"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4565af6ac3cf99719dc9408fdad4baa8",
     "id": "1129504121708355634",
-    "name": "V Rising",
-    "publishers": [
-        {
-            "id": "521816546499362828",
-            "name": "Stunlock Studios"
-        },
-        {
-            "id": "521816546499362828",
-            "name": "Stunlock Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1604030",
-            "sku": "1604030"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c7e1e63f1131ecacfd7e0e550a1d1329ed8096a810e51a6d9d3098c054d71a6"
+    "name": "V Rising"
 }

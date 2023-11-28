@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "be27a6de8af8d30e228cae971e6f69e0",
     "id": "1124360600324157510",
-    "name": "Club Soccer Director 2021",
-    "publishers": [
-        {
-            "id": "1124360600768761908",
-            "name": "Go Play Games Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1354300",
-            "sku": "1354300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a23325ef543a39cf98fb71efe5d6bb4569a718ee2c50e84996a658d55e794bed"
+    "name": "Club Soccer Director 2021"
 }

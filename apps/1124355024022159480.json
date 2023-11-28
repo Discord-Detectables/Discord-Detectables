@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4b8b0d2c114a443330974bad951d10b9",
     "id": "1124355024022159480",
-    "name": "Super Dirt Racers",
-    "publishers": [
-        {
-            "id": "1124355024458362960",
-            "name": "Haphazard Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1528240",
-            "sku": "1528240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9489ad58c562a962740bdb7516fb4ce68ead5d0f81de9d5d8756938f973e0125"
+    "name": "Super Dirt Racers"
 }

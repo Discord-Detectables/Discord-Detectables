@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bc0ca8d08f928bbeec228a88abb22eae",
     "id": "1124360456170131558",
-    "name": "CRIMESIGHT",
-    "publishers": [
-        {
-            "id": "521816738807939112",
-            "name": "Konami Digital Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1491710",
-            "sku": "1491710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "31446ca303b5aa550d2437bdc990a11bca2cea91d903ac04e18f2a6f7f65bd79"
+    "name": "CRIMESIGHT"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc7701a9ce9a9df26c31303826ac2492",
     "id": "1124358860120018964",
-    "name": "Hello Charlotte: Childhood's End",
-    "publishers": [
-        {
-            "id": "1124356450433642526",
-            "name": "etherane"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "760890",
-            "sku": "760890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b80c1282e79a73aedefffb5003863fd0265069262890cdf51acbb12b6572ef6e"
+    "name": "Hello Charlotte: Childhood's End"
 }

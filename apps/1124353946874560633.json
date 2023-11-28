@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4811929e89e39767b673dda18cc6b342",
     "id": "1124353946874560633",
-    "name": "World of Goo",
-    "publishers": [
-        {
-            "id": "524351989803384838",
-            "name": "2D Boy"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "22000",
-            "sku": "22000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b632b668f3037aeb2b72c53ee6ddf3c2c59ef9667403f7403f145bac0fb5fdc3"
+    "name": "World of Goo"
 }

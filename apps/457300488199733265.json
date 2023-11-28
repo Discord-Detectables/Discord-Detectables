@@ -2,7 +2,6 @@
     "aliases": [
         "Mabinogi Heroes (Vindictus)"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,12 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "53f7e4554dd46892589b5ae55bf1ae50",
     "id": "457300488199733265",
-    "name": "마비노기 영웅전",
-    "summary": "",
-    "type": 1,
-    "verify_key": "767bd9c8dddc301ea4ec0472362014ad5ffa899cbf6a8ea817630467a8282271"
+    "name": "마비노기 영웅전"
 }

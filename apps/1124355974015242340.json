@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f8090087f6e781ea08b02b80d5b632db",
     "id": "1124355974015242340",
-    "name": "8-Bit Bayonetta",
-    "publishers": [
-        {
-            "id": "1124355974514360431",
-            "name": "PlatinumGames, Bitbaboon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "567090",
-            "sku": "567090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "19f0a515c036047d4de61921ef98254e70021322fbc21b6dbd4b96cb16bb8cdd"
+    "name": "8-Bit Bayonetta"
 }

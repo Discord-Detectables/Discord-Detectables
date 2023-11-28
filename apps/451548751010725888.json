@@ -1,11 +1,4 @@
 {
-    "description": "A management simulation game where players run and manage their own camera girl operations.",
-    "developers": [
-        {
-            "id": "521816734374559755",
-            "name": "HuniePot"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16ce25fb950c2f431abcf263d461a782",
     "id": "451548751010725888",
-    "name": "HunieCam Studio",
-    "publishers": [
-        {
-            "id": "521816734374559755",
-            "name": "HuniePot"
-        }
-    ],
-    "splash": "e3ebf52c19fdce5b765d4172c2828b08",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "426000",
-            "sku": "426000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4791f10aa6d4f19e2f94dc4e662ee5fa5c0fea708d2d352e7f3a2f56a8ecdd70"
+    "name": "HunieCam Studio"
 }

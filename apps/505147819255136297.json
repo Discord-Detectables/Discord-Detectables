@@ -2,7 +2,6 @@
     "aliases": [
         "Modlands"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,18 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2c8f529ca7005eb4838fe1117bb81f8a",
     "id": "505147819255136297",
-    "name": "Modlands 0.512a version 0.512a",
-    "publishers": [
-        {
-            "id": "521816550102138910",
-            "name": "Triplejump"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "18fbf59600aad360297a57d8a7c8acb038e7a3a90dcd9d9f6e7ea50e4005855b"
+    "name": "Modlands 0.512a version 0.512a"
 }

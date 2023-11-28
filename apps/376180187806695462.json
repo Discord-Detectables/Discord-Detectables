@@ -1,11 +1,4 @@
 {
-    "description": "Day of Infamy is a tactical WW2 shooter from the creators of Insurgency.",
-    "developers": [
-        {
-            "id": "521816505688522756",
-            "name": "New World Interactive"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "93bdbcbb329e92c1a8449e13b1c1cd05",
     "id": "376180187806695462",
-    "name": "Day of Infamy",
-    "publishers": [
-        {
-            "id": "521816505688522756",
-            "name": "New World Interactive"
-        }
-    ],
-    "splash": "5c72d0711b3e8bcc35d1b539046772d3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "447820",
-            "sku": "447820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3bd2131d5f23172a4e6996f9e8dbf1b3483a583bf7b498414e9ef1ef92efd54"
+    "name": "Day of Infamy"
 }

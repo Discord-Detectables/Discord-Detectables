@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e05c3b8d27ba08c22efeed005f39f188",
     "id": "1124357328821567548",
-    "name": "Bone Voyage",
-    "publishers": [
-        {
-            "id": "560768576064323594",
-            "name": "Team Cobblestone"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1058370",
-            "sku": "1058370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2ad9d44b35c2c1b95e333b93c31a5640819e3d6a668e94303b1b3512e2fab1da"
+    "name": "Bone Voyage"
 }

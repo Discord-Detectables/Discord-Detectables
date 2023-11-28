@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "micro civilization/civ.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1178847742664122438",
+    "name": "Microcivilization"
+}

@@ -2,9 +2,6 @@
     "aliases": [
         "RPG Maker 2003"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bff2787d2a470505e36dcef1003f2a8c",
     "id": "1129505442758934539",
-    "name": "RPG Maker 2003",
-    "publishers": [
-        {
-            "id": "1124354978614628422",
-            "name": "Gotcha Gotcha Games"
-        },
-        {
-            "id": "1124355118985392278",
-            "name": "KADOKAWA"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "362870",
-            "sku": "362870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "62ea3ad8cf9ab76459708b1f164bd2eeed7eddb6c8ddfc02866f8ddf0c039160"
+    "name": "RPG Maker 2003"
 }

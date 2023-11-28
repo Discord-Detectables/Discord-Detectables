@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e7bb6a62e3505de7894d7c370ed2d433",
     "id": "1124360420069748886",
-    "name": "J.A.W.S",
-    "publishers": [
-        {
-            "id": "1124360420640182272",
-            "name": "Corn Fed Games, LLC."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "753610",
-            "sku": "753610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "21171a5a5bb4cfb43e14b7480db1aa830b9ba67ebb74d982fc6f001b597367a3"
+    "name": "J.A.W.S"
 }

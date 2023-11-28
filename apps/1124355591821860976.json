@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e5e9bd4784e27ca156ea5c14695fba08",
     "id": "1124355591821860976",
-    "name": "Crashlands",
-    "publishers": [
-        {
-            "id": "524352507368177668",
-            "name": "Butterscotch Shenanigans"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "391730",
-            "sku": "391730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c5c86cbefad6207a2f3e2c7fafde70fbfdd8e6f6822b371f446dd2420d529729"
+    "name": "Crashlands"
 }

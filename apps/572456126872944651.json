@@ -2,36 +2,19 @@
     "aliases": [
         "Satisfactory"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "win64/factorygame-win64-shipping.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "factorygame-win64-shipping.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "370472939054956546",
-    "hook": true,
-    "icon": "6c79b34ca44fc2bf906925038d03a2b5",
-    "id": "572456126872944651",
-    "name": "Satisfactory",
-    "publishers": [
-        {
-            "id": "572491148766216192",
-            "name": "Larian Studios (Coop-Land)"
         },
         {
-            "id": "572491148766216192",
-            "name": "Larian Studios (Coop-Land)"
+            "is_launcher": false,
+            "name": "win64/factorygame-win64-shipping.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "8f465ffc6ddb3beeec6628d76f243fe5b7389f062023b920c4bb6757b958e0d0"
+    "hook": true,
+    "id": "572456126872944651",
+    "name": "Satisfactory"
 }

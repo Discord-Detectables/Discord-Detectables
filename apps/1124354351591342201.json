@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d1c9f19c61751a298a2afeb0b54e249b",
     "id": "1124354351591342201",
-    "name": "Wild Life Demo",
-    "publishers": [
-        {
-            "id": "1124354352132403312",
-            "name": "Candy Valley Network GmbH"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1767750",
-            "sku": "1767750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "421dc0f080ec11e3b76408efdee8120a2b51f9bfc2b05c9e14b6f847710fba28"
+    "name": "Wild Life Demo"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b2b29723ff45f8a0da13c2ad1445b86a",
     "id": "1124359629451837560",
-    "name": "RUKIMIN's Disappointing Adventure!",
-    "publishers": [
-        {
-            "id": "1124359629929984023",
-            "name": "RUKIMIN."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1843350",
-            "sku": "1843350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "523bd51b1d8424ffb51d786d607c046aab1a65ee0d6dc162d48bf95b5b7a44a1"
+    "name": "RUKIMIN's Disappointing Adventure!"
 }

@@ -1,5 +1,4 @@
 {
-    "description": "High Octane Drift",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fa16a557d272cfafbc76ad996354bf9b",
     "id": "451544776895103006",
-    "name": "High Octane Drift",
-    "publishers": [
-        {
-            "id": "521816631354327041",
-            "name": "Cruderocks"
-        }
-    ],
-    "splash": "ee19f6843421cca2b6d72feaf1a97773",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "457330",
-            "sku": "457330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "938b81ecb1772e07bd840d9f767f620645f084c56e182df116a70fca13c252c7"
+    "name": "High Octane Drift"
 }

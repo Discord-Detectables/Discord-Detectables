@@ -1,12 +1,4 @@
 {
-    "cover_image": "003ac668130865c43eb1eb8acc8f94c3",
-    "description": "Crossfire is a free-to-play multiplayer first person shooter for PC. Players compete in different game modes to complete objectives and secure wins. The game has over 30 modes from traditional team matches to playing against mutants and Zombies, with over 1,000 different weapon types and skins.",
-    "developers": [
-        {
-            "id": "521816563456802829",
-            "name": "Smilegate"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,22 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "360821102580072449",
     "hook": true,
-    "icon": "89bc82482d4f321ab8fae27247d54949",
     "id": "446061929283321856",
-    "name": "CrossFire",
-    "primary_sku_id": "446061929283321856",
-    "publishers": [
-        {
-            "id": "521816563456802825",
-            "name": "Smilegate West"
-        }
-    ],
-    "slug": "crossfire",
-    "splash": "ab6d298619159f8408105b44d2932640",
-    "summary": "",
-    "type": 1,
-    "verify_key": "765b5d7aa8390706820b490c9cdd8b6f5add5c69998da5e538a0184e2f518792"
+    "name": "CrossFire"
 }

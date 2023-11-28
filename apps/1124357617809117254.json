@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ebef1e0706347c0f7140032298cbbff7",
     "id": "1124357617809117254",
-    "name": "Ultimate General: Gettysburg",
-    "publishers": [
-        {
-            "id": "524352333501562912",
-            "name": "Game-Labs"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "306660",
-            "sku": "306660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f9026a23b30ef84109d20c9039258b9cef7e0cde7aece0a838d9e54d1be28097"
+    "name": "Ultimate General: Gettysburg"
 }

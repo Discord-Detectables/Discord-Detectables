@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "aa0f367dead7b0bb652e5374a69876c5",
     "id": "1124359763468234802",
-    "name": "Braveland Heroes",
-    "publishers": [
-        {
-            "id": "524352321484750853",
-            "name": "Tortuga Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "931650",
-            "sku": "931650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c09b7eac7154af483017970fa65de5d8dc137b4bb23cdc15b2b3bde628595953"
+    "name": "Braveland Heroes"
 }

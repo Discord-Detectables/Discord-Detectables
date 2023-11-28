@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "958d8bcdd5d3d1cb5b1a6fce8c5646ab",
     "id": "1124353890138210414",
-    "name": "Carnal Instinct",
-    "publishers": [
-        {
-            "id": "1124353890683465758",
-            "name": "Team Carnal Instinct"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1495320",
-            "sku": "1495320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bc82b01d933c4a4f78095ead8d41af60af1a6203198431984ae99ca9a6bf53bc"
+    "name": "Carnal Instinct"
 }

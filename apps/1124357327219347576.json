@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a607bd316ef0918bcb2ebc5247eda5f5",
     "id": "1124357327219347576",
-    "name": "Murder by Numbers",
-    "publishers": [
-        {
-            "id": "524352083227574277",
-            "name": "Mediatonic"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1140290",
-            "sku": "1140290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7853cbcbacaf4999af7e80af19954c5203171d03e1451d3ec356732c7189d60d"
+    "name": "Murder by Numbers"
 }

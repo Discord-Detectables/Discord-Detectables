@@ -1,11 +1,4 @@
 {
-    "description": "AdventureQuest 3D is a cross-platform MMO RPG made by Artix Entertainment. Players can play on their PC and carry on with the same character and progress on their mobile device.",
-    "developers": [
-        {
-            "id": "521816574512857090",
-            "name": "Artix Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7d8ad1935175cba60b184e67c654895a",
     "id": "451546156024201217",
-    "name": "AdventureQuest 3D",
-    "publishers": [
-        {
-            "id": "521816574512857090",
-            "name": "Artix Entertainment"
-        }
-    ],
-    "splash": "e473b93d04d49def0c28d48a9e8f8c3d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "429790",
-            "sku": "429790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "90efad9c229d2b27d97a6654f2b924f05f883df5b91c6e91276725667121be6f"
+    "name": "AdventureQuest 3D"
 }

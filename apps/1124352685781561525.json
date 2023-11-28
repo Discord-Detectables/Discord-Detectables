@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "086121a45c26563e1b643dda73a39769",
     "id": "1124352685781561525",
-    "name": "Kind Words",
-    "publishers": [
-        {
-            "id": "524352067356327940",
-            "name": "Popcannibal"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1070710",
-            "sku": "1070710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "94c1344fbbd6319f79ee9cc836b8f13ee131c844cb3cf794c79976e696a080a1"
+    "name": "Kind Words"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e71a1019c2f233ab48b3d58aea19cf7c",
     "id": "1124354544084725941",
-    "name": "Inferna",
-    "publishers": [
-        {
-            "id": "1124354544760017017",
-            "name": "INFERNA LIMITED"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1191330",
-            "sku": "1191330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a911b5791d6912eeb246b6b6448945917551c2deb00bf1adba085b78a3300ced"
+    "name": "Inferna"
 }

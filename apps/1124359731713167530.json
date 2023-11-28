@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3ab8eadd11c97dac392127b94d595093",
     "id": "1124359731713167530",
-    "name": "The Pedestrian Demo",
-    "publishers": [
-        {
-            "id": "524352572455256098",
-            "name": "Skookum Arts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1240870",
-            "sku": "1240870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ca4b3f1e1769a9c6b6fed6f877c1ac8e09e5d9555ce19846eafb76474be481b2"
+    "name": "The Pedestrian Demo"
 }

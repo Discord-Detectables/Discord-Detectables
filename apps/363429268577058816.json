@@ -2,13 +2,6 @@
     "aliases": [
         "Warhammer End Times Vermintide"
     ],
-    "description": "Mixing the grimdark fantasy world of Warhammer with the co-operative horde-slaying gameplay of the Left 4 Dead series, Vermintide pits a ragtag group of heroes against an endless army of the underground-dwelling Skaven.",
-    "developers": [
-        {
-            "id": "521816633392627715",
-            "name": "Fatshark AB"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,28 +9,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "268103c03c514cef692527189ab31054",
     "id": "363429268577058816",
     "name": "Warhammer: End Times - Vermintide",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816633392627715",
-            "name": "Fatshark AB"
-        }
-    ],
-    "splash": "dfd5b9b9241f4f475f956ada2cbefb97",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "235540",
-            "sku": "235540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "56c61f162d67c6aec7d0a2f609f2d5245c4d5a7c2ce08005272e322cefd9420b"
+    "overlay_compatibility_hook": true
 }

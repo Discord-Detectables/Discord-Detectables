@@ -2,13 +2,6 @@
     "aliases": [
         "Dead Space™ 2"
     ],
-    "description": "Dead Space 2 is the sequel to the 2008 surprise hit Dead Space. The no-longer-silent Isaac Clarke finds himself trapped on a city-sized space station called the Sprawl, which has been overtaken by another Necromorph infestation.",
-    "developers": [
-        {
-            "id": "521816624546709507",
-            "name": "Visceral Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,30 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "82689558aeff0f9119d5ce0f7c0f3832",
     "id": "496568659276201984",
-    "name": "Dead Space 2",
-    "publishers": [
-        {
-            "id": "521816624546709507",
-            "name": "Visceral Games"
-        },
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "splash": "f262015ea3a73054ea26e9a8fe206dea",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "47780",
-            "sku": "47780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2569ce5957270b8ee3bbdca1d3fb9ba0fac46ec1aacf1d15af557ce9bfe38274"
+    "name": "Dead Space 2"
 }

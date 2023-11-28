@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d0dc63fe7a2b61fc5a0a8389d5ba596b",
     "id": "1124349979658571847",
-    "name": "PICO PARK",
-    "publishers": [
-        {
-            "id": "1124349980166062231",
-            "name": "TECOPARK"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1509960",
-            "sku": "1509960"
-        }
-    ],
-    "type": 1,
-    "verify_key": "48f1d31635c6c8b07b21836ac0a8b3cd31accef474aaf90e5fac2503f2266a4f"
+    "name": "PICO PARK"
 }

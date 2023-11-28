@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e3cae3c86ec835b525292a4e44520a2d",
     "id": "1124353378579927100",
-    "name": "LEGOⓇ Indiana Jones™: The Original Adventures",
-    "publishers": [
-        {
-            "id": "1124351999513743491",
-            "name": "Traveller's Tales"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "32330",
-            "sku": "32330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e232d84a9e29747caf7a07c10990391405b809378dc8045139f1af0e6f2dfbb8"
+    "name": "LEGOⓇ Indiana Jones™: The Original Adventures"
 }

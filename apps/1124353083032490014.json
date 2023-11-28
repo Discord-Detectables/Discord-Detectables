@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db71b40c0b3acaf667ae170a4e0ae732",
     "id": "1124353083032490014",
-    "name": "Danganronpa Another Episode: Ultra Despair Girls",
-    "publishers": [
-        {
-            "id": "1124353083560968352",
-            "name": "Spike Chunsoft Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "555950",
-            "sku": "555950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fbd7046becfeb86d62d1ab3ab9cd1e3be1bf3885a79c22f93f4a326758be2fc7"
+    "name": "Danganronpa Another Episode: Ultra Despair Girls"
 }

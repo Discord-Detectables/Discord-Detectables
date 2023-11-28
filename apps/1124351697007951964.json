@@ -2,9 +2,6 @@
     "aliases": [
         "PICO PARK"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8b2ba222c0d6f751b8dc1d5add6985d6",
     "id": "1124351697007951964",
-    "name": "PICO PARK:Classic Edition",
-    "publishers": [
-        {
-            "id": "1124349980166062231",
-            "name": "TECOPARK"
-        },
-        {
-            "id": "1124349980166062231",
-            "name": "TECOPARK"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "461040",
-            "sku": "461040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ddd2e0546f8668805e2ca082ce40d972af87236fa4f3c4d91bdd2dbd03e31109"
+    "name": "PICO PARK:Classic Edition"
 }

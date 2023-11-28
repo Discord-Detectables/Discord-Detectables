@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf3435a4879975565e43f5d4c2fb0469",
     "id": "1124356902504116224",
-    "name": "SYNTHETIK 2",
-    "publishers": [
-        {
-            "id": "1124352366678917210",
-            "name": "Flow Fire Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1471410",
-            "sku": "1471410"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72aefb5732e66cb430d84c25017ff6baef30f7cef317c810bbe4aaf6a49264e0"
+    "name": "SYNTHETIK 2"
 }

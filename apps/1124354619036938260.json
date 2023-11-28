@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0c229bb51c46167c5f79040ffb03b2e8",
     "id": "1124354619036938260",
-    "name": "Hellpoint",
-    "publishers": [
-        {
-            "id": "524352734414241798",
-            "name": "Cradle Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "628670",
-            "sku": "628670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8e0dcca038986e4dfde26f7efe460445e3b1ecbdaeec17562b2be47b74d37cd5"
+    "name": "Hellpoint"
 }

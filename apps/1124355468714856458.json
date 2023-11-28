@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db2019977ef02827cca086704b447ed8",
     "id": "1124355468714856458",
-    "name": "Alien Shooter",
-    "publishers": [
-        {
-            "id": "1124355469201391797",
-            "name": "Sigma Team Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "33100",
-            "sku": "33100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7017989adf294b2a1bd8533d32415c64fb4e353424dbb6da571b55e2d39a7f2d"
+    "name": "Alien Shooter"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Anno 1404"
     ],
-    "description": "Known as Dawn of Discovery in North America, Anno 1404 is the fourth game in popular city management series.",
-    "developers": [
-        {
-            "id": "521816672781336590",
-            "name": "Blue Byte - studio Mainz"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,43 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f108a7015638d0a00640fa712b0f5664",
     "id": "496530041895911429",
-    "name": "ANNO 1404",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        },
-        {
-            "id": "521816672781336584",
-            "name": "Blue Byte"
-        },
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "89",
-            "sku": "89"
-        },
-        {
-            "distributor": "steam",
-            "id": "33250",
-            "sku": "33250"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "c3164c96aae483425203d65bb82a56778ddca6d60e6fffee206b3aa780db8785"
+    "name": "ANNO 1404"
 }

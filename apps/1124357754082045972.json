@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "42fdf7069cdbe9a4ebd524f95fdacee2",
     "id": "1124357754082045972",
-    "name": "Wrench",
-    "publishers": [
-        {
-            "id": "524353269183545345",
-            "name": "missing digit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "936720",
-            "sku": "936720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "24a4d3e2ff19ed5913726d26413f246a3c11743a68a206040881e3dcbd599c4b"
+    "name": "Wrench"
 }

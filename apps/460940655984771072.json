@@ -1,25 +1,5 @@
 {
-    "bot_public": false,
-    "bot_require_code_grant": false,
-    "cover_image": "c15b8e51c060b2bdf21da2d4706c9790",
-    "description": "King of the hat is a fast-paced, hat based, multiplayer game.",
-    "flags": 0,
-    "guild_id": "311623758395998219",
     "hook": true,
-    "icon": "d67e75e6c9c274109b40921670075773",
     "id": "460940655984771072",
-    "name": "King of the Hat",
-    "primary_sku_id": "486981988109254667",
-    "slug": "king-of-the-hat",
-    "splash": "17b4bb78ddf7149eb4aaccd9440eca85",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "486981988109254667",
-            "sku": "486981988109254667"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4a09198aa92f48de45c9dde65bd90140129e8eace9792b03227861b0ab7f7c13"
+    "name": "King of the Hat"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dacc3a5179c24337b2ad53df01997191",
     "id": "1124358155959283762",
-    "name": "Tower!3D Pro",
-    "publishers": [
-        {
-            "id": "1124358156408082542",
-            "name": "FeelThere"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "588190",
-            "sku": "588190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "72a9c34d64f0d7e98f75c79e9c8061fde4c3399ead8b50d253791b631ba28452"
+    "name": "Tower!3D Pro"
 }

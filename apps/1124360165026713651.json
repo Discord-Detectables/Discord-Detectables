@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2e09909abdf7b876bda14d380391bb17",
     "id": "1124360165026713651",
-    "name": "Sacred Sword Princesses",
-    "publishers": [
-        {
-            "id": "1124360165521637547",
-            "name": "Hope Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1084630",
-            "sku": "1084630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf98ed4096b8bdc54d3cecdd086b17827536b02ce0f273d28ec24885b591b4cc"
+    "name": "Sacred Sword Princesses"
 }

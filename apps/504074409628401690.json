@@ -2,17 +2,10 @@
     "aliases": [
         "The Elder Scrolls IV: Oblivion"
     ],
-    "description": "Travel the continent of Tamriel, defend the land against Oblivion's Daedra hordes,  and help fill the empty throne of Cyrodiil in the fourth installment of the Elder Scrolls series.",
-    "developers": [
-        {
-            "id": "521816775248183304",
-            "name": "4J Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "oblivion.exe",
+            "name": "oblivion/oblivion.exe",
             "os": "win32"
         },
         {
@@ -22,47 +15,12 @@
         },
         {
             "is_launcher": false,
-            "name": "oblivion/oblivion.exe",
+            "name": "oblivion.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "022b2e346ba2e255104f532696075a33",
     "id": "504074409628401690",
     "name": "The Elder Scrolls IV: Oblivion",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816504392482816",
-            "name": "2K Games"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        },
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "22330",
-            "sku": "22330"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "38fb533d27d0ff70f762ae60c2a28ada638e28dee5b720ff2fce60b952fe1592"
+    "overlay": true
 }

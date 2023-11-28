@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b5bfc5d5826206e797c2e4dfb44f2fb2",
     "id": "1124354763941752882",
-    "name": "Roller Champions",
-    "publishers": [
-        {
-            "id": "521816510730338325",
-            "name": "Ubisoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "11899",
-            "sku": "11899"
-        }
-    ],
-    "type": 1,
-    "verify_key": "10e97f306839f8721cec5790f7565ff832d006d7a88610a411358fc942f26268"
+    "name": "Roller Champions"
 }

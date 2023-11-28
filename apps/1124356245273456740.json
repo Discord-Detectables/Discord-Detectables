@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f27e7f8d4e3ad7a0d55d12a91966a740",
     "id": "1124356245273456740",
-    "name": "Hacker Simulator",
-    "publishers": [
-        {
-            "id": "1124354040097165362",
-            "name": "Save All Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1754840",
-            "sku": "1754840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "36f3904cb7a15513fef8c6224a9e93f7370aa0d94d4d4443ae144fb8e5b0b649"
+    "name": "Hacker Simulator"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Join the Italian resistance and snipe the hell out of fascists in the latest Sniper Elite game.",
-    "developers": [
-        {
-            "id": "521816698534494221",
-            "name": "Rebellion"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "231003172921933834",
     "hook": true,
-    "icon": "8a41d5d909a55d49234d747d2410d693",
     "id": "426524936060928011",
-    "name": "Sniper Elite 4",
-    "publishers": [
-        {
-            "id": "521816698534494221",
-            "name": "Rebellion"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "312660",
-            "sku": "312660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9f714572307c511a26cc815aeda390702cbba20b9243714fed866640b7d0fcc2"
+    "name": "Sniper Elite 4"
 }

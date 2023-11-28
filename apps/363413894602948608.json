@@ -1,11 +1,4 @@
 {
-    "description": "An MMORPG set in the world of Nirn, focusing on the familiar continent of Tamriel, taking place a thousand years before The Elder Scrolls: Skyrim.",
-    "developers": [
-        {
-            "id": "521816740712415232",
-            "name": "ZeniMax Online Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,21 +11,9 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "008b72e1eee966e10a5962413daa582f",
     "id": "363413894602948608",
     "name": "The Elder Scrolls Online",
     "overlay": true,
-    "overlay_compatibility_hook": true,
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        }
-    ],
-    "splash": "50b9a85cda85c1670d8e6b4950e291d2",
-    "summary": "",
-    "type": 1,
-    "verify_key": "fb0ee845a95ec71b7f3954173e17e2e32c4f8e96281d20ee5ed3014cf4175f7a"
+    "overlay_compatibility_hook": true
 }

@@ -1,11 +1,4 @@
 {
-    "description": "A multiplayer third-person shooter with free style combat using slow-mo, dodge mechanic slides, dives and flips.",
-    "developers": [
-        {
-            "id": "521816635749695510",
-            "name": "Double Action Factory"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "509528dbdeded1eb4ee771c7c0708b63",
     "id": "450292948911915008",
-    "name": "Double Action: Boogaloo",
-    "publishers": [
-        {
-            "id": "521816635749695510",
-            "name": "Double Action Factory"
-        }
-    ],
-    "splash": "8a9bc39ae1a02d87725ad3117e62fe20",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "317360",
-            "sku": "317360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b76e37dc6f7d1da88233b1aeca9d8fddef1700e70eee4a36e08adc38bd9ec7a8"
+    "name": "Double Action: Boogaloo"
 }

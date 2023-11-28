@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1d13158cb5a353d95d0f3fa30966bb10",
     "id": "1134319752261664819",
-    "name": "Call of Duty: Modern Warfare Remastered (2017)",
-    "publishers": [
-        {
-            "id": "521816668196831240",
-            "name": "Raven Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "393080",
-            "sku": "393080"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2a1a19dd796bce44b5872cd462045edf8065f1323972965ef281e42bf58ad1f0"
+    "name": "Call of Duty: Modern Warfare Remastered (2017)"
 }

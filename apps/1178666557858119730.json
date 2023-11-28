@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "400de2a74728ac80ca0d1eb3b1cf1d7e",
     "id": "1178666557858119730",
-    "name": "Only Up: With Friends",
-    "publishers": [
-        {
-            "id": "1178666560890617867",
-            "name": "NoGlyph Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2522520",
-            "sku": "2522520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2c42bfac5a75f258f368ba096a4d544cc61e13e7b55c1723f3140caab633102e"
+    "name": "Only Up: With Friends"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1129505856510246952",
-    "name": "Afterparty",
-    "publishers": [
-        {
-            "id": "524352509142237189",
-            "name": "Night School Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "762220",
-            "sku": "762220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c091059e93b9227a2e4125593c287d743387e15ec92ab71c40ef627964ccaa63"
+    "name": "Afterparty"
 }

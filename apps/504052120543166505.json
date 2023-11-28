@@ -1,11 +1,4 @@
 {
-    "description": "Startup Company is a sandbox business themed simulation game from 8seven.",
-    "developers": [
-        {
-            "id": "521816796441870354",
-            "name": "Hovgaard Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,31 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a8b090d7fe79743b891ba4fc628c3cdf",
     "id": "504052120543166505",
-    "name": "Startup Company",
-    "publishers": [
-        {
-            "id": "521816796441870354",
-            "name": "Hovgaard Games"
-        }
-    ],
-    "splash": "aafaa4f1538159ba5f5158a5616af168",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "606800",
-            "sku": "606800"
-        },
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "043222951a33448f3ff5d8d2bf15e20cb65a4546bb2ab1ec462bb40978efdecd"
+    "name": "Startup Company"
 }

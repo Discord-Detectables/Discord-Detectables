@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6a83e1f871d20115b19eed630a6c1c4e",
     "id": "1124356320196313088",
-    "name": "WARRIORS OROCHI 4 - 無双OROCHI３",
-    "publishers": [
-        {
-            "id": "521816779509465099",
-            "name": "KOEI TECMO GAMES CO., LTD."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "831560",
-            "sku": "831560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9af08531b97327d472a4c8ff1f470c9a92b482ddf0fa551eab36a4d24e3be48c"
+    "name": "WARRIORS OROCHI 4 - 無双OROCHI３"
 }

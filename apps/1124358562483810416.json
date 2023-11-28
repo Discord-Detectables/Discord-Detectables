@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "86f54d46e79cd5a7d65891eec97637b0",
     "id": "1124358562483810416",
-    "name": "Dead In Vinland",
-    "publishers": [
-        {
-            "id": "524352455547289604",
-            "name": "CCCP"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "573120",
-            "sku": "573120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "804f26af93d0e32fcd598799de5aa118b7187847a82262e1c84b84009cf224e1"
+    "name": "Dead In Vinland"
 }

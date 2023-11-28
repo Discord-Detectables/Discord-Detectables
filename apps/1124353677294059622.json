@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2bb0b6ec20bc912b372324d6caf16b5",
     "id": "1124353677294059622",
-    "name": "Oblivity",
-    "publishers": [
-        {
-            "id": "1124353677835120701",
-            "name": "Poly Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1389990",
-            "sku": "1389990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "54432fbbee8ca65b3383fbebdfe23560aa6be9f3161cf43df8843c4aa2fba8fd"
+    "name": "Oblivity"
 }

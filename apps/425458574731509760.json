@@ -1,11 +1,4 @@
 {
-    "description": "A platformer starring Shiny the Firefly.",
-    "developers": [
-        {
-            "id": "521816683913150496",
-            "name": "Stage Clear Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1dad916b4ec8eb8e4af444b445fe03d6",
     "id": "425458574731509760",
-    "name": "Shiny The Firefly",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "f9c1eb2d3333d2b5fce47df730425e2a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "277510",
-            "sku": "277510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "774306bcc32aa64651a0c661dcfca22c9a0f7611d1495846adb664ea13a22a0d"
+    "name": "Shiny The Firefly"
 }

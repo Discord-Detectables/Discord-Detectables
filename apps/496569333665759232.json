@@ -2,7 +2,6 @@
     "aliases": [
         "Debugger 3.16: Hack'n'Run "
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f2f629d04f88b4798e971c292b40f551",
     "id": "496569333665759232",
-    "name": "Debugger 3.16: Hack'n'Run",
-    "publishers": [
-        {
-            "id": "521816529948639235",
-            "name": "Spiderwork Games"
-        }
-    ],
-    "splash": "913c4bbb9d2899518d09557c7035d476",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "339720",
-            "sku": "339720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "14f23fba53cbbe6b708bbd6b5769dc0c011b14f14ead208f772138459b53d4ea"
+    "name": "Debugger 3.16: Hack'n'Run"
 }

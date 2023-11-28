@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0f2307436b6a582d578522a05f7ea81",
     "id": "1124353413296173229",
-    "name": "SHENZHEN I/O",
-    "publishers": [
-        {
-            "id": "521816562542313484",
-            "name": "Zachtronics"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "504210",
-            "sku": "504210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f869de9e206cd52caa69b3dbc4c5d348e0d872895bc2b280d1525ba31fe6cd4a"
+    "name": "SHENZHEN I/O"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "943d1524f3d3df9fe698590d7e2798c4",
     "id": "1124358522130415727",
-    "name": "Rock of Ages",
-    "publishers": [
-        {
-            "id": "521816597074018307",
-            "name": "ACE Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "22230",
-            "sku": "22230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6dba88e45dd44866d8a603359409370500f75b6948b16e7a187cd4342bbfb1f"
+    "name": "Rock of Ages"
 }

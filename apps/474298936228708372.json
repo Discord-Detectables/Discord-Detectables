@@ -1,12 +1,4 @@
 {
-    "cover_image": "a542e1af53eb42e0f648ba43ec70378d",
-    "description": "140 is a challenging minimalistic platformer with abstract colorful graphics. Rhythmic awareness is required to overcome obstacles controlled by an energetic, yet melancholic electronic soundtrack.",
-    "developers": [
-        {
-            "id": "521816776561131526",
-            "name": "Carlsen Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -14,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "557186095754772490",
     "hook": true,
-    "icon": "2c26a9a8af993c83be9f2a9528efe288",
     "id": "474298936228708372",
-    "name": "140",
-    "primary_sku_id": "475000062167089152",
-    "publishers": [
-        {
-            "id": "521816776561131526",
-            "name": "Carlsen Games"
-        }
-    ],
-    "slug": "140",
-    "splash": "f289cc23d7dea45b7e60af63242a7685",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "475000062167089152",
-            "sku": "475000062167089152"
-        },
-        {
-            "distributor": "steam",
-            "id": "242820",
-            "sku": "242820"
-        }
-    ],
-    "type": 1,
-    "verify_key": "537b3abad5e66e8a7264dbf6d5ae769309019a10f4a784925bcbc94d282f1ca9"
+    "name": "140"
 }

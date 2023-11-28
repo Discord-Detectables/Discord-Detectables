@@ -2,14 +2,12 @@
     "aliases": [
         "Call of Duty: World at War"
     ],
-    "description": "Treyarch takes the famous series back sixty years, with the first Call of Duty game set in the Pacific Theatre, against the Imperial Japanese in World War II.",
-    "developers": [
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        }
-    ],
     "executables": [
+        {
+            "is_launcher": false,
+            "name": "installers/pbsvc.exe",
+            "os": "win32"
+        },
         {
             "is_launcher": false,
             "name": "codwawmp.exe",
@@ -19,41 +17,9 @@
             "is_launcher": false,
             "name": "codwaw.exe",
             "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "installers/pbsvc.exe",
-            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2136149e172fcd57aec7cb76d42e0de",
     "id": "363412728888557568",
-    "name": "Call of Duty: World at War",
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
-        },
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        },
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        }
-    ],
-    "splash": "dd4156e920e8d25e80987daab25a442f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "10090",
-            "sku": "10090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "97751f3d11646017359a138abcb75471c597d8d2b58ad8f0cf28ea5bd68bce4a"
+    "name": "Call of Duty: World at War"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Rogue Legacy is a genealogical rogue-\"LITE\" where anyone can be a hero. Each time you die, your child will succeed you. Every child is unique. One child might be colorblind, another might have vertigo-- they could even be a dwarf. But that's OK, because no one is perfect, and you don't have to be to succeed.",
-    "developers": [
-        {
-            "id": "521816517071994890",
-            "name": "Cellar Door Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "403607175638941706",
     "hook": true,
-    "icon": "ad04c4f7ec687a536f574ead59935440",
     "id": "495979053371752481",
-    "name": "Rogue Legacy",
-    "primary_sku_id": "499249990728810496",
-    "publishers": [
-        {
-            "id": "521816517071994890",
-            "name": "Cellar Door Games"
-        }
-    ],
-    "slug": "rogue-legacy",
-    "splash": "99aa74b9fec6a57eee56508f182e6784",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "499249990728810496",
-            "sku": "499249990728810496"
-        },
-        {
-            "distributor": "steam",
-            "id": "241600",
-            "sku": "241600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "408a6021a459fcc4efdcf779ec0fbbeb1e7f8bd492663a9259b3aa439ddb1265"
+    "name": "Rogue Legacy"
 }

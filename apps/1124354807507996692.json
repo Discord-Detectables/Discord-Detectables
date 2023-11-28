@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16b5b49602e45f355d450c86be5122c0",
     "id": "1124354807507996692",
-    "name": "The Thrill of the Fight",
-    "publishers": [
-        {
-            "id": "1124354807994531910",
-            "name": "Sealost Interactive LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "494150",
-            "sku": "494150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5873b7b993f388faba47a468317f5777977e7d20027e33ff1cfa773d8cab55f"
+    "name": "The Thrill of the Fight"
 }

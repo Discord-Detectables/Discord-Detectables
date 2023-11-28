@@ -1,47 +1,17 @@
 {
-    "description": "A 2D sidescroller \"action platform\" roguelike game from small Netherlands developer Serious Brew, in which players jump and drill through cubic cargo containers in space as the eponymous Cargo Commander.",
-    "developers": [
-        {
-            "id": "521816685502791734",
-            "name": "Serious Brew"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "cargocommander.app",
-            "os": "darwin"
-        },
         {
             "is_launcher": false,
             "name": "cargocommander.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "ebe961e1ea44c7e894f17292f1757460",
-    "id": "496547754680647690",
-    "name": "Cargo Commander",
-    "publishers": [
-        {
-            "id": "521816685502791732",
-            "name": "Digital Tribe"
         },
         {
-            "id": "521816685502791734",
-            "name": "Serious Brew"
+            "is_launcher": false,
+            "name": "cargocommander.app",
+            "os": "darwin"
         }
     ],
-    "splash": "b09a18e087e933db1110af4555797e4c",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "220460",
-            "sku": "220460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "140f164687bdc6d8f78de81a68e9fc67a90dea9d30141fc99b07c80a907ccb69"
+    "hook": true,
+    "id": "496547754680647690",
+    "name": "Cargo Commander"
 }

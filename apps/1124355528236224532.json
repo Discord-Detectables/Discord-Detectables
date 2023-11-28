@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9e68c96a8c58edbd393b82ee14d22aeb",
     "id": "1124355528236224532",
-    "name": "Thea: The Awakening",
-    "publishers": [
-        {
-            "id": "524352484194385960",
-            "name": "Muha Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "378720",
-            "sku": "378720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "35acb7437f2dc9441f527ed3fd8f1e486f9f1e72af86f931f1b667c0a25d6619"
+    "name": "Thea: The Awakening"
 }

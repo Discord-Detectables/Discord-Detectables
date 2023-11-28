@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "74758850815431b4b1171bd77928b8b8",
     "id": "1124355878372528280",
-    "name": "DreadOut",
-    "publishers": [
-        {
-            "id": "524352318712315906",
-            "name": "Digital Happiness"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "269790",
-            "sku": "269790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d2756dd387c6cad7bc22d163bb0fae8f7ab64bcb716c20a8d73cf7768d6d7fac"
+    "name": "DreadOut"
 }

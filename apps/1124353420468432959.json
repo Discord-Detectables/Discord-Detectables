@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3f3f25a3e821f5f68a578080ab3e194b",
     "id": "1124353420468432959",
-    "name": "Error143",
-    "publishers": [
-        {
-            "id": "1124353420963369053",
-            "name": "Jenny Vi Pham"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2066550",
-            "sku": "2066550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a2b00e1ea623866393affed86173b80d9a9d36f1bcb65350ff6c8c81d0c10463"
+    "name": "Error143"
 }

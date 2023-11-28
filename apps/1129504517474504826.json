@@ -2,9 +2,6 @@
     "aliases": [
         "The Last of Us™ Parte I"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4c4ddd716cf2e9b1f2a46516674ad5f0",
     "id": "1129504517474504826",
-    "name": "The Last of Us™ Part I",
-    "publishers": [
-        {
-            "id": "1124353403104014438",
-            "name": "Naughty Dog LLC"
-        },
-        {
-            "id": "1124353403104014438",
-            "name": "Naughty Dog LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1888930",
-            "sku": "1888930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "93bf738afbd140dfa387b5278d2dc766bb4ffcd478a286cd19454e605d8a7c1c"
+    "name": "The Last of Us™ Part I"
 }

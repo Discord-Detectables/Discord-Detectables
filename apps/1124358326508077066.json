@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab0b4655bebb48b2d6804d22b3c2a5c0",
     "id": "1124358326508077066",
-    "name": "After the Inferno",
-    "publishers": [
-        {
-            "id": "1124358327011389542",
-            "name": "Classy Lemon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2027360",
-            "sku": "2027360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f83fadcfe7f91f97239755db982dc8ec8ec0326b216afea4972de1ec498668db"
+    "name": "After the Inferno"
 }

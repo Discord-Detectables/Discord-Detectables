@@ -1,11 +1,4 @@
 {
-    "description": "Overcooked! returns in this multiplatform sequel now with online play.",
-    "developers": [
-        {
-            "id": "521816619115085825",
-            "name": "Ghost Town Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "28fbee56b0c9d001f863772236f9753a",
     "id": "479169486583496704",
-    "name": "Overcooked! 2",
-    "publishers": [
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
-    "splash": "67e2cef23492f41592581e3e7ac4ed6e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "728880",
-            "sku": "728880"
-        }
-    ],
-    "type": 1,
-    "verify_key": "57df64f8c4b0718a488e2e808dd0632fd923ac10a7358f1f3546e9bd5b2ea4ce"
+    "name": "Overcooked! 2"
 }

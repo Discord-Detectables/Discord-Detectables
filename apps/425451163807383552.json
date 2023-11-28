@@ -1,11 +1,4 @@
 {
-    "description": "ArcaniA: Gothic 4 is the 4th installment in the European Action RPG franchise Gothic, and the first after JoWood's split with the original franchise developer.",
-    "developers": [
-        {
-            "id": "521816587586633730",
-            "name": "Spellbound Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7aca019487a5e8879b7f18d113db6e60",
     "id": "425451163807383552",
-    "name": "ArcaniA",
-    "publishers": [
-        {
-            "id": "521816528895737860",
-            "name": "JoWooD Productions Software AG"
-        }
-    ],
-    "splash": "a4716feb85eae01129b7fdad385d9f87",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "39690",
-            "sku": "39690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f29341d4cfb2b6b0ec3a75e02f9962b92bcc578d784512ec7a561764ac9dae89"
+    "name": "ArcaniA"
 }

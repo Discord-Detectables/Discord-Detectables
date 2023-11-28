@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "48d84d91bda0abf254506ac6c30a0140",
     "id": "1124351840608333845",
-    "name": "Days Gone",
-    "publishers": [
-        {
-            "id": "1124351841107464233",
-            "name": "Bend Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1259420",
-            "sku": "1259420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a9081f1dc44a2357d39fd6d165155e53fae3ee8d10c139d8a7fb0fcce046ac42"
+    "name": "Days Gone"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b23d7ee86ab5d2957efb6c32320bd75e",
     "id": "1124359684476911646",
-    "name": "Train Station Renovation Demo",
-    "publishers": [
-        {
-            "id": "1124353954864713748",
-            "name": "Live Motion Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1286450",
-            "sku": "1286450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e537f6f73f4ad344a443063ef1e7ef1c1ed57994ecfab99689aab7f49e2074e5"
+    "name": "Train Station Renovation Demo"
 }

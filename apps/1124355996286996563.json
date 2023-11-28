@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "673936fca76058a24ee05bf0273f56fb",
     "id": "1124355996286996563",
-    "name": "Lucid Dream",
-    "publishers": [
-        {
-            "id": "1124355996786114560",
-            "name": "sizrit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1264740",
-            "sku": "1264740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f1d54912e9807058fe7fe55c2dbe4d5fa731316adae6f198977db0803d13bf91"
+    "name": "Lucid Dream"
 }

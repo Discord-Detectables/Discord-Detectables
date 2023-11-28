@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b380ec60cf990545c3f5d39cc660dc0b",
     "id": "1124353296606441633",
-    "name": "Rise of Legions",
-    "publishers": [
-        {
-            "id": "524353170256953359",
-            "name": "Broken Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "748940",
-            "sku": "748940"
-        }
-    ],
-    "type": 1,
-    "verify_key": "042e16f84a500f1b3643ee1dc1215fb36b92798beb3377d1a9d04a0f47a10b19"
+    "name": "Rise of Legions"
 }

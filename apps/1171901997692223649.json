@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7fe1ac3c4d37dda82c0d0b2dd3275f43",
     "id": "1171901997692223649",
-    "name": "Risk of Rain Returns",
-    "publishers": [
-        {
-            "id": "521816623976415265",
-            "name": "Hopoo Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1337520",
-            "sku": "1337520"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33a17dd65ba1f629d106d2504c7e08f6c5bfc87c1f2b9ca26bfe8f34bd21bd39"
+    "name": "Risk of Rain Returns"
 }

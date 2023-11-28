@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b300678144f39cb8452e84a6d4e73786",
     "id": "1135860682068349049",
-    "name": "Dinogen Online",
-    "publishers": [
-        {
-            "id": "1124352501051838464",
-            "name": "Wilkin Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2152990",
-            "sku": "2152990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c7906801066da225160daee5182dad87275c7fbe510c814cf9ac0992b5fea48e"
+    "name": "Dinogen Online"
 }

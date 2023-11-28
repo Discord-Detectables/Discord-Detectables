@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d4d58bc60adfdba3cc8240a86fd78a3b",
     "id": "1124359650087809074",
-    "name": "Rogue : Genesia Demo",
-    "publishers": [
-        {
-            "id": "1124355319796093089",
-            "name": "Huard Ouadi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2099800",
-            "sku": "2099800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e1c7dec4e39877da6cbf0dd2acb901d5291a598213b9faad7c530104efddd63b"
+    "name": "Rogue : Genesia Demo"
 }

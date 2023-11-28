@@ -1,11 +1,4 @@
 {
-    "description": "Silence is the sequel to Daedalic Entertainment’s popular fantasy adventure game The Whispered World and features a new lead character and 3D graphics.",
-    "developers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "642b329c95bf18cbfeb63e34338d8fa6",
     "id": "425443601154048020",
-    "name": "Silence",
-    "publishers": [
-        {
-            "id": "521816507102003201",
-            "name": "Daedalic Entertainment"
-        }
-    ],
-    "splash": "b86af3e609e33c1ec365f422cf2046a7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "314790",
-            "sku": "314790"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d84d049a5f45ca5a9dfc890aa9f1c1e7213c9524ea4902bd0dbb2a3841feed51"
+    "name": "Silence"
 }

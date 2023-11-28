@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816544385171486",
-            "name": "Bugbear Entertainment Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f3584ed4c95a6ca565690ae207950cd0",
     "id": "491426256789831690",
-    "name": "FlatOut: Ultimate Carnage",
-    "primary_sku_id": "492068627231539200",
-    "publishers": [
-        {
-            "id": "521816579344957442",
-            "name": "Empire Interactive Entertainment"
-        }
-    ],
-    "slug": "flatout-ultimate-carnage",
-    "splash": "acd2524e8dc44cb0e7f2efbf0ea49678",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492068627231539200",
-            "sku": "492068627231539200"
-        },
-        {
-            "distributor": "steam",
-            "id": "12360",
-            "sku": "12360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3226022de143ee7ce8b8c4d97669ab5243e93a242d079c74ed004fd6480e334e"
+    "name": "FlatOut: Ultimate Carnage"
 }

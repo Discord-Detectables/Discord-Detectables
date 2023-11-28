@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "935a6756aeb942dea24ae697d831bd49",
     "id": "1124355208395358328",
-    "name": "Divinity: Original Sin (Classic)",
-    "publishers": [
-        {
-            "id": "521816603671920661",
-            "name": "Larian Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "230230",
-            "sku": "230230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0c6291267a4f2945af7b182f70bca8709a692ca1686402df6075f15f59ff8f3d"
+    "name": "Divinity: Original Sin (Classic)"
 }

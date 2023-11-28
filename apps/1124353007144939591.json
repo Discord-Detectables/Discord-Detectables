@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b739b0ec027ae0ae2c3b1657f714a1c0",
     "id": "1124353007144939591",
-    "name": "The Coin Game",
-    "publishers": [
-        {
-            "id": "1124353007593738470",
-            "name": "devotid"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "598980",
-            "sku": "598980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "adab5b5bad9b0cd13f8f91ac07e43c4b9a0394659446a05755a43d6c67113d13"
+    "name": "The Coin Game"
 }

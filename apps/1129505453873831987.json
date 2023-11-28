@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c40327a9683308bf95155b2405f09b98",
     "id": "1129505453873831987",
-    "name": "War Trigger 3",
-    "publishers": [
-        {
-            "id": "1129505455547371530",
-            "name": "Rocketeer Games Studio, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1210360",
-            "sku": "1210360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ae4d3c608e26ca16e079853a9b9366252d6107611a56f35387e68e32f193461f"
+    "name": "War Trigger 3"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "db3070f0751082f843bd6fc96fe50c02",
     "id": "1124352323645354027",
-    "name": "Puyo Puyo™Tetris®",
-    "publishers": [
-        {
-            "id": "521816507676885013",
-            "name": "Sonic Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "546050",
-            "sku": "546050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d3cd37d3f5c4c8242fdb88f19bd9534a412f27764ed93ee357a6463b9d1a9b0c"
+    "name": "Puyo Puyo™Tetris®"
 }

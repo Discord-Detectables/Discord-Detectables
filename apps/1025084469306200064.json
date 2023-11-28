@@ -2,7 +2,6 @@
     "aliases": [
         "MONSTER HUNTER RISE: SUNBREAK DEMO"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1025084469306200064",
-    "name": "MONSTER HUNTER RISE: SUNBREAK DEMO",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1836450",
-            "sku": "1836450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33302832039ff1da1d438eec74385e6c937d37e9850b3ac3899c31e4cad4958d"
+    "name": "MONSTER HUNTER RISE: SUNBREAK DEMO"
 }

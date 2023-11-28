@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cb74aa2a3035127316eb77621c82fcb3",
     "id": "1124353353242136606",
-    "name": "Journey To The Savage Planet",
-    "publishers": [
-        {
-            "id": "524351604820934661",
-            "name": "Typhoon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "973810",
-            "sku": "973810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "4c293064e579454a80bde62de11f6c4c6f80e0ebbcd14499a1d9199071955b5b"
+    "name": "Journey To The Savage Planet"
 }

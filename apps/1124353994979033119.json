@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d00fc380586f7a3e1beacb7a59ed1f87",
     "id": "1124353994979033119",
-    "name": "FRAIM",
-    "publishers": [
-        {
-            "id": "1124353995457179698",
-            "name": "Erez Shahaf"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2138290",
-            "sku": "2138290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5c9ad592cce63e8b49ffd8b6d5f182b8152d4b169898fdc1e76577793c1cc5d"
+    "name": "FRAIM"
 }

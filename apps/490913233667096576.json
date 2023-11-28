@@ -3,13 +3,6 @@
         "Call of Duty: Black Ops 4",
         "Call of Duty: Black Ops IIII"
     ],
-    "description": "The Call of Duty release for 2018 ditches a traditional single-player campaign in favor of an expanded zombies mode and a battle royale mode known as Blackout.",
-    "developers": [
-        {
-            "id": "521816646768263168",
-            "name": "Treyarch"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,31 +10,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "136986169563938816",
     "hook": true,
-    "icon": "6a74f2e0c9fc94b3e2af6dcc16e6f685",
     "id": "490913233667096576",
     "name": "Call of Duty Black Ops 4",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816501544550404",
-            "name": "Activision"
-        },
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf9ff5fb78623319f6cc1ae8c4a70c749964a3b9531b9b9e01a2ffb2679c659c"
+    "overlay": true
 }

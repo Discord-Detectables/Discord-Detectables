@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3fd2fa257454d7265657039fcd4b9729",
     "id": "1124355823452311582",
-    "name": "Diesel Brothers: Truck Building Simulator",
-    "publishers": [
-        {
-            "id": "521816636177776643",
-            "name": "Code Horizon"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "750050",
-            "sku": "750050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cf606033f0b3221710d54409d06f438091919a6e1523339a52b12e8c0c33dc36"
+    "name": "Diesel Brothers: Truck Building Simulator"
 }

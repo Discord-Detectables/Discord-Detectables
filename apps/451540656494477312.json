@@ -1,11 +1,4 @@
 {
-    "description": "Rico Rodriguez returns to explore another autocratic island nation in this explosion-laded followup to Just Cause.",
-    "developers": [
-        {
-            "id": "521816537192202241",
-            "name": "Avalanche Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9819c589d78f4928a9fbbd4654166f14",
     "id": "451540656494477312",
-    "name": "Just Cause 2",
-    "publishers": [
-        {
-            "id": "521816520817639456",
-            "name": "Eidos Interactive"
-        }
-    ],
-    "splash": "41098ceab260da9cfcc42f21bc24d44a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "8190",
-            "sku": "8190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd4822738cb2cb5af6cd341322faf102f4c6a0ac3772a7c4fcfe6fc3f0625b11"
+    "name": "Just Cause 2"
 }

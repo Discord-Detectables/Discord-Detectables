@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7bc009d873b068544321515149d711b6",
     "id": "1164609153122172999",
-    "name": "Football Manager 2024",
-    "publishers": [
-        {
-            "id": "521816521731735569",
-            "name": "Sports Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2252570",
-            "sku": "2252570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "415fdf790803de4235b8fd9fac06a2139c24710aae316cee0eecb6519df7a725"
+    "name": "Football Manager 2024"
 }

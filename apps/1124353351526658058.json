@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e664ef33fa1b818c33ba951d59471cc8",
     "id": "1124353351526658058",
-    "name": "Fernbus Simulator",
-    "publishers": [
-        {
-            "id": "524352092790456397",
-            "name": "TML-Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "427100",
-            "sku": "427100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2963f9db16b933bf7f9ddd10510d80d792a7872355c00ac444477046ec3be363"
+    "name": "Fernbus Simulator"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb7938bdbf341a76a60b3d96584830b2",
     "id": "1124353618603163739",
-    "name": "Valgrave: Immortal Plains",
-    "publishers": [
-        {
-            "id": "1124353619056144475",
-            "name": "Edenic Era LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1076500",
-            "sku": "1076500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dc4efec8884a4323cb3c3d91bc1493642ce409e93f65163597e3a83530ae359d"
+    "name": "Valgrave: Immortal Plains"
 }

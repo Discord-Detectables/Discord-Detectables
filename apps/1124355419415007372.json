@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb66f485e1878502ed88ac8ce07a44de",
     "id": "1124355419415007372",
-    "name": "Pumpkin Jack",
-    "publishers": [
-        {
-            "id": "1124355419918319626",
-            "name": "Nicolas Meyssonnier"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1186640",
-            "sku": "1186640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "711d953b5968fa8864d00710a767e60cbc206b0265ba073fca2bfdfa58de1404"
+    "name": "Pumpkin Jack"
 }

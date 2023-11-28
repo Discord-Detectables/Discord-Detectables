@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fe95d617d3ee8180b3cdc493d8f38bd0",
     "id": "1129505784099774495",
-    "name": "Buggos",
-    "publishers": [
-        {
-            "id": "1129505786519900160",
-            "name": "Intrepid Marmot"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "789660",
-            "sku": "789660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "166c592e616eb8265b7ad1784b0ce6f172380a1e7047081fde9b4908360611c8"
+    "name": "Buggos"
 }

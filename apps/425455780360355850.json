@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816748182339585",
-            "name": "Long Hat House"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e13ceb07c9d564c984efeabc4eecff55",
     "id": "425455780360355850",
-    "name": "Dandara",
-    "primary_sku_id": "471029491246956544",
-    "publishers": [
-        {
-            "id": "521816607941459969",
-            "name": "Raw Fury"
-        }
-    ],
-    "slug": "dandara",
-    "splash": "9c60a8452d48f300c509eea4191f119a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "471029491246956544",
-            "sku": "471029491246956544"
-        },
-        {
-            "distributor": "steam",
-            "id": "612390",
-            "sku": "612390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c7140408246f7cbb0a293a5f700ce36b165fd8c2e2fea75b0eec3e22d986e87e"
+    "name": "Dandara"
 }

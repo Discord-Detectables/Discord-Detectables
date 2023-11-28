@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7eed5595cc9cf7f43d42919ea3becd1",
     "id": "1124357573198495805",
-    "name": "Deus Ex: Invisible War",
-    "publishers": [
-        {
-            "id": "521816777039151111",
-            "name": "Ion Storm"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6920",
-            "sku": "6920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "301c082c8f150cfcca95b64de2dfbde0bc9d8e419d8c460654936b9c88402209"
+    "name": "Deus Ex: Invisible War"
 }

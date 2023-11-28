@@ -1,5 +1,4 @@
 {
-    "description": "Bit Heroes",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb59a6b9a76b82e1941cdaf9e5db2f09",
     "id": "451542845703061524",
-    "name": "Bit Heroes",
-    "publishers": [
-        {
-            "id": "521816524403638272",
-            "name": "Kongregate"
-        }
-    ],
-    "splash": "ae21f0b4c9816b8ccad68129befee499",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "666860",
-            "sku": "666860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3a699ea344d8bd9ada4a5ac41f23dcebacb1c976598b627f7d83137474b90555"
+    "name": "Bit Heroes"
 }

@@ -2,13 +2,6 @@
     "aliases": [
         "Gears 5"
     ],
-    "description": "As humanity goes to war against the Swarm, Kait Diaz sets out to uncover her own connection to Sera's enemies of the past and present.",
-    "developers": [
-        {
-            "id": "521816666053672985",
-            "name": "The Coalition"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -21,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "13dcc442669b8f2c5e8d5ee912cc969c",
     "id": "620685135066693642",
-    "name": "Gears 5",
-    "publishers": [
-        {
-            "id": "521816504824758295",
-            "name": "Microsoft Studios"
-        },
-        {
-            "id": "521816666053672985",
-            "name": "The Coalition"
-        }
-    ],
-    "splash": "25465485f47807d1148712579a9f8314",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1097840",
-            "sku": "1097840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a881a38a419ec97119043a637887c1224212564a7f026c288a5669fc2da68f93"
+    "name": "Gears 5"
 }

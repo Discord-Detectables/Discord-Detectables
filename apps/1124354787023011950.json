@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "52d511dcad4b5a1217e8218d3180903c",
     "id": "1124354787023011950",
-    "name": "Seraph's Last Stand",
-    "publishers": [
-        {
-            "id": "1124354787463409714",
-            "name": "Odd Giant"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1919460",
-            "sku": "1919460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2a05baa3f1917fa715095a9027e4ce5894d665ee90380619d51cebc3c983fa74"
+    "name": "Seraph's Last Stand"
 }

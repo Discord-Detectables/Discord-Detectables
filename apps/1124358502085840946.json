@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6f42da329c749897b159a32c4e5cc65e",
     "id": "1124358502085840946",
-    "name": "Ages of Conflict: World War Simulator",
-    "publishers": [
-        {
-            "id": "1124358502555598848",
-            "name": "JoySpark Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2186320",
-            "sku": "2186320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d5fea5cfa8945b0349613a59873c9983c8ee0847666c1f8a86c90c927b6172d2"
+    "name": "Ages of Conflict: World War Simulator"
 }

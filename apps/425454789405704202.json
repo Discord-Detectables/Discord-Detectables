@@ -1,11 +1,4 @@
 {
-    "description": "The sequel to the multi-platform title \"Bridge Constructor.\" In Bridge Constructor Playground, players build bridges out of a variety of materials and stress test for stability.",
-    "developers": [
-        {
-            "id": "521816635749695509",
-            "name": "ClockStone"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b40fdb7b378741f19efeb428c0a040d8",
     "id": "425454789405704202",
-    "name": "Bridge Constructor Playground",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "splash": "adb0f72630cc412ed49fb6555b78a727",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "279990",
-            "sku": "279990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3862973dadb18c5f489c4ee4b4728b9b1bf0f23167465d7fde564447c3259221"
+    "name": "Bridge Constructor Playground"
 }

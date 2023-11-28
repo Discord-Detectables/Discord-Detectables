@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc89c12fe84f49a8d74ed5884334c7ec",
     "id": "1124356419882340532",
-    "name": "Octogeddon",
-    "publishers": [
-        {
-            "id": "1124356420435984486",
-            "name": "All Yes Good"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "525620",
-            "sku": "525620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8d652ae34d24829e4f534f179a8a451959a5cbaf2400d548ebef20667d2bb4b6"
+    "name": "Octogeddon"
 }

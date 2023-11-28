@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "97b680e4a1224d9951c41d06dccc7d96",
     "id": "1130620493016334377",
-    "name": "FEMINAZI: The Triggering",
-    "publishers": [
-        {
-            "id": "1130620496292098100",
-            "name": "hyperboreanGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "585550",
-            "sku": "585550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "41534563abe14a1c8eb443921f87ebce484faec23d2a20afd40e46de0b472f90"
+    "name": "FEMINAZI: The Triggering"
 }

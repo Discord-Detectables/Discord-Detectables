@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bfda9934cc89c14d9be408664fb408fa",
     "id": "1124355215043350738",
-    "name": "Baldi's Basics Plus",
-    "publishers": [
-        {
-            "id": "873080986445967390",
-            "name": "Basically Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1275890",
-            "sku": "1275890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "94596f7294e405b5c31aa6aef0f2e297294f413345684e1d21d28f0d56b002dc"
+    "name": "Baldi's Basics Plus"
 }

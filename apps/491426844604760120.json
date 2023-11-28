@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816651306631168",
-            "name": "Sonalysts, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fc9b4309e16b472f6c6e6936091de283",
     "id": "491426844604760120",
-    "name": "Sub Command",
-    "primary_sku_id": "492405107410075648",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "slug": "sub-command",
-    "splash": "9d9ebe93a4a7ab470273b46a4af3e1b2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492405107410075648",
-            "sku": "492405107410075648"
-        },
-        {
-            "distributor": "steam",
-            "id": "2920",
-            "sku": "2920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bc7c9d5c649bef134694e5aa7a3a28ecb855c97b5a93efd2f2063c818c516b64"
+    "name": "Sub Command"
 }

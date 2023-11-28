@@ -1,11 +1,4 @@
 {
-    "description": "The third release in the Grand Theft Auto Franchise stars silent criminal protagonist Claude who, after having been betrayed and left for dead, is out for revenge. It was the first GTA game in 3D, an evolution that proved to be pivotal and helped establish the franchise as one of gaming's most popular (and controversial).",
-    "developers": [
-        {
-            "id": "521816560537567261",
-            "name": "Rockstar North"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "410f75ff51f1d24848f7be2e68271c9c",
     "id": "464434670646460427",
-    "name": "Grand Theft Auto III",
-    "publishers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "splash": "1470b1f6b3b96630cbf0754d2b350151",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "12100",
-            "sku": "12100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "994079853610c52fd951d91898de89c53468f71c8ed0218376de0127e131aec1"
+    "name": "Grand Theft Auto III"
 }

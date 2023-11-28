@@ -1,11 +1,4 @@
 {
-    "description": "Supreme Commander 2 is the sequel to the original Supreme Commander, a real-time strategy game with a focus on massive maps and large numbers of units.",
-    "developers": [
-        {
-            "id": "521816566543810565",
-            "name": "Gas Powered Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef5502a8903f61c4852d9380a9468eb8",
     "id": "451544676458037258",
-    "name": "Supreme Commander 2",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "13e6995af1876c6e2c47da9237231af7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "40100",
-            "sku": "40100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9eb39d53b993e3830e5d7bff575e717d7d44db481b8a254b19db077c2831b42f"
+    "name": "Supreme Commander 2"
 }

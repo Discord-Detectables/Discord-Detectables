@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a44fb6eb3dacc67fb0e629cda7b50a62",
     "id": "1124354685646680186",
-    "name": "Absolute Drift",
-    "publishers": [
-        {
-            "id": "524352446840045597",
-            "name": "Funselektor Labs Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "320140",
-            "sku": "320140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fd8a8590c01fc66d4bbc1c9afe6d197cb7b719f6a0fc79b25285d5ae0c78e6a2"
+    "name": "Absolute Drift"
 }

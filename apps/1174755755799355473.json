@@ -2,9 +2,6 @@
     "aliases": [
         "Madden NFL 24"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ec0d26ad3cbff603b4fe016494fb22d3",
     "id": "1174755755799355473",
-    "name": "Madden NFL 24",
-    "publishers": [
-        {
-            "id": "542075586886107157",
-            "name": "Electronic Arts, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "10987bdf062da82c597b8499fbb25898a26c507e1e94a880c33ecb6e4dd81274"
+    "name": "Madden NFL 24"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "50c53aef84f723c272b9167208c7aa85",
     "id": "1124355753243852960",
-    "name": "4D Miner Demo",
-    "publishers": [
-        {
-            "id": "1124355753243852961",
-            "name": "Mashpoe"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1954120",
-            "sku": "1954120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "965d94bc615da163804a093eb221fc770e560428e18788fe566b3b333e8757d5"
+    "name": "4D Miner Demo"
 }

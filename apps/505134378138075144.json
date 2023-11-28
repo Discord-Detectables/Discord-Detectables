@@ -1,11 +1,4 @@
 {
-    "description": "The fourth expansion in the Final Fantasy XI Online series adds new areas along with the ability to go back in time.  Wings of the Goddess also introduces two new jobs to the game.",
-    "developers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "428600c7139cd64ea79d718ce2c6bdf1",
     "id": "505134378138075144",
-    "name": "FINAL FANTASY XI",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "23390",
-            "sku": "23390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2204df8a62627559971118b045e0e2f420ba55e65952fe89bd3d92457c4482ed"
+    "name": "FINAL FANTASY XI"
 }

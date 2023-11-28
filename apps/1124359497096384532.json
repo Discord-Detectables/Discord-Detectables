@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ba6d31ed7e0558a5ef5f63e93bc9f3d2",
     "id": "1124359497096384532",
-    "name": "Aero Tales Online: The World - Anime MMORPG",
-    "publishers": [
-        {
-            "id": "1124359497608085514",
-            "name": "Anisage Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1943610",
-            "sku": "1943610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cc840b360a439aadc7e899fa739891e9e5405809c98d36a8123350acafae60c3"
+    "name": "Aero Tales Online: The World - Anime MMORPG"
 }

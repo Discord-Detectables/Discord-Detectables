@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "596e6663003d16a6805d1950dc700daa",
     "id": "1124351920174284800",
-    "name": "We Were Here Together",
-    "publishers": [
-        {
-            "id": "521816654095843328",
-            "name": "Total Mayhem Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "865360",
-            "sku": "865360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6a65813b3feb2b6fcdf85a584e84ba90ae8d8a6e24878fa05fb0d131e072b518"
+    "name": "We Were Here Together"
 }

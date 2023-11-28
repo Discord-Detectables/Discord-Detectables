@@ -1,11 +1,4 @@
 {
-    "description": "Viridi is a succulent growing and nurturing simulation. Spritz your potted inhabitants a few times a week then witness their growth and perhaps flowering in real-time.",
-    "developers": [
-        {
-            "id": "521816526920351763",
-            "name": "Ice Water Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "177a4d4313bb5747c0e056885b8c1309",
     "id": "477520549833211915",
-    "name": "Viridi",
-    "publishers": [
-        {
-            "id": "521816526920351763",
-            "name": "Ice Water Games"
-        }
-    ],
-    "splash": "7c5c9e6dba640685da8fe05983b084fd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "375950",
-            "sku": "375950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dbc4a0c80bea486937e143afd7d0df38e4cbde71502ab9f12fe1dc87101d1b84"
+    "name": "Viridi"
 }

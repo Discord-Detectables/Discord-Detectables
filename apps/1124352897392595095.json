@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5f25c9adc354d009055d60b313a4e010",
     "id": "1124352897392595095",
-    "name": "Tales of Symphonia",
-    "publishers": [
-        {
-            "id": "1124352897950433360",
-            "name": "BANDAI NAMCO Entertainment Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "372360",
-            "sku": "372360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "84edf382cdb99330ea9613dd7bbcc88c7d23bb5cfd56cfe0cefa5ee1224f4b9f"
+    "name": "Tales of Symphonia"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "32eaef8783ca2a9492aa08d491e59849",
     "id": "1124357438875906048",
-    "name": "The Political Machine 2020",
-    "publishers": [
-        {
-            "id": "521816531831750658",
-            "name": "Stardock Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1188680",
-            "sku": "1188680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bf86198e99af1977f21ef4d0a7fa19e6d3459d9ec4d334b39cb24ed7e147aef9"
+    "name": "The Political Machine 2020"
 }

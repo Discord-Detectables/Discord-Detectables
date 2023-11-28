@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b09fe6b1a82eeaa125e9a98b3af69274",
     "id": "1124355565406146781",
-    "name": "Power Rangers: Battle for the Grid",
-    "publishers": [
-        {
-            "id": "1124355565880098886",
-            "name": "nWay, INC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1110100",
-            "sku": "1110100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "269c6c1e49f69a41a84f793ccc4144f92f79a325b0177f3256c17686b6bfaefb"
+    "name": "Power Rangers: Battle for the Grid"
 }

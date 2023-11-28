@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a4fc685b07a9552a6532ebf147469f74",
     "id": "1124355905476112597",
-    "name": "Destined to Die",
-    "publishers": [
-        {
-            "id": "1124355905916522687",
-            "name": "Suncats"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1673740",
-            "sku": "1673740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "00f8d95094f8f92cba34057308da0858c9e62f3e18501cb5a31e3b42d809ed74"
+    "name": "Destined to Die"
 }

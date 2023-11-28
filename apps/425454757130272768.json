@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816635749695509",
-            "name": "ClockStone"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7dcfc32c3912461d40183cd7a65f892",
     "id": "425454757130272768",
-    "name": "Bridge Constructor Medieval",
-    "primary_sku_id": "489489624713003008",
-    "publishers": [
-        {
-            "id": "521816561216913411",
-            "name": "Headup Games"
-        }
-    ],
-    "slug": "bridge-constructor-medieval",
-    "splash": "5907a3951cfda7b31ac26c9b5c88ac86",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489489624713003008",
-            "sku": "489489624713003008"
-        },
-        {
-            "distributor": "steam",
-            "id": "319850",
-            "sku": "319850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1fcec6919f2e9d43a43f6fd66009e11f1037a78a9a933785feb687c7f94d5869"
+    "name": "Bridge Constructor Medieval"
 }

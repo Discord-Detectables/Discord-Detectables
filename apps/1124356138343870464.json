@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cc93e668e51ed9cced04bcdaa656ca93",
     "id": "1124356138343870464",
-    "name": "Desert Bus VR",
-    "publishers": [
-        {
-            "id": "524352210377900063",
-            "name": "Dinosaur Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "638110",
-            "sku": "638110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9ee6f8c1fa580d116b420dbf6f3b659367c89cafd50a9b064da55f537e10533"
+    "name": "Desert Bus VR"
 }

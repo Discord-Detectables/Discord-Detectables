@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "52e6c87d713db97b3c80af05447f9554",
     "id": "1124354595276206181",
-    "name": "SIGNALIS",
-    "publishers": [
-        {
-            "id": "1124354595741782077",
-            "name": "rose-engine"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1262350",
-            "sku": "1262350"
-        }
-    ],
-    "type": 1,
-    "verify_key": "44e514335005a071302e1ffd8466a3c371d5cb7a9d32590eeb53ed05bf7bfb62"
+    "name": "SIGNALIS"
 }

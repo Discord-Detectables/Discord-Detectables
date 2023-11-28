@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816498017271829",
-            "name": "Subset Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,34 +6,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6bb701757ad6232284893750cb3c5d08",
     "id": "363414030188150801",
     "name": "FTL: Faster Than Light",
-    "overlay": true,
-    "primary_sku_id": "489914768048783390",
-    "publishers": [
-        {
-            "id": "521816498017271829",
-            "name": "Subset Games"
-        }
-    ],
-    "slug": "ftl-faster-than-light",
-    "splash": "8606b26658527ed811aebf152cd77b3b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "212680",
-            "sku": "212680"
-        },
-        {
-            "distributor": "discord",
-            "id": "489914768048783390",
-            "sku": "489914768048783390"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c38cd3c80334c89e661470e2b5185f9a2313d8f119771525b81889edbb4fb9a0"
+    "overlay": true
 }

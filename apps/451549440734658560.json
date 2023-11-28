@@ -1,11 +1,4 @@
 {
-    "description": "Contagion is a survival horror FPS and spiritual successor to the Half-Life 2 mod, Zombie Panic: Source.",
-    "developers": [
-        {
-            "id": "521816703370526738",
-            "name": "Monochrome Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0dc08a75de5a82fb97320a09cba2faba",
     "id": "451549440734658560",
-    "name": "Contagion",
-    "publishers": [
-        {
-            "id": "521816703370526738",
-            "name": "Monochrome Games"
-        }
-    ],
-    "splash": "31ddf046228bdc6db709226649afa1be",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "238430",
-            "sku": "238430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1cc1ac9a4dfe9f369987c74ba06a0b8c5b16e4effe2866788b232d1d57e49ef4"
+    "name": "Contagion"
 }

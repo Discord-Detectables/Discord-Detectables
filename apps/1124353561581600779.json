@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b7b6bd758322c39f46584257b299a069",
     "id": "1124353561581600779",
-    "name": "Survive the Nights",
-    "publishers": [
-        {
-            "id": "1124353562038775838",
-            "name": "a2z Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "541300",
-            "sku": "541300"
-        }
-    ],
-    "type": 1,
-    "verify_key": "742bc597e7540cd2712e8b470419976087f94f0ae50cb142a893695b2e6cd904"
+    "name": "Survive the Nights"
 }

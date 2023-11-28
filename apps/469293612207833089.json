@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816701860577325",
-            "name": "Haemimont Games AD"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "adaf0c54871af63ee62e3de4b68006eb",
     "id": "469293612207833089",
-    "name": "Tropico 4",
-    "primary_sku_id": "471027915086233610",
-    "publishers": [
-        {
-            "id": "521816629416296449",
-            "name": "Kalypso Media"
-        }
-    ],
-    "slug": "tropico-4",
-    "splash": "32c49d8f2944448028c79026ed6878c5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "57690",
-            "sku": "57690"
-        },
-        {
-            "distributor": "discord",
-            "id": "471027915086233610",
-            "sku": "471027915086233610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd5554f6cdf53a1f0bf5e5d8e08c36ae2ec41409cfe8429d716343a38943cac5"
+    "name": "Tropico 4"
 }

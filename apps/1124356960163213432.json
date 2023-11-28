@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2760ced9c89993b3dc7a348f4f920f7a",
     "id": "1124356960163213432",
-    "name": "Dinosaur Hunt",
-    "publishers": [
-        {
-            "id": "1124356960616206356",
-            "name": "Racing Bros"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "401190",
-            "sku": "401190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "827ea9b47e67b6febce0ecc855c7bd7e17f08a716b42cf27bfe72fdbc93b49a4"
+    "name": "Dinosaur Hunt"
 }

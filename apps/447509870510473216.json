@@ -1,11 +1,4 @@
 {
-    "description": "The precursor to numerous surreal and psychological-horror RPGs, Yume Nikki is a freeware adventure game, developed with the RPG Maker series of tools, where players explore a troubled recluse's bleak and disturbing dreams.",
-    "developers": [
-        {
-            "id": "521816582570377226",
-            "name": "Kikiyama"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f0bc8441786ced60b066e1ff67233238",
     "id": "447509870510473216",
-    "name": "Yume Nikki",
-    "publishers": [
-        {
-            "id": "521816582570377226",
-            "name": "Kikiyama"
-        }
-    ],
-    "splash": "db74bdc072d9f06ae66a7c90b563c1fd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "650700",
-            "sku": "650700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "16cb1fac203703caed57df7a3ab3131c30b1ccca391a2410c03568488e6649b6"
+    "name": "Yume Nikki"
 }

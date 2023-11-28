@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bc799345da2c20f23d71da5ef1c6883f",
     "id": "1124358897646452868",
-    "name": "STAR WARS™: X-Wing Alliance™",
-    "publishers": [
-        {
-            "id": "1124358898095239210",
-            "name": "Totally Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "361670",
-            "sku": "361670"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cd9c9d0720bac49ac691c4ac8f351034293693de089c9163d1a39b9145c7a263"
+    "name": "STAR WARS™: X-Wing Alliance™"
 }

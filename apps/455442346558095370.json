@@ -1,11 +1,4 @@
 {
-    "description": "Audiosurf is a block-matching game that generates levels based on the rhythm and tempo of songs that the player loads from their hard drive.",
-    "developers": [
-        {
-            "id": "521816751038791691",
-            "name": "Dylan Fitterer"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f633f680137da6b476571944e022854b",
     "id": "455442346558095370",
-    "name": "Audiosurf",
-    "publishers": [
-        {
-            "id": "521816530393104394",
-            "name": "Valve Corporation"
-        }
-    ],
-    "splash": "fbb4d9063625c31b6fc8e0b136486572",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "12900",
-            "sku": "12900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "405b985becdbc62f9b6ef15d6f0c22625337d485233090e25c3966b98b9bc72b"
+    "name": "Audiosurf"
 }

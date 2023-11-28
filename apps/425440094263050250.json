@@ -1,11 +1,4 @@
 {
-    "description": "First entry in the Splinter Cell series.  You are Sam Fisher, a highly-trained covert operative working for a division of the NSA known as Third Echelon. As Sam, you must infiltrate heavily guarded areas in order to combat the threat of terrorism.",
-    "developers": [
-        {
-            "id": "521816502500982842",
-            "name": "Ubisoft Montreal Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c1aa2bfe79505a17f2d44b0974995d3a",
     "id": "425440094263050250",
-    "name": "Tom Clancy's Splinter Cell",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "425be4ad06ce760463c952d0c7d6ebbf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "13560",
-            "sku": "13560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "15423c4c13da0042fa772520d5e84820b309d9a9c2d4be31b4ddd87018e4c142"
+    "name": "Tom Clancy's Splinter Cell"
 }

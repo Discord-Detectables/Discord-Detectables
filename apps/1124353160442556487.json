@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b07af3b1774eda9b62834b077e3ea06c",
     "id": "1124353160442556487",
-    "name": "Beat Cop",
-    "publishers": [
-        {
-            "id": "524352557217218600",
-            "name": "Pixel Crow"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "461950",
-            "sku": "461950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d4b24ea38b38a7b589e16b08f000aa6e44dc306bddf564c797500caf3a787f0a"
+    "name": "Beat Cop"
 }

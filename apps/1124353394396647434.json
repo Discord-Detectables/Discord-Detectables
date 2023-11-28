@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b81751e5a1b0620c0dc0e068447758dc",
     "id": "1124353394396647434",
-    "name": "Eternium",
-    "publishers": [
-        {
-            "id": "1124353394845433977",
-            "name": "DreamPrimer SRL"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "981600",
-            "sku": "981600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "54398bbeca0f89a4ac06dba51b426000c422694ab068091d51e60f0f02f54532"
+    "name": "Eternium"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c90e0ff6695eeb0713b032462ed19bda",
     "id": "1124353742892957746",
-    "name": "SimAirport",
-    "publishers": [
-        {
-            "id": "524353185750712346",
-            "name": "LVGameDev LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "598330",
-            "sku": "598330"
-        }
-    ],
-    "type": 1,
-    "verify_key": "75a7b16b4a4e3af3ac9a3ef11e5baf055ab06ac53adda1751e6984707e464ccc"
+    "name": "SimAirport"
 }

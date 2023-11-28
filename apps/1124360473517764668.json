@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "98bd912932784729ecd4136443a6453f",
     "id": "1124360473517764668",
-    "name": "Descent: Road to Legend",
-    "publishers": [
-        {
-            "id": "524352273904828426",
-            "name": "Fantasy Flight Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "477200",
-            "sku": "477200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eeba1844960c7d93fe16a1824af0dd43218f17c12ff61eceeb1b6eaffacdb6fc"
+    "name": "Descent: Road to Legend"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ce914328b668034872273c0b934c710d",
     "id": "1124359874806034472",
-    "name": "TAPSONIC BOLD",
-    "publishers": [
-        {
-            "id": "1124352034531987516",
-            "name": "NEOWIZ"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "938220",
-            "sku": "938220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "de60c1ccf3290dcca143e3600f9e65bb8b83ce1e7c79c6c582142abd4dc80599"
+    "name": "TAPSONIC BOLD"
 }

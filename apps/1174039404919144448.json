@@ -2,9 +2,6 @@
     "aliases": [
         "eFootball™ 2024"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "1174039404919144448",
-    "name": "eFootball™",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1665460",
-            "sku": "1665460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a1fa1cbeaee3afb9c66f4bdc7b043a491cab74c0296b74d5615be7169f28172c"
+    "name": "eFootball™"
 }

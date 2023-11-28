@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0553b1f1dea19ec0d0cc1bf7d3614330",
     "id": "504605035162763294",
-    "name": "Aseprite",
-    "publishers": [
-        {
-            "id": "521816766163451905",
-            "name": "David Capello"
-        }
-    ],
-    "splash": "95276a90e70b699d0455fc548f84123d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "431730",
-            "sku": "431730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6b2abe16e836d6c846dee93dc30a9880ed714962a9678f5664e999a1183eb049"
+    "name": "Aseprite"
 }

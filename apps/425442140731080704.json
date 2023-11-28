@@ -1,11 +1,4 @@
 {
-    "description": "Be fearless in DiRT 4.",
-    "developers": [
-        {
-            "id": "521816499464306689",
-            "name": "Codemasters Racing"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff96383c6a85a5f959ee48900f1ec82d",
     "id": "425442140731080704",
-    "name": "DiRT 4",
-    "publishers": [
-        {
-            "id": "521816499464306688",
-            "name": "Codemasters"
-        }
-    ],
-    "splash": "b36befdbd0f3e9bd275d60afd0492408",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "421020",
-            "sku": "421020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7209711b4d8e432c412a8f376386a48135798f97c67eca18d61878e4b95825d5"
+    "name": "DiRT 4"
 }

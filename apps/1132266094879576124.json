@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1c99873ff5eb0b9e73000e7aa391fdb0",
     "id": "1132266094879576124",
-    "name": "Farming Simulator 2011",
-    "publishers": [
-        {
-            "id": "542474758835535874",
-            "name": "Giants Software"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "90200",
-            "sku": "90200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "46d6ccb3e8f9feefc357845086a43d223b29789a4b6f5e9636256af2aef7113f"
+    "name": "Farming Simulator 2011"
 }

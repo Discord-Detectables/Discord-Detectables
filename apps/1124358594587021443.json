@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8496e588909ffb6ec699f8f765a2b33d",
     "id": "1124358594587021443",
-    "name": "FRAMED Collection",
-    "publishers": [
-        {
-            "id": "524352290610479116",
-            "name": "Loveshack Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "322450",
-            "sku": "322450"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e3d1e50f90b428a0a276ce37307f18929649821011738edef7be87626f47f88"
+    "name": "FRAMED Collection"
 }

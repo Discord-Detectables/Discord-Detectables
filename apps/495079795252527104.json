@@ -2,49 +2,19 @@
     "aliases": [
         "Blacklight: Retribution"
     ],
-    "description": "Blacklight: Retribution is a free to play first person shooter for the PC and PS4 developed by Zombie Studios.",
-    "developers": [
-        {
-            "id": "521816691034816523",
-            "name": "Zombie Studios"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "win32/foxgame-win32-shipping_be.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "foxgame-win32-shipping.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "ec5ae322666d0be61f3024d74d7b387b",
-    "id": "495079795252527104",
-    "name": "Blacklight: Retribution",
-    "publishers": [
-        {
-            "id": "521816509673242636",
-            "name": "Perfect World Entertainment"
         },
         {
-            "id": "1124356060778606632",
-            "name": "Hardsuit Labs, Inc."
+            "is_launcher": false,
+            "name": "win32/foxgame-win32-shipping_be.exe",
+            "os": "win32"
         }
     ],
-    "splash": "e57d63aa7724f4a8c79e4c7c6ce7fde9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "209870",
-            "sku": "209870"
-        }
-    ],
-    "type": 1,
-    "verify_key": "668eb1fadc024acffee684be269196b8b68a5a4b21b70f5243426dd3fb7c3d4b"
+    "hook": true,
+    "id": "495079795252527104",
+    "name": "Blacklight: Retribution"
 }

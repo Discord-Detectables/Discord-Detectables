@@ -2,9 +2,6 @@
     "aliases": [
         "グランブルーファンタジー ヴァーサス"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0cc4a797c1f636e4fa0f684c5483ecfd",
     "id": "1129504644759035934",
-    "name": "Granblue Fantasy: Versus",
-    "publishers": [
-        {
-            "id": "521816528895737856",
-            "name": "Cygames, Inc."
-        },
-        {
-            "id": "521816528895737856",
-            "name": "Cygames, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1090630",
-            "sku": "1090630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e890b84b281d376dd33dff25725547d2de35bd14671b33b5421c9be803284ab3"
+    "name": "Granblue Fantasy: Versus"
 }

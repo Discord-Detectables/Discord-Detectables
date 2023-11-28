@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8f67ca95e00bc7434b337974361cf426",
     "id": "1124359525022056568",
-    "name": "Incremental Epic Hero",
-    "publishers": [
-        {
-            "id": "1124359525512786132",
-            "name": "Happy Wakuwaku Project"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1530340",
-            "sku": "1530340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2aec617a280a8d49ff6f9e8f8392b1d50a8c0ec076bfca65f7bbdbfedd2a2d09"
+    "name": "Incremental Epic Hero"
 }

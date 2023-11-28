@@ -1,11 +1,4 @@
 {
-    "description": "The newest entry in GSC Game World's RTS franchise, which aims to recreate the classic gameplay of the first game.",
-    "developers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3a56e1d45f4844559460773c171a3710",
     "id": "470220034237530112",
-    "name": "Cossacks 3",
-    "publishers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
-    "splash": "74d0adadc51d0fa923ea1e5649d5b313",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "333420",
-            "sku": "333420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "92f27521c1a1ef6850451a9a142abbd7b440e3f86536fa3f49278b88dc3b29b7"
+    "name": "Cossacks 3"
 }

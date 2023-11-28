@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "87a483058dee494825db228d79af35e5",
     "id": "1124355652064653385",
-    "name": "Planet S",
-    "publishers": [
-        {
-            "id": "1124355652563783831",
-            "name": "TeamJA"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1948430",
-            "sku": "1948430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d6a5a5d15e582822b9d03b166fca9df358c2cd87dadff145c405b2917b278c97"
+    "name": "Planet S"
 }

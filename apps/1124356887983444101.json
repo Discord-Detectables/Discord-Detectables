@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b68ef09266e92b8163e53ea5d4d3ed13",
     "id": "1124356887983444101",
-    "name": "Replica",
-    "publishers": [
-        {
-            "id": "524352576196706305",
-            "name": "Somi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "496890",
-            "sku": "496890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d15dca37a0d05e84015521a2ecda0a90ce451fb741bbdd0a7dbeff83b5fec0c5"
+    "name": "Replica"
 }

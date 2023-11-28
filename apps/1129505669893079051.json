@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bb836907bf9bce8f334f55122353f2b9",
     "id": "1129505669893079051",
-    "name": "Definitely Not Fried Chicken",
-    "publishers": [
-        {
-            "id": "1129505671549820969",
-            "name": "Dope Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1036240",
-            "sku": "1036240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8020fe6f4c80c4347e75a4ae3a786db62e8ba9ad77e89d32927d7724f53f2407"
+    "name": "Definitely Not Fried Chicken"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0ebde57891e2882a0785f321648a790",
     "id": "1137460558354989127",
-    "name": "Lines X Free",
-    "publishers": [
-        {
-            "id": "1124360412448698368",
-            "name": "Konstructors"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "725340",
-            "sku": "725340"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d2fb96adcd3aba38ee179855aa7d476bdd7abdd3f253ccc30e54e99c8cf74258"
+    "name": "Lines X Free"
 }

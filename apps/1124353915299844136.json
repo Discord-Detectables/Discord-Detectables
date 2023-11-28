@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c0742cee0faac3540aaec6dc37ea4c0d",
     "id": "1124353915299844136",
-    "name": ":THE LONGING:",
-    "publishers": [
-        {
-            "id": "1124353915845099643",
-            "name": "Studio Seufz"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "893850",
-            "sku": "893850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "66c8970aec9673bd29f5e63518ef4520948b7009c77c8903141636ae4f2d0178"
+    "name": ":THE LONGING:"
 }

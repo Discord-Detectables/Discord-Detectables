@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "654b11abb16f370482b975ba276f3188",
     "id": "1124357391341867068",
-    "name": "Heaven's Vault",
-    "publishers": [
-        {
-            "id": "1124357391803236475",
-            "name": "inkle Ltd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "774201",
-            "sku": "774201"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c97ede3aa38262563322a619137f7f8a6567acca607eb8fa8827dd2a473b1684"
+    "name": "Heaven's Vault"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "385d8fa130b90a77d0ffaeef951dee59",
     "id": "1124356180408545411",
-    "name": "Lightmatter",
-    "publishers": [
-        {
-            "id": "1124356180920258742",
-            "name": "Tunnel Vision Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "994140",
-            "sku": "994140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5aa91d503b07b6eedd083bd5650650dfbb7e766c26b87e6743b7cd19ebccbd50"
+    "name": "Lightmatter"
 }

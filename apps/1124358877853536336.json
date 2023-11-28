@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8bd9897eb49382ce3294a74b8c6562db",
     "id": "1124358877853536336",
-    "name": "Patchwork",
-    "publishers": [
-        {
-            "id": "524352748343525405",
-            "name": "DIGIDICED"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "528250",
-            "sku": "528250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "da212c9077ada4762cd41b9d1b4cd1b176e87fe33bf6977948b10443733996e4"
+    "name": "Patchwork"
 }

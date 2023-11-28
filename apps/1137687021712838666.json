@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0bf42f27952c46c88880f13c8d46d185",
     "id": "1137687021712838666",
-    "name": "Bit Blaster XL",
-    "publishers": [
-        {
-            "id": "524352517929172994",
-            "name": "Nickervision Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "433950",
-            "sku": "433950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1fc53405bf04a79446ea7f282ad663bbccde00e98bf3fe890057dfbed04fc4fc"
+    "name": "Bit Blaster XL"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f05baf5fdcf93ed7ea600562431b447c",
     "id": "1124351939249975327",
-    "name": "Metin2",
-    "publishers": [
-        {
-            "id": "1124351939707162705",
-            "name": "WEBZEN Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "550900",
-            "sku": "550900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9fec685775fca74c12b4dd8e5c05c56078b11dde522ce35ef01c99177ca1d920"
+    "name": "Metin2"
 }

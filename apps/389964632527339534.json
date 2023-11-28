@@ -1,11 +1,4 @@
 {
-    "description": "Freddy Fazbear’s Pizzeria Simulator starts as a pizza slinging retro-themed game, but something more lurks beneath the surface.",
-    "developers": [
-        {
-            "id": "521816617118728203",
-            "name": "Scottgames"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d02b0db97edd80a1fe051bc71549eccf",
     "id": "389964632527339534",
-    "name": "Freddy Fazbear's Pizzeria Simulator",
-    "publishers": [
-        {
-            "id": "521816617118728203",
-            "name": "Scottgames"
-        },
-        {
-            "id": "521816617118728205",
-            "name": "Scott Cawthon"
-        }
-    ],
-    "splash": "6434f02c2954d524c82fb172a13683f5",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "738060",
-            "sku": "738060"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd0332ae1936d247cf2526b59992877b319718e0c9ae99065e34bf8a91bb563a"
+    "name": "Freddy Fazbear's Pizzeria Simulator"
 }

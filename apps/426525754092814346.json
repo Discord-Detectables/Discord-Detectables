@@ -3,7 +3,6 @@
         "The Witcher 2: Assassins of Kings",
         "The Witcher 2: Assassins of Kings Enhanced Edition"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -16,29 +15,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d568936ecd0d60286d78c0ab2bb2764c",
     "id": "426525754092814346",
-    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-    "publishers": [
-        {
-            "id": "521816596172505088",
-            "name": "CD PROJEKT RED"
-        },
-        {
-            "id": "521816596172505089",
-            "name": "CD Projekt Red"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "20920",
-            "sku": "20920"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9ac92c489b073580caffbd1963924e79f236e4a8a727b855269fe6a907df9973"
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
 }

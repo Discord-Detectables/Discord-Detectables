@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dac18b2641204799893998a6d22585a1",
     "id": "1124358444988776458",
-    "name": "Splasher",
-    "publishers": [
-        {
-            "id": "524352709428641796",
-            "name": "Splashteam"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "446840",
-            "sku": "446840"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e7cf848610912a3d4f5152d3d2327590e0f23cbab15b6f3649fe0e634d461647"
+    "name": "Splasher"
 }

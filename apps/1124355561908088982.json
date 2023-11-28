@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c4cbb944fcc6abb73ee8fbd6f4a083c9",
     "id": "1124355561908088982",
-    "name": "Midnight Ghost Hunt",
-    "publishers": [
-        {
-            "id": "1124355562382053496",
-            "name": "Vaulted Sky Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "915810",
-            "sku": "915810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3e3f625d5699c75c4a7319a1f5fd2b4393ec729f99e16a8004a142bf611c856b"
+    "name": "Midnight Ghost Hunt"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816589570408449",
-            "name": "BioWare"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d838d0936fcbae26eaa9ad93c9a806c1",
     "id": "492136872714305566",
-    "name": "STAR WARS™ Knights of the Old Republic",
-    "primary_sku_id": "492430161367662593",
-    "publishers": [
-        {
-            "id": "570702595178627072",
-            "name": "Lucasfilm, Disney"
-        }
-    ],
-    "slug": "star-wars-tm-knights-of-the-old-republic",
-    "splash": "177ed6c1384ce828995d24721eb2b7e3",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "492430161367662593",
-            "sku": "492430161367662593"
-        },
-        {
-            "distributor": "steam",
-            "id": "32370",
-            "sku": "32370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eca825652cdd414a83d1ea5a113e73ca7bbcc38ac6fdaed7e0469ffbb40af8c0"
+    "name": "STAR WARS™ Knights of the Old Republic"
 }

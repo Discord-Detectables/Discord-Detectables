@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "8ff9a08e0681b4c13ea12e83108b68a7",
     "id": "1124353070206308453",
-    "name": "Perfect Heist 2",
-    "publishers": [
-        {
-            "id": "1124353070655094975",
-            "name": "yeswecamp"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1521580",
-            "sku": "1521580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "de9eb011b1fdf8e5cdd81053b35bd7f6b13267c29c9f3b6e22d5456064fa15a4"
+    "name": "Perfect Heist 2"
 }

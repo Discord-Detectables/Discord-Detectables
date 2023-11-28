@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "127e8628820a2a5feeefb0528cb4f927",
     "id": "1124359886025797682",
-    "name": "Dwarfs!?",
-    "publishers": [
-        {
-            "id": "1124358042427871352",
-            "name": "Power of 2"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "35480",
-            "sku": "35480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b8c774e8e0b092f0b538d4c37414778f02bcdabc79e3fa8ef9a633aba694f81b"
+    "name": "Dwarfs!?"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Marvel Heroes was a free-to-play online action-RPG originally lead by one of the key people behind Diablo and Diablo 2, David Brevik. It featured many playable heroes from various Marvel properties. Both Marvel Heroes and it's developer, Gazillion Entertainment, shut down on November 24th, 2017.",
-    "developers": [
-        {
-            "id": "521816689004904470",
-            "name": "Gazillion Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,25 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9ef9ade89f43604c1e84b28a50f0eb1f",
     "id": "496853043103662080",
-    "name": "Marvel Heroes 2016",
-    "publishers": [
-        {
-            "id": "521816689004904470",
-            "name": "Gazillion Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "226320",
-            "sku": "226320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "523f4a15ba4a2dd8f96edaab65dca5b7faf2540236e5a4d25aa63d3d3f8a1150"
+    "name": "Marvel Heroes 2016"
 }

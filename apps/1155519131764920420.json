@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9f281413b1e74114f66ce1b88b02a7c0",
     "id": "1155519131764920420",
-    "name": "Moonstone Island",
-    "publishers": [
-        {
-            "id": "1155519133182603365",
-            "name": "Studio Supersoft"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1658150",
-            "sku": "1658150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b1999fc6b254a1406f6947de8602405618e774033d5838c3b0fe5baed3451c1"
+    "name": "Moonstone Island"
 }

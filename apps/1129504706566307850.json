@@ -2,9 +2,6 @@
     "aliases": [
         "Session: Skate Sim"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fb31f88c27ed77ae511fc4d1f88b24a1",
     "id": "1129504706566307850",
-    "name": "Session",
-    "publishers": [
-        {
-            "id": "1129504707388383342",
-            "name": "crea-ture Studios Inc."
-        },
-        {
-            "id": "1129504707388383342",
-            "name": "crea-ture Studios Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "861650",
-            "sku": "861650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "81d6a69a4d5bf01539f42c7e4016c95357fca81a0c446404c19ab9c507f36c57"
+    "name": "Session"
 }

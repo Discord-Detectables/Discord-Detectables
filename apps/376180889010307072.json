@@ -2,50 +2,19 @@
     "aliases": [
         "A Hat in Time"
     ],
-    "description": "A third-person 3D platformer developed by Gears For Breakfast.",
-    "developers": [
-        {
-            "id": "521816804323098627",
-            "name": "Gears for Breakfast"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "hatintimegame.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "binaries/modmanager.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "329729477930123265",
-    "hook": true,
-    "icon": "bc078584af9b1f3fa29b981d55ba30b7",
-    "id": "376180889010307072",
-    "name": "A Hat in Time",
-    "publishers": [
-        {
-            "id": "521816804323098627",
-            "name": "Gears for Breakfast"
         },
         {
-            "id": "521816804323098627",
-            "name": "Gears for Breakfast"
+            "is_launcher": false,
+            "name": "hatintimegame.exe",
+            "os": "win32"
         }
     ],
-    "splash": "d231b54266384dca60ddeaf529cb0be9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "253230",
-            "sku": "253230"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ce0075f12f4ff89869c7f32ac64f62e33a6abb88a1aba778479deffaff8d4734"
+    "hook": true,
+    "id": "376180889010307072",
+    "name": "A Hat in Time"
 }

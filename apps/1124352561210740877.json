@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "33aad1209778f8be37b3398f0c73e879",
     "id": "1124352561210740877",
-    "name": "Due Process",
-    "publishers": [
-        {
-            "id": "524352368155033600",
-            "name": "Giant Enemy Crab"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "753650",
-            "sku": "753650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fcddbfb04e8c5266eb954b9ba973986a20ba1e4d7742215b8c12acc196fb89a2"
+    "name": "Due Process"
 }

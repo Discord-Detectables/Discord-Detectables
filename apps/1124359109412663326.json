@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ad37419c9b915106161e0290a783a6f1",
     "id": "1124359109412663326",
-    "name": "HROT Demo",
-    "publishers": [
-        {
-            "id": "1124356358989434900",
-            "name": "Spytihněv"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "973020",
-            "sku": "973020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "405c76080a404004a8223ec8f5c0173be7482c01735c8cd2111dbcdb707456fe"
+    "name": "HROT Demo"
 }

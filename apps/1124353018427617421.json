@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ed02a22cea407c12fd0848ceb3ebbec2",
     "id": "1124353018427617421",
-    "name": "Sniper: Ghost Warrior",
-    "publishers": [
-        {
-            "id": "521816677105795083",
-            "name": "City Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "34830",
-            "sku": "34830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8bd809c445f7890bb692f754b81abb833a03d9e008b29f87dd00af288b5cc982"
+    "name": "Sniper: Ghost Warrior"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2a92e55144f35cf9b8351d67e03fc395",
     "id": "1124353010743660634",
-    "name": "Mr. Hopp's Playhouse",
-    "publishers": [
-        {
-            "id": "1124353011255361557",
-            "name": "Moonbit"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1182370",
-            "sku": "1182370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "efec172f9d827c732de41fa3d03f7b075d9af96b1c61e244aa4716ec6d90edaa"
+    "name": "Mr. Hopp's Playhouse"
 }

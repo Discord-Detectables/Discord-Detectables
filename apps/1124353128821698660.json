@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c15a4404e225b9cdb1790a5e39fb8df5",
     "id": "1124353128821698660",
-    "name": "Tales of Vesperia: Definitive Edition",
-    "publishers": [
-        {
-            "id": "521816555584225281",
-            "name": "QLOC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "738540",
-            "sku": "738540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fb87e52c7707893acc563435e7861b938f56a03ea787e32f0a8feb166be5f923"
+    "name": "Tales of Vesperia: Definitive Edition"
 }

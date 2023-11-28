@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ddc9fb756eee960ec7994c3eed3d2b23",
     "id": "1124359278283739257",
-    "name": "Escape from Monkey Island™",
-    "publishers": [
-        {
-            "id": "521816522977574924",
-            "name": "LucasArts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "730830",
-            "sku": "730830"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b1365440c6a419b387cd9916d5eb84ad4ea5e91dc1689712015513e071b37ce5"
+    "name": "Escape from Monkey Island™"
 }

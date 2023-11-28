@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "fef2deee36e8723a2fcf60cfb338e036",
     "id": "1124358015236190288",
-    "name": "Strange Creatures",
-    "publishers": [
-        {
-            "id": "1124358015764680714",
-            "name": "Cat &amp; Fiddle Games Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1255550",
-            "sku": "1255550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2324b4950c2416883f9d9fe697ad7cbee2b0a3252af1ddcacd012251cf1a527b"
+    "name": "Strange Creatures"
 }

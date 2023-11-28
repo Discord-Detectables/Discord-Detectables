@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd0609ac9459c1f220b27b7a3cd4dc3b",
     "id": "1124357935976435833",
-    "name": "Fear & Hunger 2: Termina",
-    "publishers": [
-        {
-            "id": "1124354086653939912",
-            "name": "Miro Haverinen"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2171440",
-            "sku": "2171440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a33111bc5088dfae5380c930ea25651a8822ced88f8cbee51f45db4e1c569e7c"
+    "name": "Fear & Hunger 2: Termina"
 }

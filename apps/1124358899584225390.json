@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "957dc87cdf75a766119d74c44aeaf2cb",
     "id": "1124358899584225390",
-    "name": "The Oracle Land",
-    "publishers": [
-        {
-            "id": "1124358900091732008",
-            "name": "The Oracle Land"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1930730",
-            "sku": "1930730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ee18332584cef58ba49b9d9885a3d286a0eac9e1745864662420051a62e786e2"
+    "name": "The Oracle Land"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "75d0eed5b20b43639c9e2bc9ea838218",
     "id": "1124359164999782400",
-    "name": "Astral Ascent",
-    "publishers": [
-        {
-            "id": "524353127743357011",
-            "name": "Hibernian Workshop"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1280930",
-            "sku": "1280930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c1655662c7584064c8ff6349eddf6f76449dc18bbf764c7a2c313acc1d9a035c"
+    "name": "Astral Ascent"
 }

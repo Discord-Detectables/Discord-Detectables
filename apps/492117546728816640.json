@@ -1,54 +1,17 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816796907700224",
-            "name": "Paradox Development"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "eu3game.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "eu3.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "eu3game.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1fbe1bcd6c8489a1a46ff54be0b70d85",
     "id": "492117546728816640",
-    "name": "Europa Universalis III",
-    "primary_sku_id": "492141866628808715",
-    "publishers": [
-        {
-            "id": "521816507676885007",
-            "name": "Paradox Development Studio"
-        },
-        {
-            "id": "521816521249521702",
-            "name": "Paradox Interactive AB"
-        }
-    ],
-    "slug": "europa-universalis-iii",
-    "splash": "747309a2867570f144cf2da76f41dc49",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "25800",
-            "sku": "25800"
-        },
-        {
-            "distributor": "discord",
-            "id": "492141866628808715",
-            "sku": "492141866628808715"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1d7cc6ef9e241383565638a10273236deb2a950f543faa8f528710e46f9646ed"
+    "name": "Europa Universalis III"
 }

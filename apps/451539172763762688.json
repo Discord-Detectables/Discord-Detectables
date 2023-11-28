@@ -1,11 +1,4 @@
 {
-    "description": "Worms Revolution is the next game in the Worms franchise from Team 17 Software. Built entirely from scratch, Revolution will return to the series' 2D roots.",
-    "developers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e88e41364656b207d25aa9c7bba98ef7",
     "id": "451539172763762688",
-    "name": "Worms Revolution",
-    "publishers": [
-        {
-            "id": "521816610600779776",
-            "name": "Team17 Digital Ltd"
-        },
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
-    "splash": "ffb6aea3081c5ae96f4ef6134df0efd7",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "200170",
-            "sku": "200170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a5445521548f83c061678de8b99618739d5973736ca094591b31d1933d7bbe6a"
+    "name": "Worms Revolution"
 }

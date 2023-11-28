@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "72767e3ca58ea6f3caa21a1d5e1ba15b",
     "id": "1124351945004564490",
-    "name": "MONSTER HUNTER RISE DEMO",
-    "publishers": [
-        {
-            "id": "521816514106621968",
-            "name": "CAPCOM Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1641480",
-            "sku": "1641480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0748879428bedff1995286da307c7fa956e38c03a06450f4e6011df8b2a534d0"
+    "name": "MONSTER HUNTER RISE DEMO"
 }

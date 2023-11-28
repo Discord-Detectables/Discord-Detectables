@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "df496a8dee332475416150d3692797b7",
     "id": "1124352193252835462",
-    "name": "Just Cause 4",
-    "publishers": [
-        {
-            "id": "521816537192202241",
-            "name": "Avalanche Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "517630",
-            "sku": "517630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f3e38ae2eab4aea6dbfaa3472304ef2aa833d23991ea817b89a51051c6d6dc00"
+    "name": "Just Cause 4"
 }

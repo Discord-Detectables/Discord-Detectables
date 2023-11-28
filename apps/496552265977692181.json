@@ -1,11 +1,4 @@
 {
-    "description": "As Patrick Galloway, you must come to the aid of a dying friend whose family is cursed by an evil that threatens the entire world.",
-    "developers": [
-        {
-            "id": "521816603671920660",
-            "name": "DreamWorks Interactive L.L.C."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e56e0f78f3bcdb8fd050de6b3046848b",
     "id": "496552265977692181",
-    "name": "Clive Barker's Undying",
-    "publishers": [
-        {
-            "id": "521816504392482822",
-            "name": "GOG.com"
-        },
-        {
-            "id": "521816511178997817",
-            "name": "Aspyr Media, Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "gog",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "7e36da8dc0cda86c7f28db5f81e55c3a5a99e647da5284c0df526cba2941b403"
+    "name": "Clive Barker's Undying"
 }

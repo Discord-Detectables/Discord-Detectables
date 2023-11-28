@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "69656caea867f0371dca505c1181f997",
     "id": "1124354623168327690",
-    "name": "Plantera",
-    "publishers": [
-        {
-            "id": "524352516624744460",
-            "name": "VaragtP"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "421040",
-            "sku": "421040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "79c7f13462dba07f632ad27d7536dbf683e8a884e8b5aa7f779ede9c434aacea"
+    "name": "Plantera"
 }

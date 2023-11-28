@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b16e6442673f9a370dbf69d21957b20e",
     "id": "1124356439440371762",
-    "name": "Handy Harry's Haunted House Services",
-    "publishers": [
-        {
-            "id": "1124356439931113532",
-            "name": "Bismuth Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1310510",
-            "sku": "1310510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2f0833e3df1fb558f5bb687ce3915fb4b25c82cfb5d2a5df45edabcee35bc483"
+    "name": "Handy Harry's Haunted House Services"
 }

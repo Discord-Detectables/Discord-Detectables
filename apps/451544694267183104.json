@@ -3,43 +3,19 @@
         "FreeStyle 2: Street Basketball",
         "Freestyle 2: Street Basketball"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "freestyle2/changebin.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "freestyle2.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "a14ebdb4e3d5b20a0b997c1de7c93abd",
-    "id": "451544694267183104",
-    "name": "FreeStyle 2: Street Basketball",
-    "publishers": [
-        {
-            "id": "521816533270396928",
-            "name": "Joycity"
         },
         {
-            "id": "521816533270396928",
-            "name": "Joycity"
+            "is_launcher": false,
+            "name": "freestyle2/changebin.exe",
+            "os": "win32"
         }
     ],
-    "splash": "d91bee82f82db0824c5c63fc40812dd0",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "339610",
-            "sku": "339610"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f6e6086ca838fa8eb4be9271bd4d9f4f12170731a74556cdd27ac61bb657728c"
+    "hook": true,
+    "id": "451544694267183104",
+    "name": "FreeStyle 2: Street Basketball"
 }

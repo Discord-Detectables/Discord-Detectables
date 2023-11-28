@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "148934560b13b97a88cb391da741d92f",
     "id": "1124356852239577128",
-    "name": "Aliens: Dark Descent",
-    "publishers": [
-        {
-            "id": "524352329630089246",
-            "name": "Tindalos Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1150440",
-            "sku": "1150440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "323b2fe4b26ecc95defdf761a83bcccdc4e4fd740382794288ca1e5c28f7647c"
+    "name": "Aliens: Dark Descent"
 }

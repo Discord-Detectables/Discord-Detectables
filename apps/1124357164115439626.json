@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "99afacea9ebb2b332f4f9b208d44573e",
     "id": "1124357164115439626",
-    "name": "High Hell",
-    "publishers": [
-        {
-            "id": "524352383510249484",
-            "name": "Terri Vellmann"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "673000",
-            "sku": "673000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "78816aec26589bde0472e66c92ba861fec9375e09fa341385cbea6bde7f825b7"
+    "name": "High Hell"
 }

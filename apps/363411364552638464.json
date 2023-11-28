@@ -1,11 +1,4 @@
 {
-    "description": "A vault management simulator from Bethesda, set in the Fallout universe.",
-    "developers": [
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0e4f86de99628334cdfc9643eba843d",
     "id": "363411364552638464",
-    "name": "Fallout Shelter",
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        }
-    ],
-    "splash": "2de90d528466f5580700fd41890b871f",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "588430",
-            "sku": "588430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "43937c99cee595871b4832e62533eb9fbee6f98c10d550657d6f28a0d6405259"
+    "name": "Fallout Shelter"
 }

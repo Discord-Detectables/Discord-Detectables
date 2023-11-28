@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f1a8db2d1389b3a7810b35cec67be083",
     "id": "1124354423024521227",
-    "name": "Stranded: Alien Dawn",
-    "publishers": [
-        {
-            "id": "521816616602959882",
-            "name": "Haemimont Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1324130",
-            "sku": "1324130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "69fdc86c5b045e50295d7022b1c6e65306061439784517b29ee5aa86d2c5a1cf"
+    "name": "Stranded: Alien Dawn"
 }

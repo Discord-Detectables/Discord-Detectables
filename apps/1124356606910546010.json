@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dee1b1bb80784224ca3c94c9addb69ea",
     "id": "1124356606910546010",
-    "name": "Lonely Mountains: Downhill",
-    "publishers": [
-        {
-            "id": "1124356607397081221",
-            "name": "Megagon Industries"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "711540",
-            "sku": "711540"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a8baa6e4dc31050a25b3a54aebd73365cac6becb59ded56cef182888542d12b6"
+    "name": "Lonely Mountains: Downhill"
 }

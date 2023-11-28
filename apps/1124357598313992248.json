@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d30d25ff1403551fe8756697f6223e95",
     "id": "1124357598313992248",
-    "name": "Chicken Farm 2K17",
-    "publishers": [
-        {
-            "id": "1124357598817304646",
-            "name": "Jakal Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "746910",
-            "sku": "746910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "07becfefae09890ee560d8c40eb86cd61c85b6e128e510a0237b12ce2aba7572"
+    "name": "Chicken Farm 2K17"
 }

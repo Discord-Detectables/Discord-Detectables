@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eefa7a4457b34558c4f5d3b2e247b696",
     "id": "1124356130546667520",
-    "name": "TurnSignal",
-    "publishers": [
-        {
-            "id": "1124356131016425603",
-            "name": "Ben Otter"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "689580",
-            "sku": "689580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0cd2317afd0d9a04c3d65050a6fd37636af9e9ce31c5061a1e106ca281c95c8e"
+    "name": "TurnSignal"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ab94d0477297bd387016afef0b4de614",
     "id": "1124358488974438553",
-    "name": "Summer with Mia Season 1",
-    "publishers": [
-        {
-            "id": "1124353991388704891",
-            "name": "Inceton games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1571170",
-            "sku": "1571170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "227b76209aebee77e71ef1b5415de72331082154c9271e897daae425de7ed9fe"
+    "name": "Summer with Mia Season 1"
 }

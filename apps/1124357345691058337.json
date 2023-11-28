@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7e693189ad693f49e810ebf3d54cdbaf",
     "id": "1124357345691058337",
-    "name": "Mutant Ops",
-    "publishers": [
-        {
-            "id": "1124357346223730729",
-            "name": "Jacob Navarro (programming)"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1427800",
-            "sku": "1427800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a12d67ab73781a9ac45f7e175ed9e5345dc7deb54d7fd86e5518b6b52ad71187"
+    "name": "Mutant Ops"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7db7e0cc8d24f7513561dbf190e2f90d",
     "id": "1124360114648920135",
-    "name": "Ultimate Fishing Simulator 2",
-    "publishers": [
-        {
-            "id": "1124359230560948305",
-            "name": "MasterCode"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1136380",
-            "sku": "1136380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "33fd24ca86b4a52a9ef54fcc98a7614a07a31cf3cdb42fbcb0c3a43132c95d2e"
+    "name": "Ultimate Fishing Simulator 2"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9ef986b84e44ea65e0aeda5ec7db4dea",
     "id": "1124354499297956042",
-    "name": "Raw Data",
-    "publishers": [
-        {
-            "id": "521816667232403457",
-            "name": "Survios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "436320",
-            "sku": "436320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c8547009f14134b6994441c88c36243f4100ab559db61824c5c6047f20155c23"
+    "name": "Raw Data"
 }

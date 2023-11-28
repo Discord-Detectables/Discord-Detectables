@@ -2,45 +2,19 @@
     "aliases": [
         "S.T.A.L.K.E.R Clear Sky"
     ],
-    "description": "A prequel to the open-world first-person shooter S.T.A.L.K.E.R.: Shadow of Chernobyl. Set a year before the events of the first game, Clear Sky follows a new character, Scar, through the Zone.",
-    "developers": [
-        {
-            "id": "521816551486259236",
-            "name": "GSC Game World"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "stalker clear sky/bin/xrengine.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "stalker clear sky/xrengine.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "stalker clear sky/bin/xrengine.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff86c466d4c2aebd3d6b12428f83d629",
     "id": "469153997027016714",
-    "name": "S.T.A.L.K.E.R.: Clear Sky",
-    "publishers": [
-        {
-            "id": "521816737310572545",
-            "name": "KOCH Media"
-        }
-    ],
-    "splash": "5867ed2783e12d6a938895fbc6c440db",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "20510",
-            "sku": "20510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a7fdff4c80216a57e27c3cf20fd635eb62388eca347fd7cc4acd85979e32d96f"
+    "name": "S.T.A.L.K.E.R.: Clear Sky"
 }

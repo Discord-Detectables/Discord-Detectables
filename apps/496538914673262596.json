@@ -1,11 +1,4 @@
 {
-    "description": "Block Sport is developed by Hero Blocks ApS. It is a gladiatorial combat sports game, multiplayer online, team vs team battle to win by scoring the most goals.",
-    "developers": [
-        {
-            "id": "521816502500982843",
-            "name": "Hero Blocks ApS"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "197803de5edcd032ff5c1192c534d3bb",
     "id": "496538914673262596",
-    "name": "Block Sport",
-    "publishers": [
-        {
-            "id": "521816502500982843",
-            "name": "Hero Blocks ApS"
-        }
-    ],
-    "splash": "6c4d87d195337e324cef9dbdfb9586c6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "611260",
-            "sku": "611260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "259b79a99397f8b0523d2927eba0b6e9c32953910849e8bf8dfa1084a546636d"
+    "name": "Block Sport"
 }

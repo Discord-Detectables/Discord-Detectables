@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f41073257be7f5328c47e5a693ce026",
     "id": "1124360356018532445",
-    "name": "AdventNEON Demo",
-    "publishers": [
-        {
-            "id": "1124360356463136808",
-            "name": "Larry Boyd"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1531850",
-            "sku": "1531850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "704fd9e8935b4ab77679acbd35a1a24096d57e85842786aa22b03eaa4eb12259"
+    "name": "AdventNEON Demo"
 }

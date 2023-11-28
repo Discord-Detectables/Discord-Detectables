@@ -2,7 +2,6 @@
     "aliases": [
         "Heroes of Might & Magic V"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,30 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ca10db79f85d7a979f460138bf5e19d1",
     "id": "425460002761998347",
-    "name": "Might and Magic - Heroes V",
-    "publishers": [
-        {
-            "id": "521816529948639233",
-            "name": "Nival"
-        },
-        {
-            "id": "521816529948639233",
-            "name": "Nival"
-        }
-    ],
-    "splash": "98c141d8a660016ffe4e5947ade56134",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15170",
-            "sku": "15170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0e32753004ba1c4296c18d2774be5421baf8523254a3a43e49875509eb45200d"
+    "name": "Might and Magic - Heroes V"
 }

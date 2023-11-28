@@ -2,7 +2,6 @@
     "aliases": [
         "Resident Evil 6"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bf1035490ba526a889316fdb639e6ee9",
     "id": "451540292458512394",
-    "name": "Resident Evil 6 / Biohazard 6",
-    "publishers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "splash": "a83ca9c0239d7fb1e4ec32e5778ad046",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "221040",
-            "sku": "221040"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e872025d9d2aafbb16c8216786030cf3e7a20122d486436e833ce51dcc7cfc1f"
+    "name": "Resident Evil 6 / Biohazard 6"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "81e851e6dc06ba121196d9c5e57d1f2d",
     "id": "1124353343746232431",
-    "name": "Mini Ninjas",
-    "publishers": [
-        {
-            "id": "521816647678558211",
-            "name": "IO Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "35000",
-            "sku": "35000"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bdba6a2aaff9b9a7ad25f0f3e628ae03a7f54e844018f97e290e4e87da264ec3"
+    "name": "Mini Ninjas"
 }

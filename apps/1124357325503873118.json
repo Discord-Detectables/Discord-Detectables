@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b41a05c80ec8b1bc7495beac850f8794",
     "id": "1124357325503873118",
-    "name": "SKYBOX VR Video Player",
-    "publishers": [
-        {
-            "id": "1124357325994602566",
-            "name": "Source Technology Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "721090",
-            "sku": "721090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9e031caf4b898529616802eef8bb5f91f63f4478a066d666a797b1ff8355f3e6"
+    "name": "SKYBOX VR Video Player"
 }

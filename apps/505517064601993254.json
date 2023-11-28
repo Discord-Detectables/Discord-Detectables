@@ -1,29 +1,17 @@
 {
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "th075.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "th075e.exe",
             "os": "win32"
-        }
-    ],
-    "flags": 0,
-    "hook": true,
-    "icon": "ef2e3dd6e9e0970498dcbfdaa233ef60",
-    "id": "505517064601993254",
-    "name": "Touhou 7.5: Immaterial and Missing Power",
-    "publishers": [
+        },
         {
-            "id": "521816572533276712",
-            "name": "Tasogare Frontier"
+            "is_launcher": false,
+            "name": "th075.exe",
+            "os": "win32"
         }
     ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "01481ba038079029c9b7d3b40367bf6504128b31ded40548599391cd4f127359"
+    "hook": true,
+    "id": "505517064601993254",
+    "name": "Touhou 7.5: Immaterial and Missing Power"
 }

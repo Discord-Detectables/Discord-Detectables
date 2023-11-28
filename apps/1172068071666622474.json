@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f926dfa06e71493ba50d69fbb8d69b57",
     "id": "1172068071666622474",
-    "name": "Robocraft 2",
-    "publishers": [
-        {
-            "id": "521816790599335989",
-            "name": "Freejam"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1991140",
-            "sku": "1991140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "de32b61c478c811198786d46a5d1138188d9d92c2a7d00d1da689bf015204d29"
+    "name": "Robocraft 2"
 }

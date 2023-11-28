@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3c995b38eb95ce3bea8d6eced97e92a8",
     "id": "1124352761526505672",
-    "name": "Nine Parchments",
-    "publishers": [
-        {
-            "id": "521816505252446238",
-            "name": "Frozenbyte"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "471550",
-            "sku": "471550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "037f53d6a356e232e2ebe41cd87e6b17cd3132438f8041964047795bb113fdc6"
+    "name": "Nine Parchments"
 }

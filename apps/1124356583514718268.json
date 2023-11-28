@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bc4c9b352bbfc93cbaecb1ae203a4314",
     "id": "1124356583514718268",
-    "name": "30XX",
-    "publishers": [
-        {
-            "id": "521816712778350617",
-            "name": "Batterystaple Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1029210",
-            "sku": "1029210"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a6114569b0c032a19d64e80bc542dfc488698e4411f15ec0bc44d4358a7190f2"
+    "name": "30XX"
 }

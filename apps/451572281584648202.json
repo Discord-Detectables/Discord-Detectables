@@ -1,11 +1,4 @@
 {
-    "description": "The sequel to Ni no Kuni for Windows and PlayStation 4.",
-    "developers": [
-        {
-            "id": "521816592674193445",
-            "name": "Level-5 Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "96755d9710b4dd49ffbcae1e143d1e02",
     "id": "451572281584648202",
-    "name": "Ni no Kuni™ II: Revenant Kingdom",
-    "publishers": [
-        {
-            "id": "521816592674193445",
-            "name": "Level-5 Inc."
-        }
-    ],
-    "splash": "7c3adaf212e4ed6aa133d014de8a3b4d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "589360",
-            "sku": "589360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7457750fddd6ee7509e65988507c277ca37377dbcd76eb1050cd8baef4fa408f"
+    "name": "Ni no Kuni™ II: Revenant Kingdom"
 }

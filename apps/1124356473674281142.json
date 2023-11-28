@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "68395ead0481226cfbf0be3cfb7e5dff",
     "id": "1124356473674281142",
-    "name": "Breach & Clear",
-    "publishers": [
-        {
-            "id": "524352191218188313",
-            "name": "Mighty Rabbit Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "266130",
-            "sku": "266130"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9dc0e4ba5afdc654d093de212d6504e2afd5a7e539e7e3d2aba2ee1ad086e313"
+    "name": "Breach & Clear"
 }

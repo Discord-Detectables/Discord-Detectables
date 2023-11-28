@@ -1,11 +1,4 @@
 {
-    "description": "We Were Here Too is the sequel to We Were Here, developed by Total Mayhem Games.",
-    "developers": [
-        {
-            "id": "521816654095843328",
-            "name": "Total Mayhem Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2dd97785fe5b9b203a2435cf2b123233",
     "id": "464823241098395674",
-    "name": "We Were Here Too",
-    "publishers": [
-        {
-            "id": "521816654095843328",
-            "name": "Total Mayhem Games"
-        }
-    ],
-    "splash": "7a4f08f022ca29e06e7587a473787cc9",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "677160",
-            "sku": "677160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "be514f49009fd4ff2ef84b28f8a5077291a3d27f429e9ef1232edbfe6f37fe69"
+    "name": "We Were Here Too"
 }

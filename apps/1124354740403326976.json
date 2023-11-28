@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c41cf8bb853995067cd8d9a04f3f4e3f",
     "id": "1124354740403326976",
-    "name": "Tanki X",
-    "publishers": [
-        {
-            "id": "524353185318436866",
-            "name": "AlternativaPlatform"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "607200",
-            "sku": "607200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ea92e5dda8053d521c3434b5dc92a03a8d1a99766aea93994f25f55a3e9c9d82"
+    "name": "Tanki X"
 }

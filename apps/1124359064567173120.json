@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c659eb08bd266fa4fb601df3a2fb955a",
     "id": "1124359064567173120",
-    "name": "Waifu Secret",
-    "publishers": [
-        {
-            "id": "1124355335075934228",
-            "name": "Romantic Room"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1505620",
-            "sku": "1505620"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9bc56f7993ddc148dd848ed4722065b631c9abbd563a512e51b63c26a89dac23"
+    "name": "Waifu Secret"
 }

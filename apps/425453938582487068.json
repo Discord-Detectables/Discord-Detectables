@@ -1,11 +1,4 @@
 {
-    "description": "Set in 1868 London during the Industrial Revolution, players take on the role of sibling Assassins named Evie and Jacob Frye as they rally to overthrow the Templars in power. Developed by Ubisoft Québec for the PC, PlayStation 4, and Xbox One.",
-    "developers": [
-        {
-            "id": "521816510730338327",
-            "name": "Ubisoft Quebec"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1e422667e8704db7821fda0a69f09e7c",
     "id": "425453938582487068",
-    "name": "Assassin's Creed Syndicate",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "uplay",
-            "id": "1875",
-            "sku": "1875"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5e0d9a62f36da871dcf9bae7dadcf0e585c1da63814acc33570704060d7bbfcd"
+    "name": "Assassin's Creed Syndicate"
 }

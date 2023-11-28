@@ -2,9 +2,6 @@
     "aliases": [
         "Outward"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,25 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2e87440930904d94657508518bcbcaf2",
     "id": "1161772249582411826",
-    "name": "Outward",
-    "publishers": [
-        {
-            "id": "557927630997815308",
-            "name": "Nine Dots Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "794260",
-            "sku": "794260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "63a885163cc5e8c9947d8b3778168c378b8544032a63438fa0cd83a7b8143b10"
+    "name": "Outward"
 }

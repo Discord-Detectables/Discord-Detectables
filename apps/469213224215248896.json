@@ -1,5 +1,4 @@
 {
-    "description": "Russian Fishing 4",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "35eafd57ad9c52ca2a525667d6e6e8fe",
     "id": "469213224215248896",
-    "name": "Russian Fishing 4",
-    "publishers": [
-        {
-            "id": "521816581433589780",
-            "name": "Russian Fishing"
-        }
-    ],
-    "splash": "e7ae190d5ad860f3a21f3f6ae4ef50d1",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "766570",
-            "sku": "766570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "177a1f4b4c1d440558b12fae671919c5835feef76cf35729d6cda84faa6c7d19"
+    "name": "Russian Fishing 4"
 }

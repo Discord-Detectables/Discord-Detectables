@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "49a28d853a2a5b943e5061d594bd94d2",
     "id": "1124351848464269412",
-    "name": "Skul: The Hero Slayer",
-    "publishers": [
-        {
-            "id": "1124351848925638686",
-            "name": "SouthPAW Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1147560",
-            "sku": "1147560"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8cf56f27113dcd7b4203a2378229fdabc00a7f2535e36030cdf89ffa436beda7"
+    "name": "Skul: The Hero Slayer"
 }

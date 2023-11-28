@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "01120227dd87567fcbbb00f37e5ce759",
     "id": "1124357450099863572",
-    "name": "Mondealy: Day One",
-    "publishers": [
-        {
-            "id": "1124357450569633934",
-            "name": "uglycoal"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1591570",
-            "sku": "1591570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "87bdae62b0d0f8b1007de18a259653c5f6e50a1c6adb2610816c58aba248ed94"
+    "name": "Mondealy: Day One"
 }

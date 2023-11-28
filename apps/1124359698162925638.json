@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f25396b5eeeed480470b46da864424a6",
     "id": "1124359698162925638",
-    "name": "Break Arcade Games Out",
-    "publishers": [
-        {
-            "id": "1124359698641072128",
-            "name": "Dan Zaidan"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1145020",
-            "sku": "1145020"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6d369b906ea472ba68f83d632b1cd7ae7cdf782dd147308cef78369dce68b98b"
+    "name": "Break Arcade Games Out"
 }

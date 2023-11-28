@@ -2,61 +2,19 @@
     "aliases": [
         "Insurgency: Sandstorm"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816505688522756",
-            "name": "New World Interactive"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "insurgencyclient-win64-shipping.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "sandstorm/insurgencyeac.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "insurgencyclient-win64-shipping.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "464728263248576522",
     "hook": true,
-    "icon": "2f8a84f6fc3b1b40055ea5f2057fee2b",
     "id": "484892481452769290",
-    "name": "Insurgency: Sandstorm",
-    "primary_sku_id": "489925702590660628",
-    "publishers": [
-        {
-            "id": "521816505688522756",
-            "name": "New World Interactive"
-        },
-        {
-            "id": "521816537192202247",
-            "name": "Focus Home Interactive"
-        },
-        {
-            "id": "521816505688522756",
-            "name": "New World Interactive"
-        }
-    ],
-    "slug": "insurgency-sandstorm",
-    "splash": "fb066d6e3673b510ff0d8b0e0c53a6fd",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489925702590660628",
-            "sku": "489925702590660628"
-        },
-        {
-            "distributor": "steam",
-            "id": "581320",
-            "sku": "581320"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5f119ef04b72363a125970b3ae0f92a5dd938643424e6e40ad59bac6e9470628"
+    "name": "Insurgency: Sandstorm"
 }

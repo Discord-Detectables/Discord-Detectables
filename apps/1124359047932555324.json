@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "eb91614920d19ff922aefce279feb262",
     "id": "1124359047932555324",
-    "name": "Hentai Nazi HITLER is Back",
-    "publishers": [
-        {
-            "id": "1124353600064344205",
-            "name": "AmagSwag Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1239700",
-            "sku": "1239700"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c43e18c4b3f315a2527e3c9169618039e654ae2100328e16876a8ab4c8726439"
+    "name": "Hentai Nazi HITLER is Back"
 }

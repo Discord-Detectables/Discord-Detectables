@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d6d79f145bf860513c4a322247466f03",
     "id": "1140238527980916757",
-    "name": "Yu-Gi-Oh!  Master Duel",
-    "publishers": [
-        {
-            "id": "521816513074692111",
-            "name": "Konami"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1449850",
-            "sku": "1449850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9bd3ebabb1e81048c78745d3c0506982bb1ef9908da5cdc27352c91c875194c6"
+    "name": "Yu-Gi-Oh!  Master Duel"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "11dae3691cbca058bdee28b9e1ca6a1c",
     "id": "1124359233463406672",
-    "name": "HELLCARD: Prologue",
-    "publishers": [
-        {
-            "id": "524352642172977174",
-            "name": "Thing Trunk"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2207480",
-            "sku": "2207480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "eab1e205204432a1d243cd157e0a66e44558d1e488fc69bf951c4ac037a37fd7"
+    "name": "HELLCARD: Prologue"
 }

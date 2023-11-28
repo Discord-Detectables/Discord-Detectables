@@ -2,13 +2,6 @@
     "aliases": [
         "Saints Row: Gat Out of Hell"
     ],
-    "description": "When The Boss is captured by Satan, it's up to Third Street Saints lieutenants Johnny Gat and Kinzie Kensington to cause as much chaos as possible in Hell to rescue them.",
-    "developers": [
-        {
-            "id": "521816541323329560",
-            "name": "Deep Silver Volition, Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "056d52250c75e101c589c06dec24cb33",
     "id": "425471448782733331",
-    "name": "Saints Row: Gat out of Hell",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "5f0dc8ee3d1f2bd5237b006dd446de43",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "301910",
-            "sku": "301910"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a553a5f6134e402842e8121bd8729334720711a53e8311f98a2df3d0099adc1"
+    "name": "Saints Row: Gat out of Hell"
 }

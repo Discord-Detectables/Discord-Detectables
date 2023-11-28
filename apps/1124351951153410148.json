@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f8ca55e4865e624bd0e19bbda36efe57",
     "id": "1124351951153410148",
-    "name": "Mini Motorways",
-    "publishers": [
-        {
-            "id": "521816608445038606",
-            "name": "Dinosaur Polo Club"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1127500",
-            "sku": "1127500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fbfd6a3da89a3bba20e0bbeaa5a4d1b454193afaa73da6004faf94dcc1719071"
+    "name": "Mini Motorways"
 }

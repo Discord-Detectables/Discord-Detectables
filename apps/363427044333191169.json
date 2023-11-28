@@ -2,13 +2,6 @@
     "aliases": [
         "100% Orange Juice"
     ],
-    "description": "A combination of board game and deck building that has players battling for stars and collecting cards.",
-    "developers": [
-        {
-            "id": "521816753341333506",
-            "name": "Orange_Juice"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d433683ac90381899745caba0834f19d",
     "id": "363427044333191169",
-    "name": "100% Orange Juice",
-    "publishers": [
-        {
-            "id": "521816581924192296",
-            "name": "Fruitbat Factory"
-        }
-    ],
-    "splash": "85dc99a1287342a4afc219a001554499",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282800",
-            "sku": "282800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d004607e98bcb1cdf8ad7fe95a461250f221f87428577477ce3b11450f658acb"
+    "name": "100% Orange Juice"
 }

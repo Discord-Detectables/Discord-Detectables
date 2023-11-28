@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "66620acb227aea1830ac6be888249cce",
     "id": "1124358550551023666",
-    "name": "Wizard And Minion Idle",
-    "publishers": [
-        {
-            "id": "1124358551054336020",
-            "name": "Oninou"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1011510",
-            "sku": "1011510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "feef3305e4d8b58452250dfc01fcf09fe31f8aa68601de816f922bc9483e024d"
+    "name": "Wizard And Minion Idle"
 }

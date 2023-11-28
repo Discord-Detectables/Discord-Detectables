@@ -2,13 +2,6 @@
     "aliases": [
         "Kingdoms of Amalur: Reckoning"
     ],
-    "description": "Kingdoms of Amalur: Reckoning is an open-world singleplayer RPG with combo-based action and the trappings of an MMORPG. Reckoning is set in Amalur, the same setting as 38 Studios' planned MMO codenamed \"Copernicus.\"",
-    "developers": [
-        {
-            "id": "521816731153596453",
-            "name": "Big Huge Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,30 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f996dac815df4aea844a97ce91182017",
     "id": "452276290385346589",
-    "name": "Kingdoms of Amalur: Reckoning™",
-    "publishers": [
-        {
-            "id": "521816731153596453",
-            "name": "Big Huge Games"
-        },
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        }
-    ],
-    "splash": "d54b415fe52d46400b2672c483459232",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "102500",
-            "sku": "102500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f21aa816b047553acf5018791175c217e5f3314d18cfa588d32bd30c7b78eda0"
+    "name": "Kingdoms of Amalur: Reckoning™"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b15a5edc6221a3f4fa6138a768e9a4f7",
     "id": "1124358863144112178",
-    "name": "Behind the Frame: The Finest Scenery",
-    "publishers": [
-        {
-            "id": "1124358863647424652",
-            "name": "Silver Lining Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1634150",
-            "sku": "1634150"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0096f6736c5259c01eaa26a122896f3261fc7cefcad9cb5a91b56beda3e91525"
+    "name": "Behind the Frame: The Finest Scenery"
 }

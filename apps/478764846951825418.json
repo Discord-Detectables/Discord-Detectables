@@ -1,11 +1,4 @@
 {
-    "description": "A prequel to the original Yakuza set in 1988, featuring a young Kazuma Kiryu and Goro Majima as dual playable protagonists.",
-    "developers": [
-        {
-            "id": "521816684957270028",
-            "name": "Ryu ga Gotoku Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b512d5d1538d4b392dfc907d4addaa7b",
     "id": "478764846951825418",
-    "name": "Yakuza 0",
-    "publishers": [
-        {
-            "id": "521816507676885010",
-            "name": "Sega"
-        }
-    ],
-    "splash": "4ad8063aae3a4da98c55f1e1dcdab5e8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "638970",
-            "sku": "638970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "459c5b0492ddc4f41f0f17b2db02ea3f11a3d12d9d1b2947adb8a1a95ed9d5e8"
+    "name": "Yakuza 0"
 }

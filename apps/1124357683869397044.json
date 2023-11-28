@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4095313fa25dc16f8f38993b8c9239cd",
     "id": "1124357683869397044",
-    "name": "Mind Scanners",
-    "publishers": [
-        {
-            "id": "1124357683869397045",
-            "name": "The Outer Zone"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1389550",
-            "sku": "1389550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8646951b0b46128c7a28b0c1575f3a88e064951fbbec69d7dcf2c2b6be66f3b9"
+    "name": "Mind Scanners"
 }

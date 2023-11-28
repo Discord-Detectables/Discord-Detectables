@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0c68a8a51ff23f70a1c17c4372fe500c",
     "id": "1124354342804279346",
-    "name": "Guild Quest",
-    "publishers": [
-        {
-            "id": "1124354343332757525",
-            "name": "Hyper Hippo Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "547680",
-            "sku": "547680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8279add650ab77c0ecf841f024dc16fe45f86b8de2d84bd4d68bd44219003a9f"
+    "name": "Guild Quest"
 }

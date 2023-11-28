@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d3c0797c59130897008ef264038ca885",
     "id": "1124356900591521955",
-    "name": "The Swapper",
-    "publishers": [
-        {
-            "id": "1124356901157748848",
-            "name": "Olli Harjola, Otto Hantula, Tom Jubert, Carlo Castellano"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "231160",
-            "sku": "231160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8f0c2cdaaae528647c33bd52adb1c6cf4495455822d89a16cc48fd07dc084439"
+    "name": "The Swapper"
 }

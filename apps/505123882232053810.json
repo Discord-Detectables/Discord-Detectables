@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5330eb25e9edb0343bf9b3ede7af9c88",
     "id": "505123882232053810",
-    "name": "Disney Infinity 2.0: Gold Edition",
-    "publishers": [
-        {
-            "id": "521816591139078166",
-            "name": "Avalanche Software"
-        }
-    ],
-    "splash": "11ddf1872c8573f24154a1d45b8a8654",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "541660",
-            "sku": "541660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b5ea16614406e3fbdd7a30cee56487d915ac5365e38c5b9f8ea344399dd4d9e"
+    "name": "Disney Infinity 2.0: Gold Edition"
 }

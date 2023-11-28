@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cf725d7604429af686a6659ecc5a93eb",
     "id": "1124353860077633607",
-    "name": "Talvisota - Winter War",
-    "publishers": [
-        {
-            "id": "1124353860606111876",
-            "name": "Talvisota Team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1206240",
-            "sku": "1206240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "142f9098f16df145660bbe5aea89022f0f9306d4f4a05213838c9756cad0ca7e"
+    "name": "Talvisota - Winter War"
 }

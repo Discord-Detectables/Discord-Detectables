@@ -1,11 +1,4 @@
 {
-    "description": "A co-op cooking party game - work together or fight to be the best chef!",
-    "developers": [
-        {
-            "id": "521816619115085825",
-            "name": "Ghost Town Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,29 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "16473a1c76fde9b7e776e5583386d622",
     "id": "428052640740540416",
-    "name": "Overcooked",
-    "publishers": [
-        {
-            "id": "521816618586734595",
-            "name": "Ghost Town Games Ltd."
-        },
-        {
-            "id": "521816571103019015",
-            "name": "Team17 Software Limited"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "448510",
-            "sku": "448510"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1445ac7955270e56d4a412f07760a778159fb3d21fe9fbdde51c83b4caeb0d37"
+    "name": "Overcooked"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "faebb01574691f42bf9d61f0f55e81a6",
     "id": "1124356395404374128",
-    "name": "Tvö",
-    "publishers": [
-        {
-            "id": "1124356395865755719",
-            "name": "Artless Gallery"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2026990",
-            "sku": "2026990"
-        }
-    ],
-    "type": 1,
-    "verify_key": "916f8ac190c2208f68b92b796c71d898baef211bb52ba7287115eecf48003d96"
+    "name": "Tvö"
 }

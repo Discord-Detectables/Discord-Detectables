@@ -1,11 +1,4 @@
 {
-    "description": "A multiplayer hide and seek game",
-    "developers": [
-        {
-            "id": "521816726996779019",
-            "name": "Barrel Roll Games GmbH"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "241945990796410882",
     "hook": true,
-    "icon": "544ea6c5b056655d61f4d82980f2bd91",
     "id": "458081878394667009",
-    "name": "Witch It",
-    "publishers": [
-        {
-            "id": "521816726996779019",
-            "name": "Barrel Roll Games GmbH"
-        }
-    ],
-    "splash": "961b6f269f93fb1f32469b8c6b18aaff",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "559650",
-            "sku": "559650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ffcc178206662f4773e64b90988048218887ae3b382dafab2caf54221b2ceda4"
+    "name": "Witch It"
 }

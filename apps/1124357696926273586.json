@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c62c4bd8435db717518b60c74d7fbc33",
     "id": "1124357696926273586",
-    "name": "Minecraft: Story Mode - Season Two",
-    "publishers": [
-        {
-            "id": "521816542258790401",
-            "name": "Telltale Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "639170",
-            "sku": "639170"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5b578bf37a71c5038627409eb4bb8d74e3f62c45e90ea9923713e0f6b21fa9fb"
+    "name": "Minecraft: Story Mode - Season Two"
 }

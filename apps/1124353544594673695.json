@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "daebb787bbc3d8165e01cd36b9e2f6ef",
     "id": "1124353544594673695",
-    "name": "Initial Drift Online",
-    "publishers": [
-        {
-            "id": "1124352485042180246",
-            "name": "RewindApp"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1456200",
-            "sku": "1456200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8ebf0c80b65bdc16e236b5aaaa217b2a727eaebf7f30e06cbdcbae07b92ec113"
+    "name": "Initial Drift Online"
 }

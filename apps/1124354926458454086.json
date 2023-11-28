@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f64509fd41d7233023b6a3aa00f505b",
     "id": "1124354926458454086",
-    "name": "NASCAR Heat 4",
-    "publishers": [
-        {
-            "id": "1124354926936600586",
-            "name": "Monster Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1127980",
-            "sku": "1127980"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b65c6fd45c29563c2fc1c56d826edf8f2f645d9e457482f5833e7ce3a0699733"
+    "name": "NASCAR Heat 4"
 }

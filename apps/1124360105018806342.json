@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f17fc9ca2a12da386c59df55995589bb",
     "id": "1124360105018806342",
-    "name": "The Test: Final Revelation",
-    "publishers": [
-        {
-            "id": "1124354959492796497",
-            "name": "Randumb Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1428310",
-            "sku": "1428310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "73d48d9a7643e3a62c865ec803ee785036e4148240bbacfbf6248472f0281242"
+    "name": "The Test: Final Revelation"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c8193f31ebb3529df1409dd18945d513",
     "id": "1124358720189644920",
-    "name": "Muddy Heights 2",
-    "publishers": [
-        {
-            "id": "1124358720663597137",
-            "name": "Rageborn Studio, LLC"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "463850",
-            "sku": "463850"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8a157d78f455c92947e40fba76a882ea2741fe6c27b9e75d03590f642598f323"
+    "name": "Muddy Heights 2"
 }

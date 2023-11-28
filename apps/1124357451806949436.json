@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "974feafa26cd56f2d759eec40c3cdbf8",
     "id": "1124357451806949436",
-    "name": "MILFs of Sunville",
-    "publishers": [
-        {
-            "id": "1124357452297678918",
-            "name": "L7team"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1794470",
-            "sku": "1794470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3c1a9530addd949adc66a8b5cab83fa1fbacaf38aaba6c0794085d8068f2974"
+    "name": "MILFs of Sunville"
 }

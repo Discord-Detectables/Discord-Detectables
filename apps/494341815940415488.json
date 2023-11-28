@@ -1,5 +1,4 @@
 {
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e6a526a05410f559924b4a4886f2e164",
     "id": "494341815940415488",
-    "name": "BlazBlue Centralfiction",
-    "publishers": [
-        {
-            "id": "521816599095934983",
-            "name": "Arc System Works"
-        }
-    ],
-    "splash": "abb9e3e68563fb470c5f29d48869e20e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "586140",
-            "sku": "586140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "52d3bf6716a8ed80ff2e9ed0e15394454f1f16259d5910ec060a436a4fe91611"
+    "name": "BlazBlue Centralfiction"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "617261f112dd91b2cef155928329fc17",
     "id": "1124353536017313854",
-    "name": "Big Ambitions",
-    "publishers": [
-        {
-            "id": "521816796441870354",
-            "name": "Hovgaard Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1331550",
-            "sku": "1331550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2d9d6366e4cf575cb77a7ba500ec83604d7e4ce2e3df1ea0b0c01b3597b0dc1b"
+    "name": "Big Ambitions"
 }

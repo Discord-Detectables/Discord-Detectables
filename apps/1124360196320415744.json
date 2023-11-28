@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e8d4aab4ec08eb7599ee0eec40cf447b",
     "id": "1124360196320415744",
-    "name": "Q.U.B.E.",
-    "publishers": [
-        {
-            "id": "521816676644159498",
-            "name": "Toxic Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "203730",
-            "sku": "203730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "382a198b1773e099c709b53d9f55227bdde48bf7124c56a7adf5ca6eab7b9fa0"
+    "name": "Q.U.B.E."
 }

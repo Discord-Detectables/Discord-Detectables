@@ -3,13 +3,6 @@
         "ASTRONEER Early Access",
         "Astroneer"
     ],
-    "description": "Build and survive on procedural planets in this space exploration game from indie developer System Era Softworks.",
-    "developers": [
-        {
-            "id": "521816613981388827",
-            "name": "System Era Softworks"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,26 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d6d51621df8d0a7ea07e0fea9d450560",
     "id": "363428060604792832",
-    "name": "ASTRONEER",
-    "publishers": [
-        {
-            "id": "521816613981388827",
-            "name": "System Era Softworks"
-        }
-    ],
-    "splash": "94f0b4bf9fb462e3ec1222d71718d95a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "361420",
-            "sku": "361420"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b82e530649b9d24e3f683a92aacd3328ab2013c9982b5b8fd6473f119dcbc7a3"
+    "name": "ASTRONEER"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a5a9ed80a52311ab3bb41fe35633f81f",
     "id": "1124357488578416760",
-    "name": "Hand Simulator: Rendezvous",
-    "publishers": [
-        {
-            "id": "1124357489048174612",
-            "name": "Alice Pie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2158730",
-            "sku": "2158730"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d1ab10a1a05a5045fe846961f89e03d4e2641885d3f6dfa3121427e21033fd67"
+    "name": "Hand Simulator: Rendezvous"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Ultra fast-paced first-person shooter featuring high-flying freedom of movement, physics-based weaponry, and impactful player choice.",
-    "developers": [
-        {
-            "id": "521816553080094727",
-            "name": "Archetype Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b95e54250e533f12653e9129401113c2",
     "id": "498457066738810890",
-    "name": "Midair",
-    "publishers": [
-        {
-            "id": "521816553080094727",
-            "name": "Archetype Studios"
-        }
-    ],
-    "splash": "87bc80eba5e9735298799db820d339eb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "439370",
-            "sku": "439370"
-        }
-    ],
-    "type": 1,
-    "verify_key": "123b1daf9debc6a1649bd22ca0db859e8e4761995418ce0a287df465d8cfff97"
+    "name": "Midair"
 }

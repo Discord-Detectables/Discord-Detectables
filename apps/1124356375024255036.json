@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "cef0a6154489649067ed6e5b12a46292",
     "id": "1124356375024255036",
-    "name": "Anomaly Zone",
-    "publishers": [
-        {
-            "id": "1124356375556927689",
-            "name": "Cybertime Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1157250",
-            "sku": "1157250"
-        }
-    ],
-    "type": 1,
-    "verify_key": "975e5c76e86433bdcbd0a83f2dd4fb0a7ee30cd1d2fc7e529412f2f652864e9a"
+    "name": "Anomaly Zone"
 }

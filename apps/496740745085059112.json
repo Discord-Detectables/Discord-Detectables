@@ -2,13 +2,6 @@
     "aliases": [
         "Final Fantasy V"
     ],
-    "description": "Join Bartz and his friends on an epic journey spanning the globe in an attempt to stop four mystical crystals from shattering, with a character-customizing Job system that some consider to be the \"father\" of similar RPGs to come.",
-    "developers": [
-        {
-            "id": "521816676157751326",
-            "name": "Squaresoft"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "549fc501ce55fc47a8d6e937103eb40d",
     "id": "496740745085059112",
-    "name": "FINAL FANTASY V",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "7d60b2199d8dde4322596581be27d515",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "382890",
-            "sku": "382890"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1b9f0fb9c437d21b87474f67cd09cf4715dd3feb8d205d13391d3cb3e2882a5f"
+    "name": "FINAL FANTASY V"
 }

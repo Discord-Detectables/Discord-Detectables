@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0304de88f42501ca7a01e6a61e3a7b3",
     "id": "1170044823231795361",
-    "name": "ウーマンコミュニケーション",
-    "publishers": [
-        {
-            "id": "1170044824230051952",
-            "name": "GameCreatorNeko"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2095090",
-            "sku": "2095090"
-        }
-    ],
-    "type": 1,
-    "verify_key": "9c897683a28d4f37d877b4481300def17b0dc93a6829c3b4bf758d693ffcc217"
+    "name": "ウーマンコミュニケーション"
 }

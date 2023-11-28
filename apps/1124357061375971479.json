@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "04f597eaf8b4853366b064dabedf1668",
     "id": "1124357061375971479",
-    "name": "Sword of the Necromancer - Prologue",
-    "publishers": [
-        {
-            "id": "1124357061828952126",
-            "name": "Grimorio of Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1455590",
-            "sku": "1455590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "461cc52dd686c73c2d1e7c2bc360a48b8036576f3c3ae2dac2bbb44c212ac742"
+    "name": "Sword of the Necromancer - Prologue"
 }

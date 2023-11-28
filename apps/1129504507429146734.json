@@ -2,9 +2,6 @@
     "aliases": [
         "ACE COMBAT™ 7: SKIES UNKNOWN"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,33 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d92a0f28952ae64736af27e2bbc3c7fd",
     "id": "1129504507429146734",
-    "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
-    "publishers": [
-        {
-            "id": "521816782479163394",
-            "name": "BANDAI NAMCO Studios Inc."
-        },
-        {
-            "id": "521816782479163394",
-            "name": "BANDAI NAMCO Studios Inc."
-        },
-        {
-            "id": "521816787487162389",
-            "name": "BANDAI NAMCO Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "502500",
-            "sku": "502500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2e7a4f41b7ecbed93aa2ecba53e7bf8248748a64597d20443f2e2390593b618d"
+    "name": "ACE COMBAT™ 7: SKIES UNKNOWN"
 }

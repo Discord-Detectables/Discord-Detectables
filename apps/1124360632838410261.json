@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f7ceb36e78f7bda123be7345985d36ea",
     "id": "1124360632838410261",
-    "name": "Onset",
-    "publishers": [
-        {
-            "id": "1124360633324945560",
-            "name": "Blue Mountains"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1105810",
-            "sku": "1105810"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1f1093dc7220c7aa1b34abd533b44e250e8e19c58ee5227edd3f2957513b2271"
+    "name": "Onset"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "Silent hunter 5: Battle Of the Atlantic is the fifth installment of the Silent Hunter franchise.",
-    "developers": [
-        {
-            "id": "521816515113385985",
-            "name": "Ubisoft Bucharest"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "be7b5f7aa486ffdb9d575ef140fb137b",
     "id": "425728548586913812",
-    "name": "Silent Hunter 5: Battle of the Atlantic",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "6bd16e094a49e5f336f5ea448e58a81e",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "48110",
-            "sku": "48110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ce11c71caea74c624b712e28372e7cb63c36286483a67561fc87e64b47eb3c13"
+    "name": "Silent Hunter 5: Battle of the Atlantic"
 }

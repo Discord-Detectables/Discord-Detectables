@@ -2,13 +2,6 @@
     "aliases": [
         "Mighty Number 9"
     ],
-    "description": "An action-platformer headed by Mega Man creator Keiji Inafune, and crowdfunded via Kickstarter. It is heavily inspired by Inafune's Mega Man franchise.",
-    "developers": [
-        {
-            "id": "521816798983880725",
-            "name": "Level-5 Comcept"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "34f782c8db136d5543fdcb64765cd94b",
     "id": "425442465244250132",
-    "name": "Mighty No. 9",
-    "publishers": [
-        {
-            "id": "521816524403638274",
-            "name": "Deep Silver"
-        }
-    ],
-    "splash": "e6639605bc2b7d02568e51bca335dfe8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "314710",
-            "sku": "314710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "5a21aea76cd3e6b4042f2ef014ebfdf64c9af0ebd2f4ee7312a263e39756cc17"
+    "name": "Mighty No. 9"
 }

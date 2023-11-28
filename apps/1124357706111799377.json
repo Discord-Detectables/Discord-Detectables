@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "79cab2225aa257e30918b0492d5ea9f6",
     "id": "1124357706111799377",
-    "name": "September 7th",
-    "publishers": [
-        {
-            "id": "1124354281621966888",
-            "name": "EMIKA_GAMES"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "2249160",
-            "sku": "2249160"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a3b11bf4e5277cf86dafbf667ec9638ba1d490ce9075caee16cfd3a2e75873f2"
+    "name": "September 7th"
 }

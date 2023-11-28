@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "da0aa72e4ddee62d4b4e43d5f7e3bbef",
     "id": "1124356754017370222",
-    "name": "AK-xolotl Demo",
-    "publishers": [
-        {
-            "id": "1124356754499711147",
-            "name": "Daniel Piqueras Constantin"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1484570",
-            "sku": "1484570"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3107c8faaab466ca377c3a08ccf4472b415db46e6ad1da7307b6da04166724b3"
+    "name": "AK-xolotl Demo"
 }

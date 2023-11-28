@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ea8b403eea1a37125228aebfc013ac5b",
     "id": "1124359309363531796",
-    "name": "Rage Wars",
-    "publishers": [
-        {
-            "id": "1124359309812318348",
-            "name": "Lemondo Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "554310",
-            "sku": "554310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e9546b86e14737f63d580d1f8fe9d4f8538f51b2109df389ef5ffd3457e28f05"
+    "name": "Rage Wars"
 }

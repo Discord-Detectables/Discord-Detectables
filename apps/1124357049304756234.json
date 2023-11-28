@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5ea7977b4a9a8a8ac8ddaef4ce12d8a4",
     "id": "1124357049304756234",
-    "name": "Ash of Gods: Redemption",
-    "publishers": [
-        {
-            "id": "524352835018686484",
-            "name": "AurumDust"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "691690",
-            "sku": "691690"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3979cd2652b6a032d7eaf06733f8c412e5755e80479de70dd062f04fe91e7033"
+    "name": "Ash of Gods: Redemption"
 }

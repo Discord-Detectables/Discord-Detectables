@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b048d96bb38a6155a5a78dbc9f1469aa",
     "id": "1124357563014725652",
-    "name": "Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored",
-    "publishers": [
-        {
-            "id": "559716525846691861",
-            "name": "Assemble Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "765900",
-            "sku": "765900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b3ee01be2133e333638e858361e3a1aa31c637dcbdf190cc49d355878023ccc8"
+    "name": "Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored"
 }

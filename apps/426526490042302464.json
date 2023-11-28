@@ -1,11 +1,4 @@
 {
-    "description": "A re-release of Dragon's Dogma, Dark Arisen includes a new high level area with new monsters and quests from the original, as well as a handful of refinements to the original game.",
-    "developers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e200008edccf3690f7aea48f37ebc09d",
     "id": "426526490042302464",
-    "name": "Dragon's Dogma: Dark Arisen",
-    "publishers": [
-        {
-            "id": "521816574512857088",
-            "name": "Capcom"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "367500",
-            "sku": "367500"
-        }
-    ],
-    "type": 1,
-    "verify_key": "69ddd55deb21477f6a4e9c3a4ed2ff8de2580052ac121826138fd57eda288ae0"
+    "name": "Dragon's Dogma: Dark Arisen"
 }

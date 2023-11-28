@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "bdf95c6abb08169bf6bfdf37ba7366bc",
     "id": "1124357778241245205",
-    "name": "Iron Conflict",
-    "publishers": [
-        {
-            "id": "1124354617908674630",
-            "name": "Angela Game"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1371480",
-            "sku": "1371480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6f9bc4d7a2c399338a9669d422af20f1a24ec8af100d50846c8180dd07db02fc"
+    "name": "Iron Conflict"
 }

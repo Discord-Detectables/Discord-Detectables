@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9d56e73f799a0610c4177e849150342b",
     "id": "1124352673748094986",
-    "name": "Undisputed",
-    "publishers": [
-        {
-            "id": "1124352674213671112",
-            "name": "Steel City Interactive"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1451190",
-            "sku": "1451190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7d60744132658e42b6d4ed9889b4d7178932cbe453b1f48a6d536545c44ecad3"
+    "name": "Undisputed"
 }

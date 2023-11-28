@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b54d6bdbf09fd7705c2a9e71b56ed31c",
     "id": "1124358965594181752",
-    "name": "Bloodstained: Curse of the Moon 2",
-    "publishers": [
-        {
-            "id": "521816667756560387",
-            "name": "Inti Creates Co., Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1257360",
-            "sku": "1257360"
-        }
-    ],
-    "type": 1,
-    "verify_key": "93ec0c7dc6b4d4310ab68629d274e6968a5fd112610a1f2b8f7058d9940b8506"
+    "name": "Bloodstained: Curse of the Moon 2"
 }

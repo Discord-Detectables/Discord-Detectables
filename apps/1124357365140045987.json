@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5b1c4bbca1f0c6b58e0521f2a2c916d1",
     "id": "1124357365140045987",
-    "name": "Countersnipe",
-    "publishers": [
-        {
-            "id": "521816733728768032",
-            "name": "Ninja Kiwi"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1171140",
-            "sku": "1171140"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a4f135ed4333876befa476439cc2aede278005056e5ab8db014af97540fe9023"
+    "name": "Countersnipe"
 }

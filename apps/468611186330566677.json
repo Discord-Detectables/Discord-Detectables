@@ -1,33 +1,5 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816575481872385",
-            "name": "Dark Star"
-        }
-    ],
-    "flags": 0,
-    "guild_id": "293120529030840330",
     "hook": true,
-    "icon": "761232c9c64b0b24eefbf193d3f70d81",
     "id": "468611186330566677",
-    "name": "SINNER",
-    "primary_sku_id": "489184797936058380",
-    "publishers": [
-        {
-            "id": "521816559031812100",
-            "name": "Another Indie"
-        }
-    ],
-    "slug": "sinner",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489184797936058380",
-            "sku": "489184797936058380"
-        }
-    ],
-    "type": 1,
-    "verify_key": "cede42809008ac1bb3fbcb5ffd473084f4d3eec487e449512459bc0fbba98846"
+    "name": "SINNER"
 }

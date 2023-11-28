@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3819a026bb3d2fff38b73f8a277e8e08",
     "id": "1124354937946648596",
-    "name": "Observer",
-    "publishers": [
-        {
-            "id": "521816682155737090",
-            "name": "Bloober Team SA"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "514900",
-            "sku": "514900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "366bcaada0cb0319a7c999145e10a1f30db8885b225fd7fdc794b7ec7f578c9e"
+    "name": "Observer"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "After the Empress is killed, her most loyal bodyguard, Corvo, becomes the prime suspect, and must track down those who murdered his charge and betrayed him in order to enact his bloody revenge.",
-    "developers": [
-        {
-            "id": "521816500974256128",
-            "name": "Arkane Studios SA"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0a824ee9240367a5c30a707931b802cd",
     "id": "363427574707257354",
-    "name": "Dishonored",
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        }
-    ],
-    "splash": "19617d00216b85cb88169c944047f541",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "205100",
-            "sku": "205100"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1a94253faccfade56dd626bc0ff25862339092cf078cb648f816cdccb3dced73"
+    "name": "Dishonored"
 }

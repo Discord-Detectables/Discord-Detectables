@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "18a77c62022da86dad9f70bd017b7baf",
     "id": "1124360426700951643",
-    "name": "Druidstone: The Secret of the Menhir Forest",
-    "publishers": [
-        {
-            "id": "1124360427195863090",
-            "name": "Ctrl Alt Ninja Ltd."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "954650",
-            "sku": "954650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "89ac34e19f05aff434e21c8b4ec517bba666757763342ad5cd1d1721a3059227"
+    "name": "Druidstone: The Secret of the Menhir Forest"
 }

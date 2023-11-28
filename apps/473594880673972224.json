@@ -1,11 +1,4 @@
 {
-    "description": "A 2D platformer and the fourth game in the Momodora series.",
-    "developers": [
-        {
-            "id": "521816561216913410",
-            "name": "Bombservice"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "232553601355087874",
     "hook": true,
-    "icon": "64774282bdbd9fc6eb9d82e323d37a5d",
     "id": "473594880673972224",
-    "name": "Momodora: Reverie Under the Moonlight",
-    "publishers": [
-        {
-            "id": "521816561216913409",
-            "name": "AGM Playism"
-        }
-    ],
-    "splash": "8b80ff11eb8f427071f9c21236acfa4b",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "428550",
-            "sku": "428550"
-        }
-    ],
-    "type": 1,
-    "verify_key": "fe6e56d8a854db1a616b51f472789e090c010b7ecbd695c080873c41696f2f70"
+    "name": "Momodora: Reverie Under the Moonlight"
 }

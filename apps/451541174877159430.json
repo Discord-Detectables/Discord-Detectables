@@ -1,5 +1,4 @@
 {
-    "description": "Free to play shooter about the confrontation of two irreconcilable sides, represented by the government military housings and the armed hirelings.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a790f92112f5f0b8c873580e54b5701a",
     "id": "451541174877159430",
-    "name": "WARMODE",
-    "publishers": [
-        {
-            "id": "521816554648764430",
-            "name": "WARTEAM"
-        }
-    ],
-    "splash": "7b09ac16a976f3646b209a5e9804ac30",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "391460",
-            "sku": "391460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "913dc79e1050fcbacc2b45376ca1dafcc4c738b633c50863ee5946e719c2b18c"
+    "name": "WARMODE"
 }

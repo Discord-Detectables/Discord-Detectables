@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e25b74c3e1198e669d85f5cee356bf8e",
     "id": "1124360588714328064",
-    "name": "8-Bit Invaders!",
-    "publishers": [
-        {
-            "id": "521816768407273492",
-            "name": "Petroglyph"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "531680",
-            "sku": "531680"
-        }
-    ],
-    "type": 1,
-    "verify_key": "228d96a510cd00a4a9e3f16b09661dda196b6515cd7b2980b89ba3d9180010e3"
+    "name": "8-Bit Invaders!"
 }

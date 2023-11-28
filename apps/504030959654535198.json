@@ -1,11 +1,4 @@
 {
-    "description": "Secrets of Grindea is an upcoming action RPG designed to pay tribute to classic SNES RPGs.",
-    "developers": [
-        {
-            "id": "521816611980705793",
-            "name": "Pixel Ferrets"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d900c2abc4aba7b8b1234069bb96bef2",
     "id": "504030959654535198",
-    "name": "Secrets of Grindea",
-    "publishers": [
-        {
-            "id": "521816611980705793",
-            "name": "Pixel Ferrets"
-        }
-    ],
-    "splash": "4f64ccdb58305986e67e7f5397a21b14",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "269770",
-            "sku": "269770"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8fe9cf9181cc621738e08d3fa3e49a5ccda411fb199bd47c1721e12077df443e"
+    "name": "Secrets of Grindea"
 }

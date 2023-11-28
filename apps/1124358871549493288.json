@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "65d4c46d2411a7d64477454603491bb7",
     "id": "1124358871549493288",
-    "name": "AppGameKit Classic",
-    "publishers": [
-        {
-            "id": "1124358337308405952",
-            "name": "TheGameCreators"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "325180",
-            "sku": "325180"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a813e25f821904b031c9cfb039ff2a828e486daf209931d6c03107aa3098ae2a"
+    "name": "AppGameKit Classic"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "The official stand-alone sequel to the first popular competitive tower defense mod for Warcraft III.",
-    "developers": [
-        {
-            "id": "521816621271220234",
-            "name": "AutoAttack Games"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "159363816570880012",
     "hook": true,
-    "icon": "825848cc91c0e1a8bc2c9a8e5852b5a0",
     "id": "495691276159549460",
-    "name": "Legion TD 2",
-    "publishers": [
-        {
-            "id": "521816621271220234",
-            "name": "AutoAttack Games"
-        }
-    ],
-    "splash": "46456f3e6db86807660bbd11e662b8b2",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "469600",
-            "sku": "469600"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8fcefe9464e85555c98698f97cc804173b7ccdf1323d26e8628de206a2d649f0"
+    "name": "Legion TD 2"
 }

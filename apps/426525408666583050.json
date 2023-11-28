@@ -2,13 +2,6 @@
     "aliases": [
         "Dead Space"
     ],
-    "description": "In this portable tale, set in-between Dead Space and Dead Space 2, Vandal seeks to undo the damage unwittingly caused in the name of Unitology.",
-    "developers": [
-        {
-            "id": "521816749239435267",
-            "name": "IronMonkey Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,34 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "24731d17a3d4d03c6b6cea0fe1aa8f8a",
     "id": "426525408666583050",
-    "name": "Dead Space™",
-    "publishers": [
-        {
-            "id": "521816499464306692",
-            "name": "Electronic Arts"
-        },
-        {
-            "id": "521816749239435266",
-            "name": "EA Redwood Shores"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "17470",
-            "sku": "17470"
-        },
-        {
-            "distributor": "origin",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "1ca932fa71bf9990a1fa8daa25cbd508a049b3bab0f0426d684cbf9cb7f186d4"
+    "name": "Dead Space™"
 }

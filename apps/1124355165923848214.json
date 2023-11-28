@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e34e5eeadcd65c3373f8d7b059609cc6",
     "id": "1124355165923848214",
-    "name": "Prodeus",
-    "publishers": [
-        {
-            "id": "1124355166427172945",
-            "name": "Bounding Box Software Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "964800",
-            "sku": "964800"
-        }
-    ],
-    "type": 1,
-    "verify_key": "bb3600d91e031294bfb0e9330846ed846024dbbda15abbc47199ca9aeb2a0029"
+    "name": "Prodeus"
 }

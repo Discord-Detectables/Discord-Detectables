@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f203ae6d43cae04fed59105226268f66",
     "id": "1124353245616291971",
-    "name": "Emily is Away Too",
-    "publishers": [
-        {
-            "id": "521816728213258250",
-            "name": "Kyle Seeley"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "523780",
-            "sku": "523780"
-        }
-    ],
-    "type": 1,
-    "verify_key": "806a2ed0da38aa5fbdeb82f2a93d74beffdb6610a75af46c908a4ea425af4af4"
+    "name": "Emily is Away Too"
 }

@@ -2,7 +2,6 @@
     "aliases": [
         "Plants vs. Zombies"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,26 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd45a5fece060f28d321caadebfb6fba",
     "id": "498985095378632704",
-    "name": "Plants vs. Zombies: Game of the Year",
-    "publishers": [
-        {
-            "id": "521816596633747478",
-            "name": "PopCap Games, Inc."
-        }
-    ],
-    "splash": "e4984b2cd3f38d52753286d4a3efacc6",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "3590",
-            "sku": "3590"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e52ed06a31126137ea53eed30f8b4b330b6756ec6565ba23d6740f50d9420df6"
+    "name": "Plants vs. Zombies: Game of the Year"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a59a8c0e3b24f5bc580bb78cfed73f51",
     "id": "1124357063032713329",
-    "name": "Blackout Z: Slaughterhouse Edition",
-    "publishers": [
-        {
-            "id": "1124357063527649330",
-            "name": "NukGames"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "729660",
-            "sku": "729660"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3ebdcd54190984b60100102fff2bb84d2033c31b0cec2ed6a9af2647b9fa82a1"
+    "name": "Blackout Z: Slaughterhouse Edition"
 }

@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816558096351232",
-            "name": "Weappy Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1f2feec3adb3391844cfcf2ccbe059da",
     "id": "471357631697780774",
-    "name": "This Is the Police 2",
-    "primary_sku_id": "474762950108905472",
-    "publishers": [
-        {
-            "id": "521816508167487498",
-            "name": "THQ Nordic"
-        }
-    ],
-    "slug": "this-is-the-police-2",
-    "splash": "0e9cf25578240b06268c0c2c92135de4",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "785740",
-            "sku": "785740"
-        },
-        {
-            "distributor": "discord",
-            "id": "474762950108905472",
-            "sku": "474762950108905472"
-        }
-    ],
-    "type": 1,
-    "verify_key": "edebf1169048e71593742679774cdcbcdbbdeee62dca7ac875592e0a21e9450a"
+    "name": "This Is the Police 2"
 }

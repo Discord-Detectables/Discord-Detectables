@@ -1,11 +1,4 @@
 {
-    "description": "This survival-horror mod for the original Half-Life depicts a suburban town in Sweden that has been invaded by misshapen horrors and malevolent creatures of mysterious origin, and can be played singleplayer or in a separate co-op campaign.",
-    "developers": [
-        {
-            "id": "521816795938684929",
-            "name": "Team Psykskallar"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b40d1c584857b908b6fd9f4a69603e7f",
     "id": "425748259408183306",
-    "name": "Cry of Fear",
-    "publishers": [
-        {
-            "id": "521816795938684929",
-            "name": "Team Psykskallar"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "223710",
-            "sku": "223710"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1eab90fcd36186b4bd3bf96afd73c0fd97eef2fedd769291176b09c256570ea2"
+    "name": "Cry of Fear"
 }

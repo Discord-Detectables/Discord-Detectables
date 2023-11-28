@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "4815ca32fbb390e6b9eec1791253337e",
     "id": "1124351967804801055",
-    "name": "Walking Zombie 2",
-    "publishers": [
-        {
-            "id": "524352664591400961",
-            "name": "Alda Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "965200",
-            "sku": "965200"
-        }
-    ],
-    "type": 1,
-    "verify_key": "6d4e4030e0d43870d06b5e7c3d03b49777942583a1352784806536f4204c46dd"
+    "name": "Walking Zombie 2"
 }

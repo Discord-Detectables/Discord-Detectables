@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "47c21e1ed2db1b0b078b549b58a165fa",
     "id": "1124355120415658065",
-    "name": "Manifold Garden",
-    "publishers": [
-        {
-            "id": "524352582500483122",
-            "name": "William Chyr Studio"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "473950",
-            "sku": "473950"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d08a357187c20516838bca41f7c9df64efc6cc3520d80383055160d307f07e0c"
+    "name": "Manifold Garden"
 }

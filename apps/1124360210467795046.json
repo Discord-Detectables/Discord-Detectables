@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "dd8c91d86a414e67f6e66d57acb1d4d3",
     "id": "1124360210467795046",
-    "name": "YORG.io 3",
-    "publishers": [
-        {
-            "id": "1124357837439647774",
-            "name": "Tobias Springer"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1134480",
-            "sku": "1134480"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dd32a598ed79cc53223aa1d9f77aeafdae68e006c8224a2125c5adcf81c680f4"
+    "name": "YORG.io 3"
 }

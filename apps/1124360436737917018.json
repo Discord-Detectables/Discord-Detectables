@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0ec2f988d2d1e11bbd72c8e89783bfba",
     "id": "1124360436737917018",
-    "name": "Sansar",
-    "publishers": [
-        {
-            "id": "1124360437278978108",
-            "name": "Wookey Project Corp"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "586110",
-            "sku": "586110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "93c250a694222bbe5a28be043f148472f15e133419a99596c458601e21bb03fa"
+    "name": "Sansar"
 }

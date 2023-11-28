@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "0572152795e86aecebb2495409a38b10",
     "id": "1124353233054347485",
-    "name": "Dagon",
-    "publishers": [
-        {
-            "id": "524353151810404356",
-            "name": "Bit Golem"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1481400",
-            "sku": "1481400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "95c84b83c7feaac0fab6dfb1b1b348d5b6b8c2364d04c5131b905387dc92bbbf"
+    "name": "Dagon"
 }

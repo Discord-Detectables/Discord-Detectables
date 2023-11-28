@@ -1,11 +1,4 @@
 {
-    "description": "As the earliest known standalone game dedicated to the \"battle royale\" sub-genre, The Culling takes place in a dystopian game show where up to sixteen players scavenge an arena and fight to the death.",
-    "developers": [
-        {
-            "id": "521816681681518593",
-            "name": "Xaviant LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,30 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "5de948b07e6fc402374cf11e62359670",
     "id": "493430961313415188",
-    "name": "The Culling",
-    "publishers": [
-        {
-            "id": "521816681681518593",
-            "name": "Xaviant LLC"
-        },
-        {
-            "id": "521816784161079298",
-            "name": "Xaviant"
-        }
-    ],
-    "splash": "1c90408101a9a9ada5d843fe6115d942",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "437220",
-            "sku": "437220"
-        }
-    ],
-    "type": 1,
-    "verify_key": "842948111d00fd2458cab3e2ee8846bdf736b9d4f1674608bf941ede56b3717b"
+    "name": "The Culling"
 }

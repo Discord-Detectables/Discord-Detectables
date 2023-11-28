@@ -1,11 +1,4 @@
 {
-    "description": "",
-    "developers": [
-        {
-            "id": "521816522977574923",
-            "name": "LucasArts Entertainment Company LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "da569756056b5c5ffc6ae46fa45b3769",
     "id": "487683851519393822",
-    "name": "The Dig®",
-    "primary_sku_id": "493895414336978976",
-    "publishers": [
-        {
-            "id": "570702595178627072",
-            "name": "Lucasfilm, Disney"
-        }
-    ],
-    "slug": "the-dig-r",
-    "splash": "b5a69e58d55fd145bb341e250229afeb",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "6040",
-            "sku": "6040"
-        },
-        {
-            "distributor": "discord",
-            "id": "493895414336978976",
-            "sku": "493895414336978976"
-        }
-    ],
-    "type": 1,
-    "verify_key": "d9c07b38f199c89a46784eac110b8171321e0fa3ddf4f03158849d1ee8188042"
+    "name": "The Dig®"
 }

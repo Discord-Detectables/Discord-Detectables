@@ -2,13 +2,6 @@
     "aliases": [
         "MU LEGEND GLOBAL"
     ],
-    "description": "MU Legend is a top down MMORPG from Webzen and the sequel to 2003's MU Online.",
-    "developers": [
-        {
-            "id": "521816587041505290",
-            "name": "Webzen Games Inc."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,19 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "282112491612405760",
     "hook": true,
-    "icon": "cb694a5ef651fbbdd1f5f20383a7d8b8",
     "id": "451546558706614292",
-    "name": "MU Legend",
-    "publishers": [
-        {
-            "id": "521816642292809769",
-            "name": "Webzen"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "ea05c1adcb24fa780d3e7e4693d25bb859ee736531636872da1722b2b1281d60"
+    "name": "MU Legend"
 }

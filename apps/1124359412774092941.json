@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a696f92b379e2428157fb7bad243c719",
     "id": "1124359412774092941",
-    "name": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
-    "publishers": [
-        {
-            "id": "521816522977574924",
-            "name": "LucasArts"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "32430",
-            "sku": "32430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1974443ff942ad5e5ceac7de99ef4d3babb88a0b01b2101a37f493340142a3c1"
+    "name": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition"
 }

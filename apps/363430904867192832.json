@@ -3,13 +3,6 @@
         "Life Is Strange",
         "Life is Strange™"
     ],
-    "description": "An episodic adventure game based around time manipulation from Remember Me developers DONTNOD.",
-    "developers": [
-        {
-            "id": "521816549057626131",
-            "name": "DONTNOD Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,27 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "375619532435357701",
     "hook": true,
-    "icon": "c4514b77e998b3d60f3533096afc7676",
     "id": "363430904867192832",
-    "name": "Life is Strange",
-    "publishers": [
-        {
-            "id": "521816526920351761",
-            "name": "Square Enix"
-        }
-    ],
-    "splash": "ab545940b11665d47dc85cc511468c5a",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "319630",
-            "sku": "319630"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8fcd04e93430a8e5f0d8fead0d7ddb09fc716fed333ce023851d3be1892c42bd"
+    "name": "Life is Strange"
 }

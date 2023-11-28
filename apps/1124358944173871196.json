@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b28a5ddc30e7ad6a0e2be4e0934d50fc",
     "id": "1124358944173871196",
-    "name": "Buddy Simulator 1984 Demo",
-    "publishers": [
-        {
-            "id": "1124355026157060196",
-            "name": "Not a Sailor Studios"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1280740",
-            "sku": "1280740"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7bb65f753ddfae1f9a6af4c49c0aa2ad5f551a7506a7455d89c225f032e82e5b"
+    "name": "Buddy Simulator 1984 Demo"
 }

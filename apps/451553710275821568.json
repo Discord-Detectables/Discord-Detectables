@@ -1,11 +1,4 @@
 {
-    "description": "Quake Live is a 'free-to-play' web browser-based FPS from id Software.  It is based on the popular game Quake III Arena, and focuses solely on online multiplayer.",
-    "developers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -18,26 +11,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d2f1b81937ea9f3e217659377994056b",
     "id": "451553710275821568",
-    "name": "Quake Live",
-    "publishers": [
-        {
-            "id": "521816563024920606",
-            "name": "id Software"
-        }
-    ],
-    "splash": "2d6c02afb8f54f8d4f14c1173f470d1d",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "282440",
-            "sku": "282440"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8c649eb56ede5f19f96b6b844fa09d38d6295f60e8171325058dec7c3b5cef9f"
+    "name": "Quake Live"
 }

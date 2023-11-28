@@ -2,9 +2,6 @@
     "aliases": [
         "IdleOn - The Idle MMO"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "f9a9466db5cd624788cc50c67fd611e7",
     "id": "1129504214918385775",
-    "name": "Legends of Idleon MMO",
-    "publishers": [
-        {
-            "id": "1124352822524268565",
-            "name": "Lavaflame2"
-        },
-        {
-            "id": "1124352822524268565",
-            "name": "Lavaflame2"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1476970",
-            "sku": "1476970"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed966e70825d1af29ae0266148a3fb1afafe1c3e451458f7d5dfdd71b1887675"
+    "name": "Legends of Idleon MMO"
 }

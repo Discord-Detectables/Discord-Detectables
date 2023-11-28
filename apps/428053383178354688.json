@@ -2,13 +2,6 @@
     "aliases": [
         "Elder Scrolls Legends"
     ],
-    "description": "A card game based on the Elder Scrolls franchise.",
-    "developers": [
-        {
-            "id": "521816519768932355",
-            "name": "Bethesda Game Studios"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,30 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "186207370303504384",
     "hook": true,
-    "icon": "8e8dbfc2c93d2ac3e15306563eabb4c9",
     "id": "428053383178354688",
-    "name": "The Elder Scrolls: Legends",
-    "publishers": [
-        {
-            "id": "521816500508819469",
-            "name": "Bethesda Softworks"
-        },
-        {
-            "id": "521816520267923482",
-            "name": "Dire Wolf Digital"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "364470",
-            "sku": "364470"
-        }
-    ],
-    "type": 1,
-    "verify_key": "a71b1e652f8fb352941e3bacb3c2d9fa3e348a14dd12d7a392fc5e1eb8f8883d"
+    "name": "The Elder Scrolls: Legends"
 }

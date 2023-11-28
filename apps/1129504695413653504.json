@@ -2,9 +2,6 @@
     "aliases": [
         "Bau-Simulator"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "18a27260638222e6ef18fa180cd2cf6f",
     "id": "1129504695413653504",
-    "name": "Construction Simulator",
-    "publishers": [
-        {
-            "id": "521816758462578700",
-            "name": "weltenbauer. Software Entwicklung GmbH"
-        },
-        {
-            "id": "521816758462578700",
-            "name": "weltenbauer. Software Entwicklung GmbH"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1273400",
-            "sku": "1273400"
-        }
-    ],
-    "type": 1,
-    "verify_key": "dcb60fc1c02c9bcace5c66d6b9133420b788ddca71a6f443bc9ac4cdb2161794"
+    "name": "Construction Simulator"
 }

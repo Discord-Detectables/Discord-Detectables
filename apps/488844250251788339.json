@@ -1,12 +1,4 @@
 {
-    "description": "Civilization IV comes to life like never before in a beautifully detailed, living 3D world that elevates the gameplay experience to a whole new level. ",
-    "developers": [
-        {
-            "id": "521816573485514765",
-            "name": "Firaxis Games"
-        }
-    ],
-    "eula_id": "542074049984200704",
     "executables": [
         {
             "is_launcher": false,
@@ -14,33 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "108c2f883c597a31f6556d5ead878e2d",
     "id": "488844250251788339",
-    "name": "Sid Meier's Civilization® IV Complete",
-    "primary_sku_id": "489206862772961290",
-    "publishers": [
-        {
-            "id": "542107996516253761",
-            "name": "2K"
-        }
-    ],
-    "slug": "sid-meier-s-civilization-r-iv-complete",
-    "splash": "790540e2486838b79eab74e6c36dcc44",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489206862772961290",
-            "sku": "489206862772961290"
-        },
-        {
-            "distributor": "steam",
-            "id": "3900",
-            "sku": "3900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f08f40e88c2f33aaee3a23d8da4c76d6176a9c1e5ebac4c7d78528ebd9d95a36"
+    "name": "Sid Meier's Civilization® IV Complete"
 }

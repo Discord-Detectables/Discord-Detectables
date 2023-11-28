@@ -2,24 +2,7 @@
     "aliases": [
         "Arma 2: Operation Arrowhead"
     ],
-    "description": "Operation Arrowhead is the first stand-alone expansion pack to Bohemia Interactive's war simulator, ARMA II. Set soon after the events of ARMA 2.",
-    "developers": [
-        {
-            "id": "521816510172233760",
-            "name": "Bohemia Interactive Studio"
-        }
-    ],
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "baf/datacachepreprocessor.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "arma2oa_be.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "arma 2 operation arrowhead/arma2oa.exe",
@@ -29,40 +12,19 @@
             "is_launcher": false,
             "name": "pmc/datacachepreprocessor.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "arma2oa_be.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "baf/datacachepreprocessor.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "3dacdae6900b5eb0890ca72b300265e1",
     "id": "451546514943377438",
-    "name": "Arma 2: Operation Arrowhead",
-    "publishers": [
-        {
-            "id": "521816623976415269",
-            "name": "Meridian4"
-        },
-        {
-            "id": "521816659519078412",
-            "name": "Bohemia Interactive"
-        },
-        {
-            "id": "521816659519078412",
-            "name": "Bohemia Interactive"
-        },
-        {
-            "id": "521816659519078412",
-            "name": "Bohemia Interactive"
-        }
-    ],
-    "splash": "940029401fe36ff44106edddac1201cf",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "33930",
-            "sku": "33930"
-        }
-    ],
-    "type": 1,
-    "verify_key": "e6e2cd26f0b70d3fcf53f33b620100d8197660732c961a875e16c2bd6bb42f89"
+    "name": "Arma 2: Operation Arrowhead"
 }

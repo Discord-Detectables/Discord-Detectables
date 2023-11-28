@@ -1,11 +1,4 @@
 {
-    "description": "A game very similliar to GunZ: The Duel which pits players against players in a futuristic action packed battles.",
-    "developers": [
-        {
-            "id": "521816718457176115",
-            "name": "Pentavision Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,18 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ef3396b54ef558497a96b30f1d6e38c7",
     "id": "505498926443528202",
-    "name": "S4 League",
-    "publishers": [
-        {
-            "id": "521816718457176115",
-            "name": "Pentavision Entertainment"
-        }
-    ],
-    "summary": "",
-    "type": 1,
-    "verify_key": "941e7b25a32b29e190d83edd718b83c1f788085e043a4fca303c8e58317cfdab"
+    "name": "S4 League"
 }

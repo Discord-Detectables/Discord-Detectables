@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a77acb7260952e34b2daccd421376373",
     "id": "1124355662667853915",
-    "name": "ARCADE GAME SERIES: GALAGA",
-    "publishers": [
-        {
-            "id": "521816782479163394",
-            "name": "BANDAI NAMCO Studios Inc."
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "403430",
-            "sku": "403430"
-        }
-    ],
-    "type": 1,
-    "verify_key": "14c5d234e73c2bfeaf9ec2d8cd61eef7714adefcbf1ca2dc47f4df5aad582f1f"
+    "name": "ARCADE GAME SERIES: GALAGA"
 }

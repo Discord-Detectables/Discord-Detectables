@@ -2,39 +2,19 @@
     "aliases": [
         "Business Tour - Online Multiplayer Board Game"
     ],
-    "description": "",
     "executables": [
-        {
-            "is_launcher": false,
-            "name": "business tour/businesstour.exe",
-            "os": "win32"
-        },
         {
             "is_launcher": false,
             "name": "businesstour.exe",
             "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "business tour/businesstour.exe",
+            "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "894c9ee48d5a771054190bc9da2f78cb",
     "id": "363411278527594516",
-    "name": "Business Tour - Online Multiplayer Board Game",
-    "publishers": [
-        {
-            "id": "524352338908020768",
-            "name": "Creobit"
-        }
-    ],
-    "splash": "5f9470890b52cca46cb2e95686fa35d8",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "397900",
-            "sku": "397900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7b4a217f231cd2dcf8da184a9aabd294f3353a65df1bc1e01cd27f380c703138"
+    "name": "Business Tour - Online Multiplayer Board Game"
 }

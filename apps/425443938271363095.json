@@ -3,13 +3,6 @@
         "LEGO STAR WARS: The Force Awakens",
         "LEGO? STAR WARS?: The Force Awakens"
     ],
-    "description": "LEGO Star Wars: The Force Awakens covers the seventh film and includes material that occurred between Return of the Jedi and Force Awakens.",
-    "developers": [
-        {
-            "id": "521816542707449856",
-            "name": "Traveller's Tales Ltd."
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,26 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "e471cba9f3d76b257e99beaad99dd3f6",
     "id": "425443938271363095",
-    "name": "LEGO® STAR WARS™: The Force Awakens",
-    "publishers": [
-        {
-            "id": "521816499464306690",
-            "name": "WB Games"
-        }
-    ],
-    "splash": "cb1a7a7b3a086120e99cfbb184a8c3ce",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "438640",
-            "sku": "438640"
-        }
-    ],
-    "type": 1,
-    "verify_key": "268675e25a8643e302367f8ef6f2d543531536a1e34cb24dbc0a90cbf562dbd9"
+    "name": "LEGO® STAR WARS™: The Force Awakens"
 }

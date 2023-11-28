@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "7256c48dd8576c5cae86398a0ef7088b",
     "id": "1124357094791987241",
-    "name": "Munchkin Digital",
-    "publishers": [
-        {
-            "id": "1124353261323960431",
-            "name": "Dire Wolf"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1722860",
-            "sku": "1722860"
-        }
-    ],
-    "type": 1,
-    "verify_key": "3eda7e815ad3be9d51f050475c8a85df0ff64343daa8d13d618d29f0f55eed32"
+    "name": "Munchkin Digital"
 }

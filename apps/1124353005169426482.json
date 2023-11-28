@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "9299c1999c3b5944c7b6c9071c30b395",
     "id": "1124353005169426482",
-    "name": "Strange Horticulture",
-    "publishers": [
-        {
-            "id": "524353137788715028",
-            "name": "Bad viking"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1574580",
-            "sku": "1574580"
-        }
-    ],
-    "type": 1,
-    "verify_key": "876007f8a311b9180ee3da45c5d754747f19e0f094b343b39971839c01f36acb"
+    "name": "Strange Horticulture"
 }

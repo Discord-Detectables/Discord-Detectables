@@ -2,9 +2,6 @@
     "aliases": [
         "Star Trek Timelines"
     ],
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -12,29 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "92ea0696c83b9b688e44645e525d1c28",
     "id": "1129505555233382450",
-    "name": "Star Trek Timelines",
-    "publishers": [
-        {
-            "id": "1129505558819520562",
-            "name": "Disruptor Beam Inc."
-        },
-        {
-            "id": "524352458265198613",
-            "name": "Tilting Point"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "600750",
-            "sku": "600750"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b86e748f9a983c8643578733ab662d0197b28de0326e10bc82beeb3b2a63e8bf"
+    "name": "Star Trek Timelines"
 }

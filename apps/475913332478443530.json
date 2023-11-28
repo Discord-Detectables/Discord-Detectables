@@ -1,5 +1,4 @@
 {
-    "description": "Eat other fish to grow bigger then keep going and just keep eating.",
     "executables": [
         {
             "is_launcher": false,
@@ -7,26 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2e97b152f4f7cb9feae3cb2b1fed1f8",
     "id": "475913332478443530",
-    "name": "Feed and Grow: Fish",
-    "publishers": [
-        {
-            "id": "521816774614974475",
-            "name": "Old B1ood"
-        }
-    ],
-    "splash": "8883d2f8cfd0a2bd99e63a5bc54cdeab",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "429050",
-            "sku": "429050"
-        }
-    ],
-    "type": 1,
-    "verify_key": "729c7fc783774f312a60d48f9b041ae46a0e619f61237161bffa8dac4c7f34b8"
+    "name": "Feed and Grow: Fish"
 }

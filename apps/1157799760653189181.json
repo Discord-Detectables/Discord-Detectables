@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "a2b04af0599b9b2e4eafb06eb47a21c7",
     "id": "1157799760653189181",
-    "name": "Escape the Game: Intro",
-    "publishers": [
-        {
-            "id": "1157799763555651644",
-            "name": "Insanity Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "542310",
-            "sku": "542310"
-        }
-    ],
-    "type": 1,
-    "verify_key": "2c48c049e96dcd99c450968750a23a9726481dfee174a50d7e5f8b26cebf9e84"
+    "name": "Escape the Game: Intro"
 }

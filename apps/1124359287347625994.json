@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "2f71dfdf9c5c32c90551545c14a3e709",
     "id": "1124359287347625994",
-    "name": "SAMURAI SHODOWN",
-    "publishers": [
-        {
-            "id": "1124352523751403580",
-            "name": "SNK CORPORATION"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1342260",
-            "sku": "1342260"
-        }
-    ],
-    "type": 1,
-    "verify_key": "f92055a1f4d73ad7b39300f89af930364087f1057647b7c105d7606cfb21841d"
+    "name": "SAMURAI SHODOWN"
 }

@@ -2,17 +2,10 @@
     "aliases": [
         "Dungeon Defenders 2"
     ],
-    "description": "Defend the dungeon in Dungeon Defenders 2. There are several new game modes including a DotA type mode.",
-    "developers": [
-        {
-            "id": "521816518871220239",
-            "name": "Trendy Entertainment"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "dungeon defenders 2/dundef2/binaries/win32/dundefgame.exe",
+            "name": "dungeon defenders 2/dundef2/binaries/win32/dungeondefenders.exe",
             "os": "win32"
         },
         {
@@ -27,29 +20,11 @@
         },
         {
             "is_launcher": false,
-            "name": "dungeon defenders 2/dundef2/binaries/win32/dungeondefenders.exe",
+            "name": "dungeon defenders 2/dundef2/binaries/win32/dundefgame.exe",
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "238dfd7cc5c0421b02565717cf5f19a0",
     "id": "425748090889175050",
-    "name": "Dungeon Defenders II",
-    "publishers": [
-        {
-            "id": "521816518871220239",
-            "name": "Trendy Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "236110",
-            "sku": "236110"
-        }
-    ],
-    "type": 1,
-    "verify_key": "845b0173a860b4d67cd69973637a3156ab565ef29995fd76b9e455eb1b38801f"
+    "name": "Dungeon Defenders II"
 }

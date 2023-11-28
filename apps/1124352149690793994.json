@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "1f68c17980f3cf63b7e3cd1cf9ef4885",
     "id": "1124352149690793994",
-    "name": "Shotgun Farmers",
-    "publishers": [
-        {
-            "id": "524352538493845508",
-            "name": "Megastorm Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "604240",
-            "sku": "604240"
-        }
-    ],
-    "type": 1,
-    "verify_key": "231468162cd2a509ee912ea8e71d6d47e9dbd3f19fa61ab9085f282c12433c18"
+    "name": "Shotgun Farmers"
 }

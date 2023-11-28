@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "6758ea73fe5c09f802ff52361338b7ea",
     "id": "1124357787938467840",
-    "name": "Heavy Rain Demo",
-    "publishers": [
-        {
-            "id": "524351608860049434",
-            "name": "Quantic Dream"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "1048290",
-            "sku": "1048290"
-        }
-    ],
-    "type": 1,
-    "verify_key": "c472c1fa179eaa90c9e6c2ce90c391789d45cf610ba30333c184d189dcb4ff40"
+    "name": "Heavy Rain Demo"
 }

@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b92862a23e890d3d44c599e6e47c8099",
     "id": "1124357595067600946",
-    "name": "Brawlout",
-    "publishers": [
-        {
-            "id": "524352096137379859",
-            "name": "Angry Mob Games"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "263720",
-            "sku": "263720"
-        }
-    ],
-    "type": 1,
-    "verify_key": "ed024c4f5476a3345338508e188f5661eefc0c139951c2ce704076c776a2e391"
+    "name": "Brawlout"
 }

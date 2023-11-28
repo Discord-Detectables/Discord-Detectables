@@ -2,13 +2,6 @@
     "aliases": [
         "Brothers in Arms - Road to Hill 30"
     ],
-    "description": "Based on a true story, take control of your squad and lead your brothers in arms to victory though France and suppress the German forces.",
-    "developers": [
-        {
-            "id": "521816607408914450",
-            "name": "Gearbox Software LLC"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -16,26 +9,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ff25dd48d300dfb4b8b489d0f6429f99",
     "id": "425727812490493972",
-    "name": "Brothers in Arms: Road to Hill 30",
-    "publishers": [
-        {
-            "id": "521816502500982841",
-            "name": "Ubisoft Entertainment"
-        }
-    ],
-    "splash": "d76214ebd6ea3ba8d9a99981f241e083",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "15190",
-            "sku": "15190"
-        }
-    ],
-    "type": 1,
-    "verify_key": "1070ff91795e482e3e9ecaf96cfe375ebc261c6237ba77b082a02d1e7eb634ae"
+    "name": "Brothers in Arms: Road to Hill 30"
 }

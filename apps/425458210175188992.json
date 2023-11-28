@@ -3,13 +3,6 @@
         "This Is The Police",
         "This Is the Police"
     ],
-    "description": "",
-    "developers": [
-        {
-            "id": "521816558096351232",
-            "name": "Weappy Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -17,27 +10,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "c77d85bd82631780cb7320ac6b043254",
     "id": "425458210175188992",
-    "name": "This is the Police",
-    "primary_sku_id": "489072050477203460",
-    "publishers": [
-        {
-            "id": "521816508167487498",
-            "name": "THQ Nordic"
-        }
-    ],
-    "slug": "this-is-the-police",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "discord",
-            "id": "489072050477203460",
-            "sku": "489072050477203460"
-        }
-    ],
-    "type": 1,
-    "verify_key": "7be2481aef4f46db0882c4d7cad8028fb67eb8d116bc9991d60a19420b3a6cd7"
+    "name": "This is the Police"
 }

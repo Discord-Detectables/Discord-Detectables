@@ -2,7 +2,6 @@
     "aliases": [
         "World of Warcraft PTR"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -10,26 +9,8 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "b0e9431d8218443178bd7df3755487c2",
     "id": "426525131276550144",
     "name": "World of Warcraft Public Test",
-    "overlay": true,
-    "publishers": [
-        {
-            "id": "521816523430428673",
-            "name": "Blizzard Entertainment"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "battlenet",
-            "id": "",
-            "sku": ""
-        }
-    ],
-    "type": 1,
-    "verify_key": "e6213e98790adf27c7b2a514f641cce89957051899969ce41c99ac5c524fba43"
+    "overlay": true
 }

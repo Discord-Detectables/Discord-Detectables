@@ -1,13 +1,5 @@
 {
-    "description": "",
-    "flags": 0,
     "hook": true,
-    "icon": null,
     "id": "530454325214969866",
-    "name": "Metro Exodus",
-    "primary_sku_id": "530454325214969866",
-    "slug": "metro-exodus",
-    "summary": "",
-    "type": 1,
-    "verify_key": "42307e6e3120211a78921b58eaa1288323739c18791b711f1240c0b0ec0c1da4"
+    "name": "Metro Exodus"
 }

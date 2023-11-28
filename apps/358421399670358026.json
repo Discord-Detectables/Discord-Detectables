@@ -1,11 +1,4 @@
 {
-    "description": "Black Squad is a free-to-play, military-themed First Person Shooter developed by NS Studio.",
-    "developers": [
-        {
-            "id": "521816503465803782",
-            "name": "NS Studio"
-        }
-    ],
     "executables": [
         {
             "is_launcher": false,
@@ -13,27 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
-    "guild_id": "390350568020901889",
     "hook": true,
-    "icon": "379c06993764b759e5392021385a4844",
     "id": "358421399670358026",
-    "name": "Black Squad",
-    "publishers": [
-        {
-            "id": "521816503465803779",
-            "name": "Neowiz Games"
-        }
-    ],
-    "splash": "a7ac918232441eb3172b87843f6ac1de",
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "550650",
-            "sku": "550650"
-        }
-    ],
-    "type": 1,
-    "verify_key": "b61d3c4d79ba31dda73b30f335942d676b1763f7a4a80c5cb2d795a98f533827"
+    "name": "Black Squad"
 }

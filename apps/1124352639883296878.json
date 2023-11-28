@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d7176cd5fa9f8e157eaed097f1f50085",
     "id": "1124352639883296878",
-    "name": "Little Misfortune",
-    "publishers": [
-        {
-            "id": "521816559031812096",
-            "name": "Killmonday Games AB"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "714120",
-            "sku": "714120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "8592db64cd2c1298bbafaa246c49d34a3eeff96960f4482afec078c9673bd3b9"
+    "name": "Little Misfortune"
 }

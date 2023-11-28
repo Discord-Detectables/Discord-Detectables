@@ -2,7 +2,6 @@
     "aliases": [
         "The Witcher: Enhanced Edition"
     ],
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -15,29 +14,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "ecc6f92c342df3015d72702eda249dcf",
     "id": "428052689641930752",
-    "name": "The Witcher: Enhanced Edition",
-    "publishers": [
-        {
-            "id": "521816596172505088",
-            "name": "CD PROJEKT RED"
-        },
-        {
-            "id": "521816596172505089",
-            "name": "CD Projekt Red"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "20900",
-            "sku": "20900"
-        }
-    ],
-    "type": 1,
-    "verify_key": "81d38e0ce9533f7c2b54d704aa1f13c1f97ede1234aff9e794a89c4977925fdf"
+    "name": "The Witcher: Enhanced Edition"
 }

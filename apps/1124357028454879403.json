@@ -1,7 +1,4 @@
 {
-    "bot_public": true,
-    "bot_require_code_grant": false,
-    "description": "",
     "executables": [
         {
             "is_launcher": false,
@@ -9,25 +6,7 @@
             "os": "win32"
         }
     ],
-    "flags": 0,
     "hook": true,
-    "icon": "d3a29b2764cfc35eb07a21cdd824655a",
     "id": "1124357028454879403",
-    "name": "COMPOUND",
-    "publishers": [
-        {
-            "id": "1124357029033689098",
-            "name": "Bevan McKechnie"
-        }
-    ],
-    "summary": "",
-    "third_party_skus": [
-        {
-            "distributor": "steam",
-            "id": "615120",
-            "sku": "615120"
-        }
-    ],
-    "type": 1,
-    "verify_key": "0a0413a43798a9f5bbc14d005f0e6427f6b311148a8a34176f39f67cf82eece0"
+    "name": "COMPOUND"
 }
