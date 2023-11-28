@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/gopota.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1179013841644965900",
+    "name": "Г.О.П.О.Т.А"
+}
