@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "paleo pines/paleo pines.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1179497100430540841",
+    "name": "Paleo Pines"
+}
