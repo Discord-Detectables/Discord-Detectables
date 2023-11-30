@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "untitled ghost game/untitled ghost game.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1179587615268294746",
+    "name": "Untitled Ghost Game"
+}
