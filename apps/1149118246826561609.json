@@ -10,17 +10,17 @@
         },
         {
             "is_launcher": false,
+            "name": "mp23/mp23-cod.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "sp22/sp22-cod.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
             "name": "cod22/cod22-cod.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "mp23/mp23-cod.exe",
             "os": "win32"
         }
     ],
