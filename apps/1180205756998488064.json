@@ -1,22 +1,20 @@
 {
     "aliases": [
-        "Elsword"
+        "Old School RuneScape"
     ],
     "executables": [
         {
             "is_launcher": false,
-            "name": "data/x2.exe",
+            "name": "win64/osclient.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "elsword.exe",
+            "name": "old school runescape/client/osclient.exe",
             "os": "win32"
         }
     ],
     "hook": true,
-    "id": "387402920238383122",
-    "name": "Elsword",
-    "overlay": true,
-    "overlay_compatibility_hook": true
+    "id": "1180205756998488064",
+    "name": "Old School RuneScape"
 }
