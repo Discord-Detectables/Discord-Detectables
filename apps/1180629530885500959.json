@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cats hidden in jingle jam/cats hidden in jingle jam.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1180629530885500959",
+    "name": "Cats Hidden in Jingle Jam"
+}
