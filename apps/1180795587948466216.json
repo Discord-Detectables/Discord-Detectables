@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "die in the dungeon origins/die in the dungeon origins.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1180795587948466216",
+    "name": "Die in the Dungeon: Origins"
+}
