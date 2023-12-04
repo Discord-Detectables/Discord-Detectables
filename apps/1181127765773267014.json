@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pinballm-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1181127765773267014",
+    "name": "Pinball M"
+}
