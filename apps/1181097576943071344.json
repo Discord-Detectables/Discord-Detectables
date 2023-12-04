@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "eternights/eternights.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1181097576943071344",
+    "name": "Eternights"
+}
