@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "mister furry/mister furry.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1181595857078993036",
+    "name": "Мистер Фурри"
+}
