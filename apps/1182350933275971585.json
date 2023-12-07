@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "revolver/revolver.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182350933275971585",
+    "name": "Kill The Crows"
+}
