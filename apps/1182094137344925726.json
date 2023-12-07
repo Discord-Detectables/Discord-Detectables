@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "tevi/tevi.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182094137344925726",
+    "name": "TEVI"
+}
