@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "warhammer 40,000 rogue trader/wh40krt.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182396144152748072",
+    "name": "Warhammer 40,000: Rogue Trader"
+}
