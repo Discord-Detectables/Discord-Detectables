@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/discovery.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182713227491147776",
+    "name": "THE FINALS"
+}
