@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/azure-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182743417265070100",
+    "name": "Life Makeover"
+}
