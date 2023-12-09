@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steamworld build/steamworld build.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183063100912574605",
+    "name": "SteamWorld Build"
+}

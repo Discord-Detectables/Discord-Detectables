@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "milfy city final edition/milfycity.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183063108395204768",
+    "name": "Milfy City - Final Edition"
+}
