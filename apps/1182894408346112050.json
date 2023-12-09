@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "juice galaxy/juice galaxy.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1182894408346112050",
+    "name": "Juice Galaxy"
+}
