@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "a date with death/adatewithdeath.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183136060226678834",
+    "name": "A Date with Death"
+}
