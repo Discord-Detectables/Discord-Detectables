@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/standbox-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183211497279729664",
+    "name": "STANDBOX"
+}
