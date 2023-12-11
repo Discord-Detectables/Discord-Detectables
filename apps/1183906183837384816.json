@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "taora  beginning/taora beginning.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183906183837384816",
+    "name": "Taora : Beginning"
+}
