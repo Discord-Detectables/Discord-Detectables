@@ -10,12 +10,12 @@
         },
         {
             "is_launcher": false,
-            "name": "_retail_/cod.exe",
+            "name": "mp23/mp23-cod.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "mp23/mp23-cod.exe",
+            "name": "_retail_/cod.exe",
             "os": "win32"
         },
         {
