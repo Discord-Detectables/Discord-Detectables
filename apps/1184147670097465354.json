@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "cats and seek/cats and seek.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184147670097465354",
+    "name": "Cats and Seek"
+}
