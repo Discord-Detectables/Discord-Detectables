@@ -2,7 +2,7 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "win64/achilles-win64-shipping.exe",
+            "name": "age of darkness - final stand/achilles/binaries/win64/achilles-win64-shipping.exe",
             "os": "win32"
         }
     ],
