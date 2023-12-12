@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "win64/pinballfx-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183921183595429918",
+    "name": "Pinball FX"
+}
