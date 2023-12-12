@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "microclient64/liuseloader.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1183981646811254845",
+    "name": "Blood Strike"
+}
