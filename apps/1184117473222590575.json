@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "shadow gambit the cursed crew/shadowgambit_tcc.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184117473222590575",
+    "name": "Shadow Gambit: The Cursed Crew"
+}
