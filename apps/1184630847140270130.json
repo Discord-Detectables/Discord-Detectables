@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "grabity/grabity.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184630847140270130",
+    "name": "Grabity"
+}
