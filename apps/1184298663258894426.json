@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "out of hand/out of hand.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184298663258894426",
+    "name": "Out of Hand"
+}
