@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "pioneers of pagonia/pioneers of pagonia.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184887540155691088",
+    "name": "Pioneers of Pagonia"
+}
