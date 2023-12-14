@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "house flipper 2/houseflipper2.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1184917744454475786",
+    "name": "House Flipper 2"
+}
