@@ -15,6 +15,11 @@
         },
         {
             "is_launcher": false,
+            "name": "lspdfr/lspdfr configurator.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
             "name": "grand theft auto v/fivem.exe",
             "os": "win32"
         },
@@ -31,11 +36,6 @@
         {
             "is_launcher": false,
             "name": "subprocess/fivem_dumpserver",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "lspdfr/lspdfr configurator.exe",
             "os": "win32"
         }
     ],
