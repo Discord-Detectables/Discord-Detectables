@@ -6,12 +6,12 @@
     "executables": [
         {
             "is_launcher": false,
-            "name": "data/darkfall.exe",
+            "name": "darkfall.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "darkfall.exe",
+            "name": "data/darkfall.exe",
             "os": "win32"
         },
         {
