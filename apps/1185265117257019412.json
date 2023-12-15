@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "ironwolf free non-vr edition/iw.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1185265117257019412",
+    "name": "IronWolf: Free Non-VR Edition"
+}
