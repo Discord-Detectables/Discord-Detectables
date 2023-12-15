@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "re3/installermessage.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1185068744599416852",
+    "name": "RESIDENT EVIL 3"
+}
