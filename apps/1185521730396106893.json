@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "100 christmas cats/100 christmas cats.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1185521730396106893",
+    "name": "100 Christmas Cats"
+}
