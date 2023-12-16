@@ -10,12 +10,7 @@
         },
         {
             "is_launcher": false,
-            "name": "installers/social-club-setup.exe",
-            "os": "win32"
-        },
-        {
-            "is_launcher": false,
-            "name": "subprocess/fivem_gtaprocess.exe",
+            "name": "subprocess/fivem_dumpserver",
             "os": "win32"
         },
         {
@@ -30,7 +25,12 @@
         },
         {
             "is_launcher": false,
-            "name": "subprocess/fivem_dumpserver",
+            "name": "subprocess/fivem_gtaprocess.exe",
+            "os": "win32"
+        },
+        {
+            "is_launcher": false,
+            "name": "installers/social-club-setup.exe",
             "os": "win32"
         },
         {
