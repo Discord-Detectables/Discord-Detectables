@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "steambuild1.5/flipwitch.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1185733153193725952",
+    "name": "FlipWitch - Forbidden Sex Hex"
+}
