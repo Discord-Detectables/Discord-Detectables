@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "nuclear option/nuclearoption.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1185793510327210064",
+    "name": "Nuclear Option"
+}
