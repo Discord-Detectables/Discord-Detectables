@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "parking lot simulator/parkingsimulator.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1186427723430768762",
+    "name": "Parking Tycoon: Business Simulator"
+}
