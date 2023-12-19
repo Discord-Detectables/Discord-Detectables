@@ -7,12 +7,12 @@
         },
         {
             "is_launcher": false,
-            "name": "pathofexilesteam.exe",
+            "name": "pathofexile_x64.exe",
             "os": "win32"
         },
         {
             "is_launcher": false,
-            "name": "pathofexile_x64.exe",
+            "name": "pathofexilesteam.exe",
             "os": "win32"
         },
         {
