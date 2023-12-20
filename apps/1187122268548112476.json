@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "blizzarderror/blizzarderror.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1187122268548112476",
+    "name": "Diablo® IV"
+}
