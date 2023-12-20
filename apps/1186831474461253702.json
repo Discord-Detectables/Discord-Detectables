@@ -1,0 +1,15 @@
+{
+    "aliases": [
+        "Achilles: Legends Untold"
+    ],
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "achilles legends untold/achilles/binaries/win64/achilles-win64-shipping.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1186831474461253702",
+    "name": "Achilles: Legends Untold"
+}
