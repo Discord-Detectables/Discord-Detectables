@@ -1,0 +1,12 @@
+{
+    "executables": [
+        {
+            "is_launcher": false,
+            "name": "airportsim/airportsim.exe",
+            "os": "win32"
+        }
+    ],
+    "hook": true,
+    "id": "1187076972053020712",
+    "name": "AirportSim"
+}
